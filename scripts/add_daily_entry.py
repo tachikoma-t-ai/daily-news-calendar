@@ -23,36 +23,54 @@ CATEGORIES = [
         'id': 'it-web',
         'name': 'IT関連（Web系ニュース）',
         'queries': [
-            'web development news browser javascript framework release',
-            'TechCrunch web app browser social media news',
-            'The Verge web browser google meta news',
+            'web platform browser release today',
+            'social media platform update today',
+            'TechCrunch web app browser news',
         ],
     },
     {
         'id': 'it-tech',
         'name': 'IT関連（技術系ニュース）',
         'queries': [
-            'software engineering technology news AI infrastructure open source release',
-            'Ars Technica security open source release',
-            'GitHub blog release security advisory',
+            'software engineering infrastructure open source release',
+            'developer tools security update today',
+            'cloud native kubernetes release today',
         ],
     },
     {
-        'id': 'economy',
-        'name': '時事・経済',
+        'id': 'ai',
+        'name': 'AI',
         'queries': [
-            'world economy breaking news central bank market Reuters',
-            'Reuters world economy markets news',
-            'CNBC global tariffs inflation market news',
+            'AI model release today',
+            'Reuters AI infrastructure news',
+            'generative AI enterprise update today',
         ],
     },
     {
         'id': 'crypto',
         'name': '暗号通貨',
         'queries': [
-            'cryptocurrency news Bitcoin Ethereum regulation SEC ETF',
-            'Bloomberg crypto market news',
-            'CoinDesk Bitcoin Ethereum ETF news',
+            'CoinDesk Bitcoin Ethereum ETF news today',
+            'Bloomberg crypto market news today',
+            'crypto regulation SEC news today',
+        ],
+    },
+    {
+        'id': 'economy',
+        'name': '時事・経済',
+        'queries': [
+            'Reuters world economy markets today',
+            'global markets tariff inflation news today',
+            'central bank policy market reaction today',
+        ],
+    },
+    {
+        'id': 'real-estate',
+        'name': '不動産',
+        'queries': [
+            'real estate housing market mortgage rates today',
+            'property market commercial real estate news today',
+            'Reuters real estate market today',
         ],
     },
 ]
@@ -133,8 +151,8 @@ def dedupe(items):
     return out
 
 
-def fetch_brave(query: str, endpoint: str, count: int = 10, freshness: str = 'pd'):
-    qs = urllib.parse.urlencode({'q': query, 'count': count, 'freshness': freshness})
+def fetch_brave(query: str, endpoint: str, count: int = 10):
+    qs = urllib.parse.urlencode({'q': query, 'count': count})
     req = urllib.request.Request(
         f'{endpoint}?{qs}',
         headers={
@@ -148,10 +166,9 @@ def fetch_brave(query: str, endpoint: str, count: int = 10, freshness: str = 'pd
 
 def collect_query_results(query: str):
     items = []
-    dated_query = f'{TODAY} {query}'
 
     try:
-        payload = fetch_brave(dated_query, BRAVE_NEWS_ENDPOINT, count=10, freshness='pd')
+        payload = fetch_brave(query, BRAVE_NEWS_ENDPOINT, count=10)
         for r in payload.get('results', []):
             title = strip_html(r.get('title', ''))
             link = (r.get('url') or '').strip()
@@ -169,7 +186,7 @@ def collect_query_results(query: str):
 
     if len(items) < 6:
         try:
-            payload = fetch_brave(dated_query, BRAVE_WEB_ENDPOINT, count=10, freshness='pd')
+            payload = fetch_brave(query, BRAVE_WEB_ENDPOINT, count=10)
             for r in payload.get('web', {}).get('results', []):
                 title = strip_html(r.get('title', ''))
                 link = (r.get('url') or '').strip()
@@ -201,23 +218,20 @@ def score_item(item):
     return s
 
 
-def split_summary(snippet: str, title: str = ''):
-    text = re.sub(r'\s+', ' ', (snippet or '').strip())
-    t = (title or '当該ニュース').strip()
+def split_summary(snippet: str):
+    text = (snippet or '').strip()
+    if not text:
+        return ['詳細はリンク先を参照してください。', '当日の関連動向として注目されています。']
 
-    # 要約は必ず日本語2〜3行で返す
-    line1 = f'「{t}」に関する最新動向を伝える記事です。'
+    text = re.sub(r'\s+', ' ', text)
+    parts = re.split(r'(?<=[。.!?])\s+', text)
+    parts = [p.strip() for p in parts if p.strip()]
 
-    if text:
-        # 英文スニペットでも日本語文として読める形に包む
-        short = text[:90].rstrip(' ,;') + ('…' if len(text) > 90 else '')
-        line2 = f'記事概要: {short}'
-    else:
-        line2 = '記事概要: 速報性の高い話題で、詳細は本文で確認できます。'
-
-    line3 = '影響範囲や今後の展開を把握するため、継続的な確認が重要です。'
-
-    return [line1, line2, line3]
+    if len(parts) >= 2:
+        return parts[:2]
+    if len(text) > 90:
+        return [text[:90] + '…', '関連領域への波及が注目されています。']
+    return [text, '市場・政策・技術のいずれかに影響する可能性があります。']
 
 
 def why_important(category_name: str):
@@ -261,7 +275,7 @@ def build_section(cat):
 
     section_items = []
     for item in picked[:5]:
-        lines = split_summary(item.get('snippet', ''), item.get('title', ''))
+        lines = split_summary(item.get('snippet', ''))
         section_items.append({
             'title': item.get('title', ''),
             'summaryLines': lines[:3],
@@ -307,7 +321,7 @@ def main():
     payload = {
         'date': TODAY,
         'title': f'{TODAY} の日次ニュースダイジェスト',
-        'summary': '4カテゴリ（Web系IT / 技術系IT / 時事・経済 / 暗号通貨）で当日ニュースを要約。',
+        'summary': '6ジャンル（Web系IT / 技術系IT / AI / 暗号通貨 / 時事・経済 / 不動産）で当日ニュースを要約。',
         'sections': sections,
         'top3': build_top3(sections),
         'headlines': headlines[:30],

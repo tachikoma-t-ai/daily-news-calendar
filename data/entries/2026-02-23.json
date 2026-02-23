@@ -1,55 +1,51 @@
 {
   "date": "2026-02-23",
   "title": "2026-02-23 の日次ニュースダイジェスト",
-  "summary": "4カテゴリ（Web系IT / 技術系IT / 時事・経済 / 暗号通貨）で当日ニュースを要約。",
+  "summary": "6ジャンル（Web系IT / 技術系IT / AI / 暗号通貨 / 時事・経済 / 不動産）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it-web",
       "name": "IT関連（Web系ニュース）",
       "items": [
         {
-          "title": "All the important news from the ongoing India AI Impact Summit | TechCrunch",
+          "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
           "summaryLines": [
-            "「All the important news from the ongoing India AI Impact Summit | TechCrunch」に関する最新動向を伝える記事です。",
-            "記事概要: India is hosting a four-day AI Summit this week that will be attended by executives from m…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Split View, PDF annotations, and 'Save to Chrome' features come to the Chrome browser.",
+            "市場・政策・技術のいずれかに影響する可能性があります。"
           ],
           "whyImportant": "ユーザー接点（ブラウザ・SNS・Web配信）の変化は、集客とプロダクト戦略に直結するため。",
           "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit"
+          "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features"
         },
         {
-          "title": "The United States announces the development of an extended-range PrSM - Pravda USA",
+          "title": "AI Web Browsers Benchmark: Complete Selection Guide 2026",
           "summaryLines": [
-            "「The United States announces the development of an extended-range PrSM - Pravda USA」に関する最新動向を伝える記事です。",
-            "記事概要: The United States announces the development of an extended-range PrSM.The US Army has publ…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Explore our comprehensive AI web browser benchmark comparing Brave Leo, Opera Aria, Arc Max, Perplexity Comet & more.",
+            "Privacy, features & pricing guide."
           ],
           "whyImportant": "ユーザー接点（ブラウザ・SNS・Web配信）の変化は、集客とプロダクト戦略に直結するため。",
-          "source": "usa.news-pravda.com",
-          "link": "https://usa.news-pravda.com/world/2026/02/23/665871.html"
+          "source": "research.aimultiple.com",
+          "link": "https://research.aimultiple.com/ai-web-browser/"
         },
         {
-          "title": "이더리움 레이어 2가 2026년 급성장 중. 페페토가 밈코인 전용 레이어 2를 구축했다",
+          "title": "Top 10 Web Browsers Tools in 2026: Features, Pros, Cons & Comparison - DevOpsSchool.com",
           "summaryLines": [
-            "「이더리움 레이어 2가 2026년 급성장 중. 페페토가 밈코인 전용 레이어 2를 구축했다」に関する最新動向を伝える記事です。",
-            "記事概要: Press release - TOKENWIREIT - ????????? ?????? 2?? 2026??? ????????? ???. ???????? ???????…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Web browsers are an essential tool for accessing the internet, allowing users to navigate websites, run applications, and interact with online services.",
+            "In"
           ],
           "whyImportant": "ユーザー接点（ブラウザ・SNS・Web配信）の変化は、集客とプロダクト戦略に直結するため。",
-          "source": "openpr.com",
-          "link": "https://openpr.com/news/4400261/2"
+          "source": "devopsschool.com",
+          "link": "https://devopsschool.com/blog/top-10-web-browsers-tools-in-2025-features-pros-cons-comparison"
         },
         {
-          "title": "Today's Top News - 23 February 2026 - Saachi Baat",
+          "title": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Mac",
           "summaryLines": [
-            "「Today's Top News - 23 February 2026 - Saachi Baat」に関する最新動向を伝える記事です。",
-            "記事概要: The Palamu Tiger Reserve (PTR) in Jharkhand has launched the ‘Vanjeevi Didi’ initiative, a…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "That was the result of the objectives set by the Interop Group, a joint effort between Apple, Bocoup, Google, Igalia, Microsoft, and Mozilla to bring browser engines into closer alignment on the web platform features that matter most to developers.",
+            "Today, Apple’s WebKit blog published a ..."
           ],
           "whyImportant": "ユーザー接点（ブラウザ・SNS・Web配信）の変化は、集客とプロダクト戦略に直結するため。",
-          "source": "saachibaat.com",
-          "link": "https://saachibaat.com/politics/todays-top-news-23-february-2026"
+          "source": "9to5mac.com",
+          "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026"
         }
       ]
     },
@@ -58,98 +54,90 @@
       "name": "IT関連（技術系ニュース）",
       "items": [
         {
-          "title": "AI summit: How AI is reshaping agriculture and gender dynamics in the global south - The Hindu",
+          "title": "When Open Source Infrastructure Stops Being Easy to Operate",
           "summaryLines": [
-            "「AI summit: How AI is reshaping agriculture and gender dynamics in the global south - The Hindu」に関する最新動向を伝える記事です。",
-            "記事概要: Explore how AI is transforming agriculture and empowering women in the Global South, foste…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Open Source infrastructure is often a deliberate and well-reasoned choice.",
+            "It offers transparency, control and a level of flexibility that fits well with how many engineering teams like to build and operate systems."
           ],
           "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、チームの実装判断へ影響するため。",
-          "source": "thehindu.com",
-          "link": "https://thehindu.com/incoming/ai-summit-how-ai-is-reshaping-agriculture-and-gender-dynamics-in-the-global-south/article70659557.ece"
+          "source": "skudonet.com",
+          "link": "https://www.skudonet.com/blog/open-source-infrastructure/"
         },
         {
-          "title": "UKHotViews - Latest Tech News & Views",
+          "title": "Endee Goes Open Source, Targets Costly Memory-Heavy AI Search Infrastructure - Open Source For You",
           "summaryLines": [
-            "「UKHotViews - Latest Tech News & Views」に関する最新動向を伝える記事です。",
-            "記事概要: Bringing you opinionated, authoritative research & analysis on the UK technology scene.",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Endee.io has open sourced its Endee vector database to deliver faster, high-recall AI and …",
+            "関連領域への波及が注目されています。"
           ],
           "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、チームの実装判断へ影響するため。",
-          "source": "techmarketview.com",
-          "link": "https://www.techmarketview.com/ukhotviews/"
+          "source": "opensourceforu.com",
+          "link": "https://www.opensourceforu.com/2026/02/endee-goes-open-source-targets-costly-memory-heavy-ai-search-infrastructure/"
         },
         {
-          "title": "Stargate delays push OpenAI to seek cloud compute alternatives",
+          "title": "The Best Open Source Software for Developers: Top Picks for 2026",
           "summaryLines": [
-            "「Stargate delays push OpenAI to seek cloud compute alternatives」に関する最新動向を伝える記事です。",
-            "記事概要: OpenAI is scrambling to secure computing power after its Stargate data center venture stal…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Explore the rapid growth of the open-source software market, reaching $95.38B by 2030, and…",
+            "関連領域への波及が注目されています。"
           ],
           "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、チームの実装判断へ影響するため。",
-          "source": "digitimes.com",
-          "link": "https://digitimes.com/news/a20260223VL209/openai-infrastructure-data-center-capacity-oracle.html"
+          "source": "brimco.io",
+          "link": "https://brimco.io/software/open-source-software-for-developers"
         },
         {
-          "title": "India AI Impact Summit 2026: Shaping a human-centric future | The Jerusalem Post",
+          "title": "Is open source in trouble? - The New Stack",
           "summaryLines": [
-            "「India AI Impact Summit 2026: Shaping a human-centric future | The Jerusalem Post」に関する最新動向を伝える記事です。",
-            "記事概要: India’s diversity, democracy, and demographic dynamism provide the right atmosphere for in…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Cloud Native Ecosystem Containers Databases Edge Computing Infrastructure as Code Linux Microservices Open Source Networking Storage ...",
+            "AI AI Engineering API Management Backend development Data Frontend Development Large Language Models Security Software Development WebAssembly"
           ],
           "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、チームの実装判断へ影響するため。",
-          "source": "jpost.com",
-          "link": "https://jpost.com/opinion/article-887401"
+          "source": "thenewstack.io",
+          "link": "https://thenewstack.io/is-open-source-in-trouble/"
         }
       ]
     },
     {
-      "id": "economy",
-      "name": "時事・経済",
+      "id": "ai",
+      "name": "AI",
       "items": [
         {
-          "title": "Wall St futures, dollar skid on US tariff tumult | Reuters",
+          "title": "Chinese AI models festoon Spring Festival a year after DeepSeek shock | Reuters",
           "summaryLines": [
-            "「Wall St futures, dollar skid on US tariff tumult | Reuters」に関する最新動向を伝える記事です。",
-            "記事概要: Wall Street futures and the dollar slid in Asia on Monday as confusion over U.S. tariffs r…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "As China celebrates the Lunar New Year holiday, rivals to DeepSeek have scrambled to relea…",
+            "関連領域への波及が注目されています。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
           "source": "reuters.com",
-          "link": "https://reuters.com/world/china/global-markets-global-markets-2026-02-23"
+          "link": "https://reuters.com/world/china/chinese-ai-models-festoon-spring-festival-year-after-deepseek-shock-2026-02-14"
         },
         {
-          "title": "Dollar Holds Steady as Tariff Uncertainty Weighs on Currency Markets - Bloomberg",
+          "title": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunch",
           "summaryLines": [
-            "「Dollar Holds Steady as Tariff Uncertainty Weighs on Currency Markets - Bloomberg」に関する最新動向を伝える記事です。",
-            "記事概要: The dollar and S&P 500 futures declined as ambiguity over trade policy damped sentiment to…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to att…",
+            "関連領域への波及が注目されています。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap"
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028"
         },
         {
-          "title": "Trump’s trade war risks undermining his hopes of hefty US interest rate cuts | Graeme Wearden | The Guardian",
+          "title": "Taalas HC1 AI chip hype explained: Why this Nvidia GPU-beating chip with 17,000 tokens per second speed is viral - Technology News | The Financial Express",
           "summaryLines": [
-            "「Trump’s trade war risks undermining his hopes of hefty US interest rate cuts | Graeme Wearden | The Guardian」に関する最新動向を伝える記事です。",
-            "記事概要: Upping tariffs may have lifted the president’s mood but it is a headache for the Federal R…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "We decided to release it as a beta service anyway—to let developers explore what becomes possible when LLM inference runs at sub-millisecond speed and near-zero cost.” ...",
+            "OpenAI CEO Sam Altman defends AI’s energy use: ‘It takes a lot of energy to train a human too’ · The HC1 targets data centers with dominant single-model ..."
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "theguardian.com",
-          "link": "https://theguardian.com/business/2026/feb/22/trump-trade-war-risks-undermining-his-hopes-of-hefty-us-interest-rate-cuts-tariffs"
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "financialexpress.com",
+          "link": "https://www.financialexpress.com/life/technology-taalas-hc1-ai-chip-hype-explained-why-this-nvidia-gpu-beating-chip-with-17000-tokens-per-second-speed-is-viral-4151518/"
         },
         {
-          "title": "US futures fall while Asian markets are mostly higher after the Supreme Court nixes Trump's tariffs",
+          "title": "These are China's new AI models that have just been released ahead of the Lunar New Year | Euronews",
           "summaryLines": [
-            "「US futures fall while Asian markets are mostly higher after the Supreme Court nixes Trump's tariffs」に関する最新動向を伝える記事です。",
-            "記事概要: U.S. futures are lower and Asian markets have climbed after the Supreme Court struck down…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "China is widely regarded as a major ...",
+            "models."
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "clickorlando.com",
-          "link": "https://clickorlando.com/business/2026/02/23/us-futures-fall-while-asian-markets-are-mostly-higher-after-the-supreme-court-nixes-trumps-tariffs"
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "euronews.com",
+          "link": "https://www.euronews.com/next/2026/02/17/these-are-chinas-new-ai-models-that-have-just-been-released-ahead-of-the-lunar-new-year"
         }
       ]
     },
@@ -158,159 +146,295 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloomberg",
+          "title": "Bitcoin (BTC) news today: ETFs bleed $3.8 billion in historic five-week outflow streak",
           "summaryLines": [
-            "「Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloomberg」に関する最新動向を伝える記事です。",
-            "記事概要: Bitcoin briefly slid below $65,000 on Monday for the second time this month, roiled by unc…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty"
-        },
-        {
-          "title": "Bitcoin price news: BTC plunges to begin week, pulling back to $64,700",
-          "summaryLines": [
-            "「Bitcoin price news: BTC plunges to begin week, pulling back to $64,700」に関する最新動向を伝える記事です。",
-            "記事概要: On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflo…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "Outflows underscore persistent institutional wariness toward bitcoin after the early Octob…",
+            "関連領域への波及が注目されています。"
           ],
           "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
           "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses"
+          "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-etfs-bleed-usd3-8-billion-in-historic-five-week-outflow-streak"
         },
         {
-          "title": "Crypto Ticker News Weekly: Bitcoin Fear at Record Highs as Regulatory Storm Brews",
+          "title": "Crypto Selloff Deepens as Bitcoin Loses Edge in Payments, Speculation - Bloomberg",
           "summaryLines": [
-            "「Crypto Ticker News Weekly: Bitcoin Fear at Record Highs as Regulatory Storm Brews」に関する最新動向を伝える記事です。",
-            "記事概要: Bitcoin faces \"Extreme Fear\" as ETF outflows hit $3.8B. Explore this week's top gainers, l…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "It wouldn’t have seemed possible a year ago.",
+            "But Bitcoin has gotten caught in one of its deepest struggles yet, with no obvious way out."
           ],
           "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "cryptoticker.io",
-          "link": "https://cryptoticker.io/en/crypto-ticker-news-weekly-bitcoin-fear-regulatory-updates/"
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction"
         },
         {
-          "title": "Bitcoin looks busy but 31% of its users vanished as ETFs bleed $4.5B in 2026",
+          "title": "BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire",
           "summaryLines": [
-            "「Bitcoin looks busy but 31% of its users vanished as ETFs bleed $4.5B in 2026」に関する最新動向を伝える記事です。",
-            "記事概要: Bitcoin’s chain still processes hundreds of thousands of transactions, but the user base u…",
-            "影響範囲や今後の展開を把握するため、継続的な確認が重要です。"
+            "BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday.",
+            "This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility."
           ],
           "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "cryptoslate.com",
-          "link": "https://cryptoslate.com/bitcoin-looks-busy-but-31-of-its-users-vanished-as-etfs-bleed-4-5b-in-2026/"
+          "source": "finance.yahoo.com",
+          "link": "https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html"
+        },
+        {
+          "title": "Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight | Fortune",
+          "summaryLines": [
+            "The year-to-date performances of the world’s two largest cryptocurrencies are some of the …",
+            "関連領域への波及が注目されています。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "fortune.com",
+          "link": "https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済",
+      "items": [
+        {
+          "title": "US Supreme Court ruling offers little respite for global economy | Reuters",
+          "summaryLines": [
+            "The ruling marks a clear setback for Trump's use of trade levies as an economic weapon, bu…",
+            "関連領域への波及が注目されています。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/us-supreme-court-ruling-offers-little-respite-global-economy-2026-02-20/"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "December PCE prices came in slightly above expectations, while a first estimate for econom…",
+            "関連領域への波及が注目されています。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "World News and International Headlines : NPR",
+          "summaryLines": [
+            "NPR world news, international art and culture, world business and financial markets, world economy, and global trends in health, science and technology.",
+            "Subscribe to the World Story of the Day podcast and RSS feed."
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "npr.org",
+          "link": "https://www.npr.org/sections/world/"
+        },
+        {
+          "title": "The Global Economy’s Warning Signals Are Broken - The New York Times",
+          "summaryLines": [
+            "From markets to spending to debt, usually reliable indicators that forecast where the econ…",
+            "関連領域への波及が注目されています。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "nytimes.com",
+          "link": "https://nytimes.com/2026/02/03/business/economy/global-economy-forecasts.html"
+        }
+      ]
+    },
+    {
+      "id": "real-estate",
+      "name": "不動産",
+      "items": [
+        {
+          "title": "XRP RWA news: Dubai real estate tokenization project opens secondary trading with Ripple support",
+          "summaryLines": [
+            "Dubai Land Department and Ctrl Alt move to the next phase of real estate tokenization proj…",
+            "関連領域への波及が注目されています。"
+          ],
+          "whyImportant": "金利・需給・政策変更が、家計・金融・建設関連の景況感に直接効くため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/business/2026/02/20/dubai-unveils-secondary-market-for-usd5-million-tokenized-real-estate-via-xrp-ledger"
+        },
+        {
+          "title": "From software to real estate, U.S. sectors under the grip of AI scare trade | Reuters",
+          "summaryLines": [
+            "Wall Street is in the grip of disruption worries from AI.",
+            "It first started with investors dumping shares of software companies but soon spread to sectors seen as vulnerable to automation, driving sharp losses in U.S."
+          ],
+          "whyImportant": "金利・需給・政策変更が、家計・金融・建設関連の景況感に直接効くため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/software-real-estate-us-sectors-under-grip-ai-scare-trade-2026-02-13/"
+        },
+        {
+          "title": "Dave Ramsey warns Americans on mortgage rate, real estate reality - TheStreet",
+          "summaryLines": [
+            "View post: Zillow forecasts new 2026 change in housing market, real estate ...",
+            "The real estate technology company anticipates a major trend for home buyers and sellers."
+          ],
+          "whyImportant": "金利・需給・政策変更が、家計・金融・建設関連の景況感に直接効くため。",
+          "source": "thestreet.com",
+          "link": "https://www.thestreet.com/real-estate/dave-ramsey-warns-americans-on-mortgage-rate-real-estate-reality"
+        },
+        {
+          "title": "Mortgage Rates Drop Again, Setting New 3-Year Low | Bankrate",
+          "summaryLines": [
+            "Jeff Ostrowski covers mortgages and the housing market.",
+            "Before joining Bankrate in 2020, he spent more than 20 years writing about real estate, business, the economy and politics."
+          ],
+          "whyImportant": "金利・需給・政策変更が、家計・金融・建設関連の景況感に直接効くため。",
+          "source": "bankrate.com",
+          "link": "https://www.bankrate.com/mortgages/analysis/mortgage-rates-february-18-2026/"
         }
       ]
     }
   ],
   "top3": [
-    "IT関連（Web系ニュース）：All the important news from the ongoing India AI Impact Summit | TechCrunch",
-    "IT関連（技術系ニュース）：AI summit: How AI is reshaping agriculture and gender dynamics in the global south - The Hindu",
-    "時事・経済：Wall St futures, dollar skid on US tariff tumult | Reuters"
+    "IT関連（Web系ニュース）：As browser wars heat up, Chrome adds new productivity features | TechCrunch",
+    "IT関連（技術系ニュース）：When Open Source Infrastructure Stops Being Easy to Operate",
+    "AI：Chinese AI models festoon Spring Festival a year after DeepSeek shock | Reuters"
   ],
   "headlines": [
     {
-      "title": "All the important news from the ongoing India AI Impact Summit | TechCrunch",
+      "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
       "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit",
-      "snippet": "「All the important news from the ongoing India AI Impact Summit | TechCrunch」に関する最新動向を伝える記事です。 記事概要: India is hosting a four-day AI Summit this week that will be attended by executives from m…"
+      "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features",
+      "snippet": "Split View, PDF annotations, and 'Save to Chrome' features come to the Chrome browser. 市場・政策・技術のいずれかに影響する可能性があります。"
     },
     {
-      "title": "The United States announces the development of an extended-range PrSM - Pravda USA",
-      "source": "usa.news-pravda.com",
-      "link": "https://usa.news-pravda.com/world/2026/02/23/665871.html",
-      "snippet": "「The United States announces the development of an extended-range PrSM - Pravda USA」に関する最新動向を伝える記事です。 記事概要: The United States announces the development of an extended-range PrSM.The US Army has publ…"
+      "title": "AI Web Browsers Benchmark: Complete Selection Guide 2026",
+      "source": "research.aimultiple.com",
+      "link": "https://research.aimultiple.com/ai-web-browser/",
+      "snippet": "Explore our comprehensive AI web browser benchmark comparing Brave Leo, Opera Aria, Arc Max, Perplexity Comet & more. Privacy, features & pricing guide."
     },
     {
-      "title": "이더리움 레이어 2가 2026년 급성장 중. 페페토가 밈코인 전용 레이어 2를 구축했다",
-      "source": "openpr.com",
-      "link": "https://openpr.com/news/4400261/2",
-      "snippet": "「이더리움 레이어 2가 2026년 급성장 중. 페페토가 밈코인 전용 레이어 2를 구축했다」に関する最新動向を伝える記事です。 記事概要: Press release - TOKENWIREIT - ????????? ?????? 2?? 2026??? ????????? ???. ???????? ???????…"
+      "title": "Top 10 Web Browsers Tools in 2026: Features, Pros, Cons & Comparison - DevOpsSchool.com",
+      "source": "devopsschool.com",
+      "link": "https://devopsschool.com/blog/top-10-web-browsers-tools-in-2025-features-pros-cons-comparison",
+      "snippet": "Web browsers are an essential tool for accessing the internet, allowing users to navigate websites, run applications, and interact with online services. In"
     },
     {
-      "title": "Today's Top News - 23 February 2026 - Saachi Baat",
-      "source": "saachibaat.com",
-      "link": "https://saachibaat.com/politics/todays-top-news-23-february-2026",
-      "snippet": "「Today's Top News - 23 February 2026 - Saachi Baat」に関する最新動向を伝える記事です。 記事概要: The Palamu Tiger Reserve (PTR) in Jharkhand has launched the ‘Vanjeevi Didi’ initiative, a…"
+      "title": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Mac",
+      "source": "9to5mac.com",
+      "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026",
+      "snippet": "That was the result of the objectives set by the Interop Group, a joint effort between Apple, Bocoup, Google, Igalia, Microsoft, and Mozilla to bring browser engines into closer alignment on the web platform features that matter most to developers. Today, Apple’s WebKit blog published a ..."
     },
     {
-      "title": "AI summit: How AI is reshaping agriculture and gender dynamics in the global south - The Hindu",
-      "source": "thehindu.com",
-      "link": "https://thehindu.com/incoming/ai-summit-how-ai-is-reshaping-agriculture-and-gender-dynamics-in-the-global-south/article70659557.ece",
-      "snippet": "「AI summit: How AI is reshaping agriculture and gender dynamics in the global south - The Hindu」に関する最新動向を伝える記事です。 記事概要: Explore how AI is transforming agriculture and empowering women in the Global South, foste…"
+      "title": "When Open Source Infrastructure Stops Being Easy to Operate",
+      "source": "skudonet.com",
+      "link": "https://www.skudonet.com/blog/open-source-infrastructure/",
+      "snippet": "Open Source infrastructure is often a deliberate and well-reasoned choice. It offers transparency, control and a level of flexibility that fits well with how many engineering teams like to build and operate systems."
     },
     {
-      "title": "UKHotViews - Latest Tech News & Views",
-      "source": "techmarketview.com",
-      "link": "https://www.techmarketview.com/ukhotviews/",
-      "snippet": "「UKHotViews - Latest Tech News & Views」に関する最新動向を伝える記事です。 記事概要: Bringing you opinionated, authoritative research & analysis on the UK technology scene."
+      "title": "Endee Goes Open Source, Targets Costly Memory-Heavy AI Search Infrastructure - Open Source For You",
+      "source": "opensourceforu.com",
+      "link": "https://www.opensourceforu.com/2026/02/endee-goes-open-source-targets-costly-memory-heavy-ai-search-infrastructure/",
+      "snippet": "Endee.io has open sourced its Endee vector database to deliver faster, high-recall AI and … 関連領域への波及が注目されています。"
     },
     {
-      "title": "Stargate delays push OpenAI to seek cloud compute alternatives",
-      "source": "digitimes.com",
-      "link": "https://digitimes.com/news/a20260223VL209/openai-infrastructure-data-center-capacity-oracle.html",
-      "snippet": "「Stargate delays push OpenAI to seek cloud compute alternatives」に関する最新動向を伝える記事です。 記事概要: OpenAI is scrambling to secure computing power after its Stargate data center venture stal…"
+      "title": "The Best Open Source Software for Developers: Top Picks for 2026",
+      "source": "brimco.io",
+      "link": "https://brimco.io/software/open-source-software-for-developers",
+      "snippet": "Explore the rapid growth of the open-source software market, reaching $95.38B by 2030, and… 関連領域への波及が注目されています。"
     },
     {
-      "title": "India AI Impact Summit 2026: Shaping a human-centric future | The Jerusalem Post",
-      "source": "jpost.com",
-      "link": "https://jpost.com/opinion/article-887401",
-      "snippet": "「India AI Impact Summit 2026: Shaping a human-centric future | The Jerusalem Post」に関する最新動向を伝える記事です。 記事概要: India’s diversity, democracy, and demographic dynamism provide the right atmosphere for in…"
+      "title": "Is open source in trouble? - The New Stack",
+      "source": "thenewstack.io",
+      "link": "https://thenewstack.io/is-open-source-in-trouble/",
+      "snippet": "Cloud Native Ecosystem Containers Databases Edge Computing Infrastructure as Code Linux Microservices Open Source Networking Storage ... AI AI Engineering API Management Backend development Data Frontend Development Large Language Models Security Software Development WebAssembly"
     },
     {
-      "title": "Wall St futures, dollar skid on US tariff tumult | Reuters",
+      "title": "Chinese AI models festoon Spring Festival a year after DeepSeek shock | Reuters",
       "source": "reuters.com",
-      "link": "https://reuters.com/world/china/global-markets-global-markets-2026-02-23",
-      "snippet": "「Wall St futures, dollar skid on US tariff tumult | Reuters」に関する最新動向を伝える記事です。 記事概要: Wall Street futures and the dollar slid in Asia on Monday as confusion over U.S. tariffs r…"
+      "link": "https://reuters.com/world/china/chinese-ai-models-festoon-spring-festival-year-after-deepseek-shock-2026-02-14",
+      "snippet": "As China celebrates the Lunar New Year holiday, rivals to DeepSeek have scrambled to relea… 関連領域への波及が注目されています。"
     },
     {
-      "title": "Dollar Holds Steady as Tariff Uncertainty Weighs on Currency Markets - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap",
-      "snippet": "「Dollar Holds Steady as Tariff Uncertainty Weighs on Currency Markets - Bloomberg」に関する最新動向を伝える記事です。 記事概要: The dollar and S&P 500 futures declined as ambiguity over trade policy damped sentiment to…"
+      "title": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028",
+      "snippet": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to att… 関連領域への波及が注目されています。"
     },
     {
-      "title": "Trump’s trade war risks undermining his hopes of hefty US interest rate cuts | Graeme Wearden | The Guardian",
-      "source": "theguardian.com",
-      "link": "https://theguardian.com/business/2026/feb/22/trump-trade-war-risks-undermining-his-hopes-of-hefty-us-interest-rate-cuts-tariffs",
-      "snippet": "「Trump’s trade war risks undermining his hopes of hefty US interest rate cuts | Graeme Wearden | The Guardian」に関する最新動向を伝える記事です。 記事概要: Upping tariffs may have lifted the president’s mood but it is a headache for the Federal R…"
+      "title": "Taalas HC1 AI chip hype explained: Why this Nvidia GPU-beating chip with 17,000 tokens per second speed is viral - Technology News | The Financial Express",
+      "source": "financialexpress.com",
+      "link": "https://www.financialexpress.com/life/technology-taalas-hc1-ai-chip-hype-explained-why-this-nvidia-gpu-beating-chip-with-17000-tokens-per-second-speed-is-viral-4151518/",
+      "snippet": "We decided to release it as a beta service anyway—to let developers explore what becomes possible when LLM inference runs at sub-millisecond speed and near-zero cost.” ... OpenAI CEO Sam Altman defends AI’s energy use: ‘It takes a lot of energy to train a human too’ · The HC1 targets data centers with dominant single-model ..."
     },
     {
-      "title": "US futures fall while Asian markets are mostly higher after the Supreme Court nixes Trump's tariffs",
-      "source": "clickorlando.com",
-      "link": "https://clickorlando.com/business/2026/02/23/us-futures-fall-while-asian-markets-are-mostly-higher-after-the-supreme-court-nixes-trumps-tariffs",
-      "snippet": "「US futures fall while Asian markets are mostly higher after the Supreme Court nixes Trump's tariffs」に関する最新動向を伝える記事です。 記事概要: U.S. futures are lower and Asian markets have climbed after the Supreme Court struck down…"
+      "title": "These are China's new AI models that have just been released ahead of the Lunar New Year | Euronews",
+      "source": "euronews.com",
+      "link": "https://www.euronews.com/next/2026/02/17/these-are-chinas-new-ai-models-that-have-just-been-released-ahead-of-the-lunar-new-year",
+      "snippet": "China is widely regarded as a major ... models."
     },
     {
-      "title": "Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty",
-      "snippet": "「Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloomberg」に関する最新動向を伝える記事です。 記事概要: Bitcoin briefly slid below $65,000 on Monday for the second time this month, roiled by unc…"
-    },
-    {
-      "title": "Bitcoin price news: BTC plunges to begin week, pulling back to $64,700",
+      "title": "Bitcoin (BTC) news today: ETFs bleed $3.8 billion in historic five-week outflow streak",
       "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
-      "snippet": "「Bitcoin price news: BTC plunges to begin week, pulling back to $64,700」に関する最新動向を伝える記事です。 記事概要: On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflo…"
+      "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-etfs-bleed-usd3-8-billion-in-historic-five-week-outflow-streak",
+      "snippet": "Outflows underscore persistent institutional wariness toward bitcoin after the early Octob… 関連領域への波及が注目されています。"
     },
     {
-      "title": "Crypto Ticker News Weekly: Bitcoin Fear at Record Highs as Regulatory Storm Brews",
-      "source": "cryptoticker.io",
-      "link": "https://cryptoticker.io/en/crypto-ticker-news-weekly-bitcoin-fear-regulatory-updates/",
-      "snippet": "「Crypto Ticker News Weekly: Bitcoin Fear at Record Highs as Regulatory Storm Brews」に関する最新動向を伝える記事です。 記事概要: Bitcoin faces \"Extreme Fear\" as ETF outflows hit $3.8B. Explore this week's top gainers, l…"
+      "title": "Crypto Selloff Deepens as Bitcoin Loses Edge in Payments, Speculation - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction",
+      "snippet": "It wouldn’t have seemed possible a year ago. But Bitcoin has gotten caught in one of its deepest struggles yet, with no obvious way out."
     },
     {
-      "title": "Bitcoin looks busy but 31% of its users vanished as ETFs bleed $4.5B in 2026",
-      "source": "cryptoslate.com",
-      "link": "https://cryptoslate.com/bitcoin-looks-busy-but-31-of-its-users-vanished-as-etfs-bleed-4-5b-in-2026/",
-      "snippet": "「Bitcoin looks busy but 31% of its users vanished as ETFs bleed $4.5B in 2026」に関する最新動向を伝える記事です。 記事概要: Bitcoin’s chain still processes hundreds of thousands of transactions, but the user base u…"
+      "title": "BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire",
+      "source": "finance.yahoo.com",
+      "link": "https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html",
+      "snippet": "BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility."
+    },
+    {
+      "title": "Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight | Fortune",
+      "source": "fortune.com",
+      "link": "https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight",
+      "snippet": "The year-to-date performances of the world’s two largest cryptocurrencies are some of the … 関連領域への波及が注目されています。"
+    },
+    {
+      "title": "US Supreme Court ruling offers little respite for global economy | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/us-supreme-court-ruling-offers-little-respite-global-economy-2026-02-20/",
+      "snippet": "The ruling marks a clear setback for Trump's use of trade levies as an economic weapon, bu… 関連領域への波及が注目されています。"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "December PCE prices came in slightly above expectations, while a first estimate for econom… 関連領域への波及が注目されています。"
+    },
+    {
+      "title": "World News and International Headlines : NPR",
+      "source": "npr.org",
+      "link": "https://www.npr.org/sections/world/",
+      "snippet": "NPR world news, international art and culture, world business and financial markets, world economy, and global trends in health, science and technology. Subscribe to the World Story of the Day podcast and RSS feed."
+    },
+    {
+      "title": "The Global Economy’s Warning Signals Are Broken - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://nytimes.com/2026/02/03/business/economy/global-economy-forecasts.html",
+      "snippet": "From markets to spending to debt, usually reliable indicators that forecast where the econ… 関連領域への波及が注目されています。"
+    },
+    {
+      "title": "XRP RWA news: Dubai real estate tokenization project opens secondary trading with Ripple support",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/business/2026/02/20/dubai-unveils-secondary-market-for-usd5-million-tokenized-real-estate-via-xrp-ledger",
+      "snippet": "Dubai Land Department and Ctrl Alt move to the next phase of real estate tokenization proj… 関連領域への波及が注目されています。"
+    },
+    {
+      "title": "From software to real estate, U.S. sectors under the grip of AI scare trade | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/software-real-estate-us-sectors-under-grip-ai-scare-trade-2026-02-13/",
+      "snippet": "Wall Street is in the grip of disruption worries from AI. It first started with investors dumping shares of software companies but soon spread to sectors seen as vulnerable to automation, driving sharp losses in U.S."
+    },
+    {
+      "title": "Dave Ramsey warns Americans on mortgage rate, real estate reality - TheStreet",
+      "source": "thestreet.com",
+      "link": "https://www.thestreet.com/real-estate/dave-ramsey-warns-americans-on-mortgage-rate-real-estate-reality",
+      "snippet": "View post: Zillow forecasts new 2026 change in housing market, real estate ... The real estate technology company anticipates a major trend for home buyers and sellers."
+    },
+    {
+      "title": "Mortgage Rates Drop Again, Setting New 3-Year Low | Bankrate",
+      "source": "bankrate.com",
+      "link": "https://www.bankrate.com/mortgages/analysis/mortgage-rates-february-18-2026/",
+      "snippet": "Jeff Ostrowski covers mortgages and the housing market. Before joining Bankrate in 2020, he spent more than 20 years writing about real estate, business, the economy and politics."
     }
   ],
   "meta": {
     "sourceMode": "brave",
-    "categoryCount": 4,
-    "itemCount": 16
+    "categoryCount": 6,
+    "itemCount": 24
   },
-  "generatedAt": "2026-02-23T12:11:47.500514+00:00"
+  "generatedAt": "2026-02-23T12:13:52.422475+00:00"
 }
