@@ -1,8 +1,6 @@
 name: Daily news entry
 
 on:
-  schedule:
-    - cron: '30 15 * * *' # 00:30 JST
   workflow_dispatch:
 
 permissions:

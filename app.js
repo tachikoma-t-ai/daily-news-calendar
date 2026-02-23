@@ -74,16 +74,28 @@ async function showEntry(date) {
     const res = await fetch(path + '?_=' + Date.now());
     const data = await res.json();
 
-    const lines = [];
-    lines.push(`📝 ${data.title || 'Daily News Summary'}`);
-    if (data.summary) lines.push('', data.summary);
+    const esc = (s = '') => String(s)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;');
+
+    let html = `<h4>📝 ${esc(data.title || 'Daily News Summary')}</h4>`;
+    if (data.summary) html += `<p>${esc(data.summary)}</p>`;
+
     if (Array.isArray(data.headlines) && data.headlines.length) {
-      lines.push('', '主なトピック:');
+      html += '<h5>主なトピック</h5><ul>';
       for (const h of data.headlines) {
-        lines.push(`- ${h.title}${h.source ? ` (${h.source})` : ''}`);
+        const title = esc(h.title || 'untitled');
+        const source = h.source ? ` <small>(${esc(h.source)})</small>` : '';
+        const link = h.link && /^https?:\/\//.test(h.link) ? h.link : null;
+        html += `<li>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}${source}</li>`;
       }
+      html += '</ul>';
     }
-    entryContent.textContent = lines.join('\n');
+
+    entryContent.innerHTML = html;
   } catch (e) {
     entryContent.textContent = 'エントリの読み込みに失敗しました。';
   }
