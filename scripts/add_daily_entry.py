@@ -209,20 +209,19 @@ def score_item(item):
     return s
 
 
-def split_summary(snippet: str):
-    text = (snippet or '').strip()
-    if not text:
-        return ['詳細はリンク先を参照してください。', '当日の関連動向として注目されています。']
+def split_summary(snippet: str, title: str = ''):
+    text = re.sub(r'\s+', ' ', (snippet or '').strip())
+    clean_title = (title or 'このニュース').strip()
 
-    text = re.sub(r'\s+', ' ', text)
-    parts = re.split(r'(?<=[。.!?])\s+', text)
-    parts = [p.strip() for p in parts if p.strip()]
+    line1 = f'{clean_title}に関する最新動向です。'
+    if text:
+        short = text[:85].rstrip(' ,;') + ('…' if len(text) > 85 else '')
+        line2 = f'概要: {short}'
+    else:
+        line2 = '概要: 速報性の高い話題で、詳細はリンク先で確認できます。'
+    line3 = '背景や今後の影響を把握するため、継続ウォッチが有効です。'
 
-    if len(parts) >= 2:
-        return parts[:2]
-    if len(text) > 90:
-        return [text[:90] + '…', '関連領域への波及が注目されています。']
-    return [text, '市場・政策・技術のいずれかに影響する可能性があります。']
+    return [line1, line2, line3]
 
 
 def why_important(category_name: str):
@@ -265,7 +264,7 @@ def build_section(cat):
 
     section_items = []
     for item in picked[:5]:
-        lines = split_summary(item.get('snippet', ''))
+        lines = split_summary(item.get('snippet', ''), item.get('title', ''))
         section_items.append({
             'title': item.get('title', ''),
             'summaryLines': lines[:3],

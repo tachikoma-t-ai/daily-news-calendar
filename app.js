@@ -105,12 +105,15 @@ async function showEntry(date) {
           const title = esc(i.title || 'untitled');
           const link = i.link && /^https?:\/\//.test(i.link) ? i.link : null;
           const source = i.source ? ` <small>(${esc(i.source)})</small>` : '';
-          const lines = Array.isArray(i.summaryLines) ? i.summaryLines : [];
-          const why = i.whyImportant ? `<br><small><b>なぜ重要か:</b> ${esc(i.whyImportant)}</small>` : '';
-          const summary = lines.length
-            ? `<br><small>${lines.map(esc).join('<br>')}</small>`
+          const lines = Array.isArray(i.summaryLines) ? i.summaryLines.slice(0, 3) : [];
+          const bullets = lines.length
+            ? `<br><small>・${lines.map(esc).join('<br>・')}</small>`
             : '';
-          html += `<li>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}${source}${summary}${why}</li>`;
+          const why = i.whyImportant
+            ? `<br><small>・<b>重要:</b> ${esc(i.whyImportant)}</small>`
+            : '';
+          const headline = `<b>見出し:</b> ${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}${source}`;
+          html += `<li>${headline}${bullets}${why}</li>`;
         }
         html += '</ul>';
       }
