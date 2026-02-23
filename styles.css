@@ -116,3 +116,15 @@ button:hover { border-color: var(--accent); }
 .entry-content a:hover {
   opacity: 0.9;
 }
+
+.entry-content .item-summary,
+.entry-content .item-why {
+  margin-top: 0.25rem;
+  color: #d1d5db;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.entry-content .item-why {
+  color: #cbd5e1;
+}

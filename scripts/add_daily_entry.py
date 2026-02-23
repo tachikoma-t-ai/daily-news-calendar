@@ -218,20 +218,40 @@ def score_item(item):
     return s
 
 
-def split_summary(snippet: str):
+def split_summary(snippet: str, title: str = ''):
     text = (snippet or '').strip()
     if not text:
-        return ['詳細はリンク先を参照してください。', '当日の関連動向として注目されています。']
+        text = f'{title}に関する続報です。' if title else ''
 
-    text = re.sub(r'\s+', ' ', text)
-    parts = re.split(r'(?<=[。.!?])\s+', text)
-    parts = [p.strip() for p in parts if p.strip()]
+    text = re.sub(r'\s+', ' ', text).strip()
+    if not text:
+        return [
+            '詳細はリンク先で確認できます。',
+            '当日の動きとして注目されています。',
+        ]
 
-    if len(parts) >= 2:
-        return parts[:2]
-    if len(text) > 90:
-        return [text[:90] + '…', '関連領域への波及が注目されています。']
-    return [text, '市場・政策・技術のいずれかに影響する可能性があります。']
+    parts = [p.strip() for p in re.split(r'(?<=[。.!?])\s+', text) if p.strip()]
+
+    lines = []
+    for p in parts:
+        if len(lines) >= 3:
+            break
+        if len(p) <= 56:
+            lines.append(p)
+            continue
+
+        # 長文は 45〜56 文字程度で分割し、2〜3行に収める
+        chunk = p
+        while chunk and len(lines) < 3:
+            lines.append(chunk[:56].rstrip('、,; ') + ('…' if len(chunk) > 56 else ''))
+            chunk = chunk[56:]
+
+    if len(lines) < 2:
+        lines.append('背景や影響範囲を把握するうえで重要なトピックです。')
+    if len(lines) < 3 and len(text) > 70:
+        lines.append('直近の動向として継続ウォッチが必要です。')
+
+    return lines[:3]
 
 
 def why_important(category_name: str):
@@ -275,7 +295,7 @@ def build_section(cat):
 
     section_items = []
     for item in picked[:5]:
-        lines = split_summary(item.get('snippet', ''))
+        lines = split_summary(item.get('snippet', ''), item.get('title', ''))
         section_items.append({
             'title': item.get('title', ''),
             'summaryLines': lines[:3],

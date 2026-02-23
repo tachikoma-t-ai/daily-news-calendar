@@ -105,10 +105,12 @@ async function showEntry(date) {
           const title = esc(i.title || 'untitled');
           const link = i.link && /^https?:\/\//.test(i.link) ? i.link : null;
           const source = i.source ? ` <small>(${esc(i.source)})</small>` : '';
-          const lines = Array.isArray(i.summaryLines) ? i.summaryLines : [];
-          const why = i.whyImportant ? `<br><small><b>なぜ重要か:</b> ${esc(i.whyImportant)}</small>` : '';
+          const lines = Array.isArray(i.summaryLines) ? i.summaryLines.slice(0, 3) : [];
           const summary = lines.length
-            ? `<br><small>${lines.map(esc).join('<br>')}</small>`
+            ? `<div class="item-summary"><b>要約:</b><br>${lines.map(esc).join('<br>')}</div>`
+            : '';
+          const why = i.whyImportant
+            ? `<div class="item-why"><b>なぜ重要か:</b> ${esc(i.whyImportant)}</div>`
             : '';
           html += `<li>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}${source}${summary}${why}</li>`;
         }
