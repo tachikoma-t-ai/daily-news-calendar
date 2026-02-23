@@ -1,58 +1,72 @@
 {
   "date": "2026-02-23",
   "title": "2026-02-23 のニュースまとめ",
-  "summary": "主要ニュースを自動収集しました。注目トピックは次の通りです。",
+  "summary": "RSSフォールバックでニュースを収集しました。BRAVE_API_KEYを設定すると多様なソースから取得できます。",
   "headlines": [
     {
       "title": "戦争疲れに神経とがらせるプーチン政権、「痛み」隠すイルミネーション…独ソ戦超えで高まる平和求める声（読売新聞オンライン） - Yahoo!ニュース",
       "source": "Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNWkJkaHJRcGtuSUR1aTY0Rkpya2VQNklNMjl1YnVWOGJDMzB0cm5mLWNQQ3RPSzJhcTVDVTk1U1NxVE9RLVQ1WG1mTDlBSkxtTVlEWDRyRGNRVEpKZXpMa1lIRGVVZ1VNUWVnYkdxTkdaTU5XM0tIUlU5SUhwWE0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNWkJkaHJRcGtuSUR1aTY0Rkpya2VQNklNMjl1YnVWOGJDMzB0cm5mLWNQQ3RPSzJhcTVDVTk1U1NxVE9RLVQ1WG1mTDlBSkxtTVlEWDRyRGNRVEpKZXpMa1lIRGVVZ1VNUWVnYkdxTkdaTU5XM0tIUlU5SUhwWE0?oc=5",
+      "snippet": "戦争疲れに神経とがらせるプーチン政権、「痛み」隠すイルミネーション…独ソ戦超えで高まる平和求める声（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュースウクライナ侵攻から4年、今も「致命的誤算」の代償を払うロシア(1/2)&nbsp;&nbsp;CNN.co.jpウクライナ全面侵攻から4年 日本に求められる役割は？ 増え続ける犠牲者…米国の軍事支援停止で欧州の負担増&nbsp;&nbsp;Yahoo!ニュースウクライナ戦争5年目の現実、ロシア軍死傷者は120万人超へ、データが暴く「大国の衰退」とプーチンの罠&nbsp;&nbsp;JBpress「何が起きているか、伝えて」記者に託した言葉 ウクライナ侵攻4年&nbsp;&nbsp;朝日新聞"
+    },
+    {
+      "title": "ネパール バスが川に転落 19人死亡 日本人1人含む20人以上けが",
+      "source": "",
+      "link": "http://www3.nhk.or.jp/news/html/20260223/k10015059001000.html",
+      "snippet": "ネパール中部で山間部を走行していたバスがおよそ300メートル下の川に転落し、これまでに乗っていた19人が死亡し、日本人1人を含む20人以上がけがをしました。"
     },
     {
       "title": "金正恩氏を最高指導者に再任 党大会、核戦力強化が理由 - ライブドアニュース",
       "source": "ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41NGIxTjU5M295UmFQdWZ4eUVJTXdiQUx3NlllbXZEZElpX3JiRUhaQlZKSnRnVUZyNmJiNFJUTlVUVXg4Tnp6R0Z5LW5kTXFFU1BTai1kRUdxdzkwZUNJ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41NGIxTjU5M295UmFQdWZ4eUVJTXdiQUx3NlllbXZEZElpX3JiRUhaQlZKSnRnVUZyNmJiNFJUTlVUVXg4Tnp6R0Z5LW5kTXFFU1BTai1kRUdxdzkwZUNJ?oc=5",
+      "snippet": "金正恩氏を最高指導者に再任 党大会、核戦力強化が理由&nbsp;&nbsp;ライブドアニュース金正恩氏の総書記再任決定 「誰も代わりになれない」―北朝鮮党大会&nbsp;&nbsp;時事ドットコム習近平氏、金正恩氏再任で祝電 「中朝関係を発展」&nbsp;&nbsp;日本経済新聞北朝鮮「公式序列2位」の崔龍海氏が退任か…新指導部名簿に名前なし（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース朝鮮労働党大会、世代交代が鮮明に 中央委員は過半数入れ替え&nbsp;&nbsp;毎日新聞"
     },
     {
       "title": "スロバキアとハンガリーがウクライナへの電力供給停止を警告 ウクライナ経由のパイプラインが攻撃で損壊 ロシア産原油輸送再開できず - FNNプライムオンライン",
       "source": "FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fcEcxUm5vMkMzNGUxaWNCV1VuMDRrSXhFa1BGVHp3Sk1LWE10Qi1aNXBaN0NlcHFScUFyTlZEcGlLczdwNkdUOXJwTUZJQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fcEcxUm5vMkMzNGUxaWNCV1VuMDRrSXhFa1BGVHp3Sk1LWE10Qi1aNXBaN0NlcHFScUFyTlZEcGlLczdwNkdUOXJwTUZJQQ?oc=5",
+      "snippet": "スロバキアとハンガリーがウクライナへの電力供給停止を警告 ウクライナ経由のパイプラインが攻撃で損壊 ロシア産原油輸送再開できず&nbsp;&nbsp;FNNプライムオンラインロシア軍、キーウ州など大規模攻撃 侵略開始から4年控え&nbsp;&nbsp;日本経済新聞ウクライナ、国産巡航ミサイル「フラミンゴ」を発射（２０日）…参謀本部は「ロシアのミサイル生産拠点を攻撃」「火災を確認」と発表&nbsp;&nbsp;読売新聞オンラインキーウ極寒、停電で閉じた「トランプ」カフェ 侵攻4年、しぼむ期待&nbsp;&nbsp;朝日新聞ウクライナ西部リビウで複数の爆発、警察官１人死亡・２５人負傷…内相「女がロシア特殊機関の指示で爆発物準備」&nbsp;&nbsp;Yahoo!ニュース"
     },
     {
       "title": "鳥羽沖の衝突で亡くなった遊漁船の釣り客元同僚「釣りの楽しさ一から教えてもらった」…周囲気遣う人柄偲ぶ - 読売新聞オンライン",
       "source": "読売新聞オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rcHpIcEItRUYxRnFaUS1FaGVOWU4tWlhwY0R5b3NCSXltN0NZcHNHbEwtdUU2dWVIR1NKYTFONU42ZzFmVnJ1ZlZtWXc2VnlXLVhYclJrY2p6OTVGb0xVVy0xdGw1dw?oc=5"
-    },
-    {
-      "title": "今日23日　本州で今年初の夏日　東京都などで25℃超　日本海側は気温大幅ダウン(気象予報士 日直主任 2026年02月23日) - tenki.jp",
-      "source": "tenki.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WaXFWaXZXdTRTMDZxVnY5d2JjQ2x1cVU4a19JQnFiVDdiQU9xZHBHczVSTHV2TzRfQmVzZGZueDZHdVczajh5R0s0UHFObnVJbEJQTXVZSW9mVld1Q2lsMDBPWG9CdUZEQUHSAW9BVV95cUxOX0hVRGdmVElQSF9sTm5jNHNVelRUM1J2YUZZVk9UejJtZ3RpLTRRMHFVUlB6RWljLVFOSjdOOGZDNnJ3Vkk1U2RJNnhpV09IdndmRDhwOHBiWTlrd0tha1IwOXY5YkMxcXZDUmFvYm8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rcHpIcEItRUYxRnFaUS1FaGVOWU4tWlhwY0R5b3NCSXltN0NZcHNHbEwtdUU2dWVIR1NKYTFONU42ZzFmVnJ1ZlZtWXc2VnlXLVhYclJrY2p6OTVGb0xVVy0xdGw1dw?oc=5",
+      "snippet": "鳥羽沖の衝突で亡くなった遊漁船の釣り客元同僚「釣りの楽しさ一から教えてもらった」…周囲気遣う人柄偲ぶ&nbsp;&nbsp;読売新聞オンラインGoogle ニュースですべての記事を見る"
     },
     {
       "title": "＜政治部取材メモ＞悪口言わず「希望」連呼 自民圧勝に導いた高市演説と批判野党の限界 - 産経ニュース",
       "source": "産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rSU9KOXdXc2RTMFUyT0dlT19xZ0tvSENwSm5BNnpnM3lSVTEwVFBycEdYaTJ5clhZNWdzQ0Jrc2JwcUo2S0FGNlMxMm9aMDU5b2o4LUcxTGkwRm1fanRxQklvaWVLckt0NjZyVjE5aFptdHpOVXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rSU9KOXdXc2RTMFUyT0dlT19xZ0tvSENwSm5BNnpnM3lSVTEwVFBycEdYaTJ5clhZNWdzQ0Jrc2JwcUo2S0FGNlMxMm9aMDU5b2o4LUcxTGkwRm1fanRxQklvaWVLckt0NjZyVjE5aFptdHpOVXc?oc=5",
+      "snippet": "＜政治部取材メモ＞悪口言わず「希望」連呼 自民圧勝に導いた高市演説と批判野党の限界&nbsp;&nbsp;産経ニュースK字型経済で格差 賃金上昇実現は&nbsp;&nbsp;Yahoo!ニュース山内惠介 新曲ヒット祈願で一輪車披露 今年は「レコード大賞を取りたい」&nbsp;&nbsp;読売新聞オンライン令和8年2月20日 第２２１回国会における高市内閣総理大臣施政方針演説 | 総理の演説・記者会見など&nbsp;&nbsp;首相官邸ホームページ高市早苗首相が麻生太郎氏に衆院議長就任を打診 異例の「国会人事干渉」&nbsp;&nbsp;西日本新聞me"
+    },
+    {
+      "title": "今日23日　本州で今年初の夏日　東京都などで25℃超　日本海側は気温大幅ダウン(気象予報士 日直主任 2026年02月23日) - tenki.jp",
+      "source": "tenki.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WaXFWaXZXdTRTMDZxVnY5d2JjQ2x1cVU4a19JQnFiVDdiQU9xZHBHczVSTHV2TzRfQmVzZGZueDZHdVczajh5R0s0UHFObnVJbEJQTXVZSW9mVld1Q2lsMDBPWG9CdUZEQUHSAW9BVV95cUxOX0hVRGdmVElQSF9sTm5jNHNVelRUM1J2YUZZVk9UejJtZ3RpLTRRMHFVUlB6RWljLVFOSjdOOGZDNnJ3Vkk1U2RJNnhpV09IdndmRDhwOHBiWTlrd0tha1IwOXY5YkMxcXZDUmFvYm8?oc=5",
+      "snippet": "今日23日　本州で今年初の夏日　東京都などで25℃超　日本海側は気温大幅ダウン(気象予報士 日直主任 2026年02月23日)&nbsp;&nbsp;tenki.jp【速報】東京・青梅で25℃超え 2月の夏日は小笠原諸島を除く都内で観測史上初めて（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース山梨県甲府は最も早い夏日を観測 東京都心は5月上旬並みの陽気&nbsp;&nbsp;ウェザーニュース都内で“夏日”季節外れの暖かさ 五輪効果でスキー場は大盛況（2026年2月23日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN東京・山梨・和歌山で夏日、甲府市では２５・３度まで上昇&nbsp;&nbsp;読売新聞オンライン"
     },
     {
       "title": "岡谷市で住宅火災が相次ぎ4棟が燃える 1人死亡、1人不明 - 信濃毎日新聞デジタル",
       "source": "信濃毎日新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zaEFfb09Nb2tLc2FLaU11VGZDR1ZDSmVlRFlibjA1emZKU3o2ekZwVmhHdVZiZWRaREc3T092dl9nSWk2NThBbEp4SXpldHBiemMwcWhwRHhmeGVDd0ZJVC1HcHpHVzdNdUtjXzdlZjk?oc=5"
-    },
-    {
-      "title": "今日2月23日(月)・天皇誕生日の天気予報 気温変化に注意 北海道は暴風 - ウェザーニュース",
-      "source": "ウェザーニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1URExNVVdFOGhJdkVURUlTVkZra1JSS0xyVjBvU0thVGt0RWJBY2dYNzltUVpKZWlkRWJsYk1KWDhudzVGN05kbHh3NGpWMVhTaVhOLQ?oc=5"
-    },
-    {
-      "title": "熊本県：南関町議選挙、新議員１０人の顔ぶれ決まる…境田敏高さんトップで５選 - 読売新聞オンライン",
-      "source": "読売新聞オンライン",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OZmNXV3NzZTllWGpfNFB2VXpZVHYydUpWQjRtLVZNbFNubGRzSWRJWFBLc1RjbjdqbV81aGZCV2duVzNyTmFDdkUweXZ2SFZLNHhmRlJ5UkhackMyMVNDZW93VFBDdW16VEJ3R2xrV21OQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zaEFfb09Nb2tLc2FLaU11VGZDR1ZDSmVlRFlibjA1emZKU3o2ekZwVmhHdVZiZWRaREc3T092dl9nSWk2NThBbEp4SXpldHBiemMwcWhwRHhmeGVDd0ZJVC1HcHpHVzdNdUtjXzdlZjk?oc=5",
+      "snippet": "岡谷市で住宅火災が相次ぎ4棟が燃える 1人死亡、1人不明&nbsp;&nbsp;信濃毎日新聞デジタル長野 岡谷 住宅3棟全焼する火事 1人死亡 高齢夫婦と連絡取れず&nbsp;&nbsp;NHKニュース長野県岡谷市で住宅２棟と空き家１棟を全焼…火元とみられる住宅から性別不明の１人の遺体&nbsp;&nbsp;読売新聞オンライン長野県岡谷市の住宅火災で2人目の遺体発見（共同通信）&nbsp;&nbsp;Yahoo!ニュース長野県軽井沢町で住宅全焼 所有者は在宅しておらず無事 警察が出火原因を調べる&nbsp;&nbsp;日テレNEWS NNN"
     },
     {
       "title": "山に8歳男児置き去り疑い「しつけのため」 母親と交際相手の男を逮捕 静岡 - 産経ニュース",
       "source": "産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GZDQwdHY2WElkbU5HYTN0TE51YXVNZFhnMXBfdzduSktEdk44bGp1Y0M2QnNXbjBJWmZSX3NEQ3ZzMGxOMS1MbDBESVpwYjFCTkx3dklNNnF1MFkyWXdyV0lVNko1Q1Fya3lpSnlFRkJTRnFDVFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GZDQwdHY2WElkbU5HYTN0TE51YXVNZFhnMXBfdzduSktEdk44bGp1Y0M2QnNXbjBJWmZSX3NEQ3ZzMGxOMS1MbDBESVpwYjFCTkx3dklNNnF1MFkyWXdyV0lVNko1Q1Fya3lpSnlFRkJTRnFDVFE?oc=5",
+      "snippet": "山に8歳男児置き去り疑い「しつけのため」 母親と交際相手の男を逮捕 静岡&nbsp;&nbsp;産経ニュースGoogle ニュースですべての記事を見る"
+    },
+    {
+      "title": "「離脱というか、追い出されてるんですよ、私たち」 社民党沖縄県連の山城博治顧問、衆院選分裂に反論【一問一答全文】 - 沖縄タイムス社",
+      "source": "沖縄タイムス社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIQlVyRjZTbzJVUnB4Vy0zTnNqNXU3WFd2RU4yMkJhQzZvdGlfTWhWNWRRWEZwMFJ1aWg3Wmw2Q3poYzJNTTltZWZ2U0pUODFhQ3MtVnVmakNaX1ZqSnc?oc=5",
+      "snippet": "「離脱というか、追い出されてるんですよ、私たち」 社民党沖縄県連の山城博治顧問、衆院選分裂に反論【一問一答全文】&nbsp;&nbsp;沖縄タイムス社社民県連がオール沖縄を批判 「中道は保守新党」 次期衆院選で候補擁立検討も&nbsp;&nbsp;琉球新報デジタル衆院選で社民党“議席ゼロ”…ラサール石井「非常に反省しなきゃいけない」「大きな変革をしないと絶対ダメだ」（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース「批判すると高市さんをいじめるなと...」ラサール石井・社民副党首が来高、ＳＮＳ論調に危機感「政権にブレーキを」&nbsp;&nbsp;kochinews.co.jp社民党県連 衆院選対応めぐりオール沖縄批判 一部報道に「ゴシップ記事」&nbsp;&nbsp;FNNプライムオンライン"
     }
   ],
-  "generatedAt": "2026-02-23T09:30:12.557957+00:00"
+  "meta": {
+    "sourceMode": "rss-fallback",
+    "itemCount": 10
+  },
+  "generatedAt": "2026-02-23T09:40:36.991530+00:00"
 }
