@@ -4,6 +4,7 @@ import os
 import re
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
 JST = timezone(timedelta(hours=9))
@@ -14,15 +15,13 @@ ENTRIES_DIR = os.path.join(DATA_DIR, 'entries')
 INDEX_PATH = os.path.join(DATA_DIR, 'index.json')
 ENTRY_PATH = os.path.join(ENTRIES_DIR, f'{TODAY}.json')
 
-BRAVE_API_KEY = os.getenv('BRAVE_API_KEY', '').strip()
-BRAVE_ENDPOINT = 'https://api.search.brave.com/res/v1/web/search'
-
-BRAVE_QUERIES = [
-    '最新 IT ニュース 日本',
-    'software engineering news',
-    '日本 経済 ニュース 今日',
-    'crypto market news today',
+RSS_FEEDS = [
+    'https://www3.nhk.or.jp/rss/news/cat0.xml',
+    'https://news.yahoo.co.jp/rss/topics/top-picks.xml',
+    'https://jp.reuters.com/world/rss',
+    'https://jp.reuters.com/business/rss',
 ]
+
 
 def strip_html(s: str) -> str:
     return re.sub(r'<[^>]+>', '', s or '').strip()
@@ -56,95 +55,103 @@ def dedupe(items):
     return out
 
 
-def diversify_by_source(items, limit=10):
-    out = []
-    seen_domain = set()
-
-    for i in items:
-        d = normalize_domain(i.get('link', ''))
-        if d and d in seen_domain:
-            continue
-        out.append(i)
-        if d:
-            seen_domain.add(d)
-        if len(out) >= limit:
-            return out
-
-    for i in items:
-        if i in out:
-            continue
-        out.append(i)
-        if len(out) >= limit:
-            break
-
-    return out
-
-
-def fetch_brave(query: str):
-    qs = urllib.parse.urlencode({
-        'q': query,
-        'count': 8,
-    })
-    req = urllib.request.Request(
-        f'{BRAVE_ENDPOINT}?{qs}',
-        headers={
-            'Accept': 'application/json',
-            'X-Subscription-Token': BRAVE_API_KEY,
-        },
-    )
-    with urllib.request.urlopen(req, timeout=25) as resp:
-        return json.loads(resp.read().decode('utf-8'))
-
-
-def collect_from_brave():
-    items = []
-    for q in BRAVE_QUERIES:
+def parse_pubdate(pub: str):
+    if not pub:
+        return None
+    for fmt in [
+        '%a, %d %b %Y %H:%M:%S %z',
+        '%a, %d %b %Y %H:%M:%S %Z',
+        '%Y-%m-%dT%H:%M:%S%z',
+        '%Y-%m-%dT%H:%M:%SZ',
+    ]:
         try:
-            payload = fetch_brave(q)
-            results = payload.get('web', {}).get('results', [])
-            for r in results:
-                title = strip_html(r.get('title', ''))
-                link = (r.get('url') or '').strip()
-                source = normalize_domain(link)
-                desc = strip_html(r.get('description', ''))
-                if title and link:
-                    items.append({
-                        'title': title,
-                        'source': source,
-                        'link': link,
-                        'snippet': desc,
-                    })
+            dt = datetime.strptime(pub.strip(), fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
         except Exception:
             continue
+    return None
+
+
+def collect_from_rss():
+    items = []
+
+    for feed in RSS_FEEDS:
+        try:
+            req = urllib.request.Request(feed, headers={'User-Agent': 'daily-news-calendar/1.0'})
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                xml_data = resp.read()
+
+            root = ET.fromstring(xml_data)
+
+            for item in root.findall('.//item'):
+                title = strip_html((item.findtext('title') or '').strip())
+                link = (item.findtext('link') or '').strip()
+                desc = strip_html(item.findtext('description') or '')
+                pub = (item.findtext('pubDate') or item.findtext('dc:date') or '').strip()
+                dt = parse_pubdate(pub)
+
+                if not title or not link:
+                    continue
+
+                items.append({
+                    'title': title,
+                    'source': normalize_domain(link),
+                    'link': link,
+                    'snippet': desc,
+                    'publishedAt': dt.isoformat() if dt else None,
+                })
+        except Exception:
+            continue
+
     return items
 
 
-def build_summary(headlines, used_brave):
+def pick_todays_news(items, limit=10):
+    today_jst = datetime.now(JST).date()
+
+    todays = []
+    for i in items:
+        p = i.get('publishedAt')
+        if not p:
+            continue
+        try:
+            dt = datetime.fromisoformat(p)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            if dt.astimezone(JST).date() == today_jst:
+                todays.append(i)
+        except Exception:
+            continue
+
+    if len(todays) >= 5:
+        items = todays
+
+    items = dedupe(items)
+    items.sort(key=lambda x: x.get('publishedAt') or '', reverse=True)
+    return items[:limit]
+
+
+def build_summary(headlines):
     if not headlines:
         return '本日のニュースを取得できませんでした。'
-    if used_brave:
-        return 'Brave Search APIから主要ニュースを横断収集しました。ソースの偏りを抑えて表示しています。'
-    return '本日のニュースを取得できませんでした。'
+    return '本日公開分を中心に、主要ニュース記事をまとめました。'
 
 
 def main():
     os.makedirs(ENTRIES_DIR, exist_ok=True)
 
-    used_brave = False
-    collected = []
-    if BRAVE_API_KEY:
-        collected = collect_from_brave()
-        used_brave = len(collected) > 0
-
-    items = diversify_by_source(dedupe(collected), limit=10)
+    collected = collect_from_rss()
+    items = pick_todays_news(collected, limit=10)
 
     payload = {
         'date': TODAY,
         'title': f'{TODAY} のニュースまとめ',
-        'summary': build_summary(items, used_brave),
+        'summary': build_summary(items),
         'headlines': items,
         'meta': {
-            'sourceMode': 'brave' if used_brave else 'unavailable',
+            'sourceMode': 'rss',
             'itemCount': len(items),
         },
         'generatedAt': datetime.now(timezone.utc).isoformat(),
@@ -166,7 +173,7 @@ def main():
     with open(INDEX_PATH, 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
-    print(f'Generated: {ENTRY_PATH} (mode={payload["meta"]["sourceMode"]})')
+    print(f'Generated: {ENTRY_PATH} (mode={payload["meta"]["sourceMode"]}, items={len(items)})')
 
 
 if __name__ == '__main__':

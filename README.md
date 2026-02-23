@@ -13,7 +13,7 @@
 - `index.html` / `styles.css` / `app.js`: フロントエンド
 - `data/index.json`: 日付→エントリファイルの索引
 - `data/entries/YYYY-MM-DD.json`: 日次エントリ
-- `scripts/add_daily_entry.py`: RSSから当日のエントリを生成
+- `scripts/add_daily_entry.py`: RSSから当日のニュース記事エントリを生成
 
 ## ローカル確認
 
@@ -36,5 +36,4 @@ python3 -m http.server 8080
 
 ## 注意
 
-- ニュースはRSS見出しベースの自動要約です。
-- 将来的にAPI連携（例: Brave Search）へ拡張しやすい構成です。
+- ニュースはRSSベースで当日公開記事を優先して収集します。
