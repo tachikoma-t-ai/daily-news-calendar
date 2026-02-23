@@ -14,14 +14,9 @@
 - `data/index.json`: 日付→エントリファイルの索引
 - `data/entries/YYYY-MM-DD.json`: 日次エントリ
 
-## データ生成パイプライン
+## データ更新
 
-ニュース収集・生成ロジックは private repository で管理しています。
-
-- Private: `tachikoma-t-ai/daily-news-calendar-generator`
-- Public (このrepo): `tachikoma-t-ai/daily-news-calendar`
-
-private repo の GitHub Actions が日次でJSONを生成し、このpublic repoへ `data/*` を同期します。
+`data/index.json` と `data/entries/*.json` を更新すると、表示内容が反映されます。
 
 ## GitHub Pages 有効化
 
