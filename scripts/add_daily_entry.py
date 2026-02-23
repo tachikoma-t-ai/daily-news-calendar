@@ -4,7 +4,6 @@ import os
 import re
 import urllib.parse
 import urllib.request
-import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
 JST = timezone(timedelta(hours=9))
@@ -24,12 +23,6 @@ BRAVE_QUERIES = [
     '日本 経済 ニュース 今日',
     'crypto market news today',
 ]
-
-RSS_FALLBACK_FEEDS = [
-    'https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja',
-    'https://www3.nhk.or.jp/rss/news/cat0.xml',
-]
-
 
 def strip_html(s: str) -> str:
     return re.sub(r'<[^>]+>', '', s or '').strip()
@@ -129,58 +122,22 @@ def collect_from_brave():
     return items
 
 
-def fetch_rss(url: str):
-    with urllib.request.urlopen(url, timeout=20) as resp:
-        return resp.read()
-
-
-def parse_rss_items(xml_bytes: bytes):
-    items = []
-    try:
-        root = ET.fromstring(xml_bytes)
-    except ET.ParseError:
-        return items
-
-    for item in root.findall('.//item')[:20]:
-        title = strip_html(item.findtext('title') or '')
-        source = strip_html(item.findtext('source') or '')
-        link = (item.findtext('link') or '').strip()
-        desc = strip_html(item.findtext('description') or '')
-        if title:
-            items.append({'title': title, 'source': source, 'link': link, 'snippet': desc})
-    return items
-
-
-def collect_from_rss_fallback():
-    items = []
-    for f in RSS_FALLBACK_FEEDS:
-        try:
-            items.extend(parse_rss_items(fetch_rss(f)))
-        except Exception:
-            continue
-    return items
-
-
 def build_summary(headlines, used_brave):
     if not headlines:
-        return '本日のニュースを取得できませんでした。後でもう一度更新してください。'
+        return '本日のニュースを取得できませんでした。BRAVE_API_KEYまたは検索条件を確認してください。'
     if used_brave:
         return 'Brave Search APIから主要ニュースを横断収集しました。ソースの偏りを抑えて表示しています。'
-    return 'RSSフォールバックでニュースを収集しました。BRAVE_API_KEYを設定すると多様なソースから取得できます。'
+    return 'Brave Search APIを利用できなかったため、ニュースを生成できませんでした。'
 
 
 def main():
     os.makedirs(ENTRIES_DIR, exist_ok=True)
 
     used_brave = False
+    collected = []
     if BRAVE_API_KEY:
         collected = collect_from_brave()
         used_brave = len(collected) > 0
-    else:
-        collected = []
-
-    if not collected:
-        collected = collect_from_rss_fallback()
 
     items = diversify_by_source(dedupe(collected), limit=10)
 
@@ -190,7 +147,7 @@ def main():
         'summary': build_summary(items, used_brave),
         'headlines': items,
         'meta': {
-            'sourceMode': 'brave' if used_brave else 'rss-fallback',
+            'sourceMode': 'brave' if used_brave else 'unavailable',
             'itemCount': len(items),
         },
         'generatedAt': datetime.now(timezone.utc).isoformat(),
