@@ -20,21 +20,12 @@ BRAVE_NEWS_ENDPOINT = 'https://api.search.brave.com/res/v1/news/search'
 
 CATEGORIES = [
     {
-        'id': 'it-web',
-        'name': 'IT関連（Web系ニュース）',
+        'id': 'it',
+        'name': 'IT',
         'queries': [
             'web platform browser release today',
-            'social media platform update today',
-            'TechCrunch web app browser news',
-        ],
-    },
-    {
-        'id': 'it-tech',
-        'name': 'IT関連（技術系ニュース）',
-        'queries': [
             'software engineering infrastructure open source release',
             'developer tools security update today',
-            'cloud native kubernetes release today',
         ],
     },
     {
@@ -57,7 +48,7 @@ CATEGORIES = [
     },
     {
         'id': 'economy',
-        'name': '時事・経済',
+        'name': '時事・経済ニュース',
         'queries': [
             'Reuters world economy markets today',
             'global markets tariff inflation news today',
@@ -65,12 +56,12 @@ CATEGORIES = [
         ],
     },
     {
-        'id': 'real-estate',
-        'name': '不動産',
+        'id': 'travel',
+        'name': '旅行',
         'queries': [
-            'real estate housing market mortgage rates today',
-            'property market commercial real estate news today',
-            'Reuters real estate market today',
+            'travel news today airline airport hotel tourism',
+            'Japan travel policy tourism update today',
+            'Reuters travel industry news today',
         ],
     },
 ]
@@ -236,12 +227,11 @@ def split_summary(snippet: str):
 
 def why_important(category_name: str):
     mapping = {
-        'IT関連（Web系ニュース）': 'ユーザー接点（ブラウザ・SNS・Web配信）の変化は、集客とプロダクト戦略に直結するため。',
-        'IT関連（技術系ニュース）': '開発生産性・運用コスト・セキュリティ要件に直結し、チームの実装判断へ影響するため。',
+        'IT': '開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。',
         'AI': 'モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。',
         '暗号通貨': 'マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。',
-        '時事・経済': '金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。',
-        '不動産': '金利・需給・政策変更が、家計・金融・建設関連の景況感に直接効くため。',
+        '時事・経済ニュース': '金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。',
+        '旅行': '需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。',
     }
     return mapping.get(category_name, '市場と実務の意思決定に影響する可能性があるため。')
 
@@ -321,7 +311,7 @@ def main():
     payload = {
         'date': TODAY,
         'title': f'{TODAY} の日次ニュースダイジェスト',
-        'summary': '6ジャンル（Web系IT / 技術系IT / AI / 暗号通貨 / 時事・経済 / 不動産）で当日ニュースを要約。',
+        'summary': '5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。',
         'sections': sections,
         'top3': build_top3(sections),
         'headlines': headlines[:30],
