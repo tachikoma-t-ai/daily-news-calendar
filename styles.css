@@ -106,3 +106,13 @@ button:hover { border-color: var(--accent); }
 }
 
 .entry-content ul { margin: 0.4rem 0 0 1rem; }
+
+.entry-content a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.entry-content a:hover {
+  opacity: 0.9;
+}
