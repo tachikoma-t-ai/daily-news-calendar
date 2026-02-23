@@ -23,54 +23,36 @@ CATEGORIES = [
         'id': 'it-web',
         'name': 'IT関連（Web系ニュース）',
         'queries': [
-            'web platform browser release today',
-            'social media platform update today',
-            'TechCrunch web app browser news',
+            'web development news browser javascript framework release',
+            'TechCrunch web app browser social media news',
+            'The Verge web browser google meta news',
         ],
     },
     {
         'id': 'it-tech',
         'name': 'IT関連（技術系ニュース）',
         'queries': [
-            'software engineering infrastructure open source release',
-            'developer tools security update today',
-            'cloud native kubernetes release today',
-        ],
-    },
-    {
-        'id': 'ai',
-        'name': 'AI',
-        'queries': [
-            'AI model release today',
-            'Reuters AI infrastructure news',
-            'generative AI enterprise update today',
-        ],
-    },
-    {
-        'id': 'crypto',
-        'name': '暗号通貨',
-        'queries': [
-            'CoinDesk Bitcoin Ethereum ETF news today',
-            'Bloomberg crypto market news today',
-            'crypto regulation SEC news today',
+            'software engineering technology news AI infrastructure open source release',
+            'Ars Technica security open source release',
+            'GitHub blog release security advisory',
         ],
     },
     {
         'id': 'economy',
         'name': '時事・経済',
         'queries': [
-            'Reuters world economy markets today',
-            'global markets tariff inflation news today',
-            'central bank policy market reaction today',
+            'world economy breaking news central bank market Reuters',
+            'Reuters world economy markets news',
+            'CNBC global tariffs inflation market news',
         ],
     },
     {
-        'id': 'real-estate',
-        'name': '不動産',
+        'id': 'crypto',
+        'name': '暗号通貨',
         'queries': [
-            'real estate housing market mortgage rates today',
-            'property market commercial real estate news today',
-            'Reuters real estate market today',
+            'cryptocurrency news Bitcoin Ethereum regulation SEC ETF',
+            'Bloomberg crypto market news',
+            'CoinDesk Bitcoin Ethereum ETF news',
         ],
     },
 ]
@@ -151,8 +133,8 @@ def dedupe(items):
     return out
 
 
-def fetch_brave(query: str, endpoint: str, count: int = 10):
-    qs = urllib.parse.urlencode({'q': query, 'count': count})
+def fetch_brave(query: str, endpoint: str, count: int = 10, freshness: str = 'pd'):
+    qs = urllib.parse.urlencode({'q': query, 'count': count, 'freshness': freshness})
     req = urllib.request.Request(
         f'{endpoint}?{qs}',
         headers={
@@ -166,9 +148,10 @@ def fetch_brave(query: str, endpoint: str, count: int = 10):
 
 def collect_query_results(query: str):
     items = []
+    dated_query = f'{TODAY} {query}'
 
     try:
-        payload = fetch_brave(query, BRAVE_NEWS_ENDPOINT, count=10)
+        payload = fetch_brave(dated_query, BRAVE_NEWS_ENDPOINT, count=10, freshness='pd')
         for r in payload.get('results', []):
             title = strip_html(r.get('title', ''))
             link = (r.get('url') or '').strip()
@@ -186,7 +169,7 @@ def collect_query_results(query: str):
 
     if len(items) < 6:
         try:
-            payload = fetch_brave(query, BRAVE_WEB_ENDPOINT, count=10)
+            payload = fetch_brave(dated_query, BRAVE_WEB_ENDPOINT, count=10, freshness='pd')
             for r in payload.get('web', {}).get('results', []):
                 title = strip_html(r.get('title', ''))
                 link = (r.get('url') or '').strip()
@@ -324,7 +307,7 @@ def main():
     payload = {
         'date': TODAY,
         'title': f'{TODAY} の日次ニュースダイジェスト',
-        'summary': '6ジャンル（Web系IT / 技術系IT / AI / 暗号通貨 / 時事・経済 / 不動産）で当日ニュースを要約。',
+        'summary': '4カテゴリ（Web系IT / 技術系IT / 時事・経済 / 暗号通貨）で当日ニュースを要約。',
         'sections': sections,
         'top3': build_top3(sections),
         'headlines': headlines[:30],
