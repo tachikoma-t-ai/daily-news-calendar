@@ -18,12 +18,73 @@ BRAVE_API_KEY = os.getenv('BRAVE_API_KEY', '').strip()
 BRAVE_WEB_ENDPOINT = 'https://api.search.brave.com/res/v1/web/search'
 BRAVE_NEWS_ENDPOINT = 'https://api.search.brave.com/res/v1/news/search'
 
-BRAVE_QUERIES = [
-    '今日 ニュース 主要',
-    '日本 国内 ニュース 今日',
-    '経済 ニュース 今日',
-    'IT ニュース 今日',
-    'world news today',
+CATEGORIES = [
+    {
+        'id': 'it-web',
+        'name': 'IT関連（Web系ニュース）',
+        'queries': [
+            'web platform browser release today',
+            'social media platform update today',
+            'TechCrunch web app browser news',
+        ],
+    },
+    {
+        'id': 'it-tech',
+        'name': 'IT関連（技術系ニュース）',
+        'queries': [
+            'software engineering infrastructure open source release',
+            'developer tools security update today',
+            'cloud native kubernetes release today',
+        ],
+    },
+    {
+        'id': 'ai',
+        'name': 'AI',
+        'queries': [
+            'AI model release today',
+            'Reuters AI infrastructure news',
+            'generative AI enterprise update today',
+        ],
+    },
+    {
+        'id': 'crypto',
+        'name': '暗号通貨',
+        'queries': [
+            'CoinDesk Bitcoin Ethereum ETF news today',
+            'Bloomberg crypto market news today',
+            'crypto regulation SEC news today',
+        ],
+    },
+    {
+        'id': 'economy',
+        'name': '時事・経済',
+        'queries': [
+            'Reuters world economy markets today',
+            'global markets tariff inflation news today',
+            'central bank policy market reaction today',
+        ],
+    },
+    {
+        'id': 'real-estate',
+        'name': '不動産',
+        'queries': [
+            'real estate housing market mortgage rates today',
+            'property market commercial real estate news today',
+            'Reuters real estate market today',
+        ],
+    },
+]
+
+PRIORITY_SOURCES = [
+    'reuters.com',
+    'bloomberg.com',
+    'coindesk.com',
+    'apnews.com',
+    'nikkei.com',
+    'ft.com',
+    'wsj.com',
+    'techcrunch.com',
+    'theverge.com',
 ]
 
 EXCLUDE_PATTERNS = [
@@ -56,7 +117,6 @@ def looks_like_article(url: str) -> bool:
     parsed = urllib.parse.urlparse(lower)
     path = (parsed.path or '').strip()
 
-    # トップページは除外
     if path in ['', '/']:
         return False
 
@@ -64,11 +124,9 @@ def looks_like_article(url: str) -> bool:
         if re.search(pat, lower):
             return False
 
-    # 記事っぽいURLを優先（数字IDや日付を含む）
     if re.search(r'/\d{6,}|/\d{4}/\d{2}/\d{2}|/articles?/', lower):
         return True
 
-    # ある程度パスが深いものは許可
     if path.count('/') >= 2:
         return True
 
@@ -93,35 +151,8 @@ def dedupe(items):
     return out
 
 
-def diversify_by_source(items, limit=10):
-    out = []
-    seen_domain = set()
-
-    for i in items:
-        d = normalize_domain(i.get('link', ''))
-        if d and d in seen_domain:
-            continue
-        out.append(i)
-        if d:
-            seen_domain.add(d)
-        if len(out) >= limit:
-            return out
-
-    for i in items:
-        if i in out:
-            continue
-        out.append(i)
-        if len(out) >= limit:
-            break
-
-    return out
-
-
-def fetch_brave(query: str, endpoint: str, count: int = 12):
-    qs = urllib.parse.urlencode({
-        'q': query,
-        'count': count,
-    })
+def fetch_brave(query: str, endpoint: str, count: int = 10):
+    qs = urllib.parse.urlencode({'q': query, 'count': count})
     req = urllib.request.Request(
         f'{endpoint}?{qs}',
         headers={
@@ -133,81 +164,171 @@ def fetch_brave(query: str, endpoint: str, count: int = 12):
         return json.loads(resp.read().decode('utf-8'))
 
 
-def collect_from_brave():
+def collect_query_results(query: str):
     items = []
 
-    for q in BRAVE_QUERIES:
-        # 1) まず news endpoint を優先
+    try:
+        payload = fetch_brave(query, BRAVE_NEWS_ENDPOINT, count=10)
+        for r in payload.get('results', []):
+            title = strip_html(r.get('title', ''))
+            link = (r.get('url') or '').strip()
+            if not looks_like_article(link):
+                continue
+            items.append({
+                'title': title,
+                'link': link,
+                'source': normalize_domain(link),
+                'snippet': strip_html(r.get('description', '')),
+                'publishedHint': (r.get('age') or '').strip(),
+            })
+    except Exception:
+        pass
+
+    if len(items) < 6:
         try:
-            payload = fetch_brave(q, BRAVE_NEWS_ENDPOINT, count=15)
-            results = payload.get('results', [])
-            for r in results:
+            payload = fetch_brave(query, BRAVE_WEB_ENDPOINT, count=10)
+            for r in payload.get('web', {}).get('results', []):
                 title = strip_html(r.get('title', ''))
                 link = (r.get('url') or '').strip()
-                source = normalize_domain(link)
-                desc = strip_html(r.get('description', ''))
-                age = (r.get('age') or '').strip()
-                if title and link and looks_like_article(link):
-                    items.append({
-                        'title': title,
-                        'source': source,
-                        'link': link,
-                        'snippet': desc,
-                        'publishedHint': age,
-                    })
+                if not looks_like_article(link):
+                    continue
+                items.append({
+                    'title': title,
+                    'link': link,
+                    'source': normalize_domain(link),
+                    'snippet': strip_html(r.get('description', '')),
+                    'publishedHint': (r.get('age') or '').strip(),
+                })
         except Exception:
             pass
 
-        # 2) 不足時のみ web endpoint で補完
-        if len(items) < 10:
-            try:
-                payload = fetch_brave(q, BRAVE_WEB_ENDPOINT, count=10)
-                results = payload.get('web', {}).get('results', [])
-                for r in results:
-                    title = strip_html(r.get('title', ''))
-                    link = (r.get('url') or '').strip()
-                    if not looks_like_article(link):
-                        continue
-                    source = normalize_domain(link)
-                    desc = strip_html(r.get('description', ''))
-                    age = (r.get('age') or '').strip()
-                    if title and link:
-                        items.append({
-                            'title': title,
-                            'source': source,
-                            'link': link,
-                            'snippet': desc,
-                            'publishedHint': age,
-                        })
-            except Exception:
-                pass
-
-    return items
+    return dedupe(items)
 
 
-def build_summary(headlines):
-    if not headlines:
-        return '本日のニュースを取得できませんでした。'
-    return 'Brave Searchで本日の主要ニュース記事を収集しました。'
+def score_item(item):
+    s = 0
+    src = (item.get('source') or '').lower()
+    if src in PRIORITY_SOURCES:
+        s += 100
+    if item.get('publishedHint'):
+        s += 10
+    title = (item.get('title') or '').lower()
+    if 'live' in title:
+        s -= 5
+    return s
+
+
+def split_summary(snippet: str):
+    text = (snippet or '').strip()
+    if not text:
+        return ['詳細はリンク先を参照してください。', '当日の関連動向として注目されています。']
+
+    text = re.sub(r'\s+', ' ', text)
+    parts = re.split(r'(?<=[。.!?])\s+', text)
+    parts = [p.strip() for p in parts if p.strip()]
+
+    if len(parts) >= 2:
+        return parts[:2]
+    if len(text) > 90:
+        return [text[:90] + '…', '関連領域への波及が注目されています。']
+    return [text, '市場・政策・技術のいずれかに影響する可能性があります。']
+
+
+def why_important(category_name: str):
+    mapping = {
+        'IT関連（Web系ニュース）': 'ユーザー接点（ブラウザ・SNS・Web配信）の変化は、集客とプロダクト戦略に直結するため。',
+        'IT関連（技術系ニュース）': '開発生産性・運用コスト・セキュリティ要件に直結し、チームの実装判断へ影響するため。',
+        'AI': 'モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。',
+        '暗号通貨': 'マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。',
+        '時事・経済': '金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。',
+        '不動産': '金利・需給・政策変更が、家計・金融・建設関連の景況感に直接効くため。',
+    }
+    return mapping.get(category_name, '市場と実務の意思決定に影響する可能性があるため。')
+
+
+def build_section(cat):
+    pool = []
+    for q in cat['queries']:
+        pool.extend(collect_query_results(q))
+
+    pool = dedupe(pool)
+    pool = sorted(pool, key=score_item, reverse=True)
+
+    picked = []
+    used_domains = set()
+    for item in pool:
+        domain = item.get('source') or ''
+        if domain in used_domains:
+            continue
+        picked.append(item)
+        used_domains.add(domain)
+        if len(picked) >= 4:
+            break
+
+    if len(picked) < 3:
+        for item in pool:
+            if item in picked:
+                continue
+            picked.append(item)
+            if len(picked) >= 3:
+                break
+
+    section_items = []
+    for item in picked[:5]:
+        lines = split_summary(item.get('snippet', ''))
+        section_items.append({
+            'title': item.get('title', ''),
+            'summaryLines': lines[:3],
+            'whyImportant': why_important(cat['name']),
+            'source': item.get('source', ''),
+            'link': item.get('link', ''),
+        })
+
+    return {
+        'id': cat['id'],
+        'name': cat['name'],
+        'items': section_items,
+    }
+
+
+def build_top3(sections):
+    points = []
+    for sec in sections:
+        if sec.get('items'):
+            top = sec['items'][0]
+            points.append(f"{sec['name']}：{top['title']}")
+    return points[:3]
 
 
 def main():
     os.makedirs(ENTRIES_DIR, exist_ok=True)
 
-    collected = []
+    sections = []
     if BRAVE_API_KEY:
-        collected = collect_from_brave()
+        for cat in CATEGORIES:
+            sections.append(build_section(cat))
 
-    items = diversify_by_source(dedupe(collected), limit=10)
+    headlines = []
+    for s in sections:
+        for i in s.get('items', []):
+            headlines.append({
+                'title': i.get('title', ''),
+                'source': i.get('source', ''),
+                'link': i.get('link', ''),
+                'snippet': ' '.join(i.get('summaryLines', [])[:2]),
+            })
 
     payload = {
         'date': TODAY,
-        'title': f'{TODAY} のニュースまとめ',
-        'summary': build_summary(items),
-        'headlines': items,
+        'title': f'{TODAY} の日次ニュースダイジェスト',
+        'summary': '6ジャンル（Web系IT / 技術系IT / AI / 暗号通貨 / 時事・経済 / 不動産）で当日ニュースを要約。',
+        'sections': sections,
+        'top3': build_top3(sections),
+        'headlines': headlines[:30],
         'meta': {
             'sourceMode': 'brave' if BRAVE_API_KEY else 'unavailable',
-            'itemCount': len(items),
+            'categoryCount': len(CATEGORIES),
+            'itemCount': sum(len(s.get('items', [])) for s in sections),
         },
         'generatedAt': datetime.now(timezone.utc).isoformat(),
     }
@@ -228,7 +349,10 @@ def main():
     with open(INDEX_PATH, 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
-    print(f'Generated: {ENTRY_PATH} (mode={payload["meta"]["sourceMode"]}, items={len(items)})')
+    print(
+        f'Generated: {ENTRY_PATH} '
+        f'(mode={payload["meta"]["sourceMode"]}, items={payload["meta"]["itemCount"]})'
+    )
 
 
 if __name__ == '__main__':

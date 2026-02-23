@@ -84,7 +84,37 @@ async function showEntry(date) {
     let html = `<h4>📝 ${esc(data.title || 'Daily News Summary')}</h4>`;
     if (data.summary) html += `<p>${esc(data.summary)}</p>`;
 
-    if (Array.isArray(data.headlines) && data.headlines.length) {
+    if (Array.isArray(data.top3) && data.top3.length) {
+      html += '<h5>🌟 今日の注目3点</h5><ul>';
+      for (const t of data.top3.slice(0, 3)) {
+        html += `<li>${esc(t)}</li>`;
+      }
+      html += '</ul>';
+    }
+
+    if (Array.isArray(data.sections) && data.sections.length) {
+      for (const sec of data.sections) {
+        html += `<h5>■ ${esc(sec.name || 'カテゴリ')}</h5>`;
+        const items = Array.isArray(sec.items) ? sec.items : [];
+        if (!items.length) {
+          html += '<p><small>項目なし</small></p>';
+          continue;
+        }
+        html += '<ul>';
+        for (const i of items) {
+          const title = esc(i.title || 'untitled');
+          const link = i.link && /^https?:\/\//.test(i.link) ? i.link : null;
+          const source = i.source ? ` <small>(${esc(i.source)})</small>` : '';
+          const lines = Array.isArray(i.summaryLines) ? i.summaryLines : [];
+          const why = i.whyImportant ? `<br><small><b>なぜ重要か:</b> ${esc(i.whyImportant)}</small>` : '';
+          const summary = lines.length
+            ? `<br><small>${lines.map(esc).join('<br>')}</small>`
+            : '';
+          html += `<li>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>` : title}${source}${summary}${why}</li>`;
+        }
+        html += '</ul>';
+      }
+    } else if (Array.isArray(data.headlines) && data.headlines.length) {
       html += '<h5>主なトピック</h5><ul>';
       for (const h of data.headlines) {
         const title = esc(h.title || 'untitled');
