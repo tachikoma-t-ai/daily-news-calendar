@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily News Calendar</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>🗓️ Daily News Calendar</h1>
+      <p>毎日のニュース要約をカレンダーで振り返るサイト</p>
+    </header>
+
+    <main>
+      <section class="calendar-section">
+        <div class="calendar-header">
+          <button id="prevMonth">◀</button>
+          <h2 id="monthLabel"></h2>
+          <button id="nextMonth">▶</button>
+        </div>
+        <div class="weekdays">
+          <div>日</div><div>月</div><div>火</div><div>水</div><div>木</div><div>金</div><div>土</div>
+        </div>
+        <div id="calendarGrid" class="calendar-grid"></div>
+      </section>
+
+      <section class="entry-section">
+        <h3 id="entryDate">日付を選択してね</h3>
+        <div id="entryContent" class="entry-content">この日に追加されたニュース要約がここに表示されます。</div>
+      </section>
+    </main>
+
+    <footer>
+      <small>Updated automatically every day via GitHub Actions.</small>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
