@@ -1,11 +1,72 @@
 {
   "date": "2026-02-23",
   "title": "2026-02-23 のニュースまとめ",
-  "summary": "本日のニュースを取得できませんでした。",
-  "headlines": [],
+  "summary": "Brave Search APIから主要ニュースを横断収集しました。ソースの偏りを抑えて表示しています。",
+  "headlines": [
+    {
+      "title": "ITニュース - Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
+      "link": "https://news.yahoo.co.jp/categories/it",
+      "snippet": "ビジネス＋IT2/23(月)6:40 · 3 · 量子コンピューターの脅威、700万ビットコインにリスク──凍結か、不変性維持かで揺れるコミュニティ · NADA NEWS2/23(月)9:40 · 1 · セールスフォースもアドビも撃沈…“SaaSの死”で人間に残された「たった3つの役割」 ·"
+    },
+    {
+      "title": "「情報通信・ネット」業界のニュース 最新技術や速報 - 日本経済新聞",
+      "source": "nikkei.com",
+      "link": "https://www.nikkei.com/business/net-media/",
+      "snippet": "有料会員の方のみご利用になれます。気になる連載・コラム・キーワードをフォローすると、「Myニュース」でまとめよみができます。新規会員登録ログイン · 権限不足のため、フォローできません ... メタバースやWeb3などネット・IT業界の最新ニュースや解説、分析、トレンドをお伝えします。フォローするとMyニュースで最新記事をまとめてご覧いただけます。"
+    },
+    {
+      "title": "IT̍A - ITmedia NEWS",
+      "source": "itmedia.co.jp",
+      "link": "https://www.itmedia.co.jp/news//",
+      "snippet": "ITlނa!?@AIŁAǂȋƖCĂ̂ · 1 · 2 · 3 · 4 · 5 · 6 · 7 · 8 · 9 · 10 · LOgbv30 ꗗ » · ITmedia News · @itmedia_newstH[ ӌEz · [Xt · LɊւ邨₢킹 · [}KW · SpecialCfbNX · RSS · facebook · twitter · pK · ITmedia̓ACeBfBAЂ̓o^WłB ·"
+    },
+    {
+      "title": "ZDNET Japan--CIOとITマネージャーの課題を解決するオンラインメディア",
+      "source": "japan.zdnet.com",
+      "link": "https://japan.zdnet.com/",
+      "snippet": "ALSI金子社長が挑む組織変革--事業間の壁を越えた連携でIT事業会社の真価を問う"
+    },
+    {
+      "title": "「IT・ネット」ニュース一覧 | NHKニュース",
+      "source": "www3.nhk.or.jp",
+      "link": "https://www3.nhk.or.jp/news/word/0000009.html",
+      "snippet": "大阪マラソン 平林清澄 日本選手トップ5位 5人がMGC出場権獲得 午後4:17新着ニュース一覧を見る"
+    },
+    {
+      "title": "Reuters テクノロジー | 最新テクノロジーニュース | ロイター",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/business/technology/",
+      "snippet": "米国の映画製作業界の不振で昨年職を失ったベテランＶＦＸ（視覚効果）アーティストのマイケル・エングさんは、ロサンゼルスで求人情報を眺めていて、自分の履歴書に欠けているスキルがあることに気づいた。「..."
+    },
+    {
+      "title": "Software Engineering Daily",
+      "source": "softwareengineeringdaily.com",
+      "link": "https://softwareengineeringdaily.com/",
+      "snippet": "LLM -powered systems continue to move steadily into production, but this process is presenting teams with challenges that traditional software practices don’t commonly encounter. Models and agents are non-deterministic systems, which makes it difficult to test changes, reason about failures, and confidently ship updates."
+    },
+    {
+      "title": "Developer | Latest Developer News, Analysis & Events",
+      "source": "developer-tech.com",
+      "link": "https://www.developer-tech.com/",
+      "snippet": "Developer reports on the latest news and insights on developer tech. Explore industry trends from the frontline of development."
+    },
+    {
+      "title": "InfoQ: Software Development News, Trends & Best Practices - InfoQ",
+      "source": "infoq.com",
+      "link": "https://www.infoq.com/",
+      "snippet": "QCon San Francisco (Nov 16-20): What&#x27;s next in AI? What&#x27;s next in software? Learn from the teams already doing it."
+    },
+    {
+      "title": "Interesting Engineering | Engineering, Tech and Science News",
+      "source": "interestingengineering.com",
+      "link": "https://interestingengineering.com",
+      "snippet": "Explore Interesting Engineering for cutting-edge articles, news, and insights on technology, innovation, and the future of engineering worldwide."
+    }
+  ],
   "meta": {
-    "sourceMode": "unavailable",
-    "itemCount": 0
+    "sourceMode": "brave",
+    "itemCount": 10
   },
-  "generatedAt": "2026-02-23T09:47:30.964819+00:00"
+  "generatedAt": "2026-02-23T09:48:23.883756+00:00"
 }

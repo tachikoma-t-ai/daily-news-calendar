@@ -84,14 +84,11 @@ def fetch_brave(query: str):
     qs = urllib.parse.urlencode({
         'q': query,
         'count': 8,
-        'search_lang': 'ja',
-        'country': 'JP'
     })
     req = urllib.request.Request(
         f'{BRAVE_ENDPOINT}?{qs}',
         headers={
             'Accept': 'application/json',
-            'Accept-Encoding': 'gzip',
             'X-Subscription-Token': BRAVE_API_KEY,
         },
     )
