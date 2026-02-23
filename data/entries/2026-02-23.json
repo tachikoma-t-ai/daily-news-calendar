@@ -230,17 +230,6 @@
           "link": "https://www.bloomberg.com/news/articles/2026-02-23/australia-to-keep-trump-s-beef-tariff-exemptions-industry-says"
         },
         {
-          "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
-          "summaryLines": [
-            "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。",
-            "概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "foxnews.com",
-          "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic"
-        },
-        {
           "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
           "summaryLines": [
             "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。",
@@ -250,6 +239,17 @@
           "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
           "source": "nytimes.com",
           "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html"
+        },
+        {
+          "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
+          "summaryLines": [
+            "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。",
+            "概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "foxnews.com",
+          "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic"
         }
       ]
     }
@@ -369,16 +369,16 @@
       "snippet": "Australia to Keep Trump’s Beef Tariff Exemptions, Industry Says - Bloombergに関する最新動向です。 概要: Australia, one of the biggest foreign suppliers of beef to the US, will keep its exemptions from Pre…"
     },
     {
-      "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
-      "source": "foxnews.com",
-      "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic",
-      "snippet": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。 概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…"
-    },
-    {
       "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
       "source": "nytimes.com",
       "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html",
       "snippet": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。 概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…"
+    },
+    {
+      "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
+      "source": "foxnews.com",
+      "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic",
+      "snippet": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。 概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…"
     }
   ],
   "meta": {
@@ -386,5 +386,5 @@
     "categoryCount": 5,
     "itemCount": 20
   },
-  "generatedAt": "2026-02-23T13:32:55.107312+00:00"
+  "generatedAt": "2026-02-23T13:54:22.970215+00:00"
 }
