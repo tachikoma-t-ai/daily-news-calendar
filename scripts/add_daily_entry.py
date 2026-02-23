@@ -124,10 +124,10 @@ def collect_from_brave():
 
 def build_summary(headlines, used_brave):
     if not headlines:
-        return '本日のニュースを取得できませんでした。BRAVE_API_KEYまたは検索条件を確認してください。'
+        return '本日のニュースを取得できませんでした。'
     if used_brave:
         return 'Brave Search APIから主要ニュースを横断収集しました。ソースの偏りを抑えて表示しています。'
-    return 'Brave Search APIを利用できなかったため、ニュースを生成できませんでした。'
+    return '本日のニュースを取得できませんでした。'
 
 
 def main():
