@@ -13,7 +13,7 @@
 - `index.html` / `styles.css` / `app.js`: フロントエンド
 - `data/index.json`: 日付→エントリファイルの索引
 - `data/entries/YYYY-MM-DD.json`: 日次エントリ
-- `scripts/add_daily_entry.py`: RSSから当日のニュース記事エントリを生成
+- `scripts/add_daily_entry.py`: Brave Searchから当日のニュース記事エントリを生成
 
 ## ローカル確認
 
@@ -36,4 +36,5 @@ python3 -m http.server 8080
 
 ## 注意
 
-- ニュースはRSSベースで当日公開記事を優先して収集します。
+- ニュースはBrave Searchベースで当日記事を優先して収集します。
+- 実行には `BRAVE_API_KEY` 環境変数の設定が必要です。
