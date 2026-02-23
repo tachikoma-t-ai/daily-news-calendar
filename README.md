@@ -6,35 +6,25 @@
 
 - GitHub Pagesで公開できる静的サイト
 - 日付ごとにニュース要約エントリを表示
-- GitHub Actionsで毎日自動更新（1日1エントリ追加）
+- 公開リポジトリには表示に必要な静的アセットとJSONデータのみ配置
 
 ## 構成
 
 - `index.html` / `styles.css` / `app.js`: フロントエンド
 - `data/index.json`: 日付→エントリファイルの索引
 - `data/entries/YYYY-MM-DD.json`: 日次エントリ
-- `scripts/add_daily_entry.py`: Brave Searchから当日のニュース記事エントリを生成
 
-## ローカル確認
+## データ生成パイプライン
 
-```bash
-python3 scripts/add_daily_entry.py
-python3 -m http.server 8080
-# http://localhost:8080 を開く
-```
+ニュース収集・生成ロジックは private repository で管理しています。
+
+- Private: `tachikoma-t-ai/daily-news-calendar-generator`
+- Public (このrepo): `tachikoma-t-ai/daily-news-calendar`
+
+private repo の GitHub Actions が日次でJSONを生成し、このpublic repoへ `data/*` を同期します。
 
 ## GitHub Pages 有効化
 
 1. Repo Settings → Pages
 2. Source: **GitHub Actions** を選択
 3. `pages.yml` が自動デプロイ
-
-## 毎日更新
-
-- `.github/workflows/daily-update.yml` が毎日 00:30 JST に実行
-- 新規エントリがあれば自動コミット＆push
-
-## 注意
-
-- ニュースはBrave Searchベースで当日記事を優先して収集します。
-- 実行には `BRAVE_API_KEY` 環境変数の設定が必要です。
