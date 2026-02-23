@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import argparse
 import json
 import os
 import re
@@ -7,12 +8,10 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 JST = timezone(timedelta(hours=9))
-TODAY = datetime.now(JST).strftime('%Y-%m-%d')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, 'data')
 ENTRIES_DIR = os.path.join(DATA_DIR, 'entries')
 INDEX_PATH = os.path.join(DATA_DIR, 'index.json')
-ENTRY_PATH = os.path.join(ENTRIES_DIR, f'{TODAY}.json')
 
 BRAVE_API_KEY = os.getenv('BRAVE_API_KEY', '').strip()
 BRAVE_WEB_ENDPOINT = 'https://api.search.brave.com/res/v1/web/search'
@@ -155,11 +154,12 @@ def fetch_brave(query: str, endpoint: str, count: int = 10):
         return json.loads(resp.read().decode('utf-8'))
 
 
-def collect_query_results(query: str):
+def collect_query_results(query: str, target_date: str):
     items = []
+    dated_query = f'{target_date} {query}'
 
     try:
-        payload = fetch_brave(query, BRAVE_NEWS_ENDPOINT, count=10)
+        payload = fetch_brave(dated_query, BRAVE_NEWS_ENDPOINT, count=10)
         for r in payload.get('results', []):
             title = strip_html(r.get('title', ''))
             link = (r.get('url') or '').strip()
@@ -177,7 +177,7 @@ def collect_query_results(query: str):
 
     if len(items) < 6:
         try:
-            payload = fetch_brave(query, BRAVE_WEB_ENDPOINT, count=10)
+            payload = fetch_brave(dated_query, BRAVE_WEB_ENDPOINT, count=10)
             for r in payload.get('web', {}).get('results', []):
                 title = strip_html(r.get('title', ''))
                 link = (r.get('url') or '').strip()
@@ -235,10 +235,10 @@ def why_important(category_name: str):
     return mapping.get(category_name, '市場と実務の意思決定に影響する可能性があるため。')
 
 
-def build_section(cat):
+def build_section(cat, target_date: str):
     pool = []
     for q in cat['queries']:
-        pool.extend(collect_query_results(q))
+        pool.extend(collect_query_results(q, target_date))
 
     pool = dedupe(pool)
     pool = sorted(pool, key=score_item, reverse=True)
@@ -290,12 +290,24 @@ def build_top3(sections):
 
 
 def main():
+    parser = argparse.ArgumentParser(description='Generate daily news entry JSON')
+    parser.add_argument('--date', help='Target date in YYYY-MM-DD (JST)')
+    args = parser.parse_args()
+
+    target_date = args.date or datetime.now(JST).strftime('%Y-%m-%d')
+    try:
+        datetime.strptime(target_date, '%Y-%m-%d')
+    except ValueError:
+        raise SystemExit('Invalid --date format. Use YYYY-MM-DD')
+
+    entry_path = os.path.join(ENTRIES_DIR, f'{target_date}.json')
+
     os.makedirs(ENTRIES_DIR, exist_ok=True)
 
     sections = []
     if BRAVE_API_KEY:
         for cat in CATEGORIES:
-            sections.append(build_section(cat))
+            sections.append(build_section(cat, target_date))
 
     headlines = []
     for s in sections:
@@ -308,8 +320,8 @@ def main():
             })
 
     payload = {
-        'date': TODAY,
-        'title': f'{TODAY} の日次ニュースダイジェスト',
+        'date': target_date,
+        'title': f'{target_date} の日次ニュースダイジェスト',
         'summary': '5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。',
         'sections': sections,
         'top3': build_top3(sections),
@@ -322,7 +334,7 @@ def main():
         'generatedAt': datetime.now(timezone.utc).isoformat(),
     }
 
-    with open(ENTRY_PATH, 'w', encoding='utf-8') as f:
+    with open(entry_path, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
     if os.path.exists(INDEX_PATH):
@@ -332,14 +344,14 @@ def main():
         index = {'entries': {}}
 
     index.setdefault('entries', {})
-    index['entries'][TODAY] = f'data/entries/{TODAY}.json'
+    index['entries'][target_date] = f'data/entries/{target_date}.json'
     index['entries'] = dict(sorted(index['entries'].items()))
 
     with open(INDEX_PATH, 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
     print(
-        f'Generated: {ENTRY_PATH} '
+        f'Generated: {entry_path} '
         f'(mode={payload["meta"]["sourceMode"]}, items={payload["meta"]["itemCount"]})'
     )
 
