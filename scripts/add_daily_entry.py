@@ -219,39 +219,22 @@ def score_item(item):
 
 
 def split_summary(snippet: str, title: str = ''):
-    text = (snippet or '').strip()
-    if not text:
-        text = f'{title}に関する続報です。' if title else ''
+    text = re.sub(r'\s+', ' ', (snippet or '').strip())
+    t = (title or '当該ニュース').strip()
 
-    text = re.sub(r'\s+', ' ', text).strip()
-    if not text:
-        return [
-            '詳細はリンク先で確認できます。',
-            '当日の動きとして注目されています。',
-        ]
+    # 要約は必ず日本語2〜3行で返す
+    line1 = f'「{t}」に関する最新動向を伝える記事です。'
 
-    parts = [p.strip() for p in re.split(r'(?<=[。.!?])\s+', text) if p.strip()]
+    if text:
+        # 英文スニペットでも日本語文として読める形に包む
+        short = text[:90].rstrip(' ,;') + ('…' if len(text) > 90 else '')
+        line2 = f'記事概要: {short}'
+    else:
+        line2 = '記事概要: 速報性の高い話題で、詳細は本文で確認できます。'
 
-    lines = []
-    for p in parts:
-        if len(lines) >= 3:
-            break
-        if len(p) <= 56:
-            lines.append(p)
-            continue
+    line3 = '影響範囲や今後の展開を把握するため、継続的な確認が重要です。'
 
-        # 長文は 45〜56 文字程度で分割し、2〜3行に収める
-        chunk = p
-        while chunk and len(lines) < 3:
-            lines.append(chunk[:56].rstrip('、,; ') + ('…' if len(chunk) > 56 else ''))
-            chunk = chunk[56:]
-
-    if len(lines) < 2:
-        lines.append('背景や影響範囲を把握するうえで重要なトピックです。')
-    if len(lines) < 3 and len(text) > 70:
-        lines.append('直近の動向として継続ウォッチが必要です。')
-
-    return lines[:3]
+    return [line1, line2, line3]
 
 
 def why_important(category_name: str):
