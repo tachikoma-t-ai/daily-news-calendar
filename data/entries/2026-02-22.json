@@ -1,0 +1,390 @@
+{
+  "date": "2026-02-22",
+  "title": "2026-02-22 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
+          "summaryLines": [
+            "As browser wars heat up, Chrome adds new productivity features | TechCrunchに関する最新動向です。",
+            "概要: Split View, PDF annotations, and &#039;Save to Chrome&#039; features come to the Chrome browser.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features"
+        },
+        {
+          "title": "There's a truly new browser coming in 2026, and everyone should know about it",
+          "summaryLines": [
+            "There's a truly new browser coming in 2026, and everyone should know about itに関する最新動向です。",
+            "概要: It might just be the fresh start the web has been waiting for",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "makeuseof.com",
+          "link": "https://www.makeuseof.com/theres-new-browser-coming-in-2026-everyone-should-know-about-it/"
+        },
+        {
+          "title": "GCP Release Notes: February 22, 2026 - Modern Workspace Pro",
+          "summaryLines": [
+            "GCP Release Notes: February 22, 2026 - Modern Workspace Proに関する最新動向です。",
+            "概要: GCP Release Notes: February 22, 2026",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "mwpro.co.uk",
+          "link": "https://mwpro.co.uk/blog/2026/02/23/gcp-release-notes-february-22-2026/"
+        },
+        {
+          "title": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Mac",
+          "summaryLines": [
+            "WebKit team outlines browser interoperability priorities for 2026 - 9to5Macに関する最新動向です。",
+            "概要: Apple and the other members of the Interop Group have outlined their objectives for the year ahead.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "9to5mac.com",
+          "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Some US investors pivot to infrastructure amid broader AI selloff | Reuters",
+          "summaryLines": [
+            "Some US investors pivot to infrastructure amid broader AI selloff | Reutersに関する最新動向です。",
+            "概要: As Wall Street's love affair with artificial intelligence heavyweights cools, some investors are piv…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/some-us-investors-pivot-infrastructure-amid-broader-ai-selloff-2026-02-19/"
+        },
+        {
+          "title": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunch",
+          "summaryLines": [
+            "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunchに関する最新動向です。",
+            "概要: India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract globa…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028"
+        },
+        {
+          "title": "Prediction: This Artificial Intelligence (AI) Stock Will Outperform Alphabet in 2026 | The Motley Fool",
+          "summaryLines": [
+            "Prediction: This Artificial Intelligence (AI) Stock Will Outperform Alphabet in 2026 | The Motley Foolに関する最新動向です。",
+            "概要: Micron is benefiting from a surge in AI spending.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "fool.com",
+          "link": "https://www.fool.com/investing/2026/02/22/prediction-this-artificial-intelligence-ai-stock-w/"
+        },
+        {
+          "title": "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents",
+          "summaryLines": [
+            "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agentsに関する最新動向です。",
+            "概要: Alibaba Group has released its newest AI model series, featuring new agentic capabilities, as compet…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin to zero? Google searches for the term hit record in U.S. as BTC price drops",
+          "summaryLines": [
+            "Bitcoin to zero? Google searches for the term hit record in U.S. as BTC price dropsに関する最新動向です。",
+            "概要: Google Trends data shows the term hit a record high in the U.S. this month, though global interest h…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed"
+        },
+        {
+          "title": "Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloomberg",
+          "summaryLines": [
+            "Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloombergに関する最新動向です。",
+            "概要: Bitcoin briefly slid below $65,000 on Monday for the second time this month, roiled by uncertainty o…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty"
+        },
+        {
+          "title": "Crypto bill advances in US Senate but faces obstacles | Reuters",
+          "summaryLines": [
+            "Crypto bill advances in US Senate but faces obstacles | Reutersに関する最新動向です。",
+            "概要: The U.S. Senate Agriculture Committee, which oversees commodities trading, advanced a bill on Thursd…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/sustainability/boards-policy-regulation/crypto-bill-advances-us-senate-faces-obstacles-2026-01-29"
+        },
+        {
+          "title": "Why is crypto market down today? (Feb. 23) – CoinSpectator – Real-time Cryptocurrency News",
+          "summaryLines": [
+            "Why is crypto market down today? (Feb. 23) – CoinSpectator – Real-time Cryptocurrency Newsに関する最新動向です。",
+            "概要: The global crypto market tanked 4.5% to $2.29 trillion on Monday amid Trump’s latest round of global…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coinspectator.com",
+          "link": "https://coinspectator.com/cryptonews/2026/02/23/why-is-crypto-market-down-today-feb-23/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Wall St futures, dollar skid on US tariff tumult | Reuters",
+          "summaryLines": [
+            "Wall St futures, dollar skid on US tariff tumult | Reutersに関する最新動向です。",
+            "概要: Wall Street futures and the dollar slid in Asia on Monday as confusion over U.S. tariffs revived the…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/world/china/global-markets-global-markets-2026-02-23"
+        },
+        {
+          "title": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardian",
+          "summaryLines": [
+            "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardianに関する最新動向です。",
+            "概要: Jamieson Greer also said US won&#x2019;t pull out of deals with UK, EU and others after court declar…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "theguardian.com",
+          "link": "https://theguardian.com/us-news/2026/feb/22/trump-tariff-policy-ruling"
+        },
+        {
+          "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+          "summaryLines": [
+            "Trump to hike global tariffs to 15% from 10%, 'effective immediately'に関する最新動向です。",
+            "概要: Trump also warned: &quot;During the next short number of months, the Trump Administration will deter…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html"
+        },
+        {
+          "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss - The New York Times",
+          "summaryLines": [
+            "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss - The New York Timesに関する最新動向です。",
+            "概要: Even after the Supreme Court invalidated many of the president’s levies, foreign leaders and executi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "nytimes.com",
+          "link": "https://www.nytimes.com/2026/02/21/business/economy/tariffs-supreme-court-global-busines-reaction.html"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Trump to travel to China next month, with US tariffs in focus | Reuters",
+          "summaryLines": [
+            "Trump to travel to China next month, with US tariffs in focus | Reutersに関する最新動向です。",
+            "概要: U.S. President Donald Trump will travel to China from March 31 to April 2 for a highly anticipated m…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/trump-travel-china-march-31-april-2-amid-trade-tensions-2026-02-20/"
+        },
+        {
+          "title": "Flight cancellations follow chaos at Puerto Vallarta, Guadalajara airports",
+          "summaryLines": [
+            "Flight cancellations follow chaos at Puerto Vallarta, Guadalajara airportsに関する最新動向です。",
+            "概要: Back to '+ g;p.append(q);g$.el.appendCss(`:focus{outline-color:#0098fe}:host{display:flex;align-item…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "usatoday.com",
+          "link": "https://www.usatoday.com/story/travel/airline-news/2026/02/22/puerto-vallarta-guadalajara-flights-el-mencho/88813697007/"
+        },
+        {
+          "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
+          "summaryLines": [
+            "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。",
+            "概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "nytimes.com",
+          "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html"
+        },
+        {
+          "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
+          "summaryLines": [
+            "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。",
+            "概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "foxnews.com",
+          "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：As browser wars heat up, Chrome adds new productivity features | TechCrunch",
+    "AI：Some US investors pivot to infrastructure amid broader AI selloff | Reuters",
+    "暗号通貨：Bitcoin to zero? Google searches for the term hit record in U.S. as BTC price drops"
+  ],
+  "headlines": [
+    {
+      "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features",
+      "snippet": "As browser wars heat up, Chrome adds new productivity features | TechCrunchに関する最新動向です。 概要: Split View, PDF annotations, and &#039;Save to Chrome&#039; features come to the Chrome browser."
+    },
+    {
+      "title": "There's a truly new browser coming in 2026, and everyone should know about it",
+      "source": "makeuseof.com",
+      "link": "https://www.makeuseof.com/theres-new-browser-coming-in-2026-everyone-should-know-about-it/",
+      "snippet": "There's a truly new browser coming in 2026, and everyone should know about itに関する最新動向です。 概要: It might just be the fresh start the web has been waiting for"
+    },
+    {
+      "title": "GCP Release Notes: February 22, 2026 - Modern Workspace Pro",
+      "source": "mwpro.co.uk",
+      "link": "https://mwpro.co.uk/blog/2026/02/23/gcp-release-notes-february-22-2026/",
+      "snippet": "GCP Release Notes: February 22, 2026 - Modern Workspace Proに関する最新動向です。 概要: GCP Release Notes: February 22, 2026"
+    },
+    {
+      "title": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Mac",
+      "source": "9to5mac.com",
+      "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026/",
+      "snippet": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Macに関する最新動向です。 概要: Apple and the other members of the Interop Group have outlined their objectives for the year ahead.…"
+    },
+    {
+      "title": "Some US investors pivot to infrastructure amid broader AI selloff | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/some-us-investors-pivot-infrastructure-amid-broader-ai-selloff-2026-02-19/",
+      "snippet": "Some US investors pivot to infrastructure amid broader AI selloff | Reutersに関する最新動向です。 概要: As Wall Street's love affair with artificial intelligence heavyweights cools, some investors are piv…"
+    },
+    {
+      "title": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028",
+      "snippet": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunchに関する最新動向です。 概要: India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract globa…"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Outperform Alphabet in 2026 | The Motley Fool",
+      "source": "fool.com",
+      "link": "https://www.fool.com/investing/2026/02/22/prediction-this-artificial-intelligence-ai-stock-w/",
+      "snippet": "Prediction: This Artificial Intelligence (AI) Stock Will Outperform Alphabet in 2026 | The Motley Foolに関する最新動向です。 概要: Micron is benefiting from a surge in AI spending."
+    },
+    {
+      "title": "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html",
+      "snippet": "Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agentsに関する最新動向です。 概要: Alibaba Group has released its newest AI model series, featuring new agentic capabilities, as compet…"
+    },
+    {
+      "title": "Bitcoin to zero? Google searches for the term hit record in U.S. as BTC price drops",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed",
+      "snippet": "Bitcoin to zero? Google searches for the term hit record in U.S. as BTC price dropsに関する最新動向です。 概要: Google Trends data shows the term hit a record high in the U.S. this month, though global interest h…"
+    },
+    {
+      "title": "Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty",
+      "snippet": "Bitcoin (BTC) Slides to $65,000 in Latest Bout of Tariff Uncertainty - Bloombergに関する最新動向です。 概要: Bitcoin briefly slid below $65,000 on Monday for the second time this month, roiled by uncertainty o…"
+    },
+    {
+      "title": "Crypto bill advances in US Senate but faces obstacles | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/sustainability/boards-policy-regulation/crypto-bill-advances-us-senate-faces-obstacles-2026-01-29",
+      "snippet": "Crypto bill advances in US Senate but faces obstacles | Reutersに関する最新動向です。 概要: The U.S. Senate Agriculture Committee, which oversees commodities trading, advanced a bill on Thursd…"
+    },
+    {
+      "title": "Why is crypto market down today? (Feb. 23) – CoinSpectator – Real-time Cryptocurrency News",
+      "source": "coinspectator.com",
+      "link": "https://coinspectator.com/cryptonews/2026/02/23/why-is-crypto-market-down-today-feb-23/",
+      "snippet": "Why is crypto market down today? (Feb. 23) – CoinSpectator – Real-time Cryptocurrency Newsに関する最新動向です。 概要: The global crypto market tanked 4.5% to $2.29 trillion on Monday amid Trump’s latest round of global…"
+    },
+    {
+      "title": "Wall St futures, dollar skid on US tariff tumult | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/world/china/global-markets-global-markets-2026-02-23",
+      "snippet": "Wall St futures, dollar skid on US tariff tumult | Reutersに関する最新動向です。 概要: Wall Street futures and the dollar slid in Asia on Monday as confusion over U.S. tariffs revived the…"
+    },
+    {
+      "title": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardian",
+      "source": "theguardian.com",
+      "link": "https://theguardian.com/us-news/2026/feb/22/trump-tariff-policy-ruling",
+      "snippet": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardianに関する最新動向です。 概要: Jamieson Greer also said US won&#x2019;t pull out of deals with UK, EU and others after court declar…"
+    },
+    {
+      "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
+      "snippet": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'に関する最新動向です。 概要: Trump also warned: &quot;During the next short number of months, the Trump Administration will deter…"
+    },
+    {
+      "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://www.nytimes.com/2026/02/21/business/economy/tariffs-supreme-court-global-busines-reaction.html",
+      "snippet": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss - The New York Timesに関する最新動向です。 概要: Even after the Supreme Court invalidated many of the president’s levies, foreign leaders and executi…"
+    },
+    {
+      "title": "Trump to travel to China next month, with US tariffs in focus | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/trump-travel-china-march-31-april-2-amid-trade-tensions-2026-02-20/",
+      "snippet": "Trump to travel to China next month, with US tariffs in focus | Reutersに関する最新動向です。 概要: U.S. President Donald Trump will travel to China from March 31 to April 2 for a highly anticipated m…"
+    },
+    {
+      "title": "Flight cancellations follow chaos at Puerto Vallarta, Guadalajara airports",
+      "source": "usatoday.com",
+      "link": "https://www.usatoday.com/story/travel/airline-news/2026/02/22/puerto-vallarta-guadalajara-flights-el-mencho/88813697007/",
+      "snippet": "Flight cancellations follow chaos at Puerto Vallarta, Guadalajara airportsに関する最新動向です。 概要: Back to '+ g;p.append(q);g$.el.appendCss(`:focus{outline-color:#0098fe}:host{display:flex;align-item…"
+    },
+    {
+      "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html",
+      "snippet": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。 概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…"
+    },
+    {
+      "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
+      "source": "foxnews.com",
+      "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic",
+      "snippet": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。 概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-02-23T13:33:26.462618+00:00"
+}

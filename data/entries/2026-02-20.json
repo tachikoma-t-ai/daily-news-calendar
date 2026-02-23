@@ -1,6 +1,6 @@
 {
-  "date": "2026-02-23",
-  "title": "2026-02-23 の日次ニュースダイジェスト",
+  "date": "2026-02-20",
+  "title": "2026-02-20 の日次ニュースダイジェスト",
   "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
   "sections": [
     {
@@ -8,15 +8,15 @@
       "name": "IT",
       "items": [
         {
-          "title": "For open source programs, AI coding tools are a mixed blessing | TechCrunch",
+          "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
           "summaryLines": [
-            "For open source programs, AI coding tools are a mixed blessing | TechCrunchに関する最新動向です。",
-            "概要: AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building…",
+            "As browser wars heat up, Chrome adds new productivity features | TechCrunchに関する最新動向です。",
+            "概要: Split View, PDF annotations, and &#039;Save to Chrome&#039; features come to the Chrome browser.",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
           "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/"
+          "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features"
         },
         {
           "title": "There's a truly new browser coming in 2026, and everyone should know about it",
@@ -30,17 +30,6 @@
           "link": "https://www.makeuseof.com/theres-new-browser-coming-in-2026-everyone-should-know-about-it/"
         },
         {
-          "title": "GCP Release Notes: February 21, 2026 - Modern Workspace Pro",
-          "summaryLines": [
-            "GCP Release Notes: February 21, 2026 - Modern Workspace Proに関する最新動向です。",
-            "概要: GCP Release Notes: February 21, 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "mwpro.co.uk",
-          "link": "https://mwpro.co.uk/blog/2026/02/23/gcp-release-notes-february-21-2026/"
-        },
-        {
           "title": "Seedance2ai.online Launches All-in-One Seedance 2.0 Video Creation Platform With Free Tier for Global Creators",
           "summaryLines": [
             "Seedance2ai.online Launches All-in-One Seedance 2.0 Video Creation Platform With Free Tier for Global Creatorsに関する最新動向です。",
@@ -50,6 +39,17 @@
           "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
           "source": "globenewswire.com",
           "link": "https://www.globenewswire.com/news-release/2026/02/21/3242242/0/en/Seedance2ai-online-Launches-All-in-One-Seedance-2-0-Video-Creation-Platform-With-Free-Tier-for-Global-Creators.html"
+        },
+        {
+          "title": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Mac",
+          "summaryLines": [
+            "WebKit team outlines browser interoperability priorities for 2026 - 9to5Macに関する最新動向です。",
+            "概要: Apple and the other members of the Interop Group have outlined their objectives for the year ahead.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "9to5mac.com",
+          "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026/"
         }
       ]
     },
@@ -69,26 +69,15 @@
           "link": "https://www.reuters.com/world/china/alibaba-unveils-new-qwen35-model-agentic-ai-era-2026-02-16/"
         },
         {
-          "title": "In 2026, AI will move from hype to pragmatism | TechCrunch",
+          "title": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunch",
           "summaryLines": [
-            "In 2026, AI will move from hype to pragmatism | TechCrunchに関する最新動向です。",
-            "概要: In 2026, here&#039;s what you can expect from the AI industry: new architectures, smaller models, wo…",
+            "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunchに関する最新動向です。",
+            "概要: India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract globa…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
           "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
-        },
-        {
-          "title": "Global AI Show 2026",
-          "summaryLines": [
-            "Global AI Show 2026に関する最新動向です。",
-            "概要: The Global AI Show 2026 in Riyadh brings an engaging experience for anyone interested in the future…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "startupnews.fyi",
-          "link": "https://startupnews.fyi/2026/02/23/global-ai-show-2026"
+          "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028"
         },
         {
           "title": "These are China's new AI models that have just been released ahead of the Lunar New Year | Euronews",
@@ -100,6 +89,17 @@
           "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
           "source": "euronews.com",
           "link": "https://www.euronews.com/next/2026/02/17/these-are-chinas-new-ai-models-that-have-just-been-released-ahead-of-the-lunar-new-year"
+        },
+        {
+          "title": "What's next for AI in 2026 | MIT Technology Review",
+          "summaryLines": [
+            "What's next for AI in 2026 | MIT Technology Reviewに関する最新動向です。",
+            "概要: Our AI writers make their big bets for the coming year—here are five hot trends to watch.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "technologyreview.com",
+          "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/"
         }
       ]
     },
@@ -108,15 +108,15 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Bitcoin price news: BTC plunges to begin week, pulling back to $64,700",
+          "title": "Tariff travails resurface, bitcoin holders prepare for declines: Crypto Daybook Americas",
           "summaryLines": [
-            "Bitcoin price news: BTC plunges to begin week, pulling back to $64,700に関する最新動向です。",
-            "概要: On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while s…",
+            "Tariff travails resurface, bitcoin holders prepare for declines: Crypto Daybook Americasに関する最新動向です。",
+            "概要: Your day-ahead look for Feb. 20, 2026",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
           "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses"
+          "link": "https://coindesk.com/daybook-us/2026/02/23/tariff-travails-resurface-bitcoin-holders-prepare-for-declines"
         },
         {
           "title": "Crypto Market Sheds $2 Trillion but Optimism Holds in Hong Kong - Bloomberg",
@@ -130,15 +130,15 @@
           "link": "https://www.bloomberg.com/news/articles/2026-02-12/crypto-s-2-trillion-crash-hasn-t-dimmed-outlook-in-hong-kong"
         },
         {
-          "title": "Bessent says Congress should pass crypto regulation bill this spring | Reuters",
+          "title": "Crypto bill advances in US Senate but faces obstacles | Reuters",
           "summaryLines": [
-            "Bessent says Congress should pass crypto regulation bill this spring | Reutersに関する最新動向です。",
-            "概要: U.S. Treasury Secretary Scott Bessent said on Friday that it was important for Congress to pass a bi…",
+            "Crypto bill advances in US Senate but faces obstacles | Reutersに関する最新動向です。",
+            "概要: The U.S. Senate Agriculture Committee, which oversees commodities trading, advanced a bill on Thursd…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
           "source": "reuters.com",
-          "link": "https://reuters.com/sustainability/boards-policy-regulation/bessent-says-congress-should-pass-crypto-regulation-bill-this-spring-2026-02-13"
+          "link": "https://www.reuters.com/sustainability/boards-policy-regulation/crypto-bill-advances-us-senate-faces-obstacles-2026-01-29/"
         },
         {
           "title": "Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight | Fortune",
@@ -149,7 +149,7 @@
           ],
           "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
           "source": "fortune.com",
-          "link": "https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight"
+          "link": "https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/"
         }
       ]
     },
@@ -169,26 +169,26 @@
           "link": "https://reuters.com/world/china/global-markets-global-markets-2026-02-23"
         },
         {
-          "title": "U.S. Economy Grew Modestly at End of 2025 - The New York Times",
+          "title": "The Global Economy’s Warning Signals Are Broken - The New York Times",
           "summaryLines": [
-            "U.S. Economy Grew Modestly at End of 2025 - The New York Timesに関する最新動向です。",
-            "概要: Gross domestic product expanded at a 1.4 percent annual rate in the last quarter of the year, hit by…",
+            "The Global Economy’s Warning Signals Are Broken - The New York Timesに関する最新動向です。",
+            "概要: From markets to spending to debt, usually reliable indicators that forecast where the economy is hea…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
           "source": "nytimes.com",
-          "link": "https://nytimes.com/2026/02/20/business/economy/us-economy-gdp.html"
+          "link": "https://nytimes.com/2026/02/03/business/economy/global-economy-forecasts.html"
         },
         {
-          "title": "Stock market next week: Outlook for Feb. 23-27, 2026",
+          "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
           "summaryLines": [
-            "Stock market next week: Outlook for Feb. 23-27, 2026に関する最新動向です。",
-            "概要: Investors will assess the Supreme Court&#x27;s tariff decision and look ahead to Nvidia&#x27;s lates…",
+            "Trump to hike global tariffs to 15% from 10%, 'effective immediately'に関する最新動向です。",
+            "概要: Trump also warned: &quot;During the next short number of months, the Trump Administration will deter…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
           "source": "cnbc.com",
-          "link": "https://cnbc.com/2026/02/20/stock-market-next-week-outlook-for-feb-23-27-2026-.html"
+          "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html"
         },
         {
           "title": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardian",
@@ -208,26 +208,26 @@
       "name": "旅行",
       "items": [
         {
-          "title": "US airlines warn over pause in two key travel programs amid DHS shutdown | Reuters",
+          "title": "Exclusive: Supreme Court tariff ruling makes over $175 billion in US revenue subject to refunds, Penn-Wharton estimates | Reuters",
           "summaryLines": [
-            "US airlines warn over pause in two key travel programs amid DHS shutdown | Reutersに関する最新動向です。",
-            "概要: A grouping of major U.S. airlines said the U.S. Department of Homeland Security gave travelers scant…",
+            "Exclusive: Supreme Court tariff ruling makes over $175 billion in US revenue subject to refunds, Penn-Wharton estimates | Reutersに関する最新動向です。",
+            "概要: More than $175 billion in U.S. tariff collections are subject to potential refunds after the U.S. Su…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
           "source": "reuters.com",
-          "link": "https://reuters.com/world/us/us-dhs-pause-tsa-precheck-global-entry-shutdown-continues-washington-post-2026-02-22"
+          "link": "https://www.reuters.com/world/us-tariff-revenue-risk-supreme-court-ruling-tops-175-billion-penn-wharton-2026-02-20/"
         },
         {
-          "title": "Australia to Keep Trump’s Beef Tariff Exemptions, Industry Says - Bloomberg",
+          "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
           "summaryLines": [
-            "Australia to Keep Trump’s Beef Tariff Exemptions, Industry Says - Bloombergに関する最新動向です。",
-            "概要: Australia, one of the biggest foreign suppliers of beef to the US, will keep its exemptions from Pre…",
+            "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。",
+            "概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-02-23/australia-to-keep-trump-s-beef-tariff-exemptions-industry-says"
+          "source": "nytimes.com",
+          "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html"
         },
         {
           "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
@@ -241,30 +241,30 @@
           "link": "https://www.foxnews.com/travel/casinos-brace-las-vegas-tourism-plunges-7-5-sharpest-annual-visitor-decline-outside-covid-pandemic"
         },
         {
-          "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
+          "title": "What's Trending in Travel in 2026 | Travel | telegraphherald.com",
           "summaryLines": [
-            "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。",
-            "概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…",
+            "What's Trending in Travel in 2026 | Travel | telegraphherald.comに関する最新動向です。",
+            "概要: Current conditions in Dubuque, IA · That’s not to say Americans will be looking to travel any less –…",
             "背景や今後の影響を把握するため、継続ウォッチが有効です。"
           ],
           "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "nytimes.com",
-          "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html"
+          "source": "telegraphherald.com",
+          "link": "https://telegraphherald.com/online_features/travel/article_6f0663e4-db0d-502a-8d90-aad56192ff1f.html"
         }
       ]
     }
   ],
   "top3": [
-    "IT：For open source programs, AI coding tools are a mixed blessing | TechCrunch",
+    "IT：As browser wars heat up, Chrome adds new productivity features | TechCrunch",
     "AI：Alibaba unveils new Qwen3.5 model for 'agentic AI era' | Reuters",
-    "暗号通貨：Bitcoin price news: BTC plunges to begin week, pulling back to $64,700"
+    "暗号通貨：Tariff travails resurface, bitcoin holders prepare for declines: Crypto Daybook Americas"
   ],
   "headlines": [
     {
-      "title": "For open source programs, AI coding tools are a mixed blessing | TechCrunch",
+      "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
       "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
-      "snippet": "For open source programs, AI coding tools are a mixed blessing | TechCrunchに関する最新動向です。 概要: AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building…"
+      "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features",
+      "snippet": "As browser wars heat up, Chrome adds new productivity features | TechCrunchに関する最新動向です。 概要: Split View, PDF annotations, and &#039;Save to Chrome&#039; features come to the Chrome browser."
     },
     {
       "title": "There's a truly new browser coming in 2026, and everyone should know about it",
@@ -273,16 +273,16 @@
       "snippet": "There's a truly new browser coming in 2026, and everyone should know about itに関する最新動向です。 概要: It might just be the fresh start the web has been waiting for"
     },
     {
-      "title": "GCP Release Notes: February 21, 2026 - Modern Workspace Pro",
-      "source": "mwpro.co.uk",
-      "link": "https://mwpro.co.uk/blog/2026/02/23/gcp-release-notes-february-21-2026/",
-      "snippet": "GCP Release Notes: February 21, 2026 - Modern Workspace Proに関する最新動向です。 概要: GCP Release Notes: February 21, 2026"
-    },
-    {
       "title": "Seedance2ai.online Launches All-in-One Seedance 2.0 Video Creation Platform With Free Tier for Global Creators",
       "source": "globenewswire.com",
       "link": "https://www.globenewswire.com/news-release/2026/02/21/3242242/0/en/Seedance2ai-online-Launches-All-in-One-Seedance-2-0-Video-Creation-Platform-With-Free-Tier-for-Global-Creators.html",
       "snippet": "Seedance2ai.online Launches All-in-One Seedance 2.0 Video Creation Platform With Free Tier for Global Creatorsに関する最新動向です。 概要: LOS ANGELES, CA, Feb. 21, 2026 (GLOBE NEWSWIRE) -- Seedance2ai.online today announced the public lau…"
+    },
+    {
+      "title": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Mac",
+      "source": "9to5mac.com",
+      "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026/",
+      "snippet": "WebKit team outlines browser interoperability priorities for 2026 - 9to5Macに関する最新動向です。 概要: Apple and the other members of the Interop Group have outlined their objectives for the year ahead.…"
     },
     {
       "title": "Alibaba unveils new Qwen3.5 model for 'agentic AI era' | Reuters",
@@ -291,16 +291,10 @@
       "snippet": "Alibaba unveils new Qwen3.5 model for 'agentic AI era' | Reutersに関する最新動向です。 概要: Alibaba on Monday unveiled a new artificial intelligence model Qwen 3.5 designed to execute complex…"
     },
     {
-      "title": "In 2026, AI will move from hype to pragmatism | TechCrunch",
+      "title": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunch",
       "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
-      "snippet": "In 2026, AI will move from hype to pragmatism | TechCrunchに関する最新動向です。 概要: In 2026, here&#039;s what you can expect from the AI industry: new architectures, smaller models, wo…"
-    },
-    {
-      "title": "Global AI Show 2026",
-      "source": "startupnews.fyi",
-      "link": "https://startupnews.fyi/2026/02/23/global-ai-show-2026",
-      "snippet": "Global AI Show 2026に関する最新動向です。 概要: The Global AI Show 2026 in Riyadh brings an engaging experience for anyone interested in the future…"
+      "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028",
+      "snippet": "India bids to attract over $200B in AI infrastructure investment by 2028 | TechCrunchに関する最新動向です。 概要: India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract globa…"
     },
     {
       "title": "These are China's new AI models that have just been released ahead of the Lunar New Year | Euronews",
@@ -309,10 +303,16 @@
       "snippet": "These are China's new AI models that have just been released ahead of the Lunar New Year | Euronewsに関する最新動向です。 概要: Major Chinese AI companies such as Alibaba, ByteDance, and Zhipu have all announced launches in the…"
     },
     {
-      "title": "Bitcoin price news: BTC plunges to begin week, pulling back to $64,700",
+      "title": "What's next for AI in 2026 | MIT Technology Review",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "snippet": "What's next for AI in 2026 | MIT Technology Reviewに関する最新動向です。 概要: Our AI writers make their big bets for the coming year—here are five hot trends to watch."
+    },
+    {
+      "title": "Tariff travails resurface, bitcoin holders prepare for declines: Crypto Daybook Americas",
       "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
-      "snippet": "Bitcoin price news: BTC plunges to begin week, pulling back to $64,700に関する最新動向です。 概要: On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while s…"
+      "link": "https://coindesk.com/daybook-us/2026/02/23/tariff-travails-resurface-bitcoin-holders-prepare-for-declines",
+      "snippet": "Tariff travails resurface, bitcoin holders prepare for declines: Crypto Daybook Americasに関する最新動向です。 概要: Your day-ahead look for Feb. 20, 2026"
     },
     {
       "title": "Crypto Market Sheds $2 Trillion but Optimism Holds in Hong Kong - Bloomberg",
@@ -321,15 +321,15 @@
       "snippet": "Crypto Market Sheds $2 Trillion but Optimism Holds in Hong Kong - Bloombergに関する最新動向です。 概要: Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly…"
     },
     {
-      "title": "Bessent says Congress should pass crypto regulation bill this spring | Reuters",
+      "title": "Crypto bill advances in US Senate but faces obstacles | Reuters",
       "source": "reuters.com",
-      "link": "https://reuters.com/sustainability/boards-policy-regulation/bessent-says-congress-should-pass-crypto-regulation-bill-this-spring-2026-02-13",
-      "snippet": "Bessent says Congress should pass crypto regulation bill this spring | Reutersに関する最新動向です。 概要: U.S. Treasury Secretary Scott Bessent said on Friday that it was important for Congress to pass a bi…"
+      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/crypto-bill-advances-us-senate-faces-obstacles-2026-01-29/",
+      "snippet": "Crypto bill advances in US Senate but faces obstacles | Reutersに関する最新動向です。 概要: The U.S. Senate Agriculture Committee, which oversees commodities trading, advanced a bill on Thursd…"
     },
     {
       "title": "Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight | Fortune",
       "source": "fortune.com",
-      "link": "https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight",
+      "link": "https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/",
       "snippet": "Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight | Fortuneに関する最新動向です。 概要: The year-to-date performances of the world’s two largest cryptocurrencies are some of the most beari…"
     },
     {
@@ -339,16 +339,16 @@
       "snippet": "Wall St futures, dollar skid on US tariff tumult | Reutersに関する最新動向です。 概要: Wall Street futures and the dollar slid in Asia on Monday as confusion over U.S. tariffs revived the…"
     },
     {
-      "title": "U.S. Economy Grew Modestly at End of 2025 - The New York Times",
+      "title": "The Global Economy’s Warning Signals Are Broken - The New York Times",
       "source": "nytimes.com",
-      "link": "https://nytimes.com/2026/02/20/business/economy/us-economy-gdp.html",
-      "snippet": "U.S. Economy Grew Modestly at End of 2025 - The New York Timesに関する最新動向です。 概要: Gross domestic product expanded at a 1.4 percent annual rate in the last quarter of the year, hit by…"
+      "link": "https://nytimes.com/2026/02/03/business/economy/global-economy-forecasts.html",
+      "snippet": "The Global Economy’s Warning Signals Are Broken - The New York Timesに関する最新動向です。 概要: From markets to spending to debt, usually reliable indicators that forecast where the economy is hea…"
     },
     {
-      "title": "Stock market next week: Outlook for Feb. 23-27, 2026",
+      "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
       "source": "cnbc.com",
-      "link": "https://cnbc.com/2026/02/20/stock-market-next-week-outlook-for-feb-23-27-2026-.html",
-      "snippet": "Stock market next week: Outlook for Feb. 23-27, 2026に関する最新動向です。 概要: Investors will assess the Supreme Court&#x27;s tariff decision and look ahead to Nvidia&#x27;s lates…"
+      "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
+      "snippet": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'に関する最新動向です。 概要: Trump also warned: &quot;During the next short number of months, the Trump Administration will deter…"
     },
     {
       "title": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardian",
@@ -357,16 +357,16 @@
       "snippet": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says | Trump tariffs | The Guardianに関する最新動向です。 概要: Jamieson Greer also said US won&#x2019;t pull out of deals with UK, EU and others after court declar…"
     },
     {
-      "title": "US airlines warn over pause in two key travel programs amid DHS shutdown | Reuters",
+      "title": "Exclusive: Supreme Court tariff ruling makes over $175 billion in US revenue subject to refunds, Penn-Wharton estimates | Reuters",
       "source": "reuters.com",
-      "link": "https://reuters.com/world/us/us-dhs-pause-tsa-precheck-global-entry-shutdown-continues-washington-post-2026-02-22",
-      "snippet": "US airlines warn over pause in two key travel programs amid DHS shutdown | Reutersに関する最新動向です。 概要: A grouping of major U.S. airlines said the U.S. Department of Homeland Security gave travelers scant…"
+      "link": "https://www.reuters.com/world/us-tariff-revenue-risk-supreme-court-ruling-tops-175-billion-penn-wharton-2026-02-20/",
+      "snippet": "Exclusive: Supreme Court tariff ruling makes over $175 billion in US revenue subject to refunds, Penn-Wharton estimates | Reutersに関する最新動向です。 概要: More than $175 billion in U.S. tariff collections are subject to potential refunds after the U.S. Su…"
     },
     {
-      "title": "Australia to Keep Trump’s Beef Tariff Exemptions, Industry Says - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-23/australia-to-keep-trump-s-beef-tariff-exemptions-industry-says",
-      "snippet": "Australia to Keep Trump’s Beef Tariff Exemptions, Industry Says - Bloombergに関する最新動向です。 概要: Australia, one of the biggest foreign suppliers of beef to the US, will keep its exemptions from Pre…"
+      "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html",
+      "snippet": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。 概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…"
     },
     {
       "title": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox News",
@@ -375,10 +375,10 @@
       "snippet": "Las Vegas tourism plummets 7.5% even as Harry Reid airport sees record passenger levels | Fox Newsに関する最新動向です。 概要: Vegas tourist numbers have fallen to 2000-era levels as Canadian visitors drop as much as 50%, even…"
     },
     {
-      "title": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html",
-      "snippet": "Why the United States Is Seeing an Ongoing Tourism Slump - The New York Timesに関する最新動向です。 概要: Last year, the U.S. was the only major destination to see a decline in international travelers. With…"
+      "title": "What's Trending in Travel in 2026 | Travel | telegraphherald.com",
+      "source": "telegraphherald.com",
+      "link": "https://telegraphherald.com/online_features/travel/article_6f0663e4-db0d-502a-8d90-aad56192ff1f.html",
+      "snippet": "What's Trending in Travel in 2026 | Travel | telegraphherald.comに関する最新動向です。 概要: Current conditions in Dubuque, IA · That’s not to say Americans will be looking to travel any less –…"
     }
   ],
   "meta": {
@@ -386,5 +386,5 @@
     "categoryCount": 5,
     "itemCount": 20
   },
-  "generatedAt": "2026-02-23T13:32:55.107312+00:00"
+  "generatedAt": "2026-02-23T13:34:15.668101+00:00"
 }
