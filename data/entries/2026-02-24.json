@@ -1,0 +1,237 @@
+{
+  "date": "2026-02-24",
+  "title": "2026-02-24 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Anthropic新ツールを受け、CrowdStrike・Datadogなどサイバー株が下落（Reuters）",
+          "summaryLines": [
+            "Reutersによると、AnthropicのAI関連発表後に一部サイバーセキュリティ銘柄が売られた。",
+            "投資家は“AIが既存セキュリティ製品の差別化を圧縮する可能性”を短期的に織り込んだ形。",
+            "AIの機能進化が、セキュリティ業界の評価軸を再定義する局面に入っている。"
+          ],
+          "whyImportant": "生成AIの進化が、企業向けセキュリティ市場の競争構造とバリュエーションに直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/crowdstrike-datadog-other-cybersecurity-stocks-slide-after-anthropics-ai-tool-2026-02-23/"
+        },
+        {
+          "title": "米防衛産業向け新サイバー規則、中小サプライヤーの負担増が課題（Reuters）",
+          "summaryLines": [
+            "米防衛分野での新たなサイバー要件により、認証対応や運用体制整備のコスト上昇が指摘された。",
+            "対応が難しい中小企業は、防衛サプライチェーンから排除されるリスクを抱える。",
+            "規制適合そのものが受注要件化し、IT投資の優先順位を押し上げている。"
+          ],
+          "whyImportant": "セキュリティ規制は“コスト”であると同時に“市場参加資格”を決める要因になっているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/aerospace-defense/new-cybersecurity-rules-us-defense-industry-create-barrier-for-some-small-2026-02-20/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Anthropic、中国AI企業によるClaude能力抽出を指摘（Reuters）",
+          "summaryLines": [
+            "Anthropicは、中国の複数AI企業がClaudeの能力を不適切に抽出し自社モデル改善に使ったと主張。",
+            "同社はチップ輸出管理の必要性にも言及し、AI競争が安全保障論点と接続している。",
+            "モデルの“蒸留・模倣”リスクが、商用AIの防御設計と政策議論の中心に浮上した。"
+          ],
+          "whyImportant": "モデル保護・輸出規制・国際競争が一体化し、企業戦略と政策の両面に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/"
+        },
+        {
+          "title": "OpenAI、2030年までの計算資源投資目標は約6000億ドル規模（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、OpenAIが2030年までに約6000億ドルの計算資源支出を見込む計画が示された。",
+            "大規模なインフラ先行投資は、モデル性能競争だけでなく資本調達競争の激化を示す。",
+            "AI競争はアルゴリズムに加え、電力・データセンター・GPU確保の実行力勝負になっている。"
+          ],
+          "whyImportant": "AIの主戦場が“研究開発”から“インフラ資本力”へ拡張し、業界再編圧力を高めるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai-sees-compute-spend-around-600-billion-by-2030-cnbc-reports-2026-02-20/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "米現物ETFでBTC/ETH/XRPは資金流出、SOLのみ純流入（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、米上場の現物ETFではビットコイン・イーサ・XRPが揃って資金流出。",
+            "一方でSolana関連商品は小幅ながら純流入となり、機関投資家の選別姿勢が鮮明化した。",
+            "市場全体からの撤退ではなく、銘柄間ローテーションが進む地合いが示唆される。"
+          ],
+          "whyImportant": "ETFフローは機関投資家のリスク選好を映す先行指標で、短期価格形成に影響が大きいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/19/bitcoin-ether-xrp-etfs-bleed-while-solana-bucks-outflow-trend"
+        },
+        {
+          "title": "トランプ系USD1ステーブルコインが一時0.994ドルへ下振れ後に回復（Reuters）",
+          "summaryLines": [
+            "Reutersによると、トランプ家支援のUSD1は一時的に1ドルペッグを割り込み、のちに回復。",
+            "運営側は攻撃要因を示唆し、ステーブルコインでも短時間の信用不安が起こり得ることを示した。",
+            "価格安定メカニズムと透明性の重要性が改めて注目されている。"
+          ],
+          "whyImportant": "“安定”を前提とする資産の揺らぎは、規制・利用拡大・市場信認に直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/sustainability/boards-policy-regulation/trump-backed-crypto-stablecoin-dips-following-attack-quickly-recovers-2026-02-23/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米関税率の不透明感再燃で、景気見通しに“霧”との指摘（Reuters）",
+          "summaryLines": [
+            "Reutersは、米関税政策の不確実性が再び企業・市場の先行き判断を曇らせていると報道。",
+            "インフレ・投資判断・サプライチェーン再編の見通しが立てづらく、政策の予見可能性が論点化。",
+            "景気の減速・物価・通商が同時に絡む局面で、ボラティリティが高まりやすい。"
+          ],
+          "whyImportant": "通商政策の不確実性は企業計画と市場価格の両方を揺らし、実体経済へ波及しやすいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/with-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23/"
+        },
+        {
+          "title": "米GDP成長は鈍化、同時にインフレ再加熱圧力も残存（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、米国の第4四半期成長が大きく減速し、経済の勢い低下が示された。",
+            "一方でインフレ圧力は残り、金融政策は“景気下支え”と“物価抑制”の両立が難しい局面。",
+            "成長減速と物価動向のミスマッチが、今後の金利・為替見通しを不安定化させる。"
+          ],
+          "whyImportant": "景気減速とインフレ粘着の併存は、中央銀行と市場のシナリオを同時に難しくするため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us/us-economic-growth-slows-sharply-fourth-quarter-2026-02-20/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "観光庁：2025年の国内旅行消費額は26.8兆円で過去最高（観光庁）",
+          "summaryLines": [
+            "観光庁の速報では、2025年の日本人国内旅行消費額は26兆7,746億円（前年比+6.4%）。",
+            "国内旅行単価は48,359円/人で暦年ベース過去最高、旅行者数も前年比+2.5%となった。",
+            "一方で2025年10-12月期は前年同期比でやや減速し、足元の需要変調も示された。"
+          ],
+          "whyImportant": "国内旅行市場は拡大基調を維持しつつ、四半期では鈍化サインもあり需給見極めが重要なため。",
+          "source": "mlit.go.jp (観光庁)",
+          "link": "https://www.mlit.go.jp/kankocho/news02_00074.html"
+        },
+        {
+          "title": "JTB見通し：2026年の国内旅行人数は微減予測、単価上昇で消費額は底堅く推計（JTB）",
+          "summaryLines": [
+            "JTBの2026年見通しでは、国内旅行人数は3億700万人（前年比97.8%）とやや減少予測。",
+            "ただし平均費用は52,900円（同102.9%）と上昇し、総消費額は16兆2,300億円（同100.6%）を見込む。",
+            "人数成長より“単価・体験価値”が事業成長の鍵になる構図が続く。"
+          ],
+          "whyImportant": "国内旅行業界はボリュームより付加価値収益への転換が進み、商品設計に直結するため。",
+          "source": "jtbcorp.jp",
+          "link": "https://www.jtbcorp.jp/jp/newsroom/2026/01/08_jtb_2026-travel-trend-outlook.html"
+        },
+        {
+          "title": "近畿日本ツーリスト、春休み〜GW対象で国内ダイナミックパッケージ割引（トラベルWatch）",
+          "summaryLines": [
+            "近畿日本ツーリストは「2026近ツー春たび」を実施し、交通＋宿泊の国内商品を最大1万円割引。",
+            "予約期間は3/2〜3/31、旅行期間は3/6〜5/31出発で、除外日なしの運用。",
+            "需要期に向けた販促強化が、国内旅行の予約前倒しと価格競争を後押しする。"
+          ],
+          "whyImportant": "繁忙期の販促施策は需要喚起と販売チャネル競争を左右し、旅行単価・稼働率に影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2087274.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：Anthropic、中国AI企業によるClaude能力抽出を指摘（Reuters）",
+    "暗号通貨：USD1ステーブルコインが一時ペッグ割れ後に回復（Reuters）",
+    "日本旅行：観光庁、2025年国内旅行消費額が過去最高（観光庁）"
+  ],
+  "headlines": [
+    {
+      "title": "Anthropic新ツールを受け、CrowdStrike・Datadogなどサイバー株が下落（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/crowdstrike-datadog-other-cybersecurity-stocks-slide-after-anthropics-ai-tool-2026-02-23/",
+      "snippet": "AnthropicのAI関連発表後に一部サイバーセキュリティ銘柄が売られ、AI進化が業界評価軸に影響。"
+    },
+    {
+      "title": "米防衛産業向け新サイバー規則、中小サプライヤーの負担増が課題（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/aerospace-defense/new-cybersecurity-rules-us-defense-industry-create-barrier-for-some-small-2026-02-20/",
+      "snippet": "防衛分野の新サイバー規則で中小の対応負担が増し、サプライチェーン参加要件が厳格化。"
+    },
+    {
+      "title": "Anthropic、中国AI企業によるClaude能力抽出を指摘（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/",
+      "snippet": "Claudeの能力抽出問題が浮上し、モデル保護と輸出規制の議論が加速。"
+    },
+    {
+      "title": "OpenAI、2030年までの計算資源投資目標は約6000億ドル規模（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai-sees-compute-spend-around-600-billion-by-2030-cnbc-reports-2026-02-20/",
+      "snippet": "OpenAIの巨額計算資源投資計画が、AI競争の資本集約化を示す。"
+    },
+    {
+      "title": "米現物ETFでBTC/ETH/XRPは資金流出、SOLのみ純流入（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/19/bitcoin-ether-xrp-etfs-bleed-while-solana-bucks-outflow-trend",
+      "snippet": "暗号資産ETFは選別色が強まり、BTC/ETHから流出する一方でSOLに資金流入。"
+    },
+    {
+      "title": "トランプ系USD1ステーブルコインが一時0.994ドルへ下振れ後に回復（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/trump-backed-crypto-stablecoin-dips-following-attack-quickly-recovers-2026-02-23/",
+      "snippet": "USD1は一時ペッグ割れ後に回復し、ステーブルコインの信認リスクが再注目。"
+    },
+    {
+      "title": "米関税率の不透明感再燃で、景気見通しに“霧”との指摘（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/with-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23/",
+      "snippet": "関税政策の不確実性が企業計画と市場の見通しを曇らせる。"
+    },
+    {
+      "title": "米GDP成長は鈍化、同時にインフレ再加熱圧力も残存（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us/us-economic-growth-slows-sharply-fourth-quarter-2026-02-20/",
+      "snippet": "成長減速とインフレ圧力の併存で金融政策判断が難化。"
+    },
+    {
+      "title": "観光庁：2025年の国内旅行消費額は26.8兆円で過去最高（観光庁）",
+      "source": "mlit.go.jp",
+      "link": "https://www.mlit.go.jp/kankocho/news02_00074.html",
+      "snippet": "国内旅行消費額と旅行単価が暦年過去最高を更新。"
+    },
+    {
+      "title": "JTB見通し：2026年の国内旅行人数は微減予測、単価上昇で消費額は底堅く推計（JTB）",
+      "source": "jtbcorp.jp",
+      "link": "https://www.jtbcorp.jp/jp/newsroom/2026/01/08_jtb_2026-travel-trend-outlook.html",
+      "snippet": "人数減でも単価上昇で国内旅行消費額は微増見込み。"
+    },
+    {
+      "title": "近畿日本ツーリスト、春休み〜GW対象で国内ダイナミックパッケージ割引（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2087274.html",
+      "snippet": "交通＋宿泊商品の割引施策で春の国内需要取り込みを強化。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 11
+  },
+  "generatedAt": "2026-02-24T11:06:00Z"
+}
