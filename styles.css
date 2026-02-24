@@ -29,9 +29,10 @@ main {
   max-width: none;
   margin: 0;
   padding: 1rem;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 256px minmax(0, 1fr);
   gap: 1rem;
+  align-items: start;
 }
 
 .calendar-section, .entry-section {
@@ -39,6 +40,16 @@ main {
   border: 1px solid #1f2937;
   border-radius: 16px;
   padding: 1rem;
+}
+
+.calendar-section {
+  width: 256px;
+  position: sticky;
+  top: 1rem;
+}
+
+.entry-section {
+  min-width: 0;
 }
 
 .calendar-header {
@@ -71,12 +82,12 @@ button:hover { border-color: var(--accent); }
 
 .calendar-grid { margin-top: 0.4rem; }
 .day {
-  min-height: 64px;
+  min-height: 48px;
   background: #0b1220;
   border: 1px solid #1f2937;
   border-radius: 10px;
-  padding: 0.35rem;
-  font-size: 0.92rem;
+  padding: 0.25rem;
+  font-size: 0.88rem;
 }
 .day.empty { opacity: 0.35; }
 .day.has-entry {
@@ -124,4 +135,15 @@ button:hover { border-color: var(--accent); }
 
 .entry-content .item-why {
   color: #cbd5e1;
+}
+
+@media (max-width: 900px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+
+  .calendar-section {
+    width: 100%;
+    position: static;
+  }
 }
