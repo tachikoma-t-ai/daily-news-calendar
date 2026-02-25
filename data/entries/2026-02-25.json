@@ -1,0 +1,237 @@
+{
+  "date": "2026-02-25",
+  "title": "2026-02-25 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Anthropic新ツール発表後、サイバーセキュリティ株が下落（Reuters）",
+          "summaryLines": [
+            "Reutersによると、Anthropicの新AIツール発表後にCrowdStrikeやDatadogなど一部セキュリティ銘柄が下落した。",
+            "AIの高度化で既存セキュリティ製品の差別化が薄れるとの見方が、短期の株価に反映された形。",
+            "企業向けIT投資の評価軸が、AI統合の実装力へシフトしている。"
+          ],
+          "whyImportant": "AI進化がサイバーセキュリティ市場の競争構造と企業価値に直接影響しているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/crowdstrike-datadog-other-cybersecurity-stocks-slide-after-anthropics-ai-tool-2026-02-23/"
+        },
+        {
+          "title": "英政府、同意なき親密画像の48時間以内削除をIT企業に義務化へ（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、英国が同意のない親密画像の48時間以内削除をプラットフォーム企業に求める方針を示した。",
+            "未対応の場合は高額制裁金やサービス遮断リスクがあり、運営側のモデレーション義務が強化される。",
+            "コンテンツ規制は“努力義務”から“時間制約つきの法的義務”へ移行しつつある。"
+          ],
+          "whyImportant": "IT企業の法令順守コストと運用体制（監視・削除・異議申立）が大きく変わるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/litigation/uk-impose-48-hour-online-takedown-rule-nonconsensual-intimate-images-2026-02-18/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Anthropic、新AIツール群を発表し企業導入を加速（Reuters）",
+          "summaryLines": [
+            "Reutersによると、Anthropicは新たなAIツールを発表し、企業での実運用を意識した展開を進めている。",
+            "競争相手のOpenAI・Google・xAIとの機能競争が激化し、導入先企業の選定基準も高度化している。",
+            "モデル性能だけでなく、運用性・連携性・ガバナンスが差別化要因になっている。"
+          ],
+          "whyImportant": "生成AI市場が“デモ段階”から“業務実装段階”へ移り、企業の採用判断に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/anthropic-touts-new-ai-tools-weeks-after-legal-plug-in-spurred-market-rout-2026-02-24/"
+        },
+        {
+          "title": "Anthropic、米軍向け利用制限を維持する姿勢（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、Anthropicが軍事目的での利用制限を緩和しない姿勢を維持し、米国防総省との協議が続いている。",
+            "AIの国家安全保障利用をめぐり、企業の安全方針と政府需要の間に緊張が生じている。",
+            "“どこまで使わせるか”というモデル提供条件自体が、AI戦略の核心になっている。"
+          ],
+          "whyImportant": "AI企業の利用規約が安全保障政策や公共調達にまで影響する局面に入っているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "米現物ビットコインETF、5週連続流出で累計38億ドル流出（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、米上場の現物ビットコインETFから5週連続で資金流出が続き、累計38億ドル規模に達した。",
+            "直近週だけでも3.16億ドルが流出し、機関投資家の慎重姿勢が継続している。",
+            "価格調整局面での需要回復力に対し、市場はまだ確信を持てていない。"
+          ],
+          "whyImportant": "ETFフローは機関投資家のセンチメントを反映し、暗号資産の短中期トレンドに影響するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-etfs-bleed-usd3-8-billion-in-historic-five-week-outflow-streak"
+        },
+        {
+          "title": "テザー時価総額が縮小基調、2か月連続減少の可能性（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskは、最大手ステーブルコインUSDTの時価総額が縮小し、月次で2か月連続減少となる可能性を報じた。",
+            "主要ステーブルコインの供給伸び鈍化は、暗号資産市場全体の流動性回復を遅らせる懸念がある。",
+            "“資金の受け皿”の勢い低下が、相場の上値の重さにつながっている。"
+          ],
+          "whyImportant": "ステーブルコイン供給は市場流動性の土台であり、縮小はリスク資産全体に波及しやすいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/25/leading-stablecoin-tether-shrinks-again-as-market-cap-eyes-second-straight-monthly-drop"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米関税政策の不透明感が再燃、経済見通しに不確実性（Reuters）",
+          "summaryLines": [
+            "Reutersは、米関税率を巡る先行き不透明感が再び強まり、企業と市場の見通しを曇らせていると報じた。",
+            "インフレ、設備投資、サプライチェーン再編の判断が難しくなり、政策の予見可能性が焦点化。",
+            "通商政策が景気・物価・金融市場のボラティリティを同時に押し上げる構図。"
+          ],
+          "whyImportant": "関税の不確実性は企業行動を遅らせ、実体経済と市場の双方に負荷をかけるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/with-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23/"
+        },
+        {
+          "title": "米GDP成長は鈍化、同時にインフレ懸念も継続（Reuters）",
+          "summaryLines": [
+            "Reutersによると、米国の第4四半期成長は減速した一方で、インフレ圧力はなお警戒が必要な状態が続く。",
+            "景気下支えと物価抑制の両立が難しく、金融政策運営は引き続き難所にある。",
+            "“成長減速＋物価粘着”の組み合わせが、金利・為替見通しを不安定化させている。"
+          ],
+          "whyImportant": "景気と物価の方向が揃わない状況は政策判断を難しくし、市場変動を増幅しやすいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us/us-economic-growth-slows-sharply-fourth-quarter-2026-02-20/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "観光庁：2025年の国内旅行消費額は26兆7,746億円で過去最高（観光庁）",
+          "summaryLines": [
+            "観光庁（2026年2月18日公表）によると、2025年の日本人国内旅行消費額は26兆7,746億円（前年比+6.4%）。",
+            "国内延べ旅行者数は5億5,366万人（+2.5%）、国内旅行単価は48,359円/人（+3.8%）で、消費額・単価とも暦年過去最高。",
+            "一方で2025年10-12月期は前年同期比で消費額が-2.6%となり、足元の伸びには鈍化も見られる。"
+          ],
+          "whyImportant": "国内旅行市場は高水準を維持しつつも四半期では変調があり、需要の質的変化を見極める必要があるため。",
+          "source": "mlit.go.jp (観光庁)",
+          "link": "https://www.mlit.go.jp/kankocho/news02_00074.html"
+        },
+        {
+          "title": "近畿日本ツーリスト、春休み〜GW向けに国内ダイナミックパッケージ割引（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、近畿日本ツーリストは「2026近ツー春たび」を3月2日〜31日に実施。",
+            "旅行期間は3月6日〜5月31日出発で、交通＋宿泊の国内商品に対して最大1万円引き（先行は最大1.3万円引き）。",
+            "春の需要期に向け、予約前倒しと会員囲い込みを狙う販促競争が強まっている。"
+          ],
+          "whyImportant": "繁忙期の価格施策は予約時期・販売チャネル・客単価に直接影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2087274.html"
+        },
+        {
+          "title": "JR東海ツアーズ、国内新幹線旅行向け『2WEEK SALE! 2026』を展開",
+          "summaryLines": [
+            "JR東海ツアーズの案内では、2026年2月20日〜3月6日に国内向け2WEEK SALEを実施。",
+            "対象旅行期間は4月10日〜6月30日出発で、東海道新幹線沿線の主要エリア商品を中心に販売。",
+            "交通と宿泊を組み合わせた動的パッケージの販促が、国内近中距離旅行の需要喚起を後押ししている。"
+          ],
+          "whyImportant": "鉄道系パッケージの販促強化は、都市間移動を伴う国内旅行需要の底上げに効くため。",
+          "source": "travel.jr-central.co.jp",
+          "link": "https://travel.jr-central.co.jp/plan/tokushu/2weeksale/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：Anthropic、米軍向け利用制限を維持する姿勢（Reuters）",
+    "暗号通貨：米現物ビットコインETFが5週連続流出（CoinDesk）",
+    "日本旅行：観光庁、2025年国内旅行消費額が過去最高（観光庁）"
+  ],
+  "headlines": [
+    {
+      "title": "Anthropic新ツール発表後、サイバーセキュリティ株が下落（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/crowdstrike-datadog-other-cybersecurity-stocks-slide-after-anthropics-ai-tool-2026-02-23/",
+      "snippet": "Anthropicの新AIツール発表後、セキュリティ関連株が下落しAI統合力の重要性が再認識された。"
+    },
+    {
+      "title": "英政府、同意なき親密画像の48時間以内削除をIT企業に義務化へ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/litigation/uk-impose-48-hour-online-takedown-rule-nonconsensual-intimate-images-2026-02-18/",
+      "snippet": "英国でプラットフォーム規制が強化され、削除対応の時間要件が法的義務化される流れ。"
+    },
+    {
+      "title": "Anthropic、新AIツール群を発表し企業導入を加速（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/anthropic-touts-new-ai-tools-weeks-after-legal-plug-in-spurred-market-rout-2026-02-24/",
+      "snippet": "企業向け生成AIは性能競争に加え、運用性・連携性の勝負へ。"
+    },
+    {
+      "title": "Anthropic、米軍向け利用制限を維持する姿勢（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/",
+      "snippet": "AI企業の安全方針と国家安全保障ニーズの調整が焦点化。"
+    },
+    {
+      "title": "米現物ビットコインETF、5週連続流出で累計38億ドル流出（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-etfs-bleed-usd3-8-billion-in-historic-five-week-outflow-streak",
+      "snippet": "機関投資家の慎重姿勢が続き、ETFフローが弱含み。"
+    },
+    {
+      "title": "テザー時価総額が縮小基調、2か月連続減少の可能性（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/25/leading-stablecoin-tether-shrinks-again-as-market-cap-eyes-second-straight-monthly-drop",
+      "snippet": "ステーブルコイン供給の伸び鈍化が市場流動性の重しに。"
+    },
+    {
+      "title": "米関税政策の不透明感が再燃、経済見通しに不確実性（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/with-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23/",
+      "snippet": "通商政策の不透明感が企業判断と市場見通しを曇らせている。"
+    },
+    {
+      "title": "米GDP成長は鈍化、同時にインフレ懸念も継続（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us/us-economic-growth-slows-sharply-fourth-quarter-2026-02-20/",
+      "snippet": "成長減速と物価圧力の併存で金融政策が難局に。"
+    },
+    {
+      "title": "観光庁：2025年の国内旅行消費額は26兆7,746億円で過去最高（観光庁）",
+      "source": "mlit.go.jp",
+      "link": "https://www.mlit.go.jp/kankocho/news02_00074.html",
+      "snippet": "国内旅行消費額・単価ともに暦年で過去最高を更新。"
+    },
+    {
+      "title": "近畿日本ツーリスト、春休み〜GW向けに国内ダイナミックパッケージ割引（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2087274.html",
+      "snippet": "春需要期に向け最大1万円（先行最大1.3万円）割引を展開。"
+    },
+    {
+      "title": "JR東海ツアーズ、国内新幹線旅行向け『2WEEK SALE! 2026』を展開",
+      "source": "travel.jr-central.co.jp",
+      "link": "https://travel.jr-central.co.jp/plan/tokushu/2weeksale/",
+      "snippet": "4〜6月出発の国内旅行商品で需要喚起キャンペーンを実施。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 11
+  },
+  "generatedAt": "2026-02-25T11:05:00Z"
+}
