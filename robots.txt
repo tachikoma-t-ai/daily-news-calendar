@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tachikoma-t-ai.github.io/daily-news-calendar/sitemap.xml
