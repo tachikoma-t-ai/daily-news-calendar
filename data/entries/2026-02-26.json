@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-26",
+  "title": "2026-02-26 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Salesforce、通期売上見通しが市場予想に届かず株価下落（Reuters）",
+          "summaryLines": [
+            "Reutersによると、Salesforceは四半期見通しは予想を上回った一方、2027年度通期売上ガイダンスが市場予想を下回った。",
+            "企業向けソフトウェア支出の鈍さと、AI基盤への先行投資が収益性への懸念を高め、株価は時間外で下落した。",
+            "SaaS市場では“AI実装競争”と“成長率維持”の両立がより難しくなっている。"
+          ],
+          "whyImportant": "エンタープライズITの需要鈍化シグナルは、クラウド・SaaS全体の業績見通しに波及しやすいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/salesforce-forecasts-quarterly-revenue-above-estimates-2026-02-25/"
+        },
+        {
+          "title": "イスラエルのAIサイバー企業Gambit Securityが6100万ドル調達（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、AI活用型サイバーセキュリティ企業Gambit Securityが6100万ドルの資金調達を実施。",
+            "業界ではAIセキュリティ市場の成長加速（2030年に向けCAGR上振れ）を見込む見方が強まっている。",
+            "生成AI普及に伴い、防御側の自動化・高度化投資が拡大する流れが続く。"
+          ],
+          "whyImportant": "セキュリティ分野への資本流入は、AI時代のIT投資優先順位を示す先行指標になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/embargoed-israeli-ai-cyber-firm-gambit-security-raises-61-million-2026-02-25/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "DeepSeek、次期旗艦モデルを米チップ企業に事前共有せず（Reuters）",
+          "summaryLines": [
+            "Reutersによると、DeepSeekは次期フラッグシップモデルを最適化目的で米チップ企業へ事前開示する慣行を見送った。",
+            "NVIDIAを含む米半導体勢との協調開発プロセスに変化が出ており、米中AIサプライチェーンの分断が意識されている。",
+            "モデル開発と半導体エコシステムの関係が、地政学要因で再編されつつある。"
+          ],
+          "whyImportant": "AIモデル企業と計算基盤企業の連携構造が変わると、性能最適化と供給戦略の両面に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/"
+        },
+        {
+          "title": "米国防分野でAnthropicの安全制約を巡る圧力が強まる（Reuters）",
+          "summaryLines": [
+            "Reutersは、米国防当局側からAnthropicのAI安全ガードレール見直しを求める動きがあると報じた。",
+            "政府利用ニーズと民間AI企業の安全方針の間で、提供条件を巡る摩擦が続いている。",
+            "“高性能化”だけでなく“どの条件で使わせるか”が競争力と政策論点の中心になっている。"
+          ],
+          "whyImportant": "AI提供条件は公共調達・安全保障利用の可否を左右し、企業戦略と規制議論に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/hegseth-gives-anthropic-until-friday-back-down-ai-safeguards-axios-reports-2026-02-24/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン、一時7万ドル接近も失速—アルトが相対的に強い戻り（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、BTCは一時7万ドル目前まで上昇後に反落し、重要レジスタンス突破には至らなかった。",
+            "ETH・SOL・ADA・DOGEなどアルトがBTCを上回って上昇し、短期的なリスク選好回復が示唆された。",
+            "一方でマクロ不安や流動性不足が残り、中期トレンドはなお不安定とされる。"
+          ],
+          "whyImportant": "上昇局面の主導銘柄変化（BTC→アルト）は、短期センチメント改善と同時にボラティリティ上昇を示しやすいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-touches-usd70k-before-fading-as-altcoins-lead-the-strongest-bounce-in-weeks"
+        },
+        {
+          "title": "USDT時価総額が2か月連続で縮小見通し、流動性回復に逆風（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskは、最大手ステーブルコインUSDTの時価総額が2か月連続で減少する公算を報じた。",
+            "主要ステーブルコインの伸び鈍化は、暗号資産市場の“待機資金”の勢い低下を示す。",
+            "ETF需要の弱さと重なることで、戻り相場の持続性に疑問が残る。"
+          ],
+          "whyImportant": "ステーブルコイン供給は市場流動性の基盤であり、収縮は価格回復力を弱める可能性があるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/25/leading-stablecoin-tether-shrinks-again-as-market-cap-eyes-second-straight-monthly-drop"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米関税率の先行き不透明感が再拡大、企業判断を圧迫（Reuters）",
+          "summaryLines": [
+            "Reutersは、米関税率を巡る方針変更の連続が企業の計画策定を難しくしていると報じた。",
+            "輸入コスト・投資計画・採用判断の前提が揺らぎ、景気見通しに“濃い霧”が戻っている。",
+            "政策の予見可能性不足が実体経済の慎重化を招く構図が鮮明。"
+          ],
+          "whyImportant": "通商政策の不確実性は物価・企業収益・設備投資に同時に波及し、景気減速リスクを高めるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/with-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23/"
+        },
+        {
+          "title": "独首相Merz、米関税判断後も『不確実性』継続を警戒（Reuters）",
+          "summaryLines": [
+            "Reutersによると、独首相Merzは米関税判断で一定の負担軽減期待を示しつつ、先行き不透明感の継続を警告した。",
+            "欧州企業は対米通商で“ルール明確化”を求め、投資や供給網再編の判断材料不足が続いている。",
+            "裁定や判決だけでは不確実性が完全には解消しない局面。"
+          ],
+          "whyImportant": "欧米通商の不透明感は製造業・輸出企業の中長期計画に影響し、世界景気の下振れ要因となるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/europe/germanys-merz-expects-lower-tariff-burden-after-us-court-verdict-trump-tariffs-2026-02-21/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JATA『平日に泊まろう！』を2026年度も継続、最大3万円クーポン（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、JATAは平日宿泊を含む国内旅行向けキャンペーンを2026年度も継続する。",
+            "平日1万円以上の旅行商品を対象に、次回利用クーポン（3万円/1万円）が抽選で付与される仕組み。",
+            "週末・繁忙期偏重を緩和し、地方分散や需要平準化を狙う施策として位置づけられている。"
+          ],
+          "whyImportant": "平日シフト施策は、混雑緩和と国内旅行需要の持続的拡大の両立に効くため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2085395.html"
+        },
+        {
+          "title": "2025年の日本人国内延べ旅行者は5.5億人、伸び率は鈍化（時事通信）",
+          "summaryLines": [
+            "時事通信は、観光庁の速報として2025年の国内延べ旅行者数が5億5366万人（前年比+2.5%）だったと報じた。",
+            "旅行消費額・旅行単価は過去最高水準だが、物価高で節約志向が強まり、伸び率は前年より鈍化。",
+            "2026年は国内旅行者数が減少する見通しも示され、価格と需要のバランスが課題になっている。"
+          ],
+          "whyImportant": "国内旅行市場は金額成長と人数停滞が同時進行しており、旅行商品設計や地域集客戦略の見直しが必要なため。",
+          "source": "jiji.com",
+          "link": "https://www.jiji.com/jc/article?k=2026022200248&g=eco"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：DeepSeek、次期旗艦モデルを米チップ企業に事前共有せず（Reuters）",
+    "暗号通貨：ビットコイン一時7万ドル接近も失速、アルトが強い戻り（CoinDesk）",
+    "日本旅行：JATA『平日に泊まろう！』を2026年度も継続（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "Salesforce、通期売上見通しが市場予想に届かず株価下落（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/salesforce-forecasts-quarterly-revenue-above-estimates-2026-02-25/",
+      "snippet": "通期ガイダンスの弱さが示され、AI投資と成長率維持の両立が課題に。"
+    },
+    {
+      "title": "イスラエルのAIサイバー企業Gambit Securityが6100万ドル調達（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/embargoed-israeli-ai-cyber-firm-gambit-security-raises-61-million-2026-02-25/",
+      "snippet": "AIセキュリティ分野への資金流入が継続し、市場成長期待が高まる。"
+    },
+    {
+      "title": "DeepSeek、次期旗艦モデルを米チップ企業に事前共有せず（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/",
+      "snippet": "米中分断を背景に、モデル開発と半導体連携の構図に変化。"
+    },
+    {
+      "title": "米国防分野でAnthropicの安全制約を巡る圧力が強まる（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/hegseth-gives-anthropic-until-friday-back-down-ai-safeguards-axios-reports-2026-02-24/",
+      "snippet": "AI企業の安全方針と政府利用ニーズの緊張が続く。"
+    },
+    {
+      "title": "ビットコイン、一時7万ドル接近も失速—アルトが相対的に強い戻り（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-touches-usd70k-before-fading-as-altcoins-lead-the-strongest-bounce-in-weeks",
+      "snippet": "短期反発が進む一方、重要レジスタンス突破には失敗。"
+    },
+    {
+      "title": "USDT時価総額が2か月連続で縮小見通し、流動性回復に逆風（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/25/leading-stablecoin-tether-shrinks-again-as-market-cap-eyes-second-straight-monthly-drop",
+      "snippet": "ステーブルコイン供給の鈍化が、相場回復の持続性に疑問を投げかける。"
+    },
+    {
+      "title": "米関税率の先行き不透明感が再拡大、企業判断を圧迫（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/with-us-tariff-rates-up-air-economic-fog-again-thickens-2026-02-23/",
+      "snippet": "関税方針の揺れが企業の投資・採用判断を難しくしている。"
+    },
+    {
+      "title": "独首相Merz、米関税判断後も『不確実性』継続を警戒（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/europe/germanys-merz-expects-lower-tariff-burden-after-us-court-verdict-trump-tariffs-2026-02-21/",
+      "snippet": "関税判断後も欧州企業の先行き不安は残る。"
+    },
+    {
+      "title": "JATA『平日に泊まろう！』を2026年度も継続、最大3万円クーポン（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2085395.html",
+      "snippet": "平日需要シフトで混雑緩和と地方分散を狙う国内旅行施策。"
+    },
+    {
+      "title": "2025年の日本人国内延べ旅行者は5.5億人、伸び率は鈍化（時事通信）",
+      "source": "jiji.com",
+      "link": "https://www.jiji.com/jc/article?k=2026022200248&g=eco",
+      "snippet": "消費額は過去最高でも、物価高で旅行者数の伸びは鈍化。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-02-26T11:05:00Z"
+}
