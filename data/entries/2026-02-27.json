@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-27",
+  "title": "2026-02-27 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Meta、GoogleのAIチップ（TPU）を複数年で調達へ（Reuters）",
+          "summaryLines": [
+            "Reutersによると、MetaはGoogleのAIチップを活用する大型契約を結んだと報じられた。",
+            "NVIDIA依存を和らげる動きとして、クラウド/半導体の調達先分散が一段と進んでいる。",
+            "Google Cloud側にとっても、TPU外販拡大は収益成長の重要ドライバーになっている。"
+          ],
+          "whyImportant": "AIインフラの主導権が“GPU一強”から複線化すると、クラウド競争と企業のコスト構造に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/google-signs-multibillion-dollar-ai-chip-deal-with-meta-information-reports-2026-02-26/"
+        },
+        {
+          "title": "NTTデータ、インドの人員を年内に5000人増員方針（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、NTTデータがインド拠点の人員を約5000人増やす計画を示した。",
+            "ソフトウェア開発、コンサル、ITサポートの体制強化を通じて、需要増への対応を急ぐ。",
+            "グローバルITサービス企業の“人材確保競争”が引き続き高水準で推移している。"
+          ],
+          "whyImportant": "大規模増員は、企業向けIT需要の中期見通しとオフショア開発戦略の強気シグナルになるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/india/ntt-data-boost-india-headcount-by-5000-this-year-exec-says-2026-02-27/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、ロンドンを米国外最大の研究拠点へ（Reuters）",
+          "summaryLines": [
+            "Reutersによると、OpenAIはロンドンを米国外で最大の研究ハブにする方針を示した。",
+            "英国の研究人材とスタートアップエコシステムを活用し、開発体制を拡大する狙い。",
+            "AI企業の地域分散投資が、各国の人材・規制環境を巡る競争を強めている。"
+          ],
+          "whyImportant": "研究拠点の再配置は、AI人材獲得と各地域での政策・産業連携の勢力図を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/"
+        },
+        {
+          "title": "Anthropic、米国防総省の安全策緩和要求を拒否（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、Anthropicが国防分野向けの安全ガードレール緩和要求に応じない姿勢を示した。",
+            "政府利用ニーズとAI企業の安全方針のあいだで、提供条件を巡る緊張が続いている。",
+            "高性能化だけでなく、利用制約そのものが競争戦略の中心論点になっている。"
+          ],
+          "whyImportant": "公共調達での採用可否は、AI企業の売上機会だけでなく安全基準の実務標準化にも影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/sustainability/society-equity/anthropic-rejects-pentagons-requests-ai-safeguards-dispute-ceo-says-2026-02-26/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "米国の現物ビットコインETF、3日で11億ドル流入（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、米現物BTC ETFは3営業日で約11億ドルの純流入となり、週次で1月以来の強さ。",
+            "BlackRockのIBITが流入の中心で、Coinbase Premium指数の改善も米国需要の回復を示唆。",
+            "先物建玉は低下しており、裁定取引より現物志向の資金が増えている可能性がある。"
+          ],
+          "whyImportant": "ETFフローの改善は、ビットコイン相場の需給転換点を示す先行指標になりやすいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/27/u-s-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-usd1-1-billion-in-three-days"
+        },
+        {
+          "title": "ビットコイン、7万ドル到達後に6.7万ドル割れへ反落（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskは、BTCが前日の上昇を急速に吐き出し、6.7万ドルを割り込んだと報じた。",
+            "ナスダック下落やNVIDIA決算後のリスクオフが重なり、ETHやSOLも連れ安となった。",
+            "短期的には株式市場との連動が再び強まり、ボラティリティが高い地合いが続く。"
+          ],
+          "whyImportant": "暗号資産の上値追いにはマクロ環境の安定が不可欠で、株式連動の強まりは下振れリスクを増幅するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-falls-back-below-usd67-000-rapidly-giving-back-wednesday-s-gains"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "東京コアCPI、約16か月ぶりに日銀2%目標を下回る（Reuters）",
+          "summaryLines": [
+            "Reutersによると、2月の東京都区部コアCPI上昇率は2%を下回り、食料価格の伸び鈍化が背景。",
+            "家計には一定の負担緩和となる一方、日銀の追加利上げ説明は難しさを増す局面になった。",
+            "物価と賃金のバランスをどう評価するかが、今後の政策運営の焦点になっている。"
+          ],
+          "whyImportant": "日本の金融政策見通しは為替・債券・家計マインドに波及し、国内景気の方向感を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/core-inflation-japans-capital-slows-falling-below-central-banks-2-target-2026-02-26/"
+        },
+        {
+          "title": "米関税の混乱、なお新興国成長を直撃せず（EBRD見通し、Reuters）",
+          "summaryLines": [
+            "Reutersは、EBRDが米関税を巡る混乱の影響を注視しつつも、新興国成長は当面下支えされると見ていると報じた。",
+            "インフラ投資やインフレ鈍化が景気を支える一方、通商の不確実性は依然として重石。",
+            "政策変動が長引けば、企業の投資判断やサプライチェーン再編に遅行的な影響が出る可能性がある。"
+          ],
+          "whyImportant": "関税ショックの波及度は、世界の資本フローと輸出主導国の景気に広く影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/trump-tariff-turmoil-yet-dent-emerging-countries-growth-ebrd-says-2026-02-26/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JAL、国内航空券＋ホテルのタイムセールを開始（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、JALは国内ダイナミックパッケージを対象に2月26日〜3月12日でセールを実施。",
+            "対象宿泊は2月27日〜2027年2月7日で、JMB会員向けに最大3万円引きクーポンなどを提供する。",
+            "観光オプションやレンタカー割引も同時展開し、国内旅行の総額抑制を狙う施策となっている。"
+          ],
+          "whyImportant": "交通・宿泊のセット割拡大は、物価高下で落ち込みやすい国内旅行需要の下支えにつながるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2088932.html"
+        },
+        {
+          "title": "ANA、GW国内線セールを『ANAにキュン！』で実施（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、ANAは2月28日のキャンペーンでGW搭乗分の国内線運賃セールを実施する。",
+            "羽田〜新千歳・伊丹・福岡・那覇など主要路線を対象に、通常より割安な運賃を提示。",
+            "国内DP向け最大2万円クーポンやホテル・レンタカー割引も合わせ、需要喚起を図る。"
+          ],
+          "whyImportant": "大型連休の移動コスト低下は予約の前倒しを促し、航空・宿泊双方の稼働計画に影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2088074.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Meta、GoogleのAIチップ（TPU）を複数年で調達へ（Reuters）",
+    "暗号通貨：米国の現物ビットコインETF、3日で11億ドル流入（CoinDesk）",
+    "日本旅行：JAL、国内航空券＋ホテルのタイムセールを開始（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "Meta、GoogleのAIチップ（TPU）を複数年で調達へ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/google-signs-multibillion-dollar-ai-chip-deal-with-meta-information-reports-2026-02-26/",
+      "snippet": "AIインフラ調達の分散が進み、クラウド競争の構図に変化。"
+    },
+    {
+      "title": "NTTデータ、インドの人員を年内に5000人増員方針（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/india/ntt-data-boost-india-headcount-by-5000-this-year-exec-says-2026-02-27/",
+      "snippet": "開発・運用体制拡充で、グローバルIT需要への対応を強化。"
+    },
+    {
+      "title": "OpenAI、ロンドンを米国外最大の研究拠点へ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/",
+      "snippet": "AI研究拠点の地域分散が人材獲得競争を加速。"
+    },
+    {
+      "title": "Anthropic、米国防総省の安全策緩和要求を拒否（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/sustainability/society-equity/anthropic-rejects-pentagons-requests-ai-safeguards-dispute-ceo-says-2026-02-26/",
+      "snippet": "公共調達でAI安全基準を巡る綱引きが続く。"
+    },
+    {
+      "title": "米国の現物ビットコインETF、3日で11億ドル流入（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/27/u-s-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-usd1-1-billion-in-three-days",
+      "snippet": "米国需要の回復が示唆され、週次フローが改善。"
+    },
+    {
+      "title": "ビットコイン、7万ドル到達後に6.7万ドル割れへ反落（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-falls-back-below-usd67-000-rapidly-giving-back-wednesday-s-gains",
+      "snippet": "株安連動で短期ボラティリティが再拡大。"
+    },
+    {
+      "title": "東京コアCPI、約16か月ぶりに日銀2%目標を下回る（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/core-inflation-japans-capital-slows-falling-below-central-banks-2-target-2026-02-26/",
+      "snippet": "物価鈍化が進み、日銀コミュニケーションが難化。"
+    },
+    {
+      "title": "米関税の混乱、なお新興国成長を直撃せず（EBRD見通し、Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/trump-tariff-turmoil-yet-dent-emerging-countries-growth-ebrd-says-2026-02-26/",
+      "snippet": "通商不確実性は残るが、当面の成長は下支えされる見通し。"
+    },
+    {
+      "title": "JAL、国内航空券＋ホテルのタイムセールを開始（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2088932.html",
+      "snippet": "最大3万円引きクーポンなどで国内旅行需要を喚起。"
+    },
+    {
+      "title": "ANA、GW国内線セールを『ANAにキュン！』で実施（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2088074.html",
+      "snippet": "GW対象の運賃施策とパッケージ割引を同時展開。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-02-27T11:05:00Z"
+}
