@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-28",
+  "title": "2026-02-28 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Salesforce、通期見通しは市場予想下回りもAI起点の売上目標を上方修正（Reuters）",
+          "summaryLines": [
+            "Reutersによると、Salesforceは四半期売上見通しは強めだった一方、通期見通しが市場予想を下回り株価が下落した。",
+            "同社はAgentic AIを成長ドライバーに、2030年売上目標を600億ドル超から630億ドルへ引き上げた。",
+            "短期の業績懸念と、中長期のAI成長期待が同時に織り込まれる展開となっている。"
+          ],
+          "whyImportant": "エンタープライズSaaSの評価軸が、足元の成長率からAIによる将来収益の実現性へ移っているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/salesforce-forecasts-quarterly-revenue-above-estimates-2026-02-25/"
+        },
+        {
+          "title": "Dell、AIサーバー売上“倍増”見通しで株価上昇（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、DellがAIサーバー売上の倍増見通しを示し、株価は約3か月ぶり高値圏に上昇した。",
+            "企業向けとTier2クラウド向けのAI計算需要が、同社の業績見通しを押し上げる構図。",
+            "AIインフラ需要が、従来型PC市況の波を補う主要テーマとして定着している。"
+          ],
+          "whyImportant": "AIインフラ投資の継続は、ハードウェア企業の収益サイクルを左右する先行指標になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/dell-shares-jump-forecast-it-will-double-ai-server-revenue-2026-02-27/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、1100億ドル規模の資金調達ラウンドにAmazon/NVIDIA/SoftBankが参加（Reuters）",
+          "summaryLines": [
+            "Reutersによると、OpenAIの大型調達ラウンドにAmazon、NVIDIA、SoftBankが参加した。",
+            "報道ベースではSoftBank 300億ドル、NVIDIA 300億ドル、Amazon 500億ドルの構成とされる。",
+            "主要プラットフォーマーと半導体企業が、AIの中核プレイヤーへ直接資本投入する流れが強まっている。"
+          ],
+          "whyImportant": "資本規模の拡大はモデル開発競争を加速させ、クラウド・半導体・アプリ層の勢力図を再編するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/retail-consumer/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-2026-02-27/"
+        },
+        {
+          "title": "Anthropic、米国防総省のサプライチェーンリスク指定を提訴へ（Reuters）",
+          "summaryLines": [
+            "Reutersによると、Anthropicは国防総省による“供給網リスク”指定を不服として法廷で争う方針を示した。",
+            "同日には米政府機関との取引停止指示も報じられ、政府調達とAI安全方針の対立が深まっている。",
+            "AI企業と公的機関の関係は、技術力だけでなく統治・コンプライアンスが焦点になっている。"
+          ],
+          "whyImportant": "公共調達での扱いは、AI企業の収益機会と“安全基準の実務ルール”の形成に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン、一時7万ドル接近後に反落もアルトが相対的に強含み（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、BTCは一時7万ドル目前まで上昇後に6.8万ドル台へ反落した。",
+            "一方でETH、SOL、ADA、DOGEなど主要アルトがBTCを上回る上昇率を記録。",
+            "2月急落時の強制清算圧力が薄れ、よりリスク許容度の高い銘柄へ資金が回る動きが示唆された。"
+          ],
+          "whyImportant": "主導銘柄がBTCからアルトへ広がる局面は、相場のリスク選好回復を測るシグナルになりやすいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-touches-usd70k-before-fading-as-altcoins-lead-the-strongest-bounce-in-weeks"
+        },
+        {
+          "title": "ビットコイン、株式のリスクオフ連動で下落も週次ではプラス維持（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskは、NVIDIA決算後の株式リスクオフを受けてBTCが6.7万ドル台へ下落したと報じた。",
+            "ETHも同様に軟調だったが、SOLやADAなどは週次で上昇を維持し、全面崩れは回避。",
+            "足元の下げは構造的トレンド転換というより、レバレッジ調整の色合いが強いとの見方が出ている。"
+          ],
+          "whyImportant": "暗号資産が“マクロ連動資産”として動く局面では、株式ボラティリティが短期価格を大きく左右するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米PPI、1月は予想以上に上昇（Reuters）",
+          "summaryLines": [
+            "Reutersによると、米1月生産者物価指数（PPI）は市場予想を上回る伸びとなった。",
+            "食品・エネルギーを除く財価格の上昇が強く、関税コスト転嫁の影響が示唆されている。",
+            "インフレ再加速懸念を通じて、金利・為替・株式の見通しに再び不確実性が高まった。"
+          ],
+          "whyImportant": "上流物価の粘着性は、今後の消費者物価と金融政策の方向性を左右する先行材料になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/us-producer-prices-increase-more-than-expected-january-2026-02-27/"
+        },
+        {
+          "title": "IMF専務理事、米経済の底堅さと雇用創出継続に言及（Reuters）",
+          "summaryLines": [
+            "Reuters報道では、IMFのゲオルギエワ専務理事が米経済の強さと雇用創出継続への見方を示した。",
+            "生産性改善や新規企業の成長が下支え要因とされる一方、通商政策は下振れ要因として意識される。",
+            "景気の強さと政策不確実性が併存する“まだら模様”のマクロ環境が続いている。"
+          ],
+          "whyImportant": "国際機関の景気評価は、企業投資判断と市場のリスク選好に広く影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/markets/us/imf-expects-us-economy-strengthen-create-jobs-managing-director-tells-fox-2026-02-27/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ANA、GW搭乗分の国内線タイムセールを実施（TRAICY）",
+          "summaryLines": [
+            "TRAICYによると、ANAは「ANAにキュン！」企画として2月28日に国内線セールを実施した。",
+            "羽田〜伊丹・松山・新千歳・福岡・那覇などで片道最低運賃を提示し、搭乗期間は5月2日〜6日。",
+            "大型連休直撃の販促で、価格感度の高い需要を早期取り込みする動きが鮮明。"
+          ],
+          "whyImportant": "GWの運賃施策は、需要の前倒し予約と宿泊・地域消費の動向に波及しやすいため。",
+          "source": "traicy.com",
+          "link": "https://www.traicy.com/posts/20260228364166/"
+        },
+        {
+          "title": "ANA、2026年に新たな『ポケモンジェット』3機を就航へ（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、ANAとポケモンは30周年記念で赤・緑・青の特別塗装機3機を2026年中に投入する。",
+            "約10年ぶりに国内線への投入も予定され、国際線と合わせてブランド体験を強化する方針。",
+            "機材そのものを観光・移動需要喚起のコンテンツ化する戦略が進んでいる。"
+          ],
+          "whyImportant": "航空会社のIP連携は、運賃競争だけでない“選ばれる理由”を作る重要施策になっているため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2088784.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：OpenAI、1100億ドル規模の資金調達ラウンドにAmazon/NVIDIA/SoftBankが参加（Reuters）",
+    "時事・経済：米PPI、1月は予想以上に上昇（Reuters）",
+    "日本旅行：ANA、GW搭乗分の国内線タイムセールを実施（TRAICY）"
+  ],
+  "headlines": [
+    {
+      "title": "Salesforce、通期見通しは市場予想下回りもAI起点の売上目標を上方修正（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/salesforce-forecasts-quarterly-revenue-above-estimates-2026-02-25/",
+      "snippet": "短期の業績警戒と、AIによる中長期成長期待が併存。"
+    },
+    {
+      "title": "Dell、AIサーバー売上“倍増”見通しで株価上昇（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/dell-shares-jump-forecast-it-will-double-ai-server-revenue-2026-02-27/",
+      "snippet": "AIインフラ需要がハードウェア業績の追い風に。"
+    },
+    {
+      "title": "OpenAI、1100億ドル規模の資金調達ラウンドにAmazon/NVIDIA/SoftBankが参加（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/retail-consumer/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-2026-02-27/",
+      "snippet": "巨大資本の集中でAI競争がさらに加速。"
+    },
+    {
+      "title": "Anthropic、米国防総省のサプライチェーンリスク指定を提訴へ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/",
+      "snippet": "政府調達とAIガバナンスの対立が表面化。"
+    },
+    {
+      "title": "ビットコイン、一時7万ドル接近後に反落もアルトが相対的に強含み（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/26/bitcoin-touches-usd70k-before-fading-as-altcoins-lead-the-strongest-bounce-in-weeks",
+      "snippet": "アルト優位の上昇でリスク選好回復の兆し。"
+    },
+    {
+      "title": "ビットコイン、株式のリスクオフ連動で下落も週次ではプラス維持（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains",
+      "snippet": "下落はレバレッジ調整の色合いが強いとの見方。"
+    },
+    {
+      "title": "米PPI、1月は予想以上に上昇（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/us-producer-prices-increase-more-than-expected-january-2026-02-27/",
+      "snippet": "関税転嫁の影響が示唆され、インフレ懸念が再燃。"
+    },
+    {
+      "title": "IMF専務理事、米経済の底堅さと雇用創出継続に言及（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/markets/us/imf-expects-us-economy-strengthen-create-jobs-managing-director-tells-fox-2026-02-27/",
+      "snippet": "景気の強さと政策不確実性が併存する局面。"
+    },
+    {
+      "title": "ANA、GW搭乗分の国内線タイムセールを実施（TRAICY）",
+      "source": "traicy.com",
+      "link": "https://www.traicy.com/posts/20260228364166/",
+      "snippet": "大型連休向けに主要路線の割安運賃を提示。"
+    },
+    {
+      "title": "ANA、2026年に新たな『ポケモンジェット』3機を就航へ（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2088784.html",
+      "snippet": "国内線にも再投入し、旅行体験価値を強化。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-02-28T11:08:00Z"
+}
