@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-01",
+  "title": "2026-03-01 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "アングル：IT・コンサル株の急落は一服、市場は『AI耐性』の選別局面へ（Reuters）",
+          "summaryLines": [
+            "ロイターは、Anthropicの新機能をきっかけに売られていたSaaS・コンサル株が、過度な悲観の後退で買い戻されたと報じた。",
+            "AIで代替されやすい業務と、独自データや業務設計力で残る業務の見極めが進み、銘柄間の差が広がっている。",
+            "『関連株が一律で売られる局面』から『耐性に応じた評価』へ市場の焦点が移っている。"
+          ],
+          "whyImportant": "日本のIT企業評価が“AIテーマ”の期待先行から、収益構造の強さを問う実力相場に移る兆しだから。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/F4IVMCXVNZJBNPKIE2LNJETVW4-2026-02-26/"
+        },
+        {
+          "title": "『ITエンジニア本大賞 2026』発表、AIエージェント関連書籍が上位に（CodeZine）",
+          "summaryLines": [
+            "CodeZineによると、ITエンジニア本大賞2026のプレゼン大会が開催され、技術書・ビジネス書の大賞が決定した。",
+            "技術書候補にはAIエージェント開発・運用や実践導入に関する書籍が並び、現場実装への関心の高さが示された。",
+            "学習テーマが『基礎理論』と『AI運用実務』の両輪に広がっている点が特徴。"
+          ],
+          "whyImportant": "IT人材育成の主戦場が、単なるツール利用からAIエージェントの実装・運用力へ移っているため。",
+          "source": "codezine.jp",
+          "link": "https://codezine.jp/article/detail/23452"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、米国防総省と機密環境でのAI展開に合意（Impress Watch）",
+          "summaryLines": [
+            "Impress Watchによると、OpenAIは米国防総省と機密環境向けAI展開で合意し、安全対策付きの運用条件を提示した。",
+            "国内大規模監視・自律兵器制御・高リスク自動意思決定への不使用を明示し、契約上の保護措置を強調している。",
+            "公共安全保障分野でのAI導入が、性能競争だけでなく契約ガバナンス競争に入った。"
+          ],
+          "whyImportant": "国家案件への実装ルールが、民間AIの標準的な安全要件にも波及する可能性が高いため。",
+          "source": "watch.impress.co.jp",
+          "link": "https://www.watch.impress.co.jp/docs/news/2089493.html"
+        },
+        {
+          "title": "Anthropic、米国防総省の要求を拒否し安全境界を維持（Impress Watch）",
+          "summaryLines": [
+            "Anthropicは、国防向け活用を続けつつも『国内大規模監視』『完全自律型兵器』に関わる要求への譲歩を拒否した。",
+            "同社は民主主義的価値と安全性を理由に、契約継続よりもセーフガード維持を優先する姿勢を示した。",
+            "AI企業の“どこまで許容するか”という倫理線が、事業リスクと直結する局面になっている。"
+          ],
+          "whyImportant": "AIの軍事・公共利用で企業ごとの許容範囲が明確化し、業界全体の規範形成を左右するため。",
+          "source": "watch.impress.co.jp",
+          "link": "https://www.watch.impress.co.jp/docs/news/2089161.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン、7万ドルで失速　米雇用統計と法案論点が短期材料に（CoinPost）",
+          "summaryLines": [
+            "CoinPostの週次分析では、BTCは7万ドル近辺で上値を抑えられ、米株のリスク選好変化に連動しやすい地合いが続いた。",
+            "現物ETFフローは一時改善したが、雇用統計や米政策金利見通し次第で再び不安定化する可能性が示唆された。",
+            "加えてステーブルコイン関連法案の進展遅れが、短期の不確実性として意識されている。"
+          ],
+          "whyImportant": "暗号資産の短期価格が、オンチェーン要因より米マクロ指標と政策イベントに左右される局面だから。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=691744"
+        },
+        {
+          "title": "週次主要材料：BTC小幅高、ETH/SOL優位、ETFフローと規制動向に注目（CoinPost）",
+          "summaryLines": [
+            "CoinPostの週間まとめでは、前週比でBTCは小幅上昇、ETHとSOLが相対的に強含む構図が示された。",
+            "米現物BTC ETFの資金流入回復、機関投資家のポジション調整、主要企業の保有・売却動向などが主要材料となった。",
+            "市場は単一材料ではなく、資金フロー・規制・企業行動の複合要因で方向感を探っている。"
+          ],
+          "whyImportant": "相場判断において、価格だけでなくETF資金動向と制度面の同時監視が不可欠になっているため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=691595"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "FRBを巡る政治対立は中央銀行への信頼を損ねる＝アトランタ連銀総裁（Reuters）",
+          "summaryLines": [
+            "ロイターによると、ボスティック総裁はFRBの独立性を巡る政治的対立が国民の信頼を損なうと警告した。",
+            "中央銀行の信認低下は、米国の経済パフォーマンスや国際的な金融的地位にも影響し得ると指摘。",
+            "金融政策の効果は政策内容だけでなく、制度への信頼維持に左右されることが再確認された。"
+          ],
+          "whyImportant": "インフレ・金利局面では、政策の実効性そのものが“中央銀行の独立性”に依存するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/UTBQZC3CZJJI7OT2CJ6GTVAVRI-2026-02-25/"
+        },
+        {
+          "title": "黒田前日銀総裁、追加緩和に警鐘『財政・金融を吹かせばインフレ高進』（Reuters）",
+          "summaryLines": [
+            "ロイターのインタビューで黒田前総裁は、日本経済が底堅い現状で追加的な財政・金融拡張はインフレを押し上げると述べた。",
+            "日銀の政策金利は1〜2年かけて中立水準へ段階的に引き上げるのが望ましいとの見方を示した。",
+            "財政拡張とインフレ期待の関係、金利・為替への波及を巡る議論が改めて焦点となっている。"
+          ],
+          "whyImportant": "日本の政策運営が“景気下支え”から“インフレ管理と正常化”へ移行する転換点を示す発言だから。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/opinion/YGHJP6FKT5KPJJ5R7M2DYHHYZM-2026-02-25/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR『北海道＆東日本パス』春季利用が開始、7日間乗り放題（トラベルWatch）",
+          "summaryLines": [
+            "JR北海道・JR東日本は『北海道＆東日本パス』春季分を3月1日から利用開始し、4月16日まで発売する。",
+            "普通列車自由席が連続7日間乗り放題で、北日本広域周遊のコストを抑えやすい商品設計となっている。",
+            "価格改定を挟みつつ、春の長距離・周遊需要の取り込みを狙う施策。"
+          ],
+          "whyImportant": "鉄道パス施策は、地方周遊の実需要と滞在型消費を押し上げる起点になりやすいため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2087828.html"
+        },
+        {
+          "title": "ANA『ANAにキュン！』でGW国内線セール、航空券＋宿泊の割引も拡充（トラベルWatch）",
+          "summaryLines": [
+            "ANA Xは2月28日の『ANAにキュン！』で、GW（5月2日〜6日）搭乗分の国内線セールを中心に11企画を展開した。",
+            "国内ダイナミックパッケージ向け最大2万円引きや、ホテル・レンタカー割引など周辺商材も同時に訴求。",
+            "単体航空券だけでなく旅行全体の客単価を高める販売戦略が鮮明。"
+          ],
+          "whyImportant": "GW前の価格施策は予約の前倒しと国内観光需要の分配に大きく影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2089290.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：OpenAI、米国防総省と機密環境でのAI展開に合意（Impress Watch）",
+    "時事・経済：黒田前日銀総裁、追加緩和に警鐘『財政・金融を吹かせばインフレ高進』（Reuters）",
+    "日本旅行：JR『北海道＆東日本パス』春季利用が開始、7日間乗り放題（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "アングル：IT・コンサル株の急落は一服、市場は『AI耐性』の選別局面へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/F4IVMCXVNZJBNPKIE2LNJETVW4-2026-02-26/",
+      "snippet": "AI代替懸念の一律売りから、企業ごとの耐性評価へ。"
+    },
+    {
+      "title": "『ITエンジニア本大賞 2026』発表、AIエージェント関連書籍が上位に（CodeZine）",
+      "source": "codezine.jp",
+      "link": "https://codezine.jp/article/detail/23452",
+      "snippet": "AI実装・運用スキルへの学習シフトが鮮明。"
+    },
+    {
+      "title": "OpenAI、米国防総省と機密環境でのAI展開に合意（Impress Watch）",
+      "source": "watch.impress.co.jp",
+      "link": "https://www.watch.impress.co.jp/docs/news/2089493.html",
+      "snippet": "安全対策付きで公共安全保障領域への導入を拡大。"
+    },
+    {
+      "title": "Anthropic、米国防総省の要求を拒否し安全境界を維持（Impress Watch）",
+      "source": "watch.impress.co.jp",
+      "link": "https://www.watch.impress.co.jp/docs/news/2089161.html",
+      "snippet": "監視・自律兵器への不使用方針を堅持。"
+    },
+    {
+      "title": "ビットコイン、7万ドルで失速　米雇用統計と法案論点が短期材料に（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=691744",
+      "snippet": "米マクロと政策イベントがBTC上値を抑制。"
+    },
+    {
+      "title": "週次主要材料：BTC小幅高、ETH/SOL優位、ETFフローと規制動向に注目（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=691595",
+      "snippet": "資金フロー・規制・企業行動の複合相場が続く。"
+    },
+    {
+      "title": "FRBを巡る政治対立は中央銀行への信頼を損ねる＝アトランタ連銀総裁（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/UTBQZC3CZJJI7OT2CJ6GTVAVRI-2026-02-25/",
+      "snippet": "金融政策の実効性に“制度信認”が直結。"
+    },
+    {
+      "title": "黒田前日銀総裁、追加緩和に警鐘『財政・金融を吹かせばインフレ高進』（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/opinion/YGHJP6FKT5KPJJ5R7M2DYHHYZM-2026-02-25/",
+      "snippet": "日本の政策論点は正常化とインフレ管理へ。"
+    },
+    {
+      "title": "JR『北海道＆東日本パス』春季利用が開始、7日間乗り放題（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2087828.html",
+      "snippet": "広域周遊の交通コスト低減で春需要を喚起。"
+    },
+    {
+      "title": "ANA『ANAにキュン！』でGW国内線セール、航空券＋宿泊の割引も拡充（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2089290.html",
+      "snippet": "GW需要を前倒し獲得する販促を展開。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-01T11:03:00Z"
+}
