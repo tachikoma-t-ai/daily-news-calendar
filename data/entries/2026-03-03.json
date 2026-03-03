@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-03",
+  "title": "2026-03-03 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "アップル、iPhone 17eを発表　ストレージ倍増で価格据え置き（Reuters）",
+          "summaryLines": [
+            "Appleは低価格帯モデル『iPhone 17e』を発表し、米国価格を599ドルから据え置いた。",
+            "256GBを同価格帯で提供し、前世代から実質的な値下げ効果があるとアナリストは指摘。",
+            "A19チップや新型モデム、MagSafe対応を加え、競争が激しいスマホ市場でシェア防衛を狙う。"
+          ],
+          "whyImportant": "価格維持と性能強化の両立は、消費者の買い替え需要とスマホ市場全体の競争環境に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/us/IDI5EWVTZVIPTLSKTYALL34YKQ-2026-03-03/"
+        },
+        {
+          "title": "アマゾン、スペインのデータセンター・AIに180億ユーロ追加投資（Reuters）",
+          "summaryLines": [
+            "Amazonはスペインでデータセンター拡張とAI基盤強化に向け、180億ユーロの追加投資を表明した。",
+            "同国への総投資は337億ユーロ規模となり、2035年までに最大3万人の雇用創出を見込む。",
+            "AWS拠点の大型投資を通じ、スペインを欧州事業のAI中核に位置づける方針を示した。"
+          ],
+          "whyImportant": "クラウドとAIインフラの地域分散が進む中、欧州のデータ主権・雇用・企業IT投資に影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/4U2MQSOS5NNORKPCFSU6YZVAGU-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、米国防総省との契約に追加条項を協議（Reuters）",
+          "summaryLines": [
+            "OpenAIのアルトマンCEOは、米国防総省との契約内容を修正する協議を進めていると明らかにした。",
+            "追加条項では、同社サービスの利用範囲や情報機関による利用可否の明確化を図るとしている。",
+            "機密ネットワーク導入契約の発表後、AIの安全原則を契約実務へ落とし込む局面に入った。"
+          ],
+          "whyImportant": "政府調達でAI安全方針が契約条項として具体化されるかは、今後の公共分野導入の標準に関わるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/"
+        },
+        {
+          "title": "米政府機関、Anthropic製品の使用停止　国務省はOpenAIへ切替（Reuters）",
+          "summaryLines": [
+            "米財務省・国務省・FHFAは、Anthropic製品の利用停止を進め、国務省はGPT-4.1への切替方針を示した。",
+            "背景には政府側の指示と、AI安全対策を巡る企業・当局間の対立があると報じられている。",
+            "一部機関には移行期間が設けられ、官公庁のAI基盤選定が政策リスクと一体で進む構図が鮮明になった。"
+          ],
+          "whyImportant": "モデル性能だけでなく、政策整合性と供給リスク管理がAIベンダー選定の主要条件になっているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/us-politics/ZGZA727MUZO77LZMKV5L4HGTH4-2026-03-02/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "米仮想通貨市場構造法案、3月の上院審議へ再挑戦（CoinPost）",
+          "summaryLines": [
+            "米『クラリティー法案』を巡る交渉は、3月1日の合意期限を超えて継続し、上院審議は3月中下旬に持ち越し。",
+            "ステーブルコイン利回りの扱いを巡り、銀行業界と暗号資産業界の溝が主要な争点となっている。",
+            "SEC/CFTCの監督区分を明確化する法案だけに、成立時期が市場の制度的不透明感を左右する状況だ。"
+          ],
+          "whyImportant": "米国規制の進展はグローバルな上場・資金流入・取引所運営に波及し、暗号市場全体の前提を変えるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692141"
+        },
+        {
+          "title": "日本免税とJPYC、ステーブルコイン活用の免税還付モデルで提携（CoinPost）",
+          "summaryLines": [
+            "日本免税とJPYCは、2026年11月に予定される免税リファンド方式移行を見据えた業務提携を発表した。",
+            "JPYCを使うことで、店頭での口座・カード情報取得を省き、税関承認後の即時還付を目指す。",
+            "訪日客向け還付の効率化や不正抑止、将来的なJESTA連携まで含む実装構想が示された。"
+          ],
+          "whyImportant": "暗号資産技術が投機以外の実需（観光・決済・行政手続き）に広がる実証ケースとして注目されるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692204"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "高市首相、エネルギー価格の物価影響を注視　補正予算は『ゼロではない』（Reuters）",
+          "summaryLines": [
+            "中東情勢の緊迫化を受け、高市首相はエネルギー価格変動の物価波及を注視する姿勢を示した。",
+            "LNG価格上昇でも直ちに電気・ガス料金に反映されないとしつつ、長期化時の補正予算編成にも言及。",
+            "供給面では在庫や代替調達で短期対応可能との認識だが、政策判断の柔軟性を残した。"
+          ],
+          "whyImportant": "エネルギー価格・家計負担・財政対応が同時に動く局面で、政策メッセージが市場と生活コストを左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/FZAXVVPQPRPBHHF64HW4SO6YCU-2026-03-03/"
+        },
+        {
+          "title": "原油先物が3日続伸　中東情勢で供給リスク懸念高まる（Reuters）",
+          "summaryLines": [
+            "アジア時間の原油先物は3営業日続伸し、ブレント・WTIともに上昇基調が続いた。",
+            "米・イスラエルによる攻撃とホルムズ海峡の輸送リスクを背景に、供給途絶懸念が再燃。",
+            "市場では緊張緩和の見通しが立たない限り、上振れリスクが残るとの見方が強まっている。"
+          ],
+          "whyImportant": "原油高は輸入国日本の物価・企業コスト・実質所得に波及し、景気見通しを下押ししうるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/commodities/GMIEY4AUJZISVG2RW4HVG7ZVWY-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR西日本QR2dayパス、2027年春まで延長　関西2日間乗り放題（トラベルWatch）",
+          "summaryLines": [
+            "JR西日本は『JR西日本QR2dayパス』の発売期間を2027年3月30日まで延長した。",
+            "大人4000円で関西圏の普通列車が2日間乗り放題となり、奈良・和歌山方面も周遊可能。",
+            "KANSAI MaaS限定販売で、QR乗車を軸にデジタルきっぷ利用をさらに広げる狙いがある。"
+          ],
+          "whyImportant": "交通費の定額化は近距離周遊のハードルを下げ、国内旅行需要の分散と地方回遊を後押しするため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2088603.html"
+        },
+        {
+          "title": "JR西日本、鳥取・島根エリア周遊パスを2026年度版に刷新（トラベルWatch）",
+          "summaryLines": [
+            "JR西日本はtabiwa向けに『山陰のんびりパス』『鳥取のんびりパス』『松江・出雲のんびりパス』を展開。",
+            "一部で有効期間やバス対象は縮小した一方、価格引き下げや対象観光施設の追加で使い勝手を調整した。",
+            "山陰の鉄道周遊と観光施設を組み合わせ、地域周遊型の国内旅行商品を再設計した形だ。"
+          ],
+          "whyImportant": "地方観光では交通商品と施設連携の設計が滞在日数・消費単価を左右し、地域経済への波及が大きいため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2089793.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：OpenAI、米国防総省との契約に追加条項を協議（Reuters）",
+    "経済：原油先物が3日続伸　中東情勢で供給リスク懸念高まる（Reuters）",
+    "旅行：JR西日本、鳥取・島根エリア周遊パスを2026年度版に刷新（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "アップル、iPhone 17eを発表　ストレージ倍増で価格据え置き（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/world/us/IDI5EWVTZVIPTLSKTYALL34YKQ-2026-03-03/",
+      "snippet": "Appleは低価格帯モデル『iPhone 17e』を発表し、米国価格を599ドルから据え置いた。"
+    },
+    {
+      "title": "アマゾン、スペインのデータセンター・AIに180億ユーロ追加投資（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/4U2MQSOS5NNORKPCFSU6YZVAGU-2026-03-03/",
+      "snippet": "Amazonはスペインでデータセンター拡張とAI基盤強化に向け、180億ユーロの追加投資を表明した。"
+    },
+    {
+      "title": "OpenAI、米国防総省との契約に追加条項を協議（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/",
+      "snippet": "OpenAIは米国防総省との契約内容を修正する協議を進め、利用範囲を明確化する追加条項を検討している。"
+    },
+    {
+      "title": "米政府機関、Anthropic製品の使用停止　国務省はOpenAIへ切替（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/world/us-politics/ZGZA727MUZO77LZMKV5L4HGTH4-2026-03-02/",
+      "snippet": "米政府の複数機関がAnthropic製品の利用停止を進め、国務省はGPT-4.1への切替方針を示した。"
+    },
+    {
+      "title": "米仮想通貨市場構造法案、3月の上院審議へ再挑戦（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692141",
+      "snippet": "クラリティー法案はステーブルコイン利回りを巡る対立で交渉継続となり、3月中下旬審議が焦点となった。"
+    },
+    {
+      "title": "日本免税とJPYC、ステーブルコイン活用の免税還付モデルで提携（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692204",
+      "snippet": "2026年の免税リファンド新制度に向け、JPYC活用による即時還付モデルの構築が発表された。"
+    },
+    {
+      "title": "高市首相、エネルギー価格の物価影響を注視　補正予算は『ゼロではない』（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/FZAXVVPQPRPBHHF64HW4SO6YCU-2026-03-03/",
+      "snippet": "中東情勢によるエネルギー価格変動を注視し、状況次第で補正予算編成の可能性にも言及した。"
+    },
+    {
+      "title": "原油先物が3日続伸　中東情勢で供給リスク懸念高まる（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/commodities/GMIEY4AUJZISVG2RW4HVG7ZVWY-2026-03-03/",
+      "snippet": "ホルムズ海峡の輸送懸念などを背景に、原油先物は上昇基調が継続した。"
+    },
+    {
+      "title": "JR西日本QR2dayパス、2027年春まで延長　関西2日間乗り放題（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2088603.html",
+      "snippet": "関西圏の普通列車が2日間乗り放題となるQRパスの発売期間が延長された。"
+    },
+    {
+      "title": "JR西日本、鳥取・島根エリア周遊パスを2026年度版に刷新（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2089793.html",
+      "snippet": "山陰エリアの周遊パスは価格・対象施設を見直し、地域周遊向け商品として再編された。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-03T11:05:00Z"
+}
