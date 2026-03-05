@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-05",
+  "title": "2026-03-05 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Broadcom、AI半導体売上見通しを上方示唆　2027年に1000億ドル超を視野（Reuters）",
+          "summaryLines": [
+            "Reuters報道によると、BroadcomはカスタムAIチップ需要の強さを背景に、AI関連売上の中期成長見通しを強気に示した。",
+            "Anthropic向けTPU供給計画など、ハイパースケーラー向け案件の拡大が追い風になっている。",
+            "GPU一極から、ASIC/カスタム半導体を含む分業型のAIインフラ投資が加速している。"
+          ],
+          "whyImportant": "AI計算基盤の主導権が“汎用GPU＋専用チップ”の複合競争へ移っており、クラウド原価と供給網に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/"
+        },
+        {
+          "title": "Intel新CEO、18Aプロセスの外販再評価　ファウンドリー戦略を修正へ（Reuters）",
+          "summaryLines": [
+            "Reutersによれば、IntelのLip-Bu Tan CEOは18A製造プロセスを外部顧客向けに再評価している。",
+            "昨年は内製優先の色が強かったが、CFO発言では顧客提供オプションを再び重視する姿勢が示された。",
+            "先端プロセスの活用先を広げることで、ファウンドリー事業の採算改善を狙う流れだ。"
+          ],
+          "whyImportant": "先端製造の外販可否は、米半導体供給網の多様化とIntel再建シナリオの実現性を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/intel-ceo-lip-bu-tan-reconsidering-fate-chipmakers-18a-manufacturing-tech-cfo-2026-03-04/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "NVIDIA CEO、OpenAI/Anthropicへの追加大型出資は限定的との見方（Reuters）",
+          "summaryLines": [
+            "Reuters報道で、NVIDIAのJensen Huang CEOはOpenAI・Anthropicへの追加大型投資余地は大きくないとの見方を示した。",
+            "生成AI企業のIPO準備が進む中、NVIDIAの関与は“投資家”より“基盤供給者”へ重心が移りつつある。",
+            "資本関係よりも、計算資源・設計協業・販売網を軸にした競争段階に入っている。"
+          ],
+          "whyImportant": "AI覇権の勝負軸がエクイティ投資からインフラ供給能力へシフトしていることを示すため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/nvidia-will-not-be-able-invest-100-billion-openai-due-ipo-ceo-jensen-says-2026-03-04/"
+        },
+        {
+          "title": "Alibaba、Qwen責任者退任後に基盤モデル強化タスクフォース設置（Reuters）",
+          "summaryLines": [
+            "Reutersによると、AlibabaはQwen AI部門トップ退任を受け、基盤モデル開発を加速する新タスクフォースを設ける。",
+            "経営レイヤー主導でAI開発体制を再編し、モデル競争力の維持・強化を急ぐ構え。",
+            "中国大手各社で、組織再編と人材流動を伴う“ポスト学習効率”競争が続いている。"
+          ],
+          "whyImportant": "AI競争はモデル性能だけでなく、組織設計と人材確保のスピード勝負であることを示すため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/alibaba-ceo-confirms-departure-qwen-ai-division-head-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "FATF、ステーブルコインのP2P取引に警鐘　凍結機能・拒否リスト適用を要請（CoinPost）",
+          "summaryLines": [
+            "FATFは最新報告で、自己管理ウォレットを介したP2P取引がVASP監視を回避する手段として悪用され得ると指摘した。",
+            "ステーブルコイン発行体に対し、資産凍結や拒否リストなど技術的セーフガードの適用を求めた。",
+            "各国で規制実装にばらつきがあり、トラベルルール適用範囲の明確化が次の論点になっている。"
+          ],
+          "whyImportant": "グローバル規制の強化方向が明確化し、ステーブルコイン設計・運用の実務要件に直接影響するため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692569"
+        },
+        {
+          "title": "モルガン・スタンレー、ビットコイン現物ETF申請を修正　BNY/コインベース体制を明示（CoinPost）",
+          "summaryLines": [
+            "CoinPost報道によると、モルガン・スタンレーはビットコイン現物ETFの修正S-1をSECへ提出した。",
+            "カストディにCoinbase Custody、現金管理などにBNYを指名し、運用インフラを具体化した。",
+            "大手金融機関による暗号資産商品の制度内実装が、さらに一段進んだ形だ。"
+          ],
+          "whyImportant": "伝統金融プレイヤーの本格参入は、暗号資産の資金流入経路と市場の安定性を中長期で変えるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692548"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均、反発で寄り付き　中東情勢の過度な警戒が一服（Reuters）",
+          "summaryLines": [
+            "5日の東京株式市場は、前日比958円高で寄り付き、前日までの急落から自律反発となった。",
+            "米市場の持ち直しを受け、半導体・AI関連や金融など主力株に買いが波及した。",
+            "地政学リスクは残るものの、短期的には“過度なリスクオフ”の巻き戻しが進んだ。"
+          ],
+          "whyImportant": "ボラティリティ局面での反発力は投資家心理と資産価格の安定度を測る重要シグナルになるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/T6CXLHHUY5KVJIDTL5USRRQDFY-2026-03-05/"
+        },
+        {
+          "title": "日経平均、一時2300円超高　アジア株高と米先物堅調で全面高（Reuters）",
+          "summaryLines": [
+            "東京市場で日経平均は一時2374円高まで上昇し、東証プライムの値上がり銘柄は9割超となった。",
+            "中東情勢への過度な懸念後退に加え、時間外の米株先物とアジア株の上昇が追い風となった。",
+            "前日までの下落に対するショートカバーと押し目買いが同時進行したとの見方が出ている。"
+          ],
+          "whyImportant": "急落後の全面高はリスク許容度の回復を示し、為替・金利・企業調達環境にも波及しやすいため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/A2XZ4OJXL5L67GF75BBMZRSUA4-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ピーチ、創業15周年『感謝セール』　国内線は片道2990円から（トラベルWatch）",
+          "summaryLines": [
+            "ピーチは3月4日〜8日に全路線対象のセールを実施し、国内線は片道2990円から販売。",
+            "対象搭乗期間は3月下旬〜10月下旬で、成田〜新千歳・関西〜仙台・福岡〜成田など幅広い路線が含まれる。",
+            "価格訴求とブランド刷新を同時展開し、春〜夏の国内移動需要取り込みを狙う。"
+          ],
+          "whyImportant": "LCCセールは価格感度の高い国内旅行層の意思決定を直接動かし、需要喚起の即効性が高いため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090370.html"
+        },
+        {
+          "title": "アパホテル、北見・福知山で新規開業　地方拠点の宿泊供給を拡充（トラベルWatch）",
+          "summaryLines": [
+            "アパホテルは2026年春、北海道北見と京都府福知山でリブランド開業を進める。",
+            "駅アクセスや駐車場、長期滞在向け設備を整え、地域のビジネス・観光双方の需要を取り込む計画。",
+            "地方都市での客室供給増は、周遊旅行やイベント時の受け皿拡大にもつながる。"
+          ],
+          "whyImportant": "地方の宿泊インフラ拡充は、国内旅行の“行き先分散”と地域消費の底上げに直結するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090608.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Broadcom、AI半導体売上見通しを上方示唆　2027年に1000億ドル超を視野（Reuters）",
+    "暗号通貨：FATF、ステーブルコインのP2P取引に警鐘（CoinPost）",
+    "旅行：ピーチ、創業15周年『感謝セール』　国内線は片道2990円から（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "Broadcom、AI半導体売上見通しを上方示唆　2027年に1000億ドル超を視野（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/",
+      "snippet": "カスタムAIチップ需要を背景に、Broadcomが中期のAI半導体成長見通しを強気に示した。"
+    },
+    {
+      "title": "Intel新CEO、18Aプロセスの外販再評価　ファウンドリー戦略を修正へ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/intel-ceo-lip-bu-tan-reconsidering-fate-chipmakers-18a-manufacturing-tech-cfo-2026-03-04/",
+      "snippet": "Intelは18A先端プロセスの外部提供を再評価し、ファウンドリー戦略の修正を進める。"
+    },
+    {
+      "title": "NVIDIA CEO、OpenAI/Anthropicへの追加大型出資は限定的との見方（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/nvidia-will-not-be-able-invest-100-billion-openai-due-ipo-ceo-jensen-says-2026-03-04/",
+      "snippet": "NVIDIA CEOは主要AI企業への追加大型投資余地は限定的とし、競争軸の変化を示唆した。"
+    },
+    {
+      "title": "Alibaba、Qwen責任者退任後に基盤モデル強化タスクフォース設置（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/alibaba-ceo-confirms-departure-qwen-ai-division-head-2026-03-05/",
+      "snippet": "AlibabaはQwen部門の体制を再編し、基盤モデル開発の加速を狙う。"
+    },
+    {
+      "title": "FATF、ステーブルコインのP2P取引に警鐘　凍結機能・拒否リスト適用を要請（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692569",
+      "snippet": "FATFはP2P経由の監視回避リスクを指摘し、発行体に技術的セーフガード導入を求めた。"
+    },
+    {
+      "title": "モルガン・スタンレー、ビットコイン現物ETF申請を修正　BNY/コインベース体制を明示（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692548",
+      "snippet": "同社はETF申請を更新し、カストディと現金管理の提携先を具体化した。"
+    },
+    {
+      "title": "日経平均、反発で寄り付き　中東情勢の過度な警戒が一服（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/T6CXLHHUY5KVJIDTL5USRRQDFY-2026-03-05/",
+      "snippet": "東京市場は大幅反発で開始し、主力株中心に買い戻しが進んだ。"
+    },
+    {
+      "title": "日経平均、一時2300円超高　アジア株高と米先物堅調で全面高（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/A2XZ4OJXL5L67GF75BBMZRSUA4-2026-03-05/",
+      "snippet": "前日までの急落局面から、全面高を伴うリスク許容回復がみられた。"
+    },
+    {
+      "title": "ピーチ、創業15周年『感謝セール』　国内線は片道2990円から（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090370.html",
+      "snippet": "国内主要路線を含むセールで、春〜夏シーズンの国内移動需要喚起を狙う。"
+    },
+    {
+      "title": "アパホテル、北見・福知山で新規開業　地方拠点の宿泊供給を拡充（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090608.html",
+      "snippet": "地方2拠点での開業により、国内旅行・出張向け受け皿の拡大が進む。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-05T11:06:00Z"
+}
