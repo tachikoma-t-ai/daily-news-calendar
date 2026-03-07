@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-07",
+  "title": "2026-03-07 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げ　「フォートナイト」復帰（Reuters）",
+          "summaryLines": [
+            "GoogleはAndroidで開発者向けの課金手段の自由度を広げ、手数料引き下げを段階的に導入すると発表した。",
+            "開発者はGoogle Play以外の独自課金や自社サイト誘導が可能になり、サードパーティーストア導入も進む。",
+            "Epic Gamesとの係争解決を受け、フォートナイトが世界でGoogleのアプリストアに復帰する。"
+          ],
+          "whyImportant": "モバイルアプリ流通の競争環境と手数料モデルが変わり、開発者の収益性とプラットフォーム支配力に影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/"
+        },
+        {
+          "title": "中国半導体トップ、「中国版ASML」創設へ政策支援訴え（Reuters）",
+          "summaryLines": [
+            "中国の半導体企業幹部・研究機関は、2026〜2030年に実用露光装置を開発する国家主導の協調体制が必要だと提言した。",
+            "EUV装置は部品点数・サプライチェーンが巨大で、個別技術の進展だけでなく統合力が課題だと指摘している。",
+            "中国政府は半導体を新興産業の中核に位置づけ、重要設備・材料の開発加速を掲げた。"
+          ],
+          "whyImportant": "先端半導体サプライチェーンの地政学リスクと、非米系製造基盤の形成スピードを測る指標になるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/HA42K7GZENOUJCUJMPLS6FPS34-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、米国防総省との契約内容を修正協議　利用原則を明確化へ（Reuters）",
+          "summaryLines": [
+            "OpenAIのアルトマンCEOは、米国防総省との契約に追加条項を設ける協議を進めていると表明した。",
+            "情報機関による同社サービス利用には追加修正が必要とするなど、利用範囲の線引きを強化する内容を示した。",
+            "機密ネットワーク導入契約の公表後、公共・安全保障領域でのAIガバナンスが改めて焦点になっている。"
+          ],
+          "whyImportant": "政府向け生成AI契約のルール設計は、今後の公共分野導入の標準や責任分界に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/"
+        },
+        {
+          "title": "エヌビディア、新型半導体で高性能AIシステム構築を支援へ（Reuters）",
+          "summaryLines": [
+            "Reutersによると、NVIDIAは新型プロセッサを投入し、OpenAIなど顧客のAI処理速度・効率向上を後押しする計画だ。",
+            "注力点は学習だけでなく「推論」向けの新しい仕組みで、開発者会議での披露が報じられている。",
+            "AI需要の中心が推論最適化へ広がる中、ハードウェア競争の次の軸が鮮明になってきた。"
+          ],
+          "whyImportant": "AIサービスのコスト・応答速度を左右する推論基盤の進化は、企業導入の実用性を大きく左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/XWXP2EFYDZLL5PAABSXAUBM2K4-2026-03-02/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "BTCマイナー3社、2月採掘分を積極売却　AI・HPC投資を加速（CoinPost）",
+          "summaryLines": [
+            "CoinPostによると、クリーンスパーク・カンゴ・ビットフーフーの3社は2月に合計約1,250BTCを採掘した。",
+            "クリーンスパークは採掘分の97%を売却、他社も売却資金をAI/HPC向けデータセンター投資へ振り向けている。",
+            "採掘収益依存からインフラ事業モデルへ、ビットコインマイナーの戦略転換が進んでいる。"
+          ],
+          "whyImportant": "暗号資産企業の収益源がマイニング単体からAIインフラへ移る流れは、業界評価軸そのものを変えるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693144"
+        },
+        {
+          "title": "米国初のポルカドット現物ETF「TDOT」取引開始、実需低迷が課題（CoinPost）",
+          "summaryLines": [
+            "21Sharesは、米国初のポルカドット現物ETF「TDOT」をナスダックに上場し、取引を開始した。",
+            "現物DOT連動に加えステーキング報酬機能も備える一方、ネットワークのアクティブ利用低下が指摘されている。",
+            "金融商品としてのアクセス拡大と、基盤チェーンの実需回復のギャップが論点になっている。"
+          ],
+          "whyImportant": "ETF承認・上場だけでは中長期価値が決まらず、オンチェーン実需との整合が問われる局面だから。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693196"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は続伸、押し目買い優勢で55,620円台に（Reuters）",
+          "summaryLines": [
+            "6日の東京株式市場で日経平均は前営業日比342円高の55,620円で取引を終え、続伸した。",
+            "中東情勢への警戒は残るものの、値ごろ感を意識した買いが入り、後場終盤に上げ幅を拡大した。",
+            "米株先物上昇や原油先物のアジア時間での低下が、過度なリスク回避を和らげたとの見方が出た。"
+          ],
+          "whyImportant": "地政学リスク局面での日本株の値動きは、家計資産・企業調達を左右する市場心理の体温計になるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/KYBFJYPG5VM5VJMZCT44JXH4S4-2026-03-06/"
+        },
+        {
+          "title": "日銀、3月会合で政策金利据え置きの可能性　利上げ姿勢は維持（Reuters）",
+          "summaryLines": [
+            "関係筋によると、日銀は3月会合で政策金利0.75%を据え置く可能性がある。",
+            "昨年12月利上げの影響見極めに加え、中東情勢を受けたエネルギー価格・景気への不確実性が判断材料となる。",
+            "一方で日銀は中立金利に向けた利上げ姿勢を崩しておらず、市場動向次第で早期判断余地も残している。"
+          ],
+          "whyImportant": "金利見通しは為替・住宅ローン・企業資金調達に波及し、日本経済全体の先行きに直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/japan/6AVJQAAMUNKMDO3YENUMOJXHWI-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JAL、GWを含む国内線タイムセールを実施　羽田〜札幌/那覇が片道1万円台（トラベルWatch）",
+          "summaryLines": [
+            "JALは3月10日〜11日に国内線タイムセールを実施し、対象搭乗期間は4月1日〜6月30日（GW含む）。",
+            "運賃例は羽田〜新千歳・羽田〜那覇が1万10円から、羽田〜伊丹が8,800円からなど。",
+            "国内航空券+宿泊のダイナミックパッケージ施策も並行し、春〜初夏需要の取り込みを狙う。"
+          ],
+          "whyImportant": "価格施策はGW前後の国内移動需要を前倒しで喚起し、地域の宿泊・消費の見通しに影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091245.html"
+        },
+        {
+          "title": "スターフライヤー、羽田〜北九州・福岡線で3月に臨時30便を追加（TRAICY）",
+          "summaryLines": [
+            "スターフライヤーは、3月に羽田〜北九州線7便、羽田〜福岡線23便の計30便を臨時運航すると発表した。",
+            "販売は3月5日から開始しており、機材はエアバスA320を使用する。",
+            "九州方面の週末・年度末移動需要に対応する供給増として、国内路線の利便性向上が期待される。"
+          ],
+          "whyImportant": "国内幹線の追加供給は、地域間移動の取りこぼしを減らし観光・出張の実需を下支えするため。",
+          "source": "traicy.com",
+          "link": "https://www.traicy.com/posts/20260307364761/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：グーグル、Androidの課金選択肢拡大と手数料引き下げ　「フォートナイト」復帰（Reuters）",
+    "AI：OpenAI、米国防総省との契約内容を修正協議　利用原則を明確化へ（Reuters）",
+    "暗号通貨：BTCマイナー3社、2月採掘分を積極売却　AI・HPC投資を加速（CoinPost）"
+  ],
+  "headlines": [
+    {
+      "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げ　「フォートナイト」復帰（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/",
+      "snippet": "GoogleはAndroidで開発者向けの課金手段の自由度を広げ、手数料引き下げを段階的に導入すると発表した。"
+    },
+    {
+      "title": "中国半導体トップ、「中国版ASML」創設へ政策支援訴え（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/HA42K7GZENOUJCUJMPLS6FPS34-2026-03-05/",
+      "snippet": "中国の半導体企業幹部・研究機関は、2026〜2030年に実用露光装置を開発する国家主導の協調体制が必要だと提言した。"
+    },
+    {
+      "title": "OpenAI、米国防総省との契約内容を修正協議　利用原則を明確化へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/",
+      "snippet": "OpenAIのアルトマンCEOは、米国防総省との契約に追加条項を設ける協議を進めていると表明した。"
+    },
+    {
+      "title": "エヌビディア、新型半導体で高性能AIシステム構築を支援へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/XWXP2EFYDZLL5PAABSXAUBM2K4-2026-03-02/",
+      "snippet": "Reutersによると、NVIDIAは新型プロセッサを投入し、OpenAIなど顧客のAI処理速度・効率向上を後押しする計画だ。"
+    },
+    {
+      "title": "BTCマイナー3社、2月採掘分を積極売却　AI・HPC投資を加速（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693144",
+      "snippet": "CoinPostによると、クリーンスパーク・カンゴ・ビットフーフーの3社は2月に合計約1,250BTCを採掘した。"
+    },
+    {
+      "title": "米国初のポルカドット現物ETF「TDOT」取引開始、実需低迷が課題（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693196",
+      "snippet": "21Sharesは、米国初のポルカドット現物ETF「TDOT」をナスダックに上場し、取引を開始した。"
+    },
+    {
+      "title": "日経平均は続伸、押し目買い優勢で55,620円台に（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/KYBFJYPG5VM5VJMZCT44JXH4S4-2026-03-06/",
+      "snippet": "6日の東京株式市場で日経平均は前営業日比342円高の55,620円で取引を終え、続伸した。"
+    },
+    {
+      "title": "日銀、3月会合で政策金利据え置きの可能性　利上げ姿勢は維持（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/world/japan/6AVJQAAMUNKMDO3YENUMOJXHWI-2026-03-03/",
+      "snippet": "関係筋によると、日銀は3月会合で政策金利0.75%を据え置く可能性がある。"
+    },
+    {
+      "title": "JAL、GWを含む国内線タイムセールを実施　羽田〜札幌/那覇が片道1万円台（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091245.html",
+      "snippet": "JALは3月10日〜11日に国内線タイムセールを実施し、対象搭乗期間は4月1日〜6月30日（GW含む）。"
+    },
+    {
+      "title": "スターフライヤー、羽田〜北九州・福岡線で3月に臨時30便を追加（TRAICY）",
+      "source": "traicy.com",
+      "link": "https://www.traicy.com/posts/20260307364761/",
+      "snippet": "スターフライヤーは、3月に羽田〜北九州線7便、羽田〜福岡線23便の計30便を臨時運航すると発表した。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-07T11:04:00Z"
+}
