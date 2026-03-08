@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-08",
+  "title": "2026-03-08 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げを発表　フォートナイト復帰（Reuters）",
+          "summaryLines": [
+            "GoogleはAndroidで、開発者がGoogle Play以外の課金手段を併用できるようにし、手数料も段階的に引き下げる方針を示した。",
+            "ユーザーを外部サイト決済へ誘導することや、サードパーティーアプリストア導入のしやすさも改善する。",
+            "Epicとの係争解決を受け、フォートナイトが世界のGoogleアプリストアに復帰する。"
+          ],
+          "whyImportant": "モバイル流通の競争環境と手数料モデルが変わり、アプリ事業者の収益構造に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/"
+        },
+        {
+          "title": "米オラクル、AIデータセンター投資負担の中で数千人削減を計画と報道（Reuters）",
+          "summaryLines": [
+            "Bloomberg報道として、OracleがAI向けデータセンター拡張による資金逼迫の中、数千人規模の人員削減を検討していると伝えられた。",
+            "対象は複数部門で、早ければ今月にも実施される可能性があるほか、採用プロセス見直しも進めるという。",
+            "同社はクラウドインフラ拡大のため巨額調達計画を示しており、財務負担とのバランスが焦点になっている。"
+          ],
+          "whyImportant": "AIインフラ拡大局面で、成長投資と雇用・財務規律の両立が主要テック企業の共通課題になっているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/us/Z6ANFEHAMRLPJEDDIL2FU3VK4A-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、NATOの非機密ネットワーク向けAI提供を検討（Reuters）",
+          "summaryLines": [
+            "OpenAIがNATOの『非機密』ネットワークへのAI技術提供契約を検討していると、関係筋情報として報じられた。",
+            "当初の『機密ネットワーク全体』という説明は言い間違いとして訂正され、対象範囲の線引きが明確化された。",
+            "防衛分野でのAI導入が進む中、ブランド・ガバナンス・利用範囲管理の難しさが浮き彫りになっている。"
+          ],
+          "whyImportant": "公共・安全保障領域での生成AI活用ルールが、民間も含む将来の実装基準に影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/T3T76CCPUVJT3DD6DV2DB3PWMY-2026-03-04/"
+        },
+        {
+          "title": "米政府、AI半導体輸出の新規制を検討　対米投資要件も論点に（Reuters）",
+          "summaryLines": [
+            "Reuters入手文書によると、米当局はAI半導体輸出で新たな規則を検討し、大口輸出の条件として対米投資や安全保証を求める案が議論されている。",
+            "同盟国向けも含めた供給管理の枠組みが見直される可能性があり、NVIDIAやAMDなどの流通管理要件も厳格化し得る。",
+            "安全保障目的と通商交渉カードの境界を巡り、国際的な議論が広がっている。"
+          ],
+          "whyImportant": "AI計算資源の国際配分ルールは、各国のAI競争力と企業の調達戦略を左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/5BU5JXROQ5PNBJVV3ES4JBCGLI-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン急騰、一時100万円超上昇　政策期待と地政学リスクが支援（CoinPost）",
+          "summaryLines": [
+            "CoinPostによると、3月4日〜5日にBTCは急騰し、上昇幅は一時100万円を超えた。",
+            "米国のクラリティー法案進展期待や、KrakenのFRBマスター口座取得報道がセンチメント改善につながった。",
+            "中東情勢緊迫化による資金流入も追い風だが、原油高の長期化はマイナー収益悪化リスクとして警戒される。"
+          ],
+          "whyImportant": "暗号資産市場が政策期待と地政学要因に同時反応する局面で、変動性管理の重要性が高まっているため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692571"
+        },
+        {
+          "title": "金融庁、SANAE TOKENの違法性巡り調査検討と報道（CoinPost）",
+          "summaryLines": [
+            "共同通信ベースのCoinPost報道で、金融庁が『SANAE TOKEN』を巡り関係者調査を検討しているとされた。",
+            "無登録発行の疑い、著名政治家名の使用による誤認リスク、価格急変リスクなどが問題視されている。",
+            "発行側は適法性を主張する一方、関係者による関与否定や関連投稿削除など、ガバナンス面の混乱が続く。"
+          ],
+          "whyImportant": "国内でのトークン発行・表示ルールの執行が強まると、ミームコインを含む市場のコンプライアンス基準が引き上がるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692264"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は続伸、押し目買い優勢で55,620円台に（Reuters）",
+          "summaryLines": [
+            "6日の東京市場で日経平均は前営業日比342円高の55,620円で引け、続伸した。",
+            "中東情勢への警戒が残る中でも、値ごろ感を意識した押し目買いが相場を支えた。",
+            "米株先物上昇やアジア時間の原油安も、過度なリスク回避を和らげる材料となった。"
+          ],
+          "whyImportant": "地政学リスク下での日本株の耐性は、家計資産・企業調達環境の見通し判断に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/KYBFJYPG5VM5VJMZCT44JXH4S4-2026-03-06/"
+        },
+        {
+          "title": "日銀、3月会合で政策金利据え置きの可能性　利上げ姿勢は維持（Reuters）",
+          "summaryLines": [
+            "関係筋によると、日銀は3月会合で政策金利0.75％を据え置く可能性がある。",
+            "昨年12月利上げの影響見極めに加え、中東情勢による景気・物価への不確実性が判断材料となっている。",
+            "一方で中立金利までの利上げ方針自体は維持しており、市場動向次第で早期判断余地も残る。"
+          ],
+          "whyImportant": "政策金利の先行きは為替・物価・住宅ローン・企業投資を通じて実体経済に広く波及するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/japan/6AVJQAAMUNKMDO3YENUMOJXHWI-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JAL、GW含む国内線タイムセールを実施　羽田〜札幌/那覇が片道1万円台（トラベルWatch）",
+          "summaryLines": [
+            "JALは3月10日〜11日に国内線タイムセールを実施し、搭乗対象は4月1日〜6月30日（GW含む）。",
+            "運賃例は羽田〜新千歳/那覇が1万10円から、羽田〜伊丹が8,800円から、羽田〜福岡が1万780円から。",
+            "航空券+宿泊のダイナミックパッケージ施策も併走し、春〜初夏の国内需要取り込みを狙う。"
+          ],
+          "whyImportant": "繁忙期前の価格施策は国内移動需要を前倒しし、観光地の宿泊・消費動向に影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091245.html"
+        },
+        {
+          "title": "スターフライヤー、羽田〜北九州・福岡線で3月に臨時30便を追加（TRAICY）",
+          "summaryLines": [
+            "スターフライヤーは3月、羽田〜北九州線7便、羽田〜福岡線23便の計30便を追加運航する。",
+            "販売は3月5日から開始済みで、機材はエアバスA320を使用。",
+            "九州方面の年度末・週末需要に対応する供給増として、国内幹線の利便性向上が見込まれる。"
+          ],
+          "whyImportant": "幹線路線の増便は国内観光・帰省・出張需要の取りこぼしを減らし、地域経済の回復を後押しするため。",
+          "source": "traicy.com",
+          "link": "https://www.traicy.com/posts/20260307364761/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：グーグル、Androidの課金選択肢拡大と手数料引き下げを発表　フォートナイト復帰（Reuters）",
+    "AI：OpenAI、NATOの非機密ネットワーク向けAI提供を検討（Reuters）",
+    "暗号通貨：ビットコイン急騰、一時100万円超上昇　政策期待と地政学リスクが支援（CoinPost）"
+  ],
+  "headlines": [
+    {
+      "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げを発表　フォートナイト復帰（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/",
+      "snippet": "GoogleはAndroidで開発者が独自課金を併用できるようにし、手数料の段階的引き下げも導入する。"
+    },
+    {
+      "title": "米オラクル、AIデータセンター投資負担の中で数千人削減を計画と報道（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/world/us/Z6ANFEHAMRLPJEDDIL2FU3VK4A-2026-03-05/",
+      "snippet": "OracleはAI向けデータセンター拡張に伴う資金負担の中で、数千人規模の削減を検討していると報じられた。"
+    },
+    {
+      "title": "OpenAI、NATOの非機密ネットワーク向けAI提供を検討（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/T3T76CCPUVJT3DD6DV2DB3PWMY-2026-03-04/",
+      "snippet": "OpenAIはNATOの非機密ネットワークへのAI技術提供契約を検討していると関係筋情報で報じられた。"
+    },
+    {
+      "title": "米政府、AI半導体輸出の新規制を検討　対米投資要件も論点に（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/5BU5JXROQ5PNBJVV3ES4JBCGLI-2026-03-05/",
+      "snippet": "米当局はAI半導体の大口輸出に対米投資や安全保証を求める新ルールを検討している。"
+    },
+    {
+      "title": "ビットコイン急騰、一時100万円超上昇　政策期待と地政学リスクが支援（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692571",
+      "snippet": "BTCは政策期待と中東情勢緊迫化を背景に急騰し、上昇幅が一時100万円を超えた。"
+    },
+    {
+      "title": "金融庁、SANAE TOKENの違法性巡り調査検討と報道（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692264",
+      "snippet": "金融庁が無登録発行の疑いなどを巡り、関係者調査を検討していると報じられた。"
+    },
+    {
+      "title": "日経平均は続伸、押し目買い優勢で55,620円台に（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/KYBFJYPG5VM5VJMZCT44JXH4S4-2026-03-06/",
+      "snippet": "日経平均は342円高で続伸し、地政学リスク警戒下でも押し目買いが優勢となった。"
+    },
+    {
+      "title": "日銀、3月会合で政策金利据え置きの可能性　利上げ姿勢は維持（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/world/japan/6AVJQAAMUNKMDO3YENUMOJXHWI-2026-03-03/",
+      "snippet": "日銀は据え置きの可能性がある一方で、中立金利までの利上げ姿勢は崩していない。"
+    },
+    {
+      "title": "JAL、GW含む国内線タイムセールを実施　羽田〜札幌/那覇が片道1万円台（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091245.html",
+      "snippet": "JALはGW含む4〜6月搭乗分を対象に国内線セールを実施し、主要路線で値下げする。"
+    },
+    {
+      "title": "スターフライヤー、羽田〜北九州・福岡線で3月に臨時30便を追加（TRAICY）",
+      "source": "traicy.com",
+      "link": "https://www.traicy.com/posts/20260307364761/",
+      "snippet": "スターフライヤーは羽田発着の九州路線で3月に30便を追加し、需要増に対応する。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-08T11:05:00Z"
+}
