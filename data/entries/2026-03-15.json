@@ -1,55 +1,44 @@
 {
   "date": "2026-03-15",
   "title": "2026-03-15 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で直近ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
+          "title": "Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
           "summaryLines": [
-            "As browser wars heat up, Chrome adds new productivity features | TechCrunchに関する最新動向です。",
-            "概要: Split View, PDF annotations, and &#039;Save to Chrome&#039; features come to the Chrome browser.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Googleがクラウドセキュリティ企業Wizの320億ドル買収を完了し、Google Cloud傘下に統合。",
+            "Wizはマルチクラウド（AWS/Azure/Oracle含む）向け防御を維持し、ブランドも継続する方針。",
+            "クラウド保護の統合プラットフォーム化を進める大型再編として注目。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "whyImportant": "マルチクラウド時代のセキュリティ標準と企業のクラウド選定に直接影響するため。",
           "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features"
+          "link": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/"
         },
         {
-          "title": "There's a truly new browser coming in 2026, and everyone should know about it",
+          "title": "Mandiant founder raises $189.9M for autonomous AI security startup Armadin",
           "summaryLines": [
-            "There's a truly new browser coming in 2026, and everyone should know about itに関する最新動向です。",
-            "概要: It might just be the fresh start the web has been waiting for",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Mandiant創業者ケビン・マンディア氏の新会社Armadinが、シード+Series Aで1.899億ドルを調達。",
+            "人手を介さず脅威対応する自律型AIセキュリティエージェントの開発を掲げる。",
+            "In-Q-Telを含む著名投資家参加で、攻防のAI化がさらに加速。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "makeuseof.com",
-          "link": "https://www.makeuseof.com/theres-new-browser-coming-in-2026-everyone-should-know-about-it/"
+          "whyImportant": "サイバー防御の自動化競争が進み、SOC運用コストと人材要件を変える可能性が高いため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/"
         },
         {
-          "title": "Today’s Wordle Hints for March 15, 2026 - The New York Times",
+          "title": "Apple debuts M5 Pro and M5 Max for pro workflows",
           "summaryLines": [
-            "Today’s Wordle Hints for March 15, 2026 - The New York Timesに関する最新動向です。",
-            "概要: Scroll down for hints and conversation about the puzzle for Sunday, March 15, 2026.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "AppleがM5 Pro/Maxを発表し、新MacBook Pro向けに高性能CPU・GPUとNeural関連性能を強化。",
+            "GPU最大40コアや帯域強化により、AI・3D・映像処理の実務性能向上を前面に打ち出した。",
+            "端末側計算能力の底上げで、オンデバイス処理の適用範囲拡大が見込まれる。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/03/14/crosswords/wordle-review-1730.html"
-        },
-        {
-          "title": "Progressive Web App Technology Is Outpacing Traditional Android Development",
-          "summaryLines": [
-            "Progressive Web App Technology Is Outpacing Traditional Android Developmentに関する最新動向です。",
-            "概要: For over a decade, the &quot;app vs. web&quot; debate had a clear winner on the Android platform: na…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "androidheadlines.com",
-          "link": "https://androidheadlines.com/2026/03/progressive-web-app-technology-is-outpacing-traditional-android-development.html"
+          "whyImportant": "エッジAIの性能上限を押し上げ、開発・クリエイティブ領域の実行環境選択に影響するため。",
+          "source": "apple.com",
+          "link": "https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports | Reuters",
+          "title": "Meta pushes AI model Avocado rollout to May or later, Reuters reports",
           "summaryLines": [
-            "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports | Reutersに関する最新動向です。",
-            "概要: Meta has postponed the release of its artificial intelligence model \"Avocado\" to at least May, from…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersによると、Metaは新基盤モデル「Avocado」の公開時期を少なくとも5月以降へ延期。",
+            "性能面の懸念を背景に、競合モデルとの比較で品質改善を優先していると報じられた。",
+            "巨額投資フェーズでも、品質ゲートがリリース速度を左右する構図が鮮明。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "whyImportant": "モデル提供スケジュールの遅延は、導入企業のロードマップと調達計画に直結するため。",
           "source": "reuters.com",
           "link": "https://www.reuters.com/technology/meta-delays-rollout-new-ai-model-nyt-reports-2026-03-12/"
         },
         {
-          "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times",
+          "title": "OpenAI reportedly plans to add Sora video generation to ChatGPT",
           "summaryLines": [
-            "Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Timesに関する最新動向です。",
-            "概要: The tech giant pushed back the timeline after spending billions to be on the cutting edge of artific…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "報道によるとOpenAIは動画生成SoraをChatGPT本体に統合する計画を進めている。",
+            "単体アプリの利用鈍化を補い、9億規模のChatGPT利用基盤へ機能を直接展開する狙い。",
+            "推論コスト増への対応として、課金設計や生成回数制御の重要性が高まる見通し。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
+          "whyImportant": "テキスト中心の生成AIが動画まで一体化すると、プロダクト設計と収益化モデルが大きく変わるため。",
+          "source": "engadget.com",
+          "link": "https://www.engadget.com/apps/openai-reportedly-plans-to-add-sora-video-generation-to-chatgpt-222611439.html"
         },
         {
-          "title": "Apple introduces the new MacBook Air with M5 - Apple",
+          "title": "Gumloop lands $50M to scale no-code AI agent building for enterprises",
           "summaryLines": [
-            "Apple introduces the new MacBook Air with M5 - Appleに関する最新動向です。",
-            "概要: Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "GumloopがBenchmark主導で5000万ドルを調達し、非エンジニア向けAIエージェント構築を拡大。",
+            "社内で作ったエージェントを共有し再利用する運用で、全社的な自動化を狙う。",
+            "AI導入の主戦場が「モデル選定」から「業務実装の内製化」へ移行している。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "apple.com",
-          "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
-        },
-        {
-          "title": "Meta delays release of new AI model on performance concerns- NYT By Investing.com",
-          "summaryLines": [
-            "Meta delays release of new AI model on performance concerns- NYT By Investing.comに関する最新動向です。",
-            "概要: Meta delays release of new AI model on performance concerns- NYT",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/meta-delays-release-of-new-ai-model-on-performance-concerns-nyt-4558756"
+          "whyImportant": "現場主導のAI活用が進むほど、企業の競争力はツールより運用設計で差が出るため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Bitcoin's early crash to $60,000 now looks like a warning for stocks",
+          "title": "Crypto bill hits new impasse, raising doubts over its future",
           "summaryLines": [
-            "Bitcoin's early crash to $60,000 now looks like a warning for stocksに関する最新動向です。",
-            "概要: Bitcoin has once again acted as a leading indicator for risk assets, plunging sharply before the ong…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersによると、米国の主要暗号資産法案協議は銀行側の反対もあり再び膠着。",
+            "妥協案の不成立で、年内成立可否への不透明感が強まった。",
+            "業界の制度整備期待と政治日程のギャップが拡大している。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "whyImportant": "規制の遅れは取引所・発行体・機関投資家の参入判断を直接左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05/"
+        },
+        {
+          "title": "Bitcoin early crash to $60,000 seen as warning for broader risk assets",
+          "summaryLines": [
+            "CoinDeskは、ビットコインが株式市場より先に急落し、その後の株安を先行示唆したと分析。",
+            "ETF資金流出や地政学リスクを背景に、BTCが先行指標的に動いた可能性を指摘。",
+            "暗号資産と伝統資産の連動構造を再確認させる局面となった。"
+          ],
+          "whyImportant": "暗号資産を先行シグナルとして読む動きが強まると、マクロ運用の判断軸が増えるため。",
           "source": "coindesk.com",
           "link": "https://www.coindesk.com/markets/2026/03/13/bitcoin-crashed-first-now-stocks-follow-cementing-btc-s-lead-indicator-cred"
         },
         {
-          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "title": "Crypto industry ramps up US midterm spending with large PAC war chest",
           "summaryLines": [
-            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
-            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "The Guardianによると、暗号資産業界は米中間選挙で業界寄り候補支援に数千万ドルを投入。",
+            "主要PACのFairshakeは約1.93億ドルの資金を抱え、法整備推進を狙う。",
+            "立法プロセスへの影響力確保が、価格材料と並ぶ主要テーマになっている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/latest/crypto"
-        },
-        {
-          "title": "Crypto bill hits new impasse, raising doubts over its future | Reuters",
-          "summaryLines": [
-            "Crypto bill hits new impasse, raising doubts over its future | Reutersに関する最新動向です。",
-            "概要: Talks on landmark crypto legislation have hit a new impasse after banks said they could not back a c…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05"
-        },
-        {
-          "title": "Crypto Market News Today: Tokenized Stocks Cross $1 Billion With a 2,900% Surge as Pepeto at $0.000000186 Builds the Exchange Where Tokenized Capital Trades",
-          "summaryLines": [
-            "Crypto Market News Today: Tokenized Stocks Cross $1 Billion With a 2,900% Surge as Pepeto at $0.000000186 Builds the Exchange Where Tokenized Capital Tradesに関する最新動向です。",
-            "概要: Press release - TOKENWIRE - Crypto Market News Today: Tokenized Stocks Cross $1 Billion With a 2,900…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "openpr.com",
-          "link": "https://openpr.com/news/4422554/crypto-market-news-today-tokenized-stocks-cross-1-billion-with"
+          "whyImportant": "政策形成への資金流入は、将来の規制フレームと市場評価に長期的影響を与えるため。",
+          "source": "theguardian.com",
+          "link": "https://www.theguardian.com/us-news/2026/mar/13/midterms-crypto-pacs-political-spending"
         }
       ]
     },
@@ -158,48 +125,37 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Stocks slip, dollar strong as Iran conflict pushes oil prices higher | Reuters",
+          "title": "US consumer prices rose 2.4% in February, matching expectations",
           "summaryLines": [
-            "Stocks slip, dollar strong as Iran conflict pushes oil prices higher | Reutersに関する最新動向です。",
-            "概要: Stocks fell and the U.S. dollar strengthened on Friday as uncertainty over the Iran war continued to…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "米2月CPIは前年比2.4%、前月比0.3%で市場予想通り（CNBC/BLS）。",
+            "インフレは再加速していない一方、FRB目標の2%を上回る状態が継続。",
+            "この統計は原油ショック本格反映前で、先行き不確実性が残る。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "whyImportant": "金利見通しと家計実質所得の両面で、今後の景気判断の基準値になるため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
+        },
+        {
+          "title": "Oil surged above $100 and raised fears of renewed global inflation shock",
+          "summaryLines": [
+            "Guardianは、中東情勢を受け原油が一時100ドル超へ上昇し、世界経済への波及を警戒。",
+            "ホルムズ海峡の物流制約が長引けば、エネルギー・肥料価格を通じた物価圧力が増す。",
+            "各国中銀は景気下支えとインフレ抑制の板挟みが強まる見通し。"
+          ],
+          "whyImportant": "エネルギー価格はインフレ・金利・企業収益に同時に効き、資産価格全体を揺らすため。",
+          "source": "theguardian.com",
+          "link": "https://www.theguardian.com/business/2026/mar/09/how-high-could-oil-go-and-what-might-the-global-economic-fallout-be"
+        },
+        {
+          "title": "US consumer spending rose in January while inflation pressures persisted",
+          "summaryLines": [
+            "Reutersによると、米個人消費は1月に堅調増加し、基調インフレもなお粘着的。",
+            "エネルギー高の追加圧力で、早期利下げ観測は後退しやすい地合い。",
+            "雇用・物価・地政学の複合要因が、政策判断を一段と難しくしている。"
+          ],
+          "whyImportant": "消費の強さと物価の粘着性が同居すると、金融政策の転換時期が遅れやすくなるため。",
           "source": "reuters.com",
-          "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-03-13/"
-        },
-        {
-          "title": "Trump seeks to close $1.6 trillion revenue gap with raft of new tariffs | AP News",
-          "summaryLines": [
-            "Trump seeks to close $1.6 trillion revenue gap with raft of new tariffs | AP Newsに関する最新動向です。",
-            "概要: The Trump administration this week stepped up its ambitious effort to replace about $1.6 trillion in…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "apnews.com",
-          "link": "https://apnews.com/article/tariffs-trump-trade-275f146dbc591bab1730a911e04aa8ea"
-        },
-        {
-          "title": "Schwab Market Update | Charles Schwab",
-          "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "What Are the Chances of a U.S. Recession in 2026? | The Motley Fool",
-          "summaryLines": [
-            "What Are the Chances of a U.S. Recession in 2026? | The Motley Foolに関する最新動向です。",
-            "概要: The largest prediction market puts the odds of a recession at about 29%.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "fool.com",
-          "link": "https://fool.com/investing/2026/03/13/what-are-the-chances-of-a-us-recession-in-2026"
+          "link": "https://www.reuters.com/world/us/us-consumer-spending-core-pce-inflation-firmer-january-2026-03-13/"
         }
       ]
     },
@@ -208,183 +164,142 @@
       "name": "旅行",
       "items": [
         {
-          "title": "China is rebuilding its grip on North Korea. Is Kim Jong Un ready to oblige? | Reuters",
+          "title": "JR東日本、2026年春ダイヤ改正を実施（在来線）",
           "summaryLines": [
-            "China is rebuilding its grip on North Korea. Is Kim Jong Un ready to oblige? | Reutersに関する最新動向です。",
-            "概要: Growing trade ties and new border infrastructure show Beijing is drawing Pyongyang back into its orb…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR東日本は3月14日に在来線ダイヤ改正を実施し、武蔵野線の東京方面直通を増発。",
+            "横浜線・根岸線の一部ワンマン化や、仙石線の増発など輸送体系の見直しを進めた。",
+            "首都圏～地方の移動利便性と混雑分散に影響する改正内容。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/investigations/china-is-rebuilding-its-grip-north-korea-is-kim-jong-un-ready-oblige-2026-03-11/"
+          "whyImportant": "国内旅行の移動計画（出発時刻・経路・接続）を見直す実務情報になるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2092850.html"
         },
         {
-          "title": "Qatar Airways Updates Confirmed Flights For Friday To Tuesday (March 13 – 17, 2026) + Terms Change - LoyaltyLobby",
+          "title": "JR西日本、2026年春ダイヤ改正で新幹線・在来線サービスを拡充",
           "summaryLines": [
-            "Qatar Airways Updates Confirmed Flights For Friday To Tuesday (March 13 – 17, 2026) + Terms Change - LoyaltyLobbyに関する最新動向です。",
-            "概要: Qatar Airways has made slight updates to the schgedule it plans to operate Friday to Tuesday (March…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR西日本は山陽新幹線の臨時のぞみ設定や北陸新幹線の所要時間短縮などを実施。",
+            "大阪環状線・新快速に有料指定席「うれしート」を導入し、着席需要に対応。",
+            "関西・北陸・山陰方面の週末旅行やイベント移動で選択肢が広がる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "loyaltylobby.com",
-          "link": "https://loyaltylobby.com/2026/03/13/qatar-airways-updates-confirmed-flights-for-friday-to-tuesday-march-13-17-2026-terms-change"
+          "whyImportant": "鉄道商品と運行時刻の変化は、国内観光の行程最適化と予約戦略に直結するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093216.html"
         },
         {
-          "title": "Dubai Airport travel update: 11 major airlines issue latest advice for DXB passengers | Time Out Dubai",
+          "title": "エクスペディア、2026年GWは国内旅行検索が前年比134%増と発表",
           "summaryLines": [
-            "Dubai Airport travel update: 11 major airlines issue latest advice for DXB passengers | Time Out Dubaiに関する最新動向です。",
-            "概要: But some of the world's biggest airlines continue to adjust to the current situation, and several ro…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "エクスペディア発表では、2026年GWの国内旅行検索数が前年比134%増。",
+            "最大12連休の並びを背景に、複数エリアを回る「周遊旅」需要が拡大傾向。",
+            "混雑ピーク日と分散日程の提示があり、国内旅行計画の参考材料になる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "timeoutdubai.com",
-          "link": "https://www.timeoutdubai.com/news/dxb-travel-advice-march-2026"
-        },
-        {
-          "title": "U.S. Travel Alert: Southwest Ceases Flights at Chicago & Washington Airports June 4 — Airlines, Airport Hotels, and Tourism Boards Sound Alarm! - Travel And Tour World",
-          "summaryLines": [
-            "U.S. Travel Alert: Southwest Ceases Flights at Chicago & Washington Airports June 4 — Airlines, Airport Hotels, and Tourism Boards Sound Alarm! - Travel And Tour Worldに関する最新動向です。",
-            "概要: Southwest Airlines has just dropped a bombshell that will shake up U.S. air travel starting June 4…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/u-s-travel-alert-southwest-ceases-flights-at-chicago-washington-airports-june-4-airlines-airport-hotels-and-tourism-boards-sound-alarm/"
+          "whyImportant": "需要集中日を避けた移動・宿泊計画で、コスト最適化と満足度向上が可能になるため。",
+          "source": "prtimes.jp",
+          "link": "https://prtimes.jp/main/html/rd/p/000000315.000003373.html"
         }
       ]
     }
   ],
   "top3": [
-    "IT：As browser wars heat up, Chrome adds new productivity features | TechCrunch",
-    "AI：Meta pushes AI model 'Avocado' rollout to May or later, NYT reports | Reuters",
-    "暗号通貨：Bitcoin's early crash to $60,000 now looks like a warning for stocks"
+    "IT：Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
+    "AI：Meta pushes AI model Avocado rollout to May or later, Reuters reports",
+    "暗号通貨：Crypto bill hits new impasse, raising doubts over its future"
   ],
   "headlines": [
     {
-      "title": "As browser wars heat up, Chrome adds new productivity features | TechCrunch",
+      "title": "Google wraps up $32B acquisition of cloud cybersecurity startup Wiz",
       "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features",
-      "snippet": "As browser wars heat up, Chrome adds new productivity features | TechCrunchに関する最新動向です。 概要: Split View, PDF annotations, and &#039;Save to Chrome&#039; features come to the Chrome browser."
+      "link": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+      "snippet": "Googleがクラウドセキュリティ企業Wizの320億ドル買収を完了し、Google Cloud傘下に統合。 Wizはマルチクラウド（AWS/Azure/Oracle含む）向け防御を維持し、ブランドも継続する方針。"
     },
     {
-      "title": "There's a truly new browser coming in 2026, and everyone should know about it",
-      "source": "makeuseof.com",
-      "link": "https://www.makeuseof.com/theres-new-browser-coming-in-2026-everyone-should-know-about-it/",
-      "snippet": "There's a truly new browser coming in 2026, and everyone should know about itに関する最新動向です。 概要: It might just be the fresh start the web has been waiting for"
+      "title": "Mandiant founder raises $189.9M for autonomous AI security startup Armadin",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/",
+      "snippet": "Mandiant創業者ケビン・マンディア氏の新会社Armadinが、シード+Series Aで1.899億ドルを調達。 人手を介さず脅威対応する自律型AIセキュリティエージェントの開発を掲げる。"
     },
     {
-      "title": "Today’s Wordle Hints for March 15, 2026 - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/03/14/crosswords/wordle-review-1730.html",
-      "snippet": "Today’s Wordle Hints for March 15, 2026 - The New York Timesに関する最新動向です。 概要: Scroll down for hints and conversation about the puzzle for Sunday, March 15, 2026."
+      "title": "Apple debuts M5 Pro and M5 Max for pro workflows",
+      "source": "apple.com",
+      "link": "https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/",
+      "snippet": "AppleがM5 Pro/Maxを発表し、新MacBook Pro向けに高性能CPU・GPUとNeural関連性能を強化。 GPU最大40コアや帯域強化により、AI・3D・映像処理の実務性能向上を前面に打ち出した。"
     },
     {
-      "title": "Progressive Web App Technology Is Outpacing Traditional Android Development",
-      "source": "androidheadlines.com",
-      "link": "https://androidheadlines.com/2026/03/progressive-web-app-technology-is-outpacing-traditional-android-development.html",
-      "snippet": "Progressive Web App Technology Is Outpacing Traditional Android Developmentに関する最新動向です。 概要: For over a decade, the &quot;app vs. web&quot; debate had a clear winner on the Android platform: na…"
-    },
-    {
-      "title": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports | Reuters",
+      "title": "Meta pushes AI model Avocado rollout to May or later, Reuters reports",
       "source": "reuters.com",
       "link": "https://www.reuters.com/technology/meta-delays-rollout-new-ai-model-nyt-reports-2026-03-12/",
-      "snippet": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports | Reutersに関する最新動向です。 概要: Meta has postponed the release of its artificial intelligence model \"Avocado\" to at least May, from…"
+      "snippet": "Reutersによると、Metaは新基盤モデル「Avocado」の公開時期を少なくとも5月以降へ延期。 性能面の懸念を背景に、競合モデルとの比較で品質改善を優先していると報じられた。"
     },
     {
-      "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
-      "snippet": "Meta Delays Rollout of New A.I. Model After Performance Concerns - The New York Timesに関する最新動向です。 概要: The tech giant pushed back the timeline after spending billions to be on the cutting edge of artific…"
+      "title": "OpenAI reportedly plans to add Sora video generation to ChatGPT",
+      "source": "engadget.com",
+      "link": "https://www.engadget.com/apps/openai-reportedly-plans-to-add-sora-video-generation-to-chatgpt-222611439.html",
+      "snippet": "報道によるとOpenAIは動画生成SoraをChatGPT本体に統合する計画を進めている。 単体アプリの利用鈍化を補い、9億規模のChatGPT利用基盤へ機能を直接展開する狙い。"
     },
     {
-      "title": "Apple introduces the new MacBook Air with M5 - Apple",
-      "source": "apple.com",
-      "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "snippet": "Apple introduces the new MacBook Air with M5 - Appleに関する最新動向です。 概要: Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI…"
+      "title": "Gumloop lands $50M to scale no-code AI agent building for enterprises",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+      "snippet": "GumloopがBenchmark主導で5000万ドルを調達し、非エンジニア向けAIエージェント構築を拡大。 社内で作ったエージェントを共有し再利用する運用で、全社的な自動化を狙う。"
     },
     {
-      "title": "Meta delays release of new AI model on performance concerns- NYT By Investing.com",
-      "source": "investing.com",
-      "link": "https://www.investing.com/news/stock-market-news/meta-delays-release-of-new-ai-model-on-performance-concerns-nyt-4558756",
-      "snippet": "Meta delays release of new AI model on performance concerns- NYT By Investing.comに関する最新動向です。 概要: Meta delays release of new AI model on performance concerns- NYT"
+      "title": "Crypto bill hits new impasse, raising doubts over its future",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05/",
+      "snippet": "Reutersによると、米国の主要暗号資産法案協議は銀行側の反対もあり再び膠着。 妥協案の不成立で、年内成立可否への不透明感が強まった。"
     },
     {
-      "title": "Bitcoin's early crash to $60,000 now looks like a warning for stocks",
+      "title": "Bitcoin early crash to $60,000 seen as warning for broader risk assets",
       "source": "coindesk.com",
       "link": "https://www.coindesk.com/markets/2026/03/13/bitcoin-crashed-first-now-stocks-follow-cementing-btc-s-lead-indicator-cred",
-      "snippet": "Bitcoin's early crash to $60,000 now looks like a warning for stocksに関する最新動向です。 概要: Bitcoin has once again acted as a leading indicator for risk assets, plunging sharply before the ong…"
+      "snippet": "CoinDeskは、ビットコインが株式市場より先に急落し、その後の株安を先行示唆したと分析。 ETF資金流出や地政学リスクを背景に、BTCが先行指標的に動いた可能性を指摘。"
     },
     {
-      "title": "Crypto: Trending News, Latest Updates, Analysis",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/latest/crypto",
-      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
+      "title": "Crypto industry ramps up US midterm spending with large PAC war chest",
+      "source": "theguardian.com",
+      "link": "https://www.theguardian.com/us-news/2026/mar/13/midterms-crypto-pacs-political-spending",
+      "snippet": "The Guardianによると、暗号資産業界は米中間選挙で業界寄り候補支援に数千万ドルを投入。 主要PACのFairshakeは約1.93億ドルの資金を抱え、法整備推進を狙う。"
     },
     {
-      "title": "Crypto bill hits new impasse, raising doubts over its future | Reuters",
+      "title": "US consumer prices rose 2.4% in February, matching expectations",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html",
+      "snippet": "米2月CPIは前年比2.4%、前月比0.3%で市場予想通り（CNBC/BLS）。 インフレは再加速していない一方、FRB目標の2%を上回る状態が継続。"
+    },
+    {
+      "title": "Oil surged above $100 and raised fears of renewed global inflation shock",
+      "source": "theguardian.com",
+      "link": "https://www.theguardian.com/business/2026/mar/09/how-high-could-oil-go-and-what-might-the-global-economic-fallout-be",
+      "snippet": "Guardianは、中東情勢を受け原油が一時100ドル超へ上昇し、世界経済への波及を警戒。 ホルムズ海峡の物流制約が長引けば、エネルギー・肥料価格を通じた物価圧力が増す。"
+    },
+    {
+      "title": "US consumer spending rose in January while inflation pressures persisted",
       "source": "reuters.com",
-      "link": "https://reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05",
-      "snippet": "Crypto bill hits new impasse, raising doubts over its future | Reutersに関する最新動向です。 概要: Talks on landmark crypto legislation have hit a new impasse after banks said they could not back a c…"
+      "link": "https://www.reuters.com/world/us/us-consumer-spending-core-pce-inflation-firmer-january-2026-03-13/",
+      "snippet": "Reutersによると、米個人消費は1月に堅調増加し、基調インフレもなお粘着的。 エネルギー高の追加圧力で、早期利下げ観測は後退しやすい地合い。"
     },
     {
-      "title": "Crypto Market News Today: Tokenized Stocks Cross $1 Billion With a 2,900% Surge as Pepeto at $0.000000186 Builds the Exchange Where Tokenized Capital Trades",
-      "source": "openpr.com",
-      "link": "https://openpr.com/news/4422554/crypto-market-news-today-tokenized-stocks-cross-1-billion-with",
-      "snippet": "Crypto Market News Today: Tokenized Stocks Cross $1 Billion With a 2,900% Surge as Pepeto at $0.000000186 Builds the Exchange Where Tokenized Capital Tradesに関する最新動向です。 概要: Press release - TOKENWIRE - Crypto Market News Today: Tokenized Stocks Cross $1 Billion With a 2,900…"
+      "title": "JR東日本、2026年春ダイヤ改正を実施（在来線）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2092850.html",
+      "snippet": "JR東日本は3月14日に在来線ダイヤ改正を実施し、武蔵野線の東京方面直通を増発。 横浜線・根岸線の一部ワンマン化や、仙石線の増発など輸送体系の見直しを進めた。"
     },
     {
-      "title": "Stocks slip, dollar strong as Iran conflict pushes oil prices higher | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-03-13/",
-      "snippet": "Stocks slip, dollar strong as Iran conflict pushes oil prices higher | Reutersに関する最新動向です。 概要: Stocks fell and the U.S. dollar strengthened on Friday as uncertainty over the Iran war continued to…"
+      "title": "JR西日本、2026年春ダイヤ改正で新幹線・在来線サービスを拡充",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093216.html",
+      "snippet": "JR西日本は山陽新幹線の臨時のぞみ設定や北陸新幹線の所要時間短縮などを実施。 大阪環状線・新快速に有料指定席「うれしート」を導入し、着席需要に対応。"
     },
     {
-      "title": "Trump seeks to close $1.6 trillion revenue gap with raft of new tariffs | AP News",
-      "source": "apnews.com",
-      "link": "https://apnews.com/article/tariffs-trump-trade-275f146dbc591bab1730a911e04aa8ea",
-      "snippet": "Trump seeks to close $1.6 trillion revenue gap with raft of new tariffs | AP Newsに関する最新動向です。 概要: The Trump administration this week stepped up its ambitious effort to replace about $1.6 trillion in…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "What Are the Chances of a U.S. Recession in 2026? | The Motley Fool",
-      "source": "fool.com",
-      "link": "https://fool.com/investing/2026/03/13/what-are-the-chances-of-a-us-recession-in-2026",
-      "snippet": "What Are the Chances of a U.S. Recession in 2026? | The Motley Foolに関する最新動向です。 概要: The largest prediction market puts the odds of a recession at about 29%."
-    },
-    {
-      "title": "China is rebuilding its grip on North Korea. Is Kim Jong Un ready to oblige? | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/investigations/china-is-rebuilding-its-grip-north-korea-is-kim-jong-un-ready-oblige-2026-03-11/",
-      "snippet": "China is rebuilding its grip on North Korea. Is Kim Jong Un ready to oblige? | Reutersに関する最新動向です。 概要: Growing trade ties and new border infrastructure show Beijing is drawing Pyongyang back into its orb…"
-    },
-    {
-      "title": "Qatar Airways Updates Confirmed Flights For Friday To Tuesday (March 13 – 17, 2026) + Terms Change - LoyaltyLobby",
-      "source": "loyaltylobby.com",
-      "link": "https://loyaltylobby.com/2026/03/13/qatar-airways-updates-confirmed-flights-for-friday-to-tuesday-march-13-17-2026-terms-change",
-      "snippet": "Qatar Airways Updates Confirmed Flights For Friday To Tuesday (March 13 – 17, 2026) + Terms Change - LoyaltyLobbyに関する最新動向です。 概要: Qatar Airways has made slight updates to the schgedule it plans to operate Friday to Tuesday (March…"
-    },
-    {
-      "title": "Dubai Airport travel update: 11 major airlines issue latest advice for DXB passengers | Time Out Dubai",
-      "source": "timeoutdubai.com",
-      "link": "https://www.timeoutdubai.com/news/dxb-travel-advice-march-2026",
-      "snippet": "Dubai Airport travel update: 11 major airlines issue latest advice for DXB passengers | Time Out Dubaiに関する最新動向です。 概要: But some of the world's biggest airlines continue to adjust to the current situation, and several ro…"
-    },
-    {
-      "title": "U.S. Travel Alert: Southwest Ceases Flights at Chicago & Washington Airports June 4 — Airlines, Airport Hotels, and Tourism Boards Sound Alarm! - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/u-s-travel-alert-southwest-ceases-flights-at-chicago-washington-airports-june-4-airlines-airport-hotels-and-tourism-boards-sound-alarm/",
-      "snippet": "U.S. Travel Alert: Southwest Ceases Flights at Chicago & Washington Airports June 4 — Airlines, Airport Hotels, and Tourism Boards Sound Alarm! - Travel And Tour Worldに関する最新動向です。 概要: Southwest Airlines has just dropped a bombshell that will shake up U.S. air travel starting June 4…"
+      "title": "エクスペディア、2026年GWは国内旅行検索が前年比134%増と発表",
+      "source": "prtimes.jp",
+      "link": "https://prtimes.jp/main/html/rd/p/000000315.000003373.html",
+      "snippet": "エクスペディア発表では、2026年GWの国内旅行検索数が前年比134%増。 最大12連休の並びを背景に、複数エリアを回る「周遊旅」需要が拡大傾向。"
     }
   ],
   "meta": {
     "sourceMode": "brave",
     "categoryCount": 5,
-    "itemCount": 20
+    "itemCount": 15
   },
-  "generatedAt": "2026-03-14T15:36:02.129838+00:00"
+  "generatedAt": "2026-03-15T11:04:19.748899+00:00"
 }
