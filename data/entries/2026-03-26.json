@@ -1,0 +1,288 @@
+{
+  "date": "2026-03-26",
+  "title": "2026-03-26 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Amid new competition, Chrome speeds up its release schedule",
+          "summaryLines": [
+            "GoogleはChromeのリリース間隔を4週間から2週間へ短縮すると発表。",
+            "AIブラウザ競争が激化する中で、機能投入と修正サイクルを高速化する狙い。",
+            "開発者・企業ITは検証頻度や運用ルールの見直しが必要になる。"
+          ],
+          "whyImportant": "ブラウザ更新サイクルの短縮はWeb開発・QA・セキュリティ運用に直接影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/"
+        },
+        {
+          "title": "Apple Releases Safari Technology Preview 239 With Bug Fixes and Performance Improvements",
+          "summaryLines": [
+            "AppleはSafari Technology Preview 239を公開し、複数領域の修正を実施。",
+            "Accessibility、CSS、編集機能、フォーム、レンダリング関連の改善が含まれる。",
+            "今後のSafari正式版に反映される可能性が高く、事前検証の材料となる。"
+          ],
+          "whyImportant": "Safari系の挙動変更はiOS/macOS向けWebサービスの品質に直結するため。",
+          "source": "macrumors.com",
+          "link": "https://www.macrumors.com/2026/03/24/apple-releases-safari-technology-preview-239/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
+          "summaryLines": [
+            "Reutersによると、OpenAIとAnthropicが企業向け市場で資本提携競争を強めている。",
+            "OpenAIはPE向け条件を強化し、導入拡大と資金確保を同時に進める構図。",
+            "AIの勝負軸がモデル性能だけでなく販売チャネル・資本力に拡大している。"
+          ],
+          "whyImportant": "企業導入の主戦場で提携条件が変わると、調達コストや導入スピードが左右されるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/"
+        },
+        {
+          "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
+          "summaryLines": [
+            "Reuters報道で、OpenAIがPython開発ツール企業Astralの買収に動くと伝えられた。",
+            "コーディング領域での競争激化を背景に、開発者体験の強化を狙う動き。",
+            "モデル単体ではなく、開発ツール統合が差別化の焦点になっている。"
+          ],
+          "whyImportant": "開発者向けAI市場ではツール統合が定着率と収益性を大きく左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/"
+        },
+        {
+          "title": "OpenAI drops AI video tool Sora, startling Disney, sources say",
+          "summaryLines": [
+            "Reutersは、OpenAIが動画生成ツールSoraの方針転換を進めたと報道。",
+            "提携先を含む関係者への影響が大きく、生成AI動画の商用化戦略に波及。",
+            "動画AIは技術進化だけでなく、権利処理と事業運営の難しさが浮き彫りに。"
+          ],
+          "whyImportant": "生成AIの大型案件は提携リスク管理が不可欠で、プロダクト継続性が重要なため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "BTC finds stability at 2023 investor cost basis, echoing past cycle",
+          "summaryLines": [
+            "CoinDeskは、BTCがオンチェーンの取得原価帯付近で下値を固める展開を報道。",
+            "約6万ドルが重要サポートとして意識され、過去サイクルとの類似が示された。",
+            "需給分析とマクロ要因を組み合わせたリスク管理の重要性が高まっている。"
+          ],
+          "whyImportant": "価格変動が大きい局面では、オンチェーン指標が売買判断の補助線になるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/24/bitcoin-finds-stability-at-2023-investor-cost-basis-echoing-past-cycle"
+        },
+        {
+          "title": "Nasdaq Seeks to Build Crypto Into Wall Street’s Market Plumbing",
+          "summaryLines": [
+            "Bloombergによると、NasdaqはTalosと連携し暗号資産インフラ統合を拡大。",
+            "伝統金融の取引・リスク管理基盤と暗号資産を接続する動きが進む。",
+            "24時間市場を見据えた制度・運用の融合が次のテーマになっている。"
+          ],
+          "whyImportant": "暗号資産が既存金融インフラに組み込まれると、機関投資家の参加条件が変わるため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-23/nasdaq-seeks-to-build-crypto-into-wall-street-s-market-plumbing"
+        },
+        {
+          "title": "US securities regulator issues long-awaited crypto guidance",
+          "summaryLines": [
+            "Reutersは、米規制当局が暗号資産に関する待望の解釈指針を公表したと報道。",
+            "資産区分や適用ルールの明確化が進み、市場参加者の不確実性が一部低下。",
+            "今後は商品設計・上場審査・コンプライアンス運用への反映が焦点。"
+          ],
+          "whyImportant": "規制明確化は市場流動性とプロダクト開発スピードを左右する主要要因のため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Iran war starts to hit global economy, business surveys show",
+          "summaryLines": [
+            "Reutersは、企業景況調査でエネルギー高と不確実性の影響が顕在化と報道。",
+            "成長鈍化とインフレ圧力が同時進行し、主要国の景気見通しに下押し。",
+            "地政学リスクが実体経済に波及する局面に入りつつある。"
+          ],
+          "whyImportant": "企業収益・物価・金融政策見通しを同時に動かすため、投資判断への影響が大きい。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/iran-war-starts-hit-global-economy-business-surveys-show-2026-03-24/"
+        },
+        {
+          "title": "Big central banks keep options open as traders bet war will bring rate hikes",
+          "summaryLines": [
+            "Reutersによると、主要中銀は政策の柔軟性を維持しつつ市場は利上げ再燃を織り込む。",
+            "インフレ再加速リスクが意識され、金利パスの不確実性が再拡大。",
+            "為替・債券・株式の連動変動が強まりやすい地合いとなっている。"
+          ],
+          "whyImportant": "金融政策の見通し変化は資産価格全体のボラティリティを高めるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/global-markets-central-banks-2026-03-19/"
+        },
+        {
+          "title": "War Knocks Global Economy With Dual Shock to Growth, Prices",
+          "summaryLines": [
+            "Bloombergは、3月PMIで成長減速と物価上昇の同時ショックが見え始めたと報道。",
+            "米欧を含む複数地域で景況感が下振れし、先行き警戒が強まる。",
+            "政策対応の難易度が上がり、企業のコスト管理がより重要になっている。"
+          ],
+          "whyImportant": "スタグフレーション懸念の高まりは、景気・市場の前提を大きく変えるため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-03-24/war-knocks-global-economy-with-dual-shock-to-growth-and-prices"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "高速道路各社、2026年度の休日割引カレンダーを発表。GW/お盆/年末年始ほか、3連休も適用除外日に",
+          "summaryLines": [
+            "NEXCO各社などが2026年度の休日割引カレンダーを公表。",
+            "GW・お盆・年末年始・シルバーウィーク・3連休は割引除外を継続。",
+            "国内ドライブ旅行は出発日による費用差が大きく、計画の精度が重要。"
+          ],
+          "whyImportant": "家族旅行・連休旅行の交通費に直結し、需要分散にも影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2094151.html"
+        },
+        {
+          "title": "2026年春ダイヤ改正公式リリース一覧 - 鉄道コム",
+          "summaryLines": [
+            "鉄道コムが2026年春ダイヤ改正の各社公式リリースを集約して更新。",
+            "列車時刻・接続・運行本数の変更点を一括確認できる導線として有用。",
+            "国内旅行者は移動計画前に最新ダイヤ確認が必須の時期に入っている。"
+          ],
+          "whyImportant": "ダイヤ改正期は乗継失敗や所要時間ズレが起きやすく、事前確認が重要なため。",
+          "source": "tetsudo.com",
+          "link": "https://www.tetsudo.com/site/special/dia202603.html"
+        },
+        {
+          "title": "3月29日は絶好のお花見日和　洗濯や掃除にも最適な春本番の陽気に",
+          "summaryLines": [
+            "tenki.jpは、関東で3月29日が安定した晴天となる見通しを伝えた。",
+            "東京は満開タイミングに重なり、週末の花見・日帰り旅行需要が高まりやすい。",
+            "天候要因が国内観光の直前需要を押し上げる可能性がある。"
+          ],
+          "whyImportant": "桜シーズンの天候は地域観光の来訪タイミングと消費行動を大きく動かすため。",
+          "source": "tenki.jp",
+          "link": "https://tenki.jp/forecaster/komuro_takuya/2026/03/26/38311.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Amid new competition, Chrome speeds up its release schedule",
+    "AI：OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
+    "暗号通貨：BTC finds stability at 2023 investor cost basis, echoing past cycle"
+  ],
+  "headlines": [
+    {
+      "title": "Amid new competition, Chrome speeds up its release schedule",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/",
+      "snippet": "GoogleはChromeのリリース間隔を4週間から2週間へ短縮すると発表。AIブラウザ競争が激化する中で、機能投入と修正サイクルを高速化する狙い。"
+    },
+    {
+      "title": "Apple Releases Safari Technology Preview 239 With Bug Fixes and Performance Improvements",
+      "source": "macrumors.com",
+      "link": "https://www.macrumors.com/2026/03/24/apple-releases-safari-technology-preview-239/",
+      "snippet": "AppleはSafari Technology Preview 239を公開し、複数領域の修正を実施。Accessibility、CSS、編集機能、フォーム、レンダリング関連の改善が含まれる。"
+    },
+    {
+      "title": "OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/",
+      "snippet": "Reutersによると、OpenAIとAnthropicが企業向け市場で資本提携競争を強めている。OpenAIはPE向け条件を強化し、導入拡大と資金確保を同時に進める構図。"
+    },
+    {
+      "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/",
+      "snippet": "Reuters報道で、OpenAIがPython開発ツール企業Astralの買収に動くと伝えられた。コーディング領域での競争激化を背景に、開発者体験の強化を狙う動き。"
+    },
+    {
+      "title": "OpenAI drops AI video tool Sora, startling Disney, sources say",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/",
+      "snippet": "Reutersは、OpenAIが動画生成ツールSoraの方針転換を進めたと報道。提携先を含む関係者への影響が大きく、生成AI動画の商用化戦略に波及。"
+    },
+    {
+      "title": "BTC finds stability at 2023 investor cost basis, echoing past cycle",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/24/bitcoin-finds-stability-at-2023-investor-cost-basis-echoing-past-cycle",
+      "snippet": "CoinDeskは、BTCがオンチェーンの取得原価帯付近で下値を固める展開を報道。約6万ドルが重要サポートとして意識され、過去サイクルとの類似が示された。"
+    },
+    {
+      "title": "Nasdaq Seeks to Build Crypto Into Wall Street’s Market Plumbing",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/nasdaq-seeks-to-build-crypto-into-wall-street-s-market-plumbing",
+      "snippet": "Bloombergによると、NasdaqはTalosと連携し暗号資産インフラ統合を拡大。伝統金融の取引・リスク管理基盤と暗号資産を接続する動きが進む。"
+    },
+    {
+      "title": "US securities regulator issues long-awaited crypto guidance",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/",
+      "snippet": "Reutersは、米規制当局が暗号資産に関する待望の解釈指針を公表したと報道。資産区分や適用ルールの明確化が進み、市場参加者の不確実性が一部低下。"
+    },
+    {
+      "title": "Iran war starts to hit global economy, business surveys show",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/iran-war-starts-hit-global-economy-business-surveys-show-2026-03-24/",
+      "snippet": "Reutersは、企業景況調査でエネルギー高と不確実性の影響が顕在化と報道。成長鈍化とインフレ圧力が同時進行し、主要国の景気見通しに下押し。"
+    },
+    {
+      "title": "Big central banks keep options open as traders bet war will bring rate hikes",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/global-markets-central-banks-2026-03-19/",
+      "snippet": "Reutersによると、主要中銀は政策の柔軟性を維持しつつ市場は利上げ再燃を織り込む。インフレ再加速リスクが意識され、金利パスの不確実性が再拡大。"
+    },
+    {
+      "title": "War Knocks Global Economy With Dual Shock to Growth, Prices",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-24/war-knocks-global-economy-with-dual-shock-to-growth-and-prices",
+      "snippet": "Bloombergは、3月PMIで成長減速と物価上昇の同時ショックが見え始めたと報道。米欧を含む複数地域で景況感が下振れし、先行き警戒が強まる。"
+    },
+    {
+      "title": "高速道路各社、2026年度の休日割引カレンダーを発表。GW/お盆/年末年始ほか、3連休も適用除外日に",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2094151.html",
+      "snippet": "NEXCO各社などが2026年度の休日割引カレンダーを公表。GW・お盆・年末年始・シルバーウィーク・3連休は割引除外を継続。"
+    },
+    {
+      "title": "2026年春ダイヤ改正公式リリース一覧 - 鉄道コム",
+      "source": "tetsudo.com",
+      "link": "https://www.tetsudo.com/site/special/dia202603.html",
+      "snippet": "鉄道コムが2026年春ダイヤ改正の各社公式リリースを集約して更新。列車時刻・接続・運行本数の変更点を一括確認できる導線として有用。"
+    },
+    {
+      "title": "3月29日は絶好のお花見日和　洗濯や掃除にも最適な春本番の陽気に",
+      "source": "tenki.jp",
+      "link": "https://tenki.jp/forecaster/komuro_takuya/2026/03/26/38311.html",
+      "snippet": "tenki.jpは、関東で3月29日が安定した晴天となる見通しを伝えた。東京は満開タイミングに重なり、週末の花見・日帰り旅行需要が高まりやすい。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 14
+  },
+  "generatedAt": "2026-03-26T11:05:00+00:00"
+}
