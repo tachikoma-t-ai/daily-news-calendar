@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-12",
+  "title": "2026-04-12 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Amazon、AI関連サービスの年換算売上を開示し投資継続姿勢を強調（Reuters）",
+          "summaryLines": [
+            "ReutersによるとAmazonのAndy Jassy CEOは、クラウド部門のAIサービスが年換算で150億ドル超の売上規模に達したと説明した。",
+            "生成AI向け投資に対する市場の懸念に対し、需要の実体を示すかたちで反論した。",
+            "クラウド大手のAI収益化フェーズが、実証段階から本格拡大段階へ移っている。"
+          ],
+          "whyImportant": "AI投資の採算性を測る主要指標として、クラウド各社の収益開示が市場評価を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/retail-consumer/amazon-says-annual-revenue-run-rate-chips-business-now-over-20-billion-2026-04-09/"
+        },
+        {
+          "title": "Broadcom、Google向けカスタムAIチップ開発の長期契約を締結（Reuters）",
+          "summaryLines": [
+            "ReutersによるとBroadcomは、Google向けカスタムAIチップ開発に関する長期契約を結んだ。",
+            "ハイパースケーラーによる専用チップ内製・共同開発の流れが継続している。",
+            "汎用GPU依存を下げる設計戦略が、クラウド競争の差別化要因になっている。"
+          ],
+          "whyImportant": "AI基盤の競争力が、モデル性能だけでなく半導体の設計・供給戦略にも強く依存するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAIとAnthropicの収益差がIPO評価の焦点に（Reuters）",
+          "summaryLines": [
+            "Reutersは、OpenAIとAnthropicの売上成長の差が、今後の上場時評価に直結する論点になっていると報じた。",
+            "エンタープライズ契約と推論需要の拡大が、両社の収益構造を押し上げている。",
+            "モデル性能競争に加え、持続的な収益性が資本市場で重視されている。"
+          ],
+          "whyImportant": "生成AI企業の企業価値は、技術力だけでなく売上の継続性・成長率で再評価される局面に入ったため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/artificial-intelligence/openai-versus-anthropic-what-revenue-race-means-their-ipos-2026-04-08/"
+        },
+        {
+          "title": "Anthropic、Big Tech連携のAIサイバーセキュリティ計画を公表（Reuters）",
+          "summaryLines": [
+            "ReutersによるとAnthropicは、主要テック企業との連携を含むAIサイバーセキュリティ計画を打ち出した。",
+            "高度モデルの公開前評価と運用リスク管理の強化を狙う取り組み。",
+            "性能競争と安全性確保を並行して進める業界潮流が鮮明になっている。"
+          ],
+          "whyImportant": "企業導入が進むほど、安全評価の実効性がAIの社会実装スピードを左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "日本政府、暗号資産を金融商品として位置付ける法改正案を承認（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると日本の内閣は、暗号資産を金融商品取引法の枠組みで扱う改正案を承認した。",
+            "インサイダー取引規制や開示義務、無登録業者への罰則強化が柱とされる。",
+            "決済手段中心だった扱いから、投資商品としての規律強化へ軸足が移っている。"
+          ],
+          "whyImportant": "日本市場での取引ルール明確化は、事業者のコンプラ対応と投資家保護の両面に影響するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products"
+        },
+        {
+          "title": "米「Crypto Clarity」法案、年内成立確率は30％との見方（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによるとWintermuteの政策責任者は、Crypto Clarity法案の年内成立確率を30％程度と見積もった。",
+            "交渉進展の兆しはある一方で、政治日程や業界間の論点対立が重しになっている。",
+            "規制の不確実性は続くが、制度整備への圧力は強まっている。"
+          ],
+          "whyImportant": "米国の法制化の進捗は、グローバルなトークン発行・取引ビジネスの前提条件を左右するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米3月CPI、ガソリン価格急騰で大幅上振れ（Reuters）",
+          "summaryLines": [
+            "Reutersによると米国の3月消費者物価は、ガソリン・軽油価格の急騰を背景に大きく上昇した。",
+            "市場では利下げ時期の後ずれ観測が強まり、金利・為替見通しが再調整されている。",
+            "エネルギー価格ショックが家計負担と政策判断の両方を圧迫する構図。"
+          ],
+          "whyImportant": "インフレ再加速は金融政策の選択肢を狭め、世界的な資産価格と実体経済に波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/middle-east/us-consumer-prices-surge-expected-march-2026-04-10/"
+        },
+        {
+          "title": "IMF専務理事、中東戦争で「高インフレ・低成長」リスク拡大と指摘（Reuters）",
+          "summaryLines": [
+            "ReutersによるとIMFトップは、中東情勢の悪化が世界経済に物価上昇と成長鈍化を同時にもたらすと警告した。",
+            "エネルギー価格の上昇が各国のインフレ抑制努力を難しくする可能性がある。",
+            "地政学リスクがマクロ経済シナリオの下振れ要因として強まっている。"
+          ],
+          "whyImportant": "景気減速と物価高の同時進行は、政策対応を難しくし企業・家計双方の負担を増やすため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/middle-east/war-middle-east-will-lead-slower-growth-higher-inflation-imf-chief-tells-reuters-2026-04-06/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "JR6社、2026年GW指定席予約のピークは下り5/2・上り5/5（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、JR6社のGW期間（4/24〜5/6）指定席予約は前年超えで推移。",
+            "ピークは下り5月2日、上り5月5日で、2日午前の新幹線は満席区間も見込まれる。",
+            "大型連休の国内移動は早期予約と時間帯分散が重要になっている。"
+          ],
+          "whyImportant": "連休需要の先行指標として、交通混雑と旅行計画への影響が大きいため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2100891.html"
+        },
+        {
+          "title": "JTB、4月22日までタイムセールを実施。北海道など国内ツアーを拡販（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによるとJTBは、国内外ツアーを対象に4月22日までタイムセールを展開している。",
+            "国内では北海道・沖縄などの航空券＋宿泊パッケージに加え、併用クーポンも提供。",
+            "価格施策を通じて、GW直前の国内旅行需要取り込みを強化している。"
+          ],
+          "whyImportant": "販売促進施策は国内旅行の実需を押し上げ、地域観光消費の回復ペースに影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2100751.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Amazon、AI関連サービスの年換算売上を開示し投資継続姿勢を強調（Reuters）",
+    "暗号通貨：日本政府、暗号資産を金融商品として位置付ける法改正案を承認（CoinDesk）",
+    "時事・経済：米3月CPI、ガソリン価格急騰で大幅上振れ（Reuters）"
+  ],
+  "headlines": [
+    {
+      "title": "Amazon、AI関連サービスの年換算売上を開示し投資継続姿勢を強調（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/retail-consumer/amazon-says-annual-revenue-run-rate-chips-business-now-over-20-billion-2026-04-09/",
+      "snippet": "ReutersによるとAmazonのAndy Jassy CEOは、クラウド部門のAIサービスが年換算で150億ドル超の売上規模に達したと説明した。"
+    },
+    {
+      "title": "Broadcom、Google向けカスタムAIチップ開発の長期契約を締結（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
+      "snippet": "ReutersによるとBroadcomは、Google向けカスタムAIチップ開発に関する長期契約を結んだ。"
+    },
+    {
+      "title": "OpenAIとAnthropicの収益差がIPO評価の焦点に（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/artificial-intelligence/openai-versus-anthropic-what-revenue-race-means-their-ipos-2026-04-08/",
+      "snippet": "Reutersは、OpenAIとAnthropicの売上成長の差が、今後の上場時評価に直結する論点になっていると報じた。"
+    },
+    {
+      "title": "Anthropic、Big Tech連携のAIサイバーセキュリティ計画を公表（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/",
+      "snippet": "ReutersによるとAnthropicは、主要テック企業との連携を含むAIサイバーセキュリティ計画を打ち出した。"
+    },
+    {
+      "title": "日本政府、暗号資産を金融商品として位置付ける法改正案を承認（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products",
+      "snippet": "CoinDeskによると日本の内閣は、暗号資産を金融商品取引法の枠組みで扱う改正案を承認した。"
+    },
+    {
+      "title": "米「Crypto Clarity」法案、年内成立確率は30％との見方（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says",
+      "snippet": "CoinDeskによるとWintermuteの政策責任者は、Crypto Clarity法案の年内成立確率を30％程度と見積もった。"
+    },
+    {
+      "title": "米3月CPI、ガソリン価格急騰で大幅上振れ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/middle-east/us-consumer-prices-surge-expected-march-2026-04-10/",
+      "snippet": "Reutersによると米国の3月消費者物価は、ガソリン・軽油価格の急騰を背景に大きく上昇した。"
+    },
+    {
+      "title": "IMF専務理事、中東戦争で「高インフレ・低成長」リスク拡大と指摘（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/middle-east/war-middle-east-will-lead-slower-growth-higher-inflation-imf-chief-tells-reuters-2026-04-06/",
+      "snippet": "ReutersによるとIMFトップは、中東情勢の悪化が世界経済に物価上昇と成長鈍化を同時にもたらすと警告した。"
+    },
+    {
+      "title": "JR6社、2026年GW指定席予約のピークは下り5/2・上り5/5（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2100891.html",
+      "snippet": "トラベルWatchによると、JR6社のGW期間（4/24〜5/6）指定席予約は前年超えで推移。"
+    },
+    {
+      "title": "JTB、4月22日までタイムセールを実施。北海道など国内ツアーを拡販（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2100751.html",
+      "snippet": "トラベルWatchによるとJTBは、国内外ツアーを対象に4月22日までタイムセールを展開している。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-04-12T11:03:12+00:00"
+}
