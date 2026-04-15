@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-15",
+  "title": "2026-04-15 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Meta、CoreWeaveと追加のAIクラウド契約（210億ドル規模）を締結（Reuters）",
+          "summaryLines": [
+            "Reutersによると、MetaはCoreWeaveとの提携を拡大し、追加のAIクラウド計算能力を確保する大型契約を結んだ。",
+            "生成AIの競争激化を背景に、モデル企業が外部クラウドのGPUを先行確保する動きが続いている。",
+            "AI開発の主戦場がアルゴリズムだけでなく、インフラ調達力にも広がっている。"
+          ],
+          "whyImportant": "計算資源の長期確保はAI製品の投入速度とコスト競争力を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/coreweave-signs-21-billion-ai-cloud-deal-with-meta-2026-04-09/"
+        },
+        {
+          "title": "Amazon、創薬初期研究を支援するAIツール「Amazon Bio Discovery」を発表（Reuters）",
+          "summaryLines": [
+            "Reutersによると、Amazonのクラウド部門は初期創薬の計算・探索を加速するAIアプリケーションを公開した。",
+            "製薬企業とテック企業の協業領域で、基礎研究段階からAI活用を前提にした開発が進んでいる。",
+            "ヘルスケア向けAIの商用化が、クラウド各社の新たな成長領域として存在感を強めている。"
+          ],
+          "whyImportant": "企業ITにおけるAI適用先が汎用業務から高付加価値の研究開発へ拡大しているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "英中銀ベイリー総裁、Anthropic新モデルにサイバー面の重大リスクと警鐘（Reuters）",
+          "summaryLines": [
+            "Reutersによると、英中銀のベイリー総裁は新しい先端AIモデルが金融システムにサイバー上の重大リスクをもたらし得ると指摘した。",
+            "中央銀行・監督当局が、AI性能だけでなく悪用可能性を含む実務的な検証を急ぐ局面に入っている。",
+            "金融規制当局の警戒感が、今後のAIガバナンス設計を押し上げる材料になっている。"
+          ],
+          "whyImportant": "金融インフラを起点としたAI規制強化は他業界の標準にも波及しやすいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/uk/boes-bailey-sees-major-cybersecurity-risks-new-anthropic-model-2026-04-14/"
+        },
+        {
+          "title": "xAI、コロラド州の新AI法を巡り提訴（Reuters）",
+          "summaryLines": [
+            "Reutersによると、xAIはコロラド州のAI法がモデル開発・運用の自由を不当に制限するとして提訴した。",
+            "州単位で進むAI規制と、企業側の実装自由度の対立が司法判断に持ち込まれている。",
+            "米国内では連邦・州・業界ルールの整合性が次の争点として浮上している。"
+          ],
+          "whyImportant": "判例次第で米国AI規制の実務ラインが一気に具体化する可能性があるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "米議会で暗号資産税制見直し法案（PARITY Act）を再提示（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、米議員が暗号資産の税務取り扱いを見直すPARITY Actを再提案した。",
+            "小額決済に対するde minimis（少額非課税）ルールの議論が焦点となり、日常決済利用の障壁低減が争点。",
+            "税制の明確化を通じて、個人利用と事業者の会計実務を整理する狙いが示されている。"
+          ],
+          "whyImportant": "税務ルールは暗号資産の実利用（決済・送金）の普及速度を直接左右するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/13/u-s-lawmakers-take-another-swing-at-crypto-tax-policy-with-revised-bill"
+        },
+        {
+          "title": "Ethereum Foundation、スマートコントラクト監査向け100万ドル補助プログラムを開始（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、Ethereum Foundationは監査費用の高さを下げるため、総額100万ドルの補助枠を用意した。",
+            "NethermindやChainlink Labsなどと連携し、開発チームが監査企業へアクセスしやすい仕組みを整備する。",
+            "「Trillion Dollar Security Initiative」の一環として、エコシステム全体のセキュリティ底上げを狙う。"
+          ],
+          "whyImportant": "監査コスト低減は、脆弱性起因の損失を抑えつつ開発速度を維持する鍵になるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米3月CPI、前月比+0.9%・前年比+3.3%（米労働統計局）",
+          "summaryLines": [
+            "米労働統計局（BLS）によると、2026年3月のCPIは前月比0.9%上昇、前年比3.3%となった。",
+            "エネルギー指数は前月比10.9%、ガソリンは21.2%上昇し、全体上昇の大半を押し上げた。",
+            "食品は横ばい、コア（食品・エネルギー除く）は前月比0.2%上昇で、構成項目のばらつきが目立つ。"
+          ],
+          "whyImportant": "インフレ再加速の兆候は金利・為替・株式の見通しに直結するため。",
+          "source": "bls.gov",
+          "link": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "title": "IMF、4月版WEO「Global Economy in the Shadow of War」を公表（IMF）",
+          "summaryLines": [
+            "IMFは2026年4月版の世界経済見通し（WEO）を公開し、戦争影響下での成長・物価見通しを更新した。",
+            "報告書本編に加え、統計付録・成長率テーブル・関連解説を同時に提供する構成となっている。",
+            "各国政策当局と市場参加者は、地政学リスクを織り込んだシナリオ再評価を迫られている。"
+          ],
+          "whyImportant": "IMF見通しは各国の政策対話とグローバル資産配分の基準値として参照されやすいため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "JR東日本、GW期間の指定席予約状況を公表（JR東日本）",
+          "summaryLines": [
+            "JR東日本は2026年4月10日、ゴールデンウィーク期間の指定席予約状況を発表した。",
+            "ピーク日に予約が集中し、新幹線・特急の混雑見込みが旅行計画に影響する状況が示された。",
+            "国内の帰省・レジャー移動需要が連休前に高水準で推移している。"
+          ],
+          "whyImportant": "交通混雑データは国内旅行需要の先行指標として宿泊・観光消費を読む材料になるため。",
+          "source": "jreast.co.jp",
+          "link": "https://www.jreast.co.jp/press/2026/20260410_ho02.pdf"
+        },
+        {
+          "title": "JTB、2026年GW（4/25〜5/7）の旅行動向見通しを発表（JTB）",
+          "summaryLines": [
+            "JTBは2026年4月2日、GW期間の旅行予定人数・費用・交通手段などの見通しを公表した。",
+            "資料では国内旅行の傾向として、費用意識を反映した交通・宿泊選択の変化が示されている。",
+            "連休商戦に向け、旅行会社・交通・宿泊各社の需給調整材料となる内容。"
+          ],
+          "whyImportant": "旅行需要見通しは地域観光の売上計画や価格戦略の判断材料になるため。",
+          "source": "jtbcorp.jp",
+          "link": "https://www.jtbcorp.jp/jp/newsroom/asset/20260402_14/260402_JTB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_2026%E5%B9%B4GW%E6%97%85%E8%A1%8C%E5%8B%95%E5%90%91.pdf"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "経済：米3月CPI、前月比+0.9%・前年比+3.3%（米労働統計局）",
+    "IT：Meta、CoreWeaveと追加のAIクラウド契約（210億ドル規模）を締結（Reuters）",
+    "暗号通貨：米議会で暗号資産税制見直し法案（PARITY Act）を再提示（CoinDesk）"
+  ],
+  "headlines": [
+    {
+      "title": "Meta、CoreWeaveと追加のAIクラウド契約（210億ドル規模）を締結（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/coreweave-signs-21-billion-ai-cloud-deal-with-meta-2026-04-09/",
+      "snippet": "Reutersによると、MetaはCoreWeaveとの提携を拡大し、追加のAIクラウド計算能力を確保する大型契約を結んだ。"
+    },
+    {
+      "title": "Amazon、創薬初期研究を支援するAIツール「Amazon Bio Discovery」を発表（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/",
+      "snippet": "Reutersによると、Amazonのクラウド部門は初期創薬の計算・探索を加速するAIアプリケーションを公開した。"
+    },
+    {
+      "title": "英中銀ベイリー総裁、Anthropic新モデルにサイバー面の重大リスクと警鐘（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/uk/boes-bailey-sees-major-cybersecurity-risks-new-anthropic-model-2026-04-14/",
+      "snippet": "Reutersによると、英中銀のベイリー総裁は新しい先端AIモデルが金融システムにサイバー上の重大リスクをもたらし得ると指摘した。"
+    },
+    {
+      "title": "xAI、コロラド州の新AI法を巡り提訴（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/",
+      "snippet": "Reutersによると、xAIはコロラド州のAI法がモデル開発・運用の自由を不当に制限するとして提訴した。"
+    },
+    {
+      "title": "米議会で暗号資産税制見直し法案（PARITY Act）を再提示（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/13/u-s-lawmakers-take-another-swing-at-crypto-tax-policy-with-revised-bill",
+      "snippet": "CoinDeskによると、米議員が暗号資産の税務取り扱いを見直すPARITY Actを再提案した。"
+    },
+    {
+      "title": "Ethereum Foundation、スマートコントラクト監査向け100万ドル補助プログラムを開始（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders",
+      "snippet": "CoinDeskによると、Ethereum Foundationは監査費用の高さを下げるため、総額100万ドルの補助枠を用意した。"
+    },
+    {
+      "title": "米3月CPI、前月比+0.9%・前年比+3.3%（米労働統計局）",
+      "source": "bls.gov",
+      "link": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "snippet": "米労働統計局（BLS）によると、2026年3月のCPIは前月比0.9%上昇、前年比3.3%となった。"
+    },
+    {
+      "title": "IMF、4月版WEO「Global Economy in the Shadow of War」を公表（IMF）",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+      "snippet": "IMFは2026年4月版の世界経済見通し（WEO）を公開し、戦争影響下での成長・物価見通しを更新した。"
+    },
+    {
+      "title": "JR東日本、GW期間の指定席予約状況を公表（JR東日本）",
+      "source": "jreast.co.jp",
+      "link": "https://www.jreast.co.jp/press/2026/20260410_ho02.pdf",
+      "snippet": "JR東日本は2026年4月10日、ゴールデンウィーク期間の指定席予約状況を発表した。"
+    },
+    {
+      "title": "JTB、2026年GW（4/25〜5/7）の旅行動向見通しを発表（JTB）",
+      "source": "jtbcorp.jp",
+      "link": "https://www.jtbcorp.jp/jp/newsroom/asset/20260402_14/260402_JTB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_2026%E5%B9%B4GW%E6%97%85%E8%A1%8C%E5%8B%95%E5%90%91.pdf",
+      "snippet": "JTBは2026年4月2日、GW期間の旅行予定人数・費用・交通手段などの見通しを公表した。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-04-15T11:03:47+00:00"
+}
