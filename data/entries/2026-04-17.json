@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-17",
+  "title": "2026-04-17 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "OpenAI、Cerebras製チップ基盤に3年で200億ドル超を投じる計画（Reuters/The Information）",
+          "summaryLines": [
+            "Reutersによると、OpenAIはCerebrasのチップを使うサーバー利用に今後3年で200億ドル超を支払う方向で、株式持分を受け取る可能性もあると報じられた。",
+            "モデル競争がアルゴリズムだけでなく、推論基盤の長期調達契約へと重心を移していることが改めて示された。",
+            "AIインフラの寡占化・資本集約化が進み、中小プレイヤーとの調達格差が拡大する局面に入っている。"
+          ],
+          "whyImportant": "巨大な計算資源契約は、今後のAIサービス価格と競争地図を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai-spend-more-than-20-billion-cerebras-chips-receive-equity-stake-2026-04-17/"
+        },
+        {
+          "title": "Tesla、Terafab向けに台湾で半導体エンジニア採用を拡大（Reuters）",
+          "summaryLines": [
+            "Reutersによると、TeslaはTerafab AIチップ複合プロジェクト向けに、台湾で半導体エンジニアの採用を進めている。",
+            "車載メーカーが独自の半導体・AI基盤に踏み込む動きが強まり、供給網の主導権争いが激化している。",
+            "製造・設計人材の獲得競争は、EVとAIの両領域で中長期の競争力を左右する要因になっている。"
+          ],
+          "whyImportant": "チップ人材確保は次世代モビリティとAIの開発速度に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/autos-transportation/tesla-seeks-taiwan-chip-engineers-terafab-project-2026-04-17/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、生命科学向け新モデル「GPT-Rosalind」を発表（Reuters）",
+          "summaryLines": [
+            "Reutersによると、OpenAIは生物学知識と科学研究能力を強化した新モデル「GPT-Rosalind」を発表した。",
+            "汎用チャット用途から、創薬・研究支援など高付加価値な専門領域への展開を加速する狙いが見える。",
+            "モデル性能だけでなく、実験設計や論文探索など研究ワークフロー全体への統合が焦点になっている。"
+          ],
+          "whyImportant": "生成AIの主戦場が一般用途から産業・研究用途へ移る転換点を示すため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-launches-ai-model-gpt-rosalind-life-sciences-research-2026-04-16/"
+        },
+        {
+          "title": "OpenAI、シリコンバレー系テック番組TBPNを買収（Reuters）",
+          "summaryLines": [
+            "Reutersによると、OpenAIは企業顧客獲得競争の中で、業界CEOインタビューで知られるオンライン番組TBPNを買収した。",
+            "モデル提供だけでなく、情報流通・ブランド発信チャネルまで自前化する動きとして注目されている。",
+            "AI企業がメディア接点を押さえることで、採用・営業・政策対話への影響力を高める構図が見えてきた。"
+          ],
+          "whyImportant": "AI企業の競争が技術開発から“流通とナラティブ”の確保へ拡張しているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン、7.6万ドル手前で上値重く推移（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、ビットコインは7.6万ドル近辺で約4.5億ドル規模の売り注文が意識され、上値を抑えられる展開となった。",
+            "デリバティブ市場の清算増加が短期ボラティリティを高める一方、トレンド継続には現物主導の買いが不足している。",
+            "センチメントは改善しつつも、レジスタンス突破の確度はまだ限定的との見方が広がっている。"
+          ],
+          "whyImportant": "主要レンジの攻防は暗号資産全体のリスク選好を左右しやすいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/04/17/bitcoin-stalls-below-usd76-000-as-sell-wall-caps-rally-despite-rising-derivatives-activity"
+        },
+        {
+          "title": "イーサリアム、四半期トランザクションが初の2億件超（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、2026年Q1のEthereumトランザクションは2億4百万件となり、四半期ベースで初めて2億件を突破した。",
+            "2023年の低水準から大幅に回復し、L2やアプリ層の利用拡大がオンチェーン活動を押し上げた形だ。",
+            "市場価格だけでなく実需指標の改善が、エコシステム再評価の材料として意識されている。"
+          ],
+          "whyImportant": "実利用データの回復は、長期的なネットワーク価値評価の土台になるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/tech/2026/04/17/ethereum-just-had-its-busiest-quarter-ever-completing-a-three-year-comeback-on-chain"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "IMF、世界成長見通しを下方修正し下振れリスクを警告（Reuters）",
+          "summaryLines": [
+            "Reutersによると、IMFは世界成長見通しを引き下げ、地政学要因の悪化時にはより厳しいシナリオに向かう可能性を示した。",
+            "エネルギー物流の混乱と価格上昇が、成長鈍化とインフレ再燃を同時に引き起こす懸念が強まっている。",
+            "市場では景気・物価の両にらみが続き、政策対応の難易度が一段と上がっている。"
+          ],
+          "whyImportant": "IMF改定は各国の政策前提と金融市場シナリオを更新する基準情報になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/imf-cuts-growth-outlook-warns-potential-global-recession-if-iran-war-worsens-2026-04-14/"
+        },
+        {
+          "title": "英国、IMF見通しで主要先進国中最大級の下方修正（Reuters）",
+          "summaryLines": [
+            "Reutersによると、英国はIMFの最新見通しで主要先進国の中でも大きい成長下方修正を受けた。",
+            "背景にはエネルギー価格上昇の波及があり、インフレ圧力と実体経済の弱さが同時進行している。",
+            "財政・金融政策の運営余地が狭まる中で、家計と企業の実質負担増が懸念される。"
+          ],
+          "whyImportant": "主要国の成長失速は為替・金利・貿易見通しを通じて他国経済にも波及しやすいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/uk-hit-with-big-imf-growth-downgrade-iran-war-fuels-inflation-2026-04-14/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "JR東日本、春の臨時列車とGW増発計画を案内（JR東日本）",
+          "summaryLines": [
+            "JR東日本は2026年3月〜6月の春季期間に、イベント・花見・連休需要へ対応する臨時列車の運転計画を公表している。",
+            "ふくしまデスティネーションキャンペーンやGWを中心に、新幹線・特急の供給増を実施する構成だ。",
+            "広域移動の供給拡大は、国内旅行の回復基調と混雑分散の両面で重要なインフラ対応となる。"
+          ],
+          "whyImportant": "鉄道供給計画は国内旅行需要の強さとピーク混雑の見通しを判断する一次情報のため。",
+          "source": "jreast.co.jp",
+          "link": "https://www.jreast.co.jp/press/2026/springextratrain/index.html/"
+        },
+        {
+          "title": "JR東海、2026年度GWの指定席予約状況を公表（JR東海）",
+          "summaryLines": [
+            "JR東海ニュースリリースでは、2026年度ゴールデンウィーク期間の指定席予約状況を4月10日に公表した。",
+            "東海道・山陽新幹線を含む主要区間の予約進捗が示され、ピーク日集中への早期対応が求められる状況だ。",
+            "輸送需要の可視化は、宿泊・観光地側の受け入れ計画や価格設定にも影響を与える。"
+          ],
+          "whyImportant": "予約動向は国内旅行の実需を示す高頻度データとして有用なため。",
+          "source": "jr-central.co.jp",
+          "link": "https://jr-central.co.jp/news/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：OpenAI、Cerebras製チップ基盤に3年で200億ドル超を投じる計画（Reuters）",
+    "AI：OpenAI、生命科学向け新モデル「GPT-Rosalind」を発表（Reuters）",
+    "暗号通貨：イーサリアム、四半期トランザクションが初の2億件超（CoinDesk）"
+  ],
+  "headlines": [
+    {
+      "title": "OpenAI、Cerebras製チップ基盤に3年で200億ドル超を投じる計画（Reuters/The Information）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai-spend-more-than-20-billion-cerebras-chips-receive-equity-stake-2026-04-17/",
+      "snippet": "OpenAIがCerebras基盤へ大型コミットを進め、AIインフラの資本集約化が鮮明になった。"
+    },
+    {
+      "title": "Tesla、Terafab向けに台湾で半導体エンジニア採用を拡大（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/autos-transportation/tesla-seeks-taiwan-chip-engineers-terafab-project-2026-04-17/",
+      "snippet": "Teslaが台湾でチップ人材確保を進め、AI半導体の主導権争いが拡大している。"
+    },
+    {
+      "title": "OpenAI、生命科学向け新モデル「GPT-Rosalind」を発表（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-launches-ai-model-gpt-rosalind-life-sciences-research-2026-04-16/",
+      "snippet": "OpenAIは生物学・研究用途に特化した新モデルを投入し、産業用途展開を加速した。"
+    },
+    {
+      "title": "OpenAI、シリコンバレー系テック番組TBPNを買収（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai/",
+      "snippet": "AI企業の競争がモデル性能だけでなく情報流通チャネルの確保にも広がっている。"
+    },
+    {
+      "title": "ビットコイン、7.6万ドル手前で上値重く推移（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/04/17/bitcoin-stalls-below-usd76-000-as-sell-wall-caps-rally-despite-rising-derivatives-activity",
+      "snippet": "大口売り注文が上値を抑え、短期の方向感はレンジ攻防に移っている。"
+    },
+    {
+      "title": "イーサリアム、四半期トランザクションが初の2億件超（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/tech/2026/04/17/ethereum-just-had-its-busiest-quarter-ever-completing-a-three-year-comeback-on-chain",
+      "snippet": "実利用指標の改善がエコシステム再評価の材料として注目されている。"
+    },
+    {
+      "title": "IMF、世界成長見通しを下方修正し下振れリスクを警告（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/imf-cuts-growth-outlook-warns-potential-global-recession-if-iran-war-worsens-2026-04-14/",
+      "snippet": "地政学リスクと供給制約が、成長鈍化とインフレ再燃の同時進行を示唆した。"
+    },
+    {
+      "title": "英国、IMF見通しで主要先進国中最大級の下方修正（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/uk-hit-with-big-imf-growth-downgrade-iran-war-fuels-inflation-2026-04-14/",
+      "snippet": "英国の成長下振れは、エネルギー高と物価圧力の長期化リスクを映している。"
+    },
+    {
+      "title": "JR東日本、春の臨時列車とGW増発計画を案内（JR東日本）",
+      "source": "jreast.co.jp",
+      "link": "https://www.jreast.co.jp/press/2026/springextratrain/index.html/",
+      "snippet": "春季・GW需要を見据えた増発計画が国内旅行の輸送基盤を支える。"
+    },
+    {
+      "title": "JR東海、2026年度GWの指定席予約状況を公表（JR東海）",
+      "source": "jr-central.co.jp",
+      "link": "https://jr-central.co.jp/news/",
+      "snippet": "GW予約の進捗公開により、混雑ピークと移動計画の見通しが立てやすくなった。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-04-17T11:05:00+00:00"
+}
