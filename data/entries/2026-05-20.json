@@ -1,55 +1,41 @@
 {
   "date": "2026-05-20",
   "title": "2026-05-20 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "Google I/O 2026: All the news and announcements | The Verge",
+          "title": "Google I/O 2026開発者基調講演、Gemini 3.5とAntigravity 2.0を発表",
           "summaryLines": [
-            "Google I/O 2026: All the news and announcements | The Vergeに関する最新動向です。",
-            "概要: Google I/O kicks off on May 19th, where Google will dive into some of its biggest announcements of t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Google Developers Blogは、I/O 2026開発者基調講演でGemini 3.5シリーズとエージェント開発基盤Antigravity 2.0を発表したと伝えた。",
+            "Android/Webアプリ開発、移行、最適化を支援するエージェント系ツールを前面に出し、Googleの開発者向け基盤をAI中心に再構成している。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "theverge.com",
-          "link": "https://theverge.com/tech/932454/google-io-2026-news-announcements"
+          "whyImportant": "開発ワークフローの自動化とAIエージェント導入が、アプリ開発の速度・コスト・競争力を左右するため。",
+          "source": "Google Developers Blog",
+          "link": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
         },
         {
-          "title": "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcements",
+          "title": "Google I/O 2026、検索・Gmail・スマートグラスまでAI機能を拡張",
           "summaryLines": [
-            "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcementsに関する最新動向です。",
-            "概要: Tech News News: Google I/O 2026 officially kicked off tonight at 10:30 pm IST, broadcasting live fro…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "The Vergeは、Google I/O 2026の主要発表としてGemini 3.5、検索やGmailの新AI機能、Project Auraスマートグラス関連アップデートを整理した。",
+            "GoogleのAI展開は単一アプリではなく、検索、コミュニケーション、デバイス体験を横断する形に広がっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "timesofindia.indiatimes.com",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2026-android-17-updates-android-xr-gemini-intelligence-and-other-things-to-expect/articleshow/131198172.cms"
+          "whyImportant": "主要プラットフォームのAI標準機能化は、ユーザー行動と競合サービスの設計前提を大きく変えるため。",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini"
         },
         {
-          "title": "Google I/O 2026 highlights: An AI overhaul in Google Search, Gemini 3.5-Flash, Antigravity 2.0, Android XR smart glasses announced - Technology News | The Financial Express",
+          "title": "Google I/O 2026ライブ総括、AI中心の新製品・新機能を相次ぎ紹介",
           "summaryLines": [
-            "Google I/O 2026 highlights: An AI overhaul in Google Search, Gemini 3.5-Flash, Antigravity 2.0, Android XR smart glasses announced - Technology News | The Financial Expressに関する最新動向です。",
-            "概要: Google I/O Event 2026 LIVE Updates: Google is expected to showcase Android 17, new Gemini features…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CNETはGoogle I/O 2026のライブ総括で、Gemini、Android XR、スマートグラス、AI関連サービスなどの発表を追跡した。",
+            "イベント全体を通じて、GoogleがOS・端末・検索・開発者ツールをAIで結び直す姿勢が鮮明になった。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "financialexpress.com",
-          "link": "https://financialexpress.com/life/technology-google-io-2026-live-updates-gemini-ai-upgrade-android-17-features-xr-smart-glasses-latest-news-4244729"
-        },
-        {
-          "title": "Google I/O 2026 Opens Today: Full Schedule, Every Session, and What Developers Must Watch",
-          "summaryLines": [
-            "Google I/O 2026 Opens Today: Full Schedule, Every Session, and What Developers Must Watchに関する最新動向です。",
-            "概要: Google&rsquo;s annual developer conference opens today, May 19, 2026, at the Shoreline Amphitheatre…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techtimes.com",
-          "link": "https://techtimes.com/articles/316822/20260519/google-i-o-2026-opens-today-full-schedule-every-session-what-developers-must-watch.htm"
+          "whyImportant": "消費者向け機能と開発者向け基盤が同時に変わるため、IT製品のロードマップに影響しやすい。",
+          "source": "CNET",
+          "link": "https://www.cnet.com/news-live/google-io-2026-live-news-updates/"
         }
       ]
     },
@@ -58,48 +44,34 @@
       "name": "AI",
       "items": [
         {
-          "title": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter | Reuters",
+          "title": "Google、検索ボックスにAIエージェントを統合し低コストGeminiを投入",
           "summaryLines": [
-            "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter | Reutersに関する最新動向です。",
-            "概要: Institutional investors took new positions in semiconductor stocks ranging from Intel to ​Micron dur…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersは、GoogleがI/Oで検索ボックスにAIエージェントを直接組み込み、より高速・低コストなGeminiモデルを企業向けに打ち出したと報じた。",
+            "OpenAIやAnthropicとの競争を意識し、利用頻度の高い検索体験そのものをAIエージェント化する動きだ。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/government/institutional-investors-boosted-holdings-ai-infrastructure-plays-during-first-2026-05-15/"
+          "whyImportant": "AIエージェントが検索の入口に入ると、情報探索・広告・業務導線の競争構造が変わる可能性があるため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/google-expected-court-coders-consumers-io-conference-2026-05-19/"
         },
         {
-          "title": "The 13 biggest announcements at Google I/O 2026 | The Verge",
+          "title": "CNBC、GoogleのGemini 3.5 FlashとOmni発表を報道",
           "summaryLines": [
-            "The 13 biggest announcements at Google I/O 2026 | The Vergeに関する最新動向です。",
-            "概要: Google’s annual developer conference focused on AI again, with announcements for Gemini 3.5, Gemini…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CNBCは、GoogleがGemini 3.5 Flashや新しいワールドモデルOmniなどを披露し、OpenAI・Anthropicに対抗していると報じた。",
+            "軽量モデル、動画・世界モデル、個人AIエージェントなど、用途別にAIラインアップを広げる内容になっている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "theverge.com",
-          "link": "https://theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini"
+          "whyImportant": "モデル性能だけでなく価格・用途別最適化が競争軸となり、企業のAI導入ROIに直結するため。",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html"
         },
         {
-          "title": "How to Watch Google I/O 2026 and What to Expect - CNET",
+          "title": "Google、エージェント構築を前提に開発者向けAI基盤を強化",
           "summaryLines": [
-            "How to Watch Google I/O 2026 and What to Expect - CNETに関する最新動向です。",
-            "概要: Gemini AI, Android XR, smart glasses and more are all on deck for today&apos;s keynote.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Google Developers Blogは、Antigravity 2.0でエージェントのオーケストレーションや構築機能を強化したと説明した。",
+            "Gemini 3.5シリーズと開発基盤を組み合わせ、Android/Webアプリの構築・移行・最適化を支援する方向性を示している。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnet.com",
-          "link": "https://cnet.com/tech/services-and-software/google-io-2026-everything-to-know"
-        },
-        {
-          "title": "The latest AI news we announced in April 2026",
-          "summaryLines": [
-            "The latest AI news we announced in April 2026に関する最新動向です。",
-            "概要: Here are Google’s latest AI updates from April 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "blog.google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"
+          "whyImportant": "AIエージェント開発の標準ツール争いは、開発者エコシステムとクラウド利用の囲い込みに直結するため。",
+          "source": "Google Developers Blog",
+          "link": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
         }
       ]
     },
@@ -108,48 +80,34 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "The bitcoin ETF recovery in flows is real. It is just not complete yet",
+          "title": "ビットコインETF、2026年で3番目の大きな資金流出",
           "summaryLines": [
-            "The bitcoin ETF recovery in flows is real. It is just not complete yetに関する最新動向です。",
-            "概要: While ETF inflows have resumed, the recovery has yet to match last fall’s peak.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Bitcoin.com Newsは、ビットコインETFから6億4864万ドルが流出し、BlackRockのIBITだけで4億4836万ドルの流出となったと報じた。",
+            "Ether ETFも6営業日連続の流出となる一方、SolanaとXRP商品には小幅な流入が残り、選別色が出ている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet"
+          "whyImportant": "ETF資金フローは機関投資家のリスク許容度を映し、暗号資産価格の短期変動要因になりやすいため。",
+          "source": "Bitcoin.com News",
+          "link": "https://news.bitcoin.com/bitcoin-etfs-post-third-biggest-2026-outflow-as-blackrock-loses-448m/"
         },
         {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+          "title": "米SEC、株式のトークン化取引に向けた枠組みを準備との報道",
           "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ReutersはBloomberg報道を引用し、米政権が株式など証券のデジタル版を取引するための枠組みを発表する準備を進めていると伝えた。",
+            "実現すれば、暗号資産市場と伝統的証券市場の境界をまたぐ新しい取引インフラが議論の中心になる。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
+          "whyImportant": "トークン化証券の制度設計は、取引所・証券会社・カストディのビジネスモデルに広く影響するため。",
+          "source": "Reuters",
           "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
         },
         {
-          "title": "Singapore Revokes Bsquared Crypto Permit Over ‘Serious Breaches’ - Bloomberg",
+          "title": "ビットコインは7万7000ドル台を回復、反発の持続力に注目",
           "summaryLines": [
-            "Singapore Revokes Bsquared Crypto Permit Over ‘Serious Breaches’ - Bloombergに関する最新動向です。",
-            "概要: Singapore’s central bank has revoked the major payment institution license of a local crypto liquidi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CoinDeskの市場欄は、5月20日の見通しとしてビットコインが7万7000ドル超に反発したと伝えた。",
+            "ETF流出やアルトコインの弱さが残るなか、主要暗号資産の反発が一時的か継続的かが焦点になっている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-20/singapore-revokes-bsquared-crypto-permit-over-serious-breaches"
-        },
-        {
-          "title": "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morning",
-          "summaryLines": [
-            "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morningに関する最新動向です。",
-            "概要: Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "finance.yahoo.com",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-15-2026-prices-open-higher-but-slipping-this-morning-111851137.html"
+          "whyImportant": "価格反発と資金流出が併存しており、短期トレンド判断には出来高とETFフローの両方を見る必要があるため。",
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/"
         }
       ]
     },
@@ -158,233 +116,72 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reuters",
+          "title": "米金利上昇が続く、物価高止まりと国債買い手の変化が逆風",
           "summaryLines": [
-            "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reutersに関する最新動向です。",
-            "概要: Major stock indexes mostly eased as technology shares fell on Monday, while Brent oil prices climbed…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ロイターは、米金利上昇が止まりにくい背景として、物価高止まりや米国債の買い手構造の変化など複数の逆風を指摘した。",
+            "高金利が長引けば、株式のバリュエーション、住宅ローン、企業調達コストに幅広く波及する。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-18/"
+          "whyImportant": "米長期金利は世界の資産価格と為替に強く影響し、日本市場にも波及しやすいため。",
+          "source": "ロイター",
+          "link": "https://jp.reuters.com/economy/federal-reserve-board/IWDZGEVU5BNA3KW2CKFWVN6SBQ-2026-05-20/"
         },
         {
-          "title": "Bank Indonesia Surprises Markets With Half-Point Rate Hike",
+          "title": "ドル円は159円付近、円安が7営業日続伸",
           "summaryLines": [
-            "Bank Indonesia Surprises Markets With Half-Point Rate Hikeに関する最新動向です。",
-            "概要: Indonesia’s central bank delivered a larger-than-expected interest-rate increase to intensify its de…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OANDAは、米10年債利回り上昇を背景にドル円で円安が優勢となり、7営業日続伸で取引を終えたとまとめた。",
+            "一方で政府・日銀による市場介入への警戒もあり、160円付近の売り注文や158円付近の買い注文が意識されている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-20/bank-indonesia-surprises-markets-with-half-point-rate-hike"
+          "whyImportant": "円安は輸入物価、企業収益、日銀政策期待に直結し、家計と市場の両方に影響するため。",
+          "source": "OANDA Japan",
+          "link": "https://www.oanda.jp/lab-education/market_news/2026_05_20_usdjpy/"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "日経平均、一時1000円超安　AI・半導体関連株が重荷",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本経済新聞の市場欄は、20日後場の東京株式市場で日経平均が再び下げ幅を広げ、一時1000円超安となったと伝えた。",
+            "ソフトバンクグループや東京エレクトロンなどAI・半導体関連株が売られ、指数を押し下げた。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "Global Economic Outlook: May 2026 | Seeking Alpha",
-          "summaryLines": [
-            "Global Economic Outlook: May 2026 | Seeking Alphaに関する最新動向です。",
-            "概要: Higher-for-longer energy prices mean higher-for-longer inflation and lower-for-longer economic growt…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "seekingalpha.com",
-          "link": "https://seekingalpha.com/article/4906058-global-economic-outlook-may-2026"
+          "whyImportant": "AI関連株の調整は日本株全体のリスク許容度を左右し、個人・機関投資家の資金配分に影響するため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/markets/stocks/"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reuters",
+          "title": "JR東日本、2026年夏の臨時列車を発表",
           "summaryLines": [
-            "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reutersに関する最新動向です。",
-            "概要: Bulgarian Prime Minister Rumen Radev on Wednesday said he spoke to U.S. President ​Donald Trump over…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR東日本は5月15日、7〜9月の「夏の臨時列車」を発表し、指定席を発売する臨時列車の情報を公開した。",
+            "帰省・行楽期に向けた新幹線や在来線の追加運転が、夏休みの国内移動計画に関わる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/business/aerospace-defense/bulgaria-wants-us-allow-visa-free-travel-its-nationals-says-pm-2026-05-20/"
+          "whyImportant": "夏の旅行需要期は座席確保が早期に動くため、臨時列車情報は国内旅行計画の重要材料になるため。",
+          "source": "JR東日本",
+          "link": "https://www.jreast.co.jp/railway/extratrain/"
         },
         {
-          "title": "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour World",
+          "title": "札幌—サンフランシスコ直行便、2026年冬期に週3便へ",
           "summaryLines": [
-            "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour Worldに関する最新動向です。",
-            "概要: Crowne Plaza Changi Airport named 2026’s best airport hotel, boosting Singapore travel, airline traf…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベルボイスは、ユナイテッド航空が2026年冬期に札幌／サンフランシスコ線を週3便で就航する計画を伝えた。",
+            "北海道への国際アクセスが増えることで、札幌・道内観光地のインバウンド誘客や国内周遊需要にも波及が見込まれる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/qantas-joins-singapore-airlines-emirates-cathay-pacific-passengers-to-rejoice-as-crowne-plaza-changi-airport-named-2026s-top-airport-hotel-how-this-boosts-australian-chinese/"
+          "whyImportant": "地方空港の国際線拡充は、宿泊・交通・観光消費を地域全体に広げる可能性があるため。",
+          "source": "トラベルボイス",
+          "link": "https://www.travelvoice.jp/20260515-159799"
         },
         {
-          "title": "Summer travel 2026 will be most expensive in years, airlines aren't backing off high prices | Lifestyle | uniondemocrat.com",
+          "title": "自治体の旅行支援・宿泊割引、5月も各地で継続",
           "summaryLines": [
-            "Summer travel 2026 will be most expensive in years, airlines aren't backing off high prices | Lifestyle | uniondemocrat.comに関する最新動向です。",
-            "概要: If you were hoping to score any sort of bargain on summer travel this year, you&rsquo;ll need to wor…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベラーズナビは、秋田、福島、新潟、福井、福岡、佐賀、宮崎、鹿児島などで自治体独自の宿泊割引や旅行支援が実施されているとまとめた。",
+            "ホテル、航空、新幹線、遊び体験などの割引情報も整理され、夏前の国内旅行予約の判断材料になっている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "uniondemocrat.com",
-          "link": "https://uniondemocrat.com/lifestyle/article_43edd60c-f80e-4795-baba-c00b40159dab.html"
-        },
-        {
-          "title": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Post",
-          "summaryLines": [
-            "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Postに関する最新動向です。",
-            "概要: Health experts are growing increasingly concerned about the outbreak, given that cases could have be…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "washingtonpost.com",
-          "link": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/"
+          "whyImportant": "自治体割引は旅行先選びと予約タイミングに直接効き、地域観光の需要喚起策として重要なため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/otokulist"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：Google I/O 2026: All the news and announcements | The Verge",
-    "AI：Institutional investors flocked to establish new stakes in semiconductor firms in first quarter | Reuters",
-    "暗号通貨：The bitcoin ETF recovery in flows is real. It is just not complete yet"
-  ],
-  "headlines": [
-    {
-      "title": "Google I/O 2026: All the news and announcements | The Verge",
-      "source": "theverge.com",
-      "link": "https://theverge.com/tech/932454/google-io-2026-news-announcements",
-      "snippet": "Google I/O 2026: All the news and announcements | The Vergeに関する最新動向です。 概要: Google I/O kicks off on May 19th, where Google will dive into some of its biggest announcements of t…"
-    },
-    {
-      "title": "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcements",
-      "source": "timesofindia.indiatimes.com",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2026-android-17-updates-android-xr-gemini-intelligence-and-other-things-to-expect/articleshow/131198172.cms",
-      "snippet": "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcementsに関する最新動向です。 概要: Tech News News: Google I/O 2026 officially kicked off tonight at 10:30 pm IST, broadcasting live fro…"
-    },
-    {
-      "title": "Google I/O 2026 highlights: An AI overhaul in Google Search, Gemini 3.5-Flash, Antigravity 2.0, Android XR smart glasses announced - Technology News | The Financial Express",
-      "source": "financialexpress.com",
-      "link": "https://financialexpress.com/life/technology-google-io-2026-live-updates-gemini-ai-upgrade-android-17-features-xr-smart-glasses-latest-news-4244729",
-      "snippet": "Google I/O 2026 highlights: An AI overhaul in Google Search, Gemini 3.5-Flash, Antigravity 2.0, Android XR smart glasses announced - Technology News | The Financial Expressに関する最新動向です。 概要: Google I/O Event 2026 LIVE Updates: Google is expected to showcase Android 17, new Gemini features…"
-    },
-    {
-      "title": "Google I/O 2026 Opens Today: Full Schedule, Every Session, and What Developers Must Watch",
-      "source": "techtimes.com",
-      "link": "https://techtimes.com/articles/316822/20260519/google-i-o-2026-opens-today-full-schedule-every-session-what-developers-must-watch.htm",
-      "snippet": "Google I/O 2026 Opens Today: Full Schedule, Every Session, and What Developers Must Watchに関する最新動向です。 概要: Google&rsquo;s annual developer conference opens today, May 19, 2026, at the Shoreline Amphitheatre…"
-    },
-    {
-      "title": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/institutional-investors-boosted-holdings-ai-infrastructure-plays-during-first-2026-05-15/",
-      "snippet": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter | Reutersに関する最新動向です。 概要: Institutional investors took new positions in semiconductor stocks ranging from Intel to ​Micron dur…"
-    },
-    {
-      "title": "The 13 biggest announcements at Google I/O 2026 | The Verge",
-      "source": "theverge.com",
-      "link": "https://theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-      "snippet": "The 13 biggest announcements at Google I/O 2026 | The Vergeに関する最新動向です。 概要: Google’s annual developer conference focused on AI again, with announcements for Gemini 3.5, Gemini…"
-    },
-    {
-      "title": "How to Watch Google I/O 2026 and What to Expect - CNET",
-      "source": "cnet.com",
-      "link": "https://cnet.com/tech/services-and-software/google-io-2026-everything-to-know",
-      "snippet": "How to Watch Google I/O 2026 and What to Expect - CNETに関する最新動向です。 概要: Gemini AI, Android XR, smart glasses and more are all on deck for today&apos;s keynote."
-    },
-    {
-      "title": "The latest AI news we announced in April 2026",
-      "source": "blog.google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "snippet": "The latest AI news we announced in April 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from April 2026"
-    },
-    {
-      "title": "The bitcoin ETF recovery in flows is real. It is just not complete yet",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet",
-      "snippet": "The bitcoin ETF recovery in flows is real. It is just not complete yetに関する最新動向です。 概要: While ETF inflows have resumed, the recovery has yet to match last fall’s peak."
-    },
-    {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
-    },
-    {
-      "title": "Singapore Revokes Bsquared Crypto Permit Over ‘Serious Breaches’ - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-20/singapore-revokes-bsquared-crypto-permit-over-serious-breaches",
-      "snippet": "Singapore Revokes Bsquared Crypto Permit Over ‘Serious Breaches’ - Bloombergに関する最新動向です。 概要: Singapore’s central bank has revoked the major payment institution license of a local crypto liquidi…"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morning",
-      "source": "finance.yahoo.com",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-15-2026-prices-open-higher-but-slipping-this-morning-111851137.html",
-      "snippet": "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morningに関する最新動向です。 概要: Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $…"
-    },
-    {
-      "title": "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-18/",
-      "snippet": "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reutersに関する最新動向です。 概要: Major stock indexes mostly eased as technology shares fell on Monday, while Brent oil prices climbed…"
-    },
-    {
-      "title": "Bank Indonesia Surprises Markets With Half-Point Rate Hike",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-20/bank-indonesia-surprises-markets-with-half-point-rate-hike",
-      "snippet": "Bank Indonesia Surprises Markets With Half-Point Rate Hikeに関する最新動向です。 概要: Indonesia’s central bank delivered a larger-than-expected interest-rate increase to intensify its de…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Global Economic Outlook: May 2026 | Seeking Alpha",
-      "source": "seekingalpha.com",
-      "link": "https://seekingalpha.com/article/4906058-global-economic-outlook-may-2026",
-      "snippet": "Global Economic Outlook: May 2026 | Seeking Alphaに関する最新動向です。 概要: Higher-for-longer energy prices mean higher-for-longer inflation and lower-for-longer economic growt…"
-    },
-    {
-      "title": "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/business/aerospace-defense/bulgaria-wants-us-allow-visa-free-travel-its-nationals-says-pm-2026-05-20/",
-      "snippet": "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reutersに関する最新動向です。 概要: Bulgarian Prime Minister Rumen Radev on Wednesday said he spoke to U.S. President ​Donald Trump over…"
-    },
-    {
-      "title": "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/qantas-joins-singapore-airlines-emirates-cathay-pacific-passengers-to-rejoice-as-crowne-plaza-changi-airport-named-2026s-top-airport-hotel-how-this-boosts-australian-chinese/",
-      "snippet": "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour Worldに関する最新動向です。 概要: Crowne Plaza Changi Airport named 2026’s best airport hotel, boosting Singapore travel, airline traf…"
-    },
-    {
-      "title": "Summer travel 2026 will be most expensive in years, airlines aren't backing off high prices | Lifestyle | uniondemocrat.com",
-      "source": "uniondemocrat.com",
-      "link": "https://uniondemocrat.com/lifestyle/article_43edd60c-f80e-4795-baba-c00b40159dab.html",
-      "snippet": "Summer travel 2026 will be most expensive in years, airlines aren't backing off high prices | Lifestyle | uniondemocrat.comに関する最新動向です。 概要: If you were hoping to score any sort of bargain on summer travel this year, you&rsquo;ll need to wor…"
-    },
-    {
-      "title": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Post",
-      "source": "washingtonpost.com",
-      "link": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/",
-      "snippet": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Postに関する最新動向です。 概要: Health experts are growing increasingly concerned about the outbreak, given that cases could have be…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-05-20T13:03:32.600180+00:00"
+  ]
 }
