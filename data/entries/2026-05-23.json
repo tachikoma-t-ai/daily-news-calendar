@@ -1,55 +1,44 @@
 {
   "date": "2026-05-23",
   "title": "2026-05-23 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
+          "title": "Laravel-LangのPHPパッケージが侵害、認証情報窃取フレームワークを配布",
           "summaryLines": [
-            "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。",
-            "概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "The Hacker Newsは、Laravel-Lang関連の複数PHPパッケージが侵害され、クロスプラットフォームの認証情報窃取フレームワーク配布に悪用されたと報じた。",
+            "5月22日から23日にかけて700超のバージョンが短時間に公開されており、単一パッケージではなくリリース工程や組織レベルの資格情報侵害が疑われている。",
+            "PHP/Laravel利用組織は依存パッケージのバージョン、CI/CDの資格情報、ロックファイルを確認する必要がある。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html"
+          "whyImportant": "オープンソース供給網の侵害は、アプリ本体に脆弱性がなくても本番環境へ侵入されるリスクを高めるため。",
+          "source": "The Hacker News",
+          "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
         },
         {
-          "title": "Browser Market Share 2026: Complete Statistics Report",
+          "title": "LiteSpeedのcPanelプラグイン脆弱性が悪用、root権限でスクリプト実行の恐れ",
           "summaryLines": [
-            "Browser Market Share 2026: Complete Statistics Reportに関する最新動向です。",
-            "概要: Browser market share for 2026: Chrome, Safari, Edge, Firefox, and challenger data by region and devi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "The Hacker Newsによると、LiteSpeed User-End cPanel PluginのCVE-2026-48172が実際に悪用されている。",
+            "CVSS 10.0の権限割り当て不備で、cPanelユーザーや侵害済みアカウントから任意スクリプトをroot権限で実行される可能性がある。",
+            "影響範囲はプラグイン2.3〜2.4.4で、LiteSpeedは修正版2.4.5への更新を案内している。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "digitalapplied.com",
-          "link": "https://www.digitalapplied.com/blog/browser-market-share-2026-complete-statistics"
+          "whyImportant": "共有ホスティングやWeb管理基盤でroot奪取につながるため、被害が複数サイトへ連鎖しやすい。",
+          "source": "The Hacker News",
+          "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
         },
         {
-          "title": "Kimi WebBridge Turns Open Source AI Into A Local Browser Operator - Open Source For You",
+          "title": "Google I/O 2026、検索・Gmail・XR・Android周辺のAI機能を大幅更新",
           "summaryLines": [
-            "Kimi WebBridge Turns Open Source AI Into A Local Browser Operator - Open Source For Youに関する最新動向です。",
-            "概要: Moonshot AI has launched Kimi WebBridge, a local-first browser automation platform powered by its op…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "The VergeはGoogle I/O 2026の発表まとめを更新し、Gemini 3.5系モデル、検索やGmailの新機能、Project Auraスマートグラスなどを主要トピックとして整理した。",
+            "GoogleはAndroid 17のAI生成ウィジェットや、検索体験の大幅変更、エージェント的な機能強化を前面に出している。",
+            "開発者向けだけでなく、消費者向けプロダクト全体にAIを組み込む流れが一段と強まった。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "opensourceforu.com",
-          "link": "https://www.opensourceforu.com/2026/05/kimi-webbridge-turns-open-source-ai-into-a-local-browser-operator/"
-        },
-        {
-          "title": "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumors",
-          "summaryLines": [
-            "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumorsに関する最新動向です。",
-            "概要: Google today said that Android has set a new record for mobile web performance, making it the fastes…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "macrumors.com",
-          "link": "https://macrumors.com/2026/03/25/chrome-fastest-mobile-platform-web-browsing"
+          "whyImportant": "Googleのプラットフォーム変更はWeb流入、アプリ設計、広告・SEO戦略に直接影響するため。",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Stability AI releases a new audio model that can create 6-minute songs | TechCrunch",
+          "title": "Anthropic、Claude Mythosで1万件超の高・重大脆弱性候補を発見と発表",
           "summaryLines": [
-            "Stability AI releases a new audio model that can create 6-minute songs | TechCrunchに関する最新動向です。",
-            "概要: Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "AnthropicはProject Glasswingの一環として、Claude Mythos Previewが重要ソフトウェアから1万件超の高・重大脆弱性候補を見つけたと公表した。",
+            "The Hacker Newsによると、1,000超のOSSプロジェクトで6,202件が高・重大に分類され、その後の分析で1,726件が真陽性、1,094件が高・重大と評価された。",
+            "wolfSSLのCVE-2026-5194など、暗号ライブラリを含む基盤ソフトウェアへの影響も示されている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/"
+          "whyImportant": "AIによる脆弱性発見が現実化し、防御側の修正・開示体制が新たなボトルネックになっているため。",
+          "source": "Anthropic / The Hacker News",
+          "link": "https://www.anthropic.com/glasswing"
         },
         {
-          "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+          "title": "Google、AIサブスクに月額100ドルの『Google AI Ultra』を追加",
           "summaryLines": [
-            "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。",
-            "概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "AI Watchは、Googleが開発者やテクニカルリーダー、高度なクリエイター向けに月額100ドルのGoogle AI Ultraプランを開始したと報じた。",
+            "Google I/O 2026でのAIロードマップ発表と合わせ、より高性能なモデル・機能を有料上位プランで提供する流れが鮮明になっている。",
+            "AI機能の利用量やモデル品質に応じた価格差が、個人・企業のツール選定に影響しそうだ。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/"
+          "whyImportant": "生成AIの競争軸がモデル性能だけでなく、料金体系と利用枠の設計にも広がっているため。",
+          "source": "AI Watch",
+          "link": "https://ai.watch.impress.co.jp/docs/news/2110538.html"
         },
         {
-          "title": "The latest AI news we announced in April 2026",
+          "title": "OpenAI、ChatGPTの個人向け金融機能を米国Proユーザーにプレビュー提供",
           "summaryLines": [
-            "The latest AI news we announced in April 2026に関する最新動向です。",
-            "概要: Here are Google’s latest AI updates from April 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "AI Watchによると、OpenAIは米国のChatGPT Proユーザー向けに個人金融機能のプレビュー提供を始めた。",
+            "12,000以上の金融機関に対応するとされるが、まずは小規模グループで利用状況を調査しながら慎重に展開する方針。",
+            "AIアシスタントが金融データへ接続することで、利便性と同時にプライバシー・誤助言リスクも注目される。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "blog.google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"
-        },
-        {
-          "title": "Today’s Wordle Hints for May 23, 2026 - The New York Times",
-          "summaryLines": [
-            "Today’s Wordle Hints for May 23, 2026 - The New York Timesに関する最新動向です。",
-            "概要: Scroll down for hints and conversation about the puzzle for Saturday, May 23, 2026.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/05/22/crosswords/wordle-review-1799.html"
+          "whyImportant": "AIが生活インフラや金融意思決定に近づくほど、規制・信頼性・データ保護の重要性が増すため。",
+          "source": "AI Watch",
+          "link": "https://ai.watch.impress.co.jp/docs/news/2109367.html"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Why Trump's bitcoin ETF plans likely collapsed before even getting off the ground",
+          "title": "ビットコイン反発が200日移動平均で失速、ETF流出と需要鈍化が重荷",
           "summaryLines": [
-            "Why Trump's bitcoin ETF plans likely collapsed before even getting off the groundに関する最新動向です。",
-            "概要: Trump Media withdrew its bitcoin ETF filing as analysts pointed to fee pressure, weak demand and fie…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CoinDeskは、ビットコインが約82,400ドルの200日移動平均を突破できず、77,900ドル近辺まで押し戻されたと報じた。",
+            "CryptoQuantは、レバレッジ先物、現物需要、米国スポットETF流入のいずれも弱まり、Bull Score Indexが極めて弱気の20まで低下したと分析している。",
+            "米スポットBitcoin ETFは過去2週間で約20億ドルの流出となり、下落時の次の主要オンチェーンサポートは70,000ドル付近とされる。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground"
+          "whyImportant": "ETF資金フローと長期移動平均は、暗号資産市場のリスクオン・リスクオフ判断に強く影響するため。",
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/markets/2026/05/21/bitcoin-s-rebound-has-a-buyer-problem-as-etf-coinbase-and-korea-demand-fade"
         },
         {
-          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "title": "SEC、株式のトークン化取引に関する枠組みを準備と報道",
           "summaryLines": [
-            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
-            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersは、米SECが株式のトークン化版またはデジタル版を取引するための枠組みを準備していると報じた。",
+            "報道では、トランプ政権が制度設計を近く示す計画で、伝統的証券市場と暗号資産インフラの接点が広がる可能性がある。",
+            "証券規制、取引所、カストディ、投資家保護をめぐる整理が市場拡大の条件になりそうだ。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/latest/crypto"
-        },
-        {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-          "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
+          "whyImportant": "トークン化証券が制度化されれば、暗号資産市場の流動性と伝統金融の接続が大きく進むため。",
+          "source": "Reuters",
           "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
         },
         {
-          "title": "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.",
+          "title": "CoinDesk、5月末の大型オプション満期を前にBTCのコール集中を報道",
           "summaryLines": [
-            "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.に関する最新動向です。",
-            "概要: Bitcoin holds a $1.5T market cap lead, but Ethereum pays a yield BTC can&#039;t match. Here’s a look…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CoinDeskは、5月29日の大型オプション満期を前に、82,000ドル近辺のビットコイン・コールに取引が集中していると伝えた。",
+            "同時に、75,000ドル付近の最大ペインと80,000ドル台のコールウォールの間で価格が挟まれる構図が意識されている。",
+            "地政学リスクやETF資金フローが重なるなか、短期の価格変動要因としてデリバティブ建玉が注目される。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "247wallst.com",
-          "link": "https://247wallst.com/investing/2026/05/22/bitcoin-vs-ethereum-in-2026-which-crypto-wins/"
+          "whyImportant": "大型満期前の建玉偏りは、短期のボラティリティやヘッジ取引を通じて現物価格を動かし得るため。",
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/markets/2026/05/21/bitcoin-caught-between-usd75-000-max-pain-and-usd80-000-call-wall-ahead-of-usd6-25-billion-expiry"
         }
       ]
     },
@@ -158,233 +125,78 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Take Five: When does this end? | Reuters",
+          "title": "米株上昇、ダウ最高値　米イラン協議進展期待が市場心理を支える",
           "summaryLines": [
-            "Take Five: When does this end? | Reutersに関する最新動向です。",
-            "概要: World markets remain at the mercy of diplomacy as the Iran war approaches the end of its third month…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersは、米イラン和平協議への期待を背景にウォール街が上昇し、ダウが最高値を付けたと報じた。",
+            "企業決算や経済指標はおおむね堅調と受け止められており、中東情勢が株式市場の主要な不確実要因として残る。",
+            "一方でイラン側はなお隔たりが大きいとしており、ヘッドライン次第でリスク資産の振れが続く可能性がある。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-05-22/"
+          "whyImportant": "地政学リスクの緩和期待は株式、原油、金利、為替へ同時に波及し、投資判断を左右するため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/wall-st-futures-rise-markets-monitor-us-iran-peace-talks-2026-05-22/"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "日本の1〜3月GDPは年率2.1%増、予想上回る伸び",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ReutersとCNBCは、日本の2026年1〜3月期実質GDPが年率2.1%増となり、市場予想を上回ったと報じた。",
+            "個人消費の改善や輸出の強さが支えとなった一方、中東紛争によるエネルギー価格や外需への影響が先行きリスクとして残る。",
+            "成長の上振れは日銀の追加利上げ観測を支える材料にもなっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "日本の成長率と物価・賃金動向は、日銀政策、円相場、国内株の評価に直結するため。",
+          "source": "Reuters / CNBC",
+          "link": "https://www.reuters.com/world/asia-pacific/japans-economy-grew-more-than-expected-q1-2026-05-19/"
         },
         {
-          "title": "Global Market: U.N. cuts global growth forecast as Middle East crisis fuels inflation risks - The Economic Times",
+          "title": "日本の製造業活動は拡大も鈍化、コスト圧力がサービス業にも重荷",
           "summaryLines": [
-            "Global Market: U.N. cuts global growth forecast as Middle East crisis fuels inflation risks - The Economic Timesに関する最新動向です。",
-            "概要: English EditionEnglish Edition&#x939;&#x93f;&#x928;&#x94d;&#x926;&#x940;ગુજરાતીमराठीবাংলাಕನ್ನಡമലയാളം…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersは、5月の日本製造業活動が拡大を続けたものの伸びが鈍り、サービス業の成長は1年以上ぶりに停滞したと報じた。",
+            "中東情勢に関連したコスト上昇が企業心理を圧迫しており、インフレと需要の綱引きが強まっている。",
+            "GDP上振れの一方で、企業の先行き見通しには慎重さが残る。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "economictimes.indiatimes.com",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-u-n-cuts-global-growth-forecast-as-middle-east-crisis-fuels-inflation-risks/articleshow/131216969.cms"
-        },
-        {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-          "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+          "whyImportant": "PMIの鈍化は企業収益、価格転嫁、金融政策判断の先行指標として重要なため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/asia-pacific/japans-factory-activity-expands-slower-pace-cost-pressures-surge-2026-05-21/"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行",
       "items": [
         {
-          "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ | Reuters",
+          "title": "全国の旅行支援・独自割引、2026年5月以降の実施状況まとめが更新",
           "summaryLines": [
-            "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ | Reutersに関する最新動向です。",
-            "概要: Iran is enforcing a multi-tiered system for clearing vessels through the Strait of Hormuz. The U.S.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベラーズナビは、2026年5月以降も実施される都道府県別の旅行支援や独自割引のまとめを更新した。",
+            "新たに延長された旅行については、自治体や旅行事業者が定める販売開始日前の既存予約が対象外になる場合がある。",
+            "国内旅行では、地域ごとの予算枠・対象期間・予約条件を確認してから手配する重要性が高い。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/"
+          "whyImportant": "旅行支援は宿泊需要と地域消費を左右し、旅行者にとっても実質負担額へ直結するため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/zenkokuwari2307"
         },
         {
-          "title": "American Airlines predicts record-breaking summer 2026 travel season",
+          "title": "主要旅行10社の3月取扱額は17%増、年度累計でも全部門が前年超え",
           "summaryLines": [
-            "American Airlines predicts record-breaking summer 2026 travel seasonに関する最新動向です。",
-            "概要: Summer vacation travelers, buckle in: Fort Worth-based American Airlines is forecasting the busiest…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "観光経済新聞は、主要旅行10社の2026年3月営業実績について、総取扱額が前年比17%増の2,908億円だったと報じた。",
+            "年度累計でも全部門が前年を上回り、国内・海外・訪日を含む旅行需要の回復基調が続いている。",
+            "旅行会社経由の販売動向は、航空・宿泊・地域観光の先行指標として注目される。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "dallas.culturemap.com",
-          "link": "https://dallas.culturemap.com/news/travel/american-airlines-record-2026-summer/"
+          "whyImportant": "旅行需要の回復は地域経済、ホテル価格、交通混雑、観光関連企業の業績に波及するため。",
+          "source": "観光経済新聞",
+          "link": "https://www.kankokeizai.com/2605230800kks/"
         },
         {
-          "title": "Eurowings Launches New Thrice-Weekly Glasgow-Germany Flights - Travel And Tour World",
+          "title": "美保基地航空祭2026、5月24日開催へ　JR境線の特別増発や交通情報に注目",
           "summaryLines": [
-            "Eurowings Launches New Thrice-Weekly Glasgow-Germany Flights - Travel And Tour Worldに関する最新動向です。",
-            "概要: Glasgow and Hannover gain stronger tourism connectivity as Eurowings returns to Scotland with new se…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "鉄道チャンネルなどは、鳥取県境港市の美保基地航空祭2026が5月24日に開催され、ブルーインパルスなどの展示飛行が予定されていると伝えた。",
+            "会場は米子空港駅から近く、JR境線の特別増発や駐車場・交通規制の確認が来場者向けに案内されている。",
+            "前日の5月23日には予行飛行への関心も高まり、週末の山陰エリア観光需要を押し上げそうだ。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/tpy3z3syuu0s/"
-        },
-        {
-          "title": "Travel Stocks Rally in 2026: Which Hospitality and Airline Shares Are Showing Strong Momentum?",
-          "summaryLines": [
-            "Travel Stocks Rally in 2026: Which Hospitality and Airline Shares Are Showing Strong Momentum?に関する最新動向です。",
-            "概要: Travel stocks are rallying in 2026 as hotel and airline companies like Marriott, Hilton, Delta, and…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "marketshost.com",
-          "link": "https://www.marketshost.com/news/articles/travel-stocks-rally-in-2026-which-hospitality-and-airline-shares-are-showing-strong-momentum-102694"
+          "whyImportant": "大規模イベントは鉄道・道路混雑と宿泊需要を同時に動かすため、旅行計画の事前確認が重要になる。",
+          "source": "鉄道チャンネル / 福井新聞",
+          "link": "https://tetsudo-ch.com/13029175.html"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-    "AI：Stability AI releases a new audio model that can create 6-minute songs | TechCrunch",
-    "暗号通貨：Why Trump's bitcoin ETF plans likely collapsed before even getting off the ground"
-  ],
-  "headlines": [
-    {
-      "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html",
-      "snippet": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。 概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…"
-    },
-    {
-      "title": "Browser Market Share 2026: Complete Statistics Report",
-      "source": "digitalapplied.com",
-      "link": "https://www.digitalapplied.com/blog/browser-market-share-2026-complete-statistics",
-      "snippet": "Browser Market Share 2026: Complete Statistics Reportに関する最新動向です。 概要: Browser market share for 2026: Chrome, Safari, Edge, Firefox, and challenger data by region and devi…"
-    },
-    {
-      "title": "Kimi WebBridge Turns Open Source AI Into A Local Browser Operator - Open Source For You",
-      "source": "opensourceforu.com",
-      "link": "https://www.opensourceforu.com/2026/05/kimi-webbridge-turns-open-source-ai-into-a-local-browser-operator/",
-      "snippet": "Kimi WebBridge Turns Open Source AI Into A Local Browser Operator - Open Source For Youに関する最新動向です。 概要: Moonshot AI has launched Kimi WebBridge, a local-first browser automation platform powered by its op…"
-    },
-    {
-      "title": "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumors",
-      "source": "macrumors.com",
-      "link": "https://macrumors.com/2026/03/25/chrome-fastest-mobile-platform-web-browsing",
-      "snippet": "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumorsに関する最新動向です。 概要: Google today said that Android has set a new record for mobile web performance, making it the fastes…"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "snippet": "Stability AI releases a new audio model that can create 6-minute songs | TechCrunchに関する最新動向です。 概要: Stability Audio 3.0 small model can run on-device and generate two-minute long tracks."
-    },
-    {
-      "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
-      "snippet": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。 概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…"
-    },
-    {
-      "title": "The latest AI news we announced in April 2026",
-      "source": "blog.google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "snippet": "The latest AI news we announced in April 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from April 2026"
-    },
-    {
-      "title": "Today’s Wordle Hints for May 23, 2026 - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/05/22/crosswords/wordle-review-1799.html",
-      "snippet": "Today’s Wordle Hints for May 23, 2026 - The New York Timesに関する最新動向です。 概要: Scroll down for hints and conversation about the puzzle for Saturday, May 23, 2026."
-    },
-    {
-      "title": "Why Trump's bitcoin ETF plans likely collapsed before even getting off the ground",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
-      "snippet": "Why Trump's bitcoin ETF plans likely collapsed before even getting off the groundに関する最新動向です。 概要: Trump Media withdrew its bitcoin ETF filing as analysts pointed to fee pressure, weak demand and fie…"
-    },
-    {
-      "title": "Crypto: Trending News, Latest Updates, Analysis",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/latest/crypto",
-      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
-    },
-    {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
-    },
-    {
-      "title": "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.",
-      "source": "247wallst.com",
-      "link": "https://247wallst.com/investing/2026/05/22/bitcoin-vs-ethereum-in-2026-which-crypto-wins/",
-      "snippet": "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.に関する最新動向です。 概要: Bitcoin holds a $1.5T market cap lead, but Ethereum pays a yield BTC can&#039;t match. Here’s a look…"
-    },
-    {
-      "title": "Take Five: When does this end? | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-05-22/",
-      "snippet": "Take Five: When does this end? | Reutersに関する最新動向です。 概要: World markets remain at the mercy of diplomacy as the Iran war approaches the end of its third month…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Global Market: U.N. cuts global growth forecast as Middle East crisis fuels inflation risks - The Economic Times",
-      "source": "economictimes.indiatimes.com",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-u-n-cuts-global-growth-forecast-as-middle-east-crisis-fuels-inflation-risks/articleshow/131216969.cms",
-      "snippet": "Global Market: U.N. cuts global growth forecast as Middle East crisis fuels inflation risks - The Economic Timesに関する最新動向です。 概要: English EditionEnglish Edition&#x939;&#x93f;&#x928;&#x94d;&#x926;&#x940;ગુજરાતીमराठीবাংলাಕನ್ನಡമലയാളം…"
-    },
-    {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/",
-      "snippet": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ | Reutersに関する最新動向です。 概要: Iran is enforcing a multi-tiered system for clearing vessels through the Strait of Hormuz. The U.S.…"
-    },
-    {
-      "title": "American Airlines predicts record-breaking summer 2026 travel season",
-      "source": "dallas.culturemap.com",
-      "link": "https://dallas.culturemap.com/news/travel/american-airlines-record-2026-summer/",
-      "snippet": "American Airlines predicts record-breaking summer 2026 travel seasonに関する最新動向です。 概要: Summer vacation travelers, buckle in: Fort Worth-based American Airlines is forecasting the busiest…"
-    },
-    {
-      "title": "Eurowings Launches New Thrice-Weekly Glasgow-Germany Flights - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/tpy3z3syuu0s/",
-      "snippet": "Eurowings Launches New Thrice-Weekly Glasgow-Germany Flights - Travel And Tour Worldに関する最新動向です。 概要: Glasgow and Hannover gain stronger tourism connectivity as Eurowings returns to Scotland with new se…"
-    },
-    {
-      "title": "Travel Stocks Rally in 2026: Which Hospitality and Airline Shares Are Showing Strong Momentum?",
-      "source": "marketshost.com",
-      "link": "https://www.marketshost.com/news/articles/travel-stocks-rally-in-2026-which-hospitality-and-airline-shares-are-showing-strong-momentum-102694",
-      "snippet": "Travel Stocks Rally in 2026: Which Hospitality and Airline Shares Are Showing Strong Momentum?に関する最新動向です。 概要: Travel stocks are rallying in 2026 as hotel and airline companies like Marriott, Hilton, Delta, and…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-05-22T15:36:37.046997+00:00"
+  ]
 }
