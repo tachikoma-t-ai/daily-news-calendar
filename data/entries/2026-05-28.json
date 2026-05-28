@@ -1,55 +1,33 @@
 {
   "date": "2026-05-28",
   "title": "2026-05-28 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
+          "title": "Interop Tokyo 2026、6月10日から幕張メッセで開催へ",
           "summaryLines": [
-            "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。",
-            "概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "インターネット技術イベント「Interop Tokyo 2026」が6月10日から12日まで幕張メッセで開催される。",
+            "約500社・団体が出展し、今年のテーマは「AIとインターネットの次章」。ネットワーク、セキュリティ、クラウド、AIインフラなどを扱う。",
+            "会場内ネットワークを実構築するShowNetや、AI NATIVE EXPOなどの同時開催も予定されている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html"
+          "whyImportant": "AI時代のネットワーク・セキュリティ・データセンター運用の実装動向をまとめて把握できる大型イベントになるため。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2112157.html"
         },
         {
-          "title": "12 Best Secure Browsers in 2026 (Privacy Compared)",
+          "title": "ソフトバンク、Y!mobile向け「かんたんスマホ5」を6月4日に発売",
           "summaryLines": [
-            "12 Best Secure Browsers in 2026 (Privacy Compared)に関する最新動向です。",
-            "概要: The 12 best secure browsers for 2026, compared by tracker blocking, fingerprint resistance, speed, a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ソフトバンクは、5G対応の「かんたんスマホ5」をY!mobileで6月4日に発売すると発表し、5月28日に予約受付を始めた。",
+            "離れて暮らす家族が操作を支援できる「家族サポート」や、迷惑電話対策、見守り、健康相談機能を搭載する。",
+            "大きく見やすいUI、防水・防じん・耐衝撃、大容量バッテリーなど、シニア層の利用を意識した仕様になっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "impressivemagazine.com",
-          "link": "https://impressivemagazine.com/best-secure-browsers-2026/"
-        },
-        {
-          "title": "Mozilla Firefox, Portable Edition Legacy 115.36.0 (web browser) Released | PortableApps.com",
-          "summaryLines": [
-            "Mozilla Firefox, Portable Edition Legacy 115.36.0 (web browser) Released | PortableApps.comに関する最新動向です。",
-            "概要: A new version of Mozilla Firefox®, Portable Edition Legacy 115 has been released. It&#039;s a more-e…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "portableapps.com",
-          "link": "https://portableapps.com/news/2026-05-19--firefox-portable-legacy-115.36.0-released"
-        },
-        {
-          "title": "The Best Web Browsers: Top Picks for 2026",
-          "summaryLines": [
-            "The Best Web Browsers: Top Picks for 2026に関する最新動向です。",
-            "概要: Finding the right browser in 2026 means balancing AI tools, privacy, and speed. Learn how Chrome, Ed…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techreviewadvisor.com",
-          "link": "https://techreviewadvisor.com/the-best-web-browsers/"
+          "whyImportant": "高齢者のデジタル利用支援、詐欺対策、遠隔サポート機能の普及に直結する端末投入だから。",
+          "source": "ソフトバンク",
+          "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260528_01/"
         }
       ]
     },
@@ -58,48 +36,26 @@
       "name": "AI",
       "items": [
         {
-          "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+          "title": "国産AI基盤モデル新会社に富士通など3社が出資検討",
           "summaryLines": [
-            "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。",
-            "概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ソフトバンク主導で設立された国産AI基盤モデル開発の新会社に、旭化成、富士通、安川電機が出資を検討していると報じられた。",
+            "製造業の現場で使う「フィジカルAI」の実現に向け、国内企業の協力体制を広げる狙いがある。",
+            "出資額は1社あたり数千万円規模の見通しとされる。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/"
+          "whyImportant": "国産AIの開発体制が、製造業の現場データ・ロボティクス・産業競争力と結びつき始めているため。",
+          "source": "Yahoo!ニュース / 共同通信",
+          "link": "https://news.yahoo.co.jp/pickup/6581990"
         },
         {
-          "title": "Some ideas for what comes next, May 2026",
+          "title": "エクサ、農業法人で生成AI実証を完了　暗黙知を現場資産化",
           "summaryLines": [
-            "Some ideas for what comes next, May 2026に関する最新動向です。",
-            "概要: Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "エクサはアグリマインドと連携し、生成AIで経営者の暗黙知を共有資産化する実証プロジェクトを完了した。",
+            "「デジマキさん」と呼ぶAI施策で、現場スタッフの判断支援や代表への確認フローを設計。AIスキル共有会も毎週行った。",
+            "規格外イチゴの販売方法をAIに相談し、箱売り施策につなげるなど、業務改善の具体例も出た。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "interconnects.ai",
-          "link": "https://interconnects.ai/p/some-ideas-for-what-comes-next-may"
-        },
-        {
-          "title": "AI Model Releases May 2026: Complete Launch Tracker",
-          "summaryLines": [
-            "AI Model Releases May 2026: Complete Launch Trackerに関する最新動向です。",
-            "概要: Every AI model released in May 2026 — Gemini 3.5 Flash, Composer 2.5, Grok Build, Gemini Omni, Antig…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "digitalapplied.com",
-          "link": "https://digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker"
-        },
-        {
-          "title": "Artificial Intelligence News -- ScienceDaily",
-          "summaryLines": [
-            "Artificial Intelligence News -- ScienceDailyに関する最新動向です。",
-            "概要: Artificial Intelligence News. Everything on AI including futuristic robots with artificial intellige…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "sciencedaily.com",
-          "link": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+          "whyImportant": "生成AI導入の焦点がツール導入から、現場定着・UX設計・暗黙知の継承へ移っていることを示すため。",
+          "source": "CodeCamp Trends",
+          "link": "https://trends.codecamp.jp/blogs/media/news4081"
         }
       ]
     },
@@ -108,48 +64,26 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "The bitcoin ETF recovery in flows is real. It is just not complete yet",
+          "title": "ブラックロックのビットコインETF、過去2番目規模の単日流出",
           "summaryLines": [
-            "The bitcoin ETF recovery in flows is real. It is just not complete yetに関する最新動向です。",
-            "概要: While ETF inflows have resumed, the recovery has yet to match last fall’s peak.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ブラックロックのiShares Bitcoin Trust（IBIT）は、5月28日更新の記事で5億2784万ドルの単日純流出を記録したと報じられた。",
+            "米上場のスポットビットコインETF全体でも同日に7億3343万ドルの流出となり、過去2週間で20億ドル超が引き出されたという。",
+            "ビットコインは中東情勢を背景に73,000ドルを下回り、ETF資金流出と価格下落が相互に重しとなった。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet"
+          "whyImportant": "機関投資家フローがビットコイン価格の短期変動に与える影響が改めて鮮明になったため。",
+          "source": "CoinDesk JAPAN",
+          "link": "https://www.coindesk.com/ja/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record"
         },
         {
-          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "title": "主要暗号資産が軟調、BTCは4月20日以来の安値水準",
           "summaryLines": [
-            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
-            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "28日午前9時10分時点で、ビットコインは1180万円台半ば、イーサリアムは32万円台前半、XRPは210円前後で推移した。",
+            "BTCは前日から下値を探る展開が続き、早朝には7万4000ドル台前半まで下落して4月20日以来の安値を付けた。",
+            "一方で、ラッセル3000指数への暗号資産関連企業の組み入れ候補報道も材料視された。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/latest/crypto"
-        },
-        {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-          "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
-        },
-        {
-          "title": "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.",
-          "summaryLines": [
-            "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.に関する最新動向です。",
-            "概要: Bitcoin holds a $1.5T market cap lead, but Ethereum pays a yield BTC can't match. Here’s a look at w…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "247wallst.com",
-          "link": "https://247wallst.com/investing/2026/05/22/bitcoin-vs-ethereum-in-2026-which-crypto-wins/"
+          "whyImportant": "マクロ要因で暗号資産が売られる局面でも、関連企業の株式指数採用期待が市場テーマとして残っているため。",
+          "source": "Yahoo!ファイナンス / ウエルスアドバイザー",
+          "link": "https://finance.yahoo.co.jp/news/detail/542e9c7fc3c4c696ca8de04c067f99f1baf1d633"
         }
       ]
     },
@@ -158,233 +92,67 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Iran war splits global markets into clear winners and losers | Reuters",
+          "title": "5月の月例経済報告、景気判断は維持　中東情勢を注視",
           "summaryLines": [
-            "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。",
-            "概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本政府は5月の月例経済報告で、景気の総括判断を「緩やかに回復しているが、中東情勢の影響を注視する必要がある」とした。",
+            "米国の通商政策を巡る動向への注意文言は削除し、企業収益や国内企業物価では中東情勢・輸入物価への警戒を強めた。",
+            "国内企業物価は「このところ上昇している」と表現を変更し、交易損失や価格波及を注視する姿勢を示した。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/"
+          "whyImportant": "日本経済のリスク軸が関税からエネルギー・輸入物価へ移り、企業収益や家計物価に波及し得るため。",
+          "source": "財経新聞 / FISCO",
+          "link": "https://www.zaikei.co.jp/article/20260528/854907.html"
         },
         {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "title": "イラン情勢で石油代替調達は進む一方、石油関連製品に目詰まり懸念",
           "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NHKは、米国とイスラエルによるイランへの軍事作戦開始から3か月となる中、日本政府が石油の代替調達を進めていると報じた。",
+            "政府はホルムズ海峡を経由しない調達で来春まで石油を安定確保できる見通しとする一方、石油関連製品では課題が残る。",
+            "エネルギー供給だけでなく、ナフサなど化学原料を含むサプライチェーンへの影響が注目される。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
-        },
-        {
-          "title": "Schwab Market Update | Charles Schwab",
-          "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
-          "summaryLines": [
-            "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。",
-            "概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "theguardian.com",
-          "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump"
+          "whyImportant": "中東情勢が日本のエネルギー安全保障と素材・化学産業のコスト構造に直接影響するため。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015133941000"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "US launches fresh strikes on Iran as talks to end war proceed | Reuters",
+          "title": "JR東日本、夏の快速「GVぐんま」運転計画を発表",
           "summaryLines": [
-            "US launches fresh strikes on Iran as talks to end war proceed | Reutersに関する最新動向です。",
-            "概要: The strikes ​came as Iran's top negotiator and its foreign minister were in Doha for talks with Qata…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR東日本高崎支社は、7月18日から8月30日までの指定日に上越線・信越線で快速「GVぐんま」を運転すると発表した。",
+            "信越本線では初めてGV-E197系と客車の編成で運転し、横川行き下り列車はプッシュプル運転となる。",
+            "8月には「ぐんまちゃん」との協働プロジェクトとして「GVぐんまちゃん水上」「GVぐんまちゃん横川」も運転される。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/middle-east/rubio-says-us-will-find-another-way-if-iran-talks-fail-2026-05-25/"
+          "whyImportant": "夏の群馬方面の鉄道観光需要を喚起し、地域イベントや沿線周遊のきっかけになるため。",
+          "source": "鉄道ファン・railf.jp",
+          "link": "https://railf.jp/event/2026/05/28/112000.html"
         },
         {
-          "title": "Brazil Joins Mongolia, Madagascar, Dominica and Indonesia as 2026’s Fastest-Rising Hidden Travel Escapes as Turkish Airlines, Ethiopian Airlines, Singapore Airlines, LATAM and American Airlines Expand Global Connectivity Through Ulaanbaatar, Antananarivo, Douglas–Charles, São Luís and Sorong Gateways to Reach Untouched Natural Wonders - Travel And Tour World",
+          "title": "全国自治体の旅行キャンペーン、2026年度も各地で展開",
           "summaryLines": [
-            "Brazil Joins Mongolia, Madagascar, Dominica and Indonesia as 2026’s Fastest-Rising Hidden Travel Escapes as Turkish Airlines, Ethiopian Airlines, Singapore Airlines, LATAM and American Airlines Expand Global Connectivity Through Ulaanbaatar, Antananarivo, Douglas–Charles, São Luís and Sorong Gateways to Reach Untouched Natural Wonders - Travel And Tour Worldに関する最新動向です。",
-            "概要: Hidden Travel Escapes 2026 fuel tourism growth in Brazil, Indonesia and Mongolia as airlines expand…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベル Watchは、2026年度も全国自治体による宿泊割、クーポン、観光施設・体験割引などが続々始まっていると紹介した。",
+            "鉄道・航空・バス・高速道路のお得なきっぷや周遊パスと組み合わせれば、移動費を抑えて国内旅行を楽しめる場合がある。",
+            "予約方法や申込先は自治体・企業ごとに異なり、予算上限に達し次第終了する施策も多い。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://travelandtourworld.com/news/article/51zcf5b7u4m4"
+          "whyImportant": "物価高の中で、自治体施策が国内旅行の需要喚起と旅行者の負担軽減に効くため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2111492.html"
         },
         {
-          "title": "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holiday",
+          "title": "旅行支援・独自割引の5月版まとめ、平日宿泊キャンペーンなどを掲載",
           "summaryLines": [
-            "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holidayに関する最新動向です。",
-            "概要: A guide to all the airline and airport strikes in the UK and across Europe, and how they might impac…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベラーズナビは、2026年5月以降も実施される都道府県の旅行支援や独自割引をまとめた。",
+            "全国旅行支援は終了しているが、一部自治体では宿泊助成やクーポンなど独自施策が続いている。",
+            "全国施策として、平日宿泊旅行をした人に抽選で最大3万円クーポンが当たるキャンペーンも掲載されている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "timeout.com",
-          "link": "https://www.timeout.com/news/these-are-all-the-strikes-at-european-airports-you-need-to-watch-out-for-right-now-092022"
-        },
-        {
-          "title": "Jewel Changi Airport: key highlights of this iconic lifestyle destination (Part 2) - Focus on Travel News",
-          "summaryLines": [
-            "Jewel Changi Airport: key highlights of this iconic lifestyle destination (Part 2) - Focus on Travel Newsに関する最新動向です。",
-            "概要: Explore Jewel Changi Airport&#039;s indoor gardens, Canopy Park nets, mazes, and the Changi Experien…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "ftnnews.com",
-          "link": "https://ftnnews.com/travel-news/aviation/jewel-changi-airport-key-highlights-of-this-iconic-lifestyle-destination-part-2/"
+          "whyImportant": "国内旅行を計画する人が、地域別の割引・支援策を比較して旅程や予約時期を決めやすくなるため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/zenkokuwari2307"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-    "AI：DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
-    "暗号通貨：The bitcoin ETF recovery in flows is real. It is just not complete yet"
-  ],
-  "headlines": [
-    {
-      "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html",
-      "snippet": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。 概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…"
-    },
-    {
-      "title": "12 Best Secure Browsers in 2026 (Privacy Compared)",
-      "source": "impressivemagazine.com",
-      "link": "https://impressivemagazine.com/best-secure-browsers-2026/",
-      "snippet": "12 Best Secure Browsers in 2026 (Privacy Compared)に関する最新動向です。 概要: The 12 best secure browsers for 2026, compared by tracker blocking, fingerprint resistance, speed, a…"
-    },
-    {
-      "title": "Mozilla Firefox, Portable Edition Legacy 115.36.0 (web browser) Released | PortableApps.com",
-      "source": "portableapps.com",
-      "link": "https://portableapps.com/news/2026-05-19--firefox-portable-legacy-115.36.0-released",
-      "snippet": "Mozilla Firefox, Portable Edition Legacy 115.36.0 (web browser) Released | PortableApps.comに関する最新動向です。 概要: A new version of Mozilla Firefox®, Portable Edition Legacy 115 has been released. It&#039;s a more-e…"
-    },
-    {
-      "title": "The Best Web Browsers: Top Picks for 2026",
-      "source": "techreviewadvisor.com",
-      "link": "https://techreviewadvisor.com/the-best-web-browsers/",
-      "snippet": "The Best Web Browsers: Top Picks for 2026に関する最新動向です。 概要: Finding the right browser in 2026 means balancing AI tools, privacy, and speed. Learn how Chrome, Ed…"
-    },
-    {
-      "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
-      "snippet": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。 概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…"
-    },
-    {
-      "title": "Some ideas for what comes next, May 2026",
-      "source": "interconnects.ai",
-      "link": "https://interconnects.ai/p/some-ideas-for-what-comes-next-may",
-      "snippet": "Some ideas for what comes next, May 2026に関する最新動向です。 概要: Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles…"
-    },
-    {
-      "title": "AI Model Releases May 2026: Complete Launch Tracker",
-      "source": "digitalapplied.com",
-      "link": "https://digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker",
-      "snippet": "AI Model Releases May 2026: Complete Launch Trackerに関する最新動向です。 概要: Every AI model released in May 2026 — Gemini 3.5 Flash, Composer 2.5, Grok Build, Gemini Omni, Antig…"
-    },
-    {
-      "title": "Artificial Intelligence News -- ScienceDaily",
-      "source": "sciencedaily.com",
-      "link": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-      "snippet": "Artificial Intelligence News -- ScienceDailyに関する最新動向です。 概要: Artificial Intelligence News. Everything on AI including futuristic robots with artificial intellige…"
-    },
-    {
-      "title": "The bitcoin ETF recovery in flows is real. It is just not complete yet",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet",
-      "snippet": "The bitcoin ETF recovery in flows is real. It is just not complete yetに関する最新動向です。 概要: While ETF inflows have resumed, the recovery has yet to match last fall’s peak."
-    },
-    {
-      "title": "Crypto: Trending News, Latest Updates, Analysis",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/latest/crypto",
-      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
-    },
-    {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
-    },
-    {
-      "title": "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.",
-      "source": "247wallst.com",
-      "link": "https://247wallst.com/investing/2026/05/22/bitcoin-vs-ethereum-in-2026-which-crypto-wins/",
-      "snippet": "Bitcoin vs. Ethereum in 2026: Which Crypto Wins? - 24/7 Wall St.に関する最新動向です。 概要: Bitcoin holds a $1.5T market cap lead, but Ethereum pays a yield BTC can't match. Here’s a look at w…"
-    },
-    {
-      "title": "Iran war splits global markets into clear winners and losers | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/",
-      "snippet": "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。 概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…"
-    },
-    {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
-      "source": "theguardian.com",
-      "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
-      "snippet": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。 概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…"
-    },
-    {
-      "title": "US launches fresh strikes on Iran as talks to end war proceed | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/middle-east/rubio-says-us-will-find-another-way-if-iran-talks-fail-2026-05-25/",
-      "snippet": "US launches fresh strikes on Iran as talks to end war proceed | Reutersに関する最新動向です。 概要: The strikes ​came as Iran's top negotiator and its foreign minister were in Doha for talks with Qata…"
-    },
-    {
-      "title": "Brazil Joins Mongolia, Madagascar, Dominica and Indonesia as 2026’s Fastest-Rising Hidden Travel Escapes as Turkish Airlines, Ethiopian Airlines, Singapore Airlines, LATAM and American Airlines Expand Global Connectivity Through Ulaanbaatar, Antananarivo, Douglas–Charles, São Luís and Sorong Gateways to Reach Untouched Natural Wonders - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://travelandtourworld.com/news/article/51zcf5b7u4m4",
-      "snippet": "Brazil Joins Mongolia, Madagascar, Dominica and Indonesia as 2026’s Fastest-Rising Hidden Travel Escapes as Turkish Airlines, Ethiopian Airlines, Singapore Airlines, LATAM and American Airlines Expand Global Connectivity Through Ulaanbaatar, Antananarivo, Douglas–Charles, São Luís and Sorong Gateways to Reach Untouched Natural Wonders - Travel And Tour Worldに関する最新動向です。 概要: Hidden Travel Escapes 2026 fuel tourism growth in Brazil, Indonesia and Mongolia as airlines expand…"
-    },
-    {
-      "title": "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holiday",
-      "source": "timeout.com",
-      "link": "https://www.timeout.com/news/these-are-all-the-strikes-at-european-airports-you-need-to-watch-out-for-right-now-092022",
-      "snippet": "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holidayに関する最新動向です。 概要: A guide to all the airline and airport strikes in the UK and across Europe, and how they might impac…"
-    },
-    {
-      "title": "Jewel Changi Airport: key highlights of this iconic lifestyle destination (Part 2) - Focus on Travel News",
-      "source": "ftnnews.com",
-      "link": "https://ftnnews.com/travel-news/aviation/jewel-changi-airport-key-highlights-of-this-iconic-lifestyle-destination-part-2/",
-      "snippet": "Jewel Changi Airport: key highlights of this iconic lifestyle destination (Part 2) - Focus on Travel Newsに関する最新動向です。 概要: Explore Jewel Changi Airport&#039;s indoor gardens, Canopy Park nets, mazes, and the Changi Experien…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-05-27T15:36:16.742361+00:00"
+  ]
 }

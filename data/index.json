@@ -24,6 +24,7 @@
     "2026-03-13": "data/entries/2026-03-13.json",
     "2026-03-14": "data/entries/2026-03-14.json",
     "2026-03-15": "data/entries/2026-03-15.json",
+    "2026-03-16": "data/entries/2026-03-16.json",
     "2026-03-17": "data/entries/2026-03-17.json",
     "2026-03-18": "data/entries/2026-03-18.json",
     "2026-03-19": "data/entries/2026-03-19.json",
@@ -93,6 +94,8 @@
     "2026-05-22": "data/entries/2026-05-22.json",
     "2026-05-23": "data/entries/2026-05-23.json",
     "2026-05-24": "data/entries/2026-05-24.json",
+    "2026-05-25": "data/entries/2026-05-25.json",
+    "2026-05-26": "data/entries/2026-05-26.json",
     "2026-05-27": "data/entries/2026-05-27.json",
     "2026-05-28": "data/entries/2026-05-28.json"
   }
