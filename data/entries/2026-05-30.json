@@ -1,0 +1,390 @@
+{
+  "date": "2026-05-30",
+  "title": "2026-05-30 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "IBM commits $5 billion to secure open-source software | Reuters",
+          "summaryLines": [
+            "IBM commits $5 billion to secure open-source software | Reutersに関する最新動向です。",
+            "概要: IBM said on Thursday it has committed $5 billion to an initiative that will deploy engineers and AI…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/transactional/ibm-commits-5-billion-secure-open-source-software-2026-05-28/"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        },
+        {
+          "title": "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.com",
+          "summaryLines": [
+            "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.comに関する最新動向です。",
+            "概要: While this series has focused on alternatives to Windows, there are smaller steps one might take to…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "thurrott.com",
+          "link": "https://www.thurrott.com/cloud/web-browsers/335851/switcher-2026-thinking-about-web-browsers"
+        },
+        {
+          "title": "Googlebook Release Date, Specs, and OEMs: What We Know",
+          "summaryLines": [
+            "Googlebook Release Date, Specs, and OEMs: What We Knowに関する最新動向です。",
+            "概要: Google&#039;s Googlebook replaces the Chromebook this fall with Android, Gemini, and a Magic Pointer…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "the-gadgeteer.com",
+          "link": "https://the-gadgeteer.com/2026/05/27/googlebook-release-date-specs-chromebook-successor"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Microsoft to release new coding model next week, the Information reports | Reuters",
+          "summaryLines": [
+            "Microsoft to release new coding model next week, the Information reports | Reutersに関する最新動向です。",
+            "概要: Microsoft will unveil a suite of new homegrown AI models next week at its annual \"Build\" conference…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/business/microsoft-release-new-coding-model-next-week-information-reports-2026-05-28"
+        },
+        {
+          "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
+          "summaryLines": [
+            "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。",
+            "概要: Extra heft may help the utilities break through the infrastructure logjam.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai"
+        },
+        {
+          "title": "Some ideas for what comes next, May 2026",
+          "summaryLines": [
+            "Some ideas for what comes next, May 2026に関する最新動向です。",
+            "概要: Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "interconnects.ai",
+          "link": "https://interconnects.ai/p/some-ideas-for-what-comes-next-may"
+        },
+        {
+          "title": "Model Release Notes | OpenAI Help Center",
+          "summaryLines": [
+            "Model Release Notes | OpenAI Help Centerに関する最新動向です。",
+            "概要: Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "help.openai.com",
+          "link": "https://help.openai.com/en/articles/9624314-model-release-notes"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+          "summaryLines": [
+            "Calamos bets protected Bitcoin ETFs can outlast crypto market swingsに関する最新動向です。",
+            "概要: As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings"
+        },
+        {
+          "title": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloomberg",
+          "summaryLines": [
+            "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloombergに関する最新動向です。",
+            "概要: As SpaceX edges closer to what could be the largest initial public offering in history, a corner of…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-ipo-hype-spurs-crypto-shadow-market-for-pre-listing-bets?srnd=phx-deals"
+        },
+        {
+          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+          "summaryLines": [
+            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
+            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
+        },
+        {
+          "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
+          "summaryLines": [
+            "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。",
+            "概要: Elsewhere in the sector, Drofa Comms identified three exchange models that it believes could shape t…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "investingnews.com",
+          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Iran war splits global markets into clear winners and losers | Reuters",
+          "summaryLines": [
+            "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。",
+            "概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/"
+        },
+        {
+          "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
+          "summaryLines": [
+            "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。",
+            "概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "theguardian.com",
+          "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump"
+        },
+        {
+          "title": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbers",
+          "summaryLines": [
+            "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbersに関する最新動向です。",
+            "概要: The 2026 Trump tariffs amount to an average tax increase per US household of $700 and have not meani…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "taxfoundation.org",
+          "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/"
+        },
+        {
+          "title": "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstar",
+          "summaryLines": [
+            "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstarに関する最新動向です。",
+            "概要: Our outlook shows inflation ticking up to 2.7%, with GDP growth slowing.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "morningstar.com",
+          "link": "https://www.morningstar.com/economy/inflation-set-rise-tariff-costs-hit-consumers-2026"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reuters",
+          "summaryLines": [
+            "Costlier flights, hotels divide US summer travel into haves and have-nots | Reutersに関する最新動向です。",
+            "概要: Among low- and middle-income consumers still traveling, many are waiting longer to book.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/business/costlier-flights-hotels-divide-us-summer-travel-into-haves-have-nots-2026-05-28"
+        },
+        {
+          "title": "AirAsia MOVE says Asean travel demand remains strong in 2026",
+          "summaryLines": [
+            "AirAsia MOVE says Asean travel demand remains strong in 2026に関する最新動向です。",
+            "概要: Short-haul trips within Southeast Asia remain the region’s main tourism driver, as AirAsia MOVE says…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "nationthailand.com",
+          "link": "https://nationthailand.com/news/40066746"
+        },
+        {
+          "title": "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Trip",
+          "summaryLines": [
+            "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Tripに関する最新動向です。",
+            "概要: Planning a trip for World Cup 2026? Explore host cities by region, compare trip styles, learn when h…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "blog.ticketmaster.com",
+          "link": "https://blog.ticketmaster.com/world-cup-2026-travel-guide/"
+        },
+        {
+          "title": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour World",
+          "summaryLines": [
+            "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour Worldに関する最新動向です。",
+            "概要: Loganair new route East Midlands launches daily from Jersey May 31, 2026, boosting UK tourism and co…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/sqso79mq5ojq/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：IBM commits $5 billion to secure open-source software | Reuters",
+    "AI：Microsoft to release new coding model next week, the Information reports | Reuters",
+    "暗号通貨：Calamos bets protected Bitcoin ETFs can outlast crypto market swings"
+  ],
+  "headlines": [
+    {
+      "title": "IBM commits $5 billion to secure open-source software | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/transactional/ibm-commits-5-billion-secure-open-source-software-2026-05-28/",
+      "snippet": "IBM commits $5 billion to secure open-source software | Reutersに関する最新動向です。 概要: IBM said on Thursday it has committed $5 billion to an initiative that will deploy engineers and AI…"
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.com",
+      "source": "thurrott.com",
+      "link": "https://www.thurrott.com/cloud/web-browsers/335851/switcher-2026-thinking-about-web-browsers",
+      "snippet": "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.comに関する最新動向です。 概要: While this series has focused on alternatives to Windows, there are smaller steps one might take to…"
+    },
+    {
+      "title": "Googlebook Release Date, Specs, and OEMs: What We Know",
+      "source": "the-gadgeteer.com",
+      "link": "https://the-gadgeteer.com/2026/05/27/googlebook-release-date-specs-chromebook-successor",
+      "snippet": "Googlebook Release Date, Specs, and OEMs: What We Knowに関する最新動向です。 概要: Google&#039;s Googlebook replaces the Chromebook this fall with Android, Gemini, and a Magic Pointer…"
+    },
+    {
+      "title": "Microsoft to release new coding model next week, the Information reports | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/business/microsoft-release-new-coding-model-next-week-information-reports-2026-05-28",
+      "snippet": "Microsoft to release new coding model next week, the Information reports | Reutersに関する最新動向です。 概要: Microsoft will unveil a suite of new homegrown AI models next week at its annual \"Build\" conference…"
+    },
+    {
+      "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai",
+      "snippet": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。 概要: Extra heft may help the utilities break through the infrastructure logjam."
+    },
+    {
+      "title": "Some ideas for what comes next, May 2026",
+      "source": "interconnects.ai",
+      "link": "https://interconnects.ai/p/some-ideas-for-what-comes-next-may",
+      "snippet": "Some ideas for what comes next, May 2026に関する最新動向です。 概要: Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles…"
+    },
+    {
+      "title": "Model Release Notes | OpenAI Help Center",
+      "source": "help.openai.com",
+      "link": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "snippet": "Model Release Notes | OpenAI Help Centerに関する最新動向です。 概要: Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve…"
+    },
+    {
+      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
+      "snippet": "Calamos bets protected Bitcoin ETFs can outlast crypto market swingsに関する最新動向です。 概要: As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into…"
+    },
+    {
+      "title": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-ipo-hype-spurs-crypto-shadow-market-for-pre-listing-bets?srnd=phx-deals",
+      "snippet": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloombergに関する最新動向です。 概要: As SpaceX edges closer to what could be the largest initial public offering in history, a corner of…"
+    },
+    {
+      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
+      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
+    },
+    {
+      "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
+      "source": "investingnews.com",
+      "link": "https://investingnews.com/cryptocurrency-market-recap/",
+      "snippet": "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。 概要: Elsewhere in the sector, Drofa Comms identified three exchange models that it believes could shape t…"
+    },
+    {
+      "title": "Iran war splits global markets into clear winners and losers | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/",
+      "snippet": "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。 概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…"
+    },
+    {
+      "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
+      "source": "theguardian.com",
+      "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
+      "snippet": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。 概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…"
+    },
+    {
+      "title": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbers",
+      "source": "taxfoundation.org",
+      "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+      "snippet": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbersに関する最新動向です。 概要: The 2026 Trump tariffs amount to an average tax increase per US household of $700 and have not meani…"
+    },
+    {
+      "title": "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstar",
+      "source": "morningstar.com",
+      "link": "https://www.morningstar.com/economy/inflation-set-rise-tariff-costs-hit-consumers-2026",
+      "snippet": "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstarに関する最新動向です。 概要: Our outlook shows inflation ticking up to 2.7%, with GDP growth slowing."
+    },
+    {
+      "title": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/business/costlier-flights-hotels-divide-us-summer-travel-into-haves-have-nots-2026-05-28",
+      "snippet": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reutersに関する最新動向です。 概要: Among low- and middle-income consumers still traveling, many are waiting longer to book."
+    },
+    {
+      "title": "AirAsia MOVE says Asean travel demand remains strong in 2026",
+      "source": "nationthailand.com",
+      "link": "https://nationthailand.com/news/40066746",
+      "snippet": "AirAsia MOVE says Asean travel demand remains strong in 2026に関する最新動向です。 概要: Short-haul trips within Southeast Asia remain the region’s main tourism driver, as AirAsia MOVE says…"
+    },
+    {
+      "title": "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Trip",
+      "source": "blog.ticketmaster.com",
+      "link": "https://blog.ticketmaster.com/world-cup-2026-travel-guide/",
+      "snippet": "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Tripに関する最新動向です。 概要: Planning a trip for World Cup 2026? Explore host cities by region, compare trip styles, learn when h…"
+    },
+    {
+      "title": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/sqso79mq5ojq/",
+      "snippet": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour Worldに関する最新動向です。 概要: Loganair new route East Midlands launches daily from Jersey May 31, 2026, boosting UK tourism and co…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-05-29T15:36:03.675766+00:00"
+}
