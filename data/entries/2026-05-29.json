@@ -1,55 +1,44 @@
 {
   "date": "2026-05-29",
   "title": "2026-05-29 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
+          "title": "Google Cloud、AI脅威に対抗する「Google AI Threat Defense」を発表",
           "summaryLines": [
-            "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。",
-            "概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Google Cloudは、AIによる脅威を継続監視し、阻止する自動化セキュリティシステム「Google AI Threat Defense」を発表した。",
+            "Gemini、Wiz、CodeMender、Mandiantの知見を組み合わせ、露出状況の把握、リスク優先順位付け、自律的な修復、監視までを一連の流れで扱う。",
+            "脆弱性の発見からパッチ検証までを高速化し、攻撃者より早く修正を展開することを狙う。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html"
+          "whyImportant": "AIが攻撃側だけでなく防御・修復の運用基盤にも組み込まれ、SOCや脆弱性管理の設計を変えるため。",
+          "source": "AI Watch",
+          "link": "https://ai.watch.impress.co.jp/docs/news/2112680.html"
         },
         {
-          "title": "Googlebook Release Date, Specs, and OEMs: What We Know",
+          "title": "GitHub Enterprise Serverに認証不要SSRF、GHES 3.20.3などで修正",
           "summaryLines": [
-            "Googlebook Release Date, Specs, and OEMs: What We Knowに関する最新動向です。",
-            "概要: Google&#039;s Googlebook replaces the Chromebook this fall with Android, Gemini, and a Magic Pointer…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "GitHub Enterprise Serverの複数バージョンで、アップロードエンドポイントに起因する事前認証SSRF脆弱性（CVE-2026-9312）が修正された。",
+            "対象はGHES 3.16〜3.21のサポート版で、インターネット到達可能な環境では内部サービスやメタデータへのアクセスリスクがある。",
+            "GitHubのサイバー攻撃検知を受け、GHESリリースパッケージ署名鍵のローテーションも必要になっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "the-gadgeteer.com",
-          "link": "https://the-gadgeteer.com/2026/05/27/googlebook-release-date-specs-chromebook-successor"
+          "whyImportant": "社内GitHub基盤はCI/CDや機密コードに直結し、未更新のGHESはサプライチェーンリスクを広げるため。",
+          "source": "セキュリティ対策Lab",
+          "link": "https://rocket-boys.co.jp/security-measures-lab/github-ghes-ssrf-vulnerability-cve-2026-9312/"
         },
         {
-          "title": "12 Best Secure Browsers in 2026 (Privacy Compared)",
+          "title": "アソビューの予約管理システムにサイバー攻撃、予約者情報2万7163件が流出",
           "summaryLines": [
-            "12 Best Secure Browsers in 2026 (Privacy Compared)に関する最新動向です。",
-            "概要: The 12 best secure browsers for 2026, compared by tracker blocking, fingerprint resistance, speed, a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "アソビューは、パートナー向け予約管理システム「satsuki」への外部不正アクセスで、一部予約者の個人情報2万7163件が流出したと発表した。",
+            "流出対象は氏名、性別、生年月日、電話番号、住所、予約情報で、メールアドレス、パスワード、クレジットカード情報は含まれない。",
+            "同社は個人情報保護委員会へ報告し、対象者への個別連絡と問い合わせ窓口の設置を進めている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "impressivemagazine.com",
-          "link": "https://impressivemagazine.com/best-secure-browsers-2026/"
-        },
-        {
-          "title": "Push Security Named to Redpoint’s 2026 InfraRed 100",
-          "summaryLines": [
-            "Push Security Named to Redpoint’s 2026 InfraRed 100に関する最新動向です。",
-            "概要: BOSTON, May 27, 2026--Push Security, the most powerful AI-native security tool in the browser, today…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "finance.yahoo.com",
-          "link": "https://finance.yahoo.com/sectors/technology/articles/push-security-named-redpoint-2026-193800660.html"
+          "whyImportant": "観光・体験予約のSaaS障害は、利用者保護だけでなく地域観光事業者の信頼にも影響するため。",
+          "source": "セキュリティ対策Lab",
+          "link": "https://rocket-boys.co.jp/security-measures-lab/asoview-partner-booking-system-cyberattack/"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure | Reuters",
+          "title": "デジタル庁、ガバメントAI「源内」向け国産LLMを再公募へ",
           "summaryLines": [
-            "Snowflake signs $6 billion deal with AWS tied to AI infrastructure | Reutersに関する最新動向です。",
-            "概要: Snowflake said ​on ‌Wednesday it has ​signed ​a $6 billion ⁠deal ​with ​Amazon Web Services , with ​…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デジタル庁は、政府の生成AI基盤「源内」で使う国産LLMの2027年度向け公募を11月に実施すると予告した。",
+            "初回は無償試用が前提だったが、次回は有償の政府調達に移行し、評価テストも50問から300問へ拡充する。",
+            "応募モデルにはガバメントクラウド上での動作、料金体系、法令遵守状況、行政実務での活用方法などの説明を求める。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/business/retail-consumer/snowflake-signs-6-billion-deal-with-aws-tied-ai-infrastructure-2026-05-27/"
+          "whyImportant": "政府AI調達が実証から本格運用へ進み、国産LLMの行政実務適性が競争軸になるため。",
+          "source": "ITmedia AI＋",
+          "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000036/"
         },
         {
-          "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
+          "title": "Anthropic、「Claude Opus 4.8」を一般提供　誠実さとエージェント能力を改善",
           "summaryLines": [
-            "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。",
-            "概要: Extra heft may help the utilities break through the infrastructure logjam.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Anthropicは5月28日、Claude Opus 4.8の一般提供を開始し、推論、コーディング、エージェント能力などを前世代から改善した。",
+            "自分の作業状況や不確実性をより正確に報告する「誠実さ」の改善が強調され、コード欠陥の見逃しや未実装報告漏れが減ったという。",
+            "Claude Codeでは、大規模コード移行やバグ探索に向けて多数のサブエージェントを並列実行する「dynamic workflows」も研究プレビューとして導入された。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai"
+          "whyImportant": "AIエージェントを実務に任せる際の信頼性、検証性、大規模開発支援の競争が一段進むため。",
+          "source": "ITmedia AI＋",
+          "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/"
         },
         {
-          "title": "At Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals | TechCrunch",
+          "title": "国産AI開発新会社に東芝・日立など15社も出資意向と報道",
           "summaryLines": [
-            "At Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals | TechCrunchに関する最新動向です。",
-            "概要: Databricks Co-founder, Arsalan Tavakoli-Shiraji, will unpack the shift on enterprise AI at TechCrunc…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ソフトバンク、NEC、ソニーグループ、ホンダなどが中核となる国産AI開発新会社に、東芝、日立、ファナック、JERAなども出資意向と報じられた。",
+            "日本企業の現場データやノウハウが海外AI利用で流出する懸念を背景に、国内勢で高性能な国産AIの開発・利用体制を整える狙いがある。",
+            "経産省は2030年度までの5年間で総額1兆円規模の支援を予定しており、新会社も公募に応募している。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/"
-        },
-        {
-          "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog",
-          "summaryLines": [
-            "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blogに関する最新動向です。",
-            "概要: Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model ag…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "microsoft.com",
-          "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/"
+          "whyImportant": "AI基盤モデルが単なる研究開発から、日本企業のデータ主権と産業競争力のテーマに広がっているため。",
+          "source": "Yahoo!ニュース / 読売新聞オンライン",
+          "link": "https://news.yahoo.co.jp/articles/a76646f807114189fef5d7c9b7e0956ac02a33d1"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
+          "title": "CME、暗号資産先物・オプションを24時間365日取引へ",
           "summaryLines": [
-            "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on recordに関する最新動向です。",
-            "概要: IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CMEグループの暗号資産先物・オプション取引が、5月29日から24時間365日化される見通しとなった。",
+            "金曜夜から日曜夜にかけても取引できるようになり、ビットコイン市場で「CMEギャップ」と呼ばれてきた週末の取引空白が縮小する可能性がある。",
+            "一方で、取引日付や清算・規制報告は翌営業日扱いのため、清算メンバーには週末分の証拠金管理など追加対応が求められる。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record"
+          "whyImportant": "規制された先物市場の週末アクセスが広がることで、機関投資家のヘッジや価格形成が変わる可能性があるため。",
+          "source": "CRYPTO TIMES",
+          "link": "https://crypto-times.jp/news-cryptocurrency-futures-to-be-traded-24-hours-a-day/"
         },
         {
-          "title": "Bitcoin Falls Below $73,000 Despite Trump’s Crypto Capital Push - Bloomberg",
+          "title": "ビットコインが7.3万ドル割れ、米現物ETFから約7.3億ドル流出",
           "summaryLines": [
-            "Bitcoin Falls Below $73,000 Despite Trump’s Crypto Capital Push - Bloombergに関する最新動向です。",
-            "概要: Bitcoin briefly fell below $73,000 despite a fresh push from Donald Trump for the CLARITY Act, sugge…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "5月29日の暗号資産市場では、ビットコインが一時7万3000ドルを下回り、米現物ビットコインETFから単日約7億3300万ドルが流出したと報じられた。",
+            "中東情勢やリスク資産への警戒感が重しとなり、ETF資金フローの悪化も価格下落に拍車をかけた。",
+            "ブラックロックのIBITでも大規模な純流出が伝えられ、機関投資家の短期スタンスが注目されている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-below-73-000-despite-trump-s-crypto-capital-push"
+          "whyImportant": "現物ETFがビットコイン市場の需給を左右する局面が増え、資金流出入の監視重要度が高まっているため。",
+          "source": "Cryptonews Japan",
+          "link": "https://cryptonews.com/jp/news/live-bitcoin-etf-outflows-geopolitical-risks-crypto-drop/"
         },
         {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+          "title": "日本の暗号資産規制改革にフィデリティ担当者が期待感",
           "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "フィデリティ・インターナショナル担当者へのインタビューで、日本の暗号資産関連規制改革への期待が示された。",
+            "国内では暗号資産ETFや税制、金融商品としての位置づけを巡る議論が続き、制度設計が市場参加者の関心を集めている。",
+            "グローバル資産運用会社の視点から、日本市場が投資商品としてどこまで開かれるかが焦点になる。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
-        },
-        {
-          "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
-          "summaryLines": [
-            "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。",
-            "概要: Elsewhere in the sector, Drofa Comms identified three exchange models that it believes could shape t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "investingnews.com",
-          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+          "whyImportant": "規制・税制の変化は日本の暗号資産市場の流動性、商品開発、個人投資家アクセスに直結するため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/crypto/interview/fidelity-japan-crypto-regulation/"
         }
       ]
     },
@@ -158,233 +125,181 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Iran war splits global markets into clear winners and losers | Reuters",
+          "title": "5月の東京都区部コアCPI、前年比1.3％に減速",
           "summaryLines": [
-            "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。",
-            "概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "5月の東京都区部消費者物価指数（生鮮食品を除く）は前年比1.3％上昇となり、ロイター集計の民間予測1.5％を下回った。",
+            "制度要因を除くと2％台半ばとの試算もあり、表面的な減速と基調インフレの見方が分かれる内容になった。",
+            "東京都区部CPIは全国CPIの先行指標として、日銀の物価判断や金利見通しに影響する。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/"
+          "whyImportant": "物価の基調をどう読むかが、日銀の政策正常化ペースと家計の実質購買力に関わるため。",
+          "source": "ロイター",
+          "link": "https://jp.reuters.com/markets/japan/QFGFGCXBYFOLHPOLRHNSDLODTE-2026-05-29/"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "日経平均、6万6329円で史上最高値を更新と報道",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "29日の東京株式市場で日経平均株価は前日比1636円高の6万6329円となり、史上最高値を更新したと報じられた。",
+            "米イラン交渉進展観測を背景にした米株高や、海外投機筋による株価指数先物買いが相場を押し上げた。",
+            "東証プライム市場では幅広い銘柄が上昇し、電子部品関連への買いも継続した。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "地政学リスク緩和と海外マネーの動きが、日本株のバリュエーションとリスク選好を大きく動かしているため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/"
         },
         {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "title": "ドル円は159円台前半、米イラン停戦延長観測で円高反応",
           "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OANDAは29日朝のドル円見通しで、米国とイランの60日間停戦延長合意報道を受け、ドル円が円高で反応したと説明した。",
+            "米GDPが市場予想より弱かったことも、発表直後の円高方向の動きにつながった。",
+            "同日夜には日本の外国為替平衡操作の実施状況、米シカゴPMIなどの発表が予定されていた。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
-        },
-        {
-          "title": "Tariff Fears Are Rattling the Market. Here's What 100 Years of Data Says About What Happens Next. | The Motley Fool",
-          "summaryLines": [
-            "Tariff Fears Are Rattling the Market. Here's What 100 Years of Data Says About What Happens Next. | The Motley Foolに関する最新動向です。",
-            "概要: The market's future may be volatile, but history has good news for investors.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "fool.com",
-          "link": "https://fool.com/investing/2026/05/28/tariff-fears-are-rattling-the-market-heres-what-10"
+          "whyImportant": "為替は輸入物価、企業収益、日銀政策期待を通じて日本経済全体に波及するため。",
+          "source": "OANDA Japan",
+          "link": "https://www.oanda.jp/lab-education/market_news/2026_05_29_usdjpy/"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Singapore Airlines and Air New Zealand to expand joint network as travel demand grows | Reuters",
+          "title": "2026年度も自治体の旅行支援・独自割引が各地で継続",
           "summaryLines": [
-            "Singapore Airlines and Air New Zealand to expand joint network as travel demand grows | Reutersに関する最新動向です。",
-            "概要: Singapore Airlines said on Thursday that it would expand its joint network between New Zealand and ​…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "全国旅行支援は終了したが、2026年度も自治体独自の宿泊割引、クーポン、旅行支援策が各地で続いている。",
+            "5月版のまとめでは、平日宿泊旅行の抽選クーポン、北海道・岩手・秋田・福島などの宿泊助成や割引施策が掲載された。",
+            "多くの施策は予算や対象期間が限られ、楽天トラベル、じゃらん、一休など予約先ごとに条件が異なる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/asia-pacific/singapore-airlines-air-new-zealand-expand-joint-network-travel-demand-grows-2026-05-28/"
+          "whyImportant": "物価高の中で国内旅行需要を下支えし、地域の宿泊・観光事業者への送客に直結するため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/zenkokuwari2307"
         },
         {
-          "title": "Dubai International Airport Boosts International Connectivity with More Airlines, Easier Transit, and Better Travel Opportunities for Tourists - Travel And Tour World",
+          "title": "JAPAN 47 GO、6月の国内イベント情報を公開",
           "summaryLines": [
-            "Dubai International Airport Boosts International Connectivity with More Airlines, Easier Transit, and Better Travel Opportunities for Tourists - Travel And Tour Worldに関する最新動向です。",
-            "概要: Dubai International Airport expands airline operations with over 40 carriers, improving global conne…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本観光振興協会が運営する「JAPAN 47 GO」は、6月に全国で開催される初夏イベント情報を公開した。",
+            "備後国府まつり、いぶすきフラフェスティバル、小町まつり、信州辰野ほたる祭り、大阪の愛染祭などが紹介されている。",
+            "サイトでは47都道府県・1741市区町村の観光情報をもとに、季節情報やイベント、モデルコースなどを一元化している。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/wscs9v1v6rhx/"
+          "whyImportant": "初夏の国内周遊需要を喚起し、地方自治体・観光協会のイベント情報への導線になるため。",
+          "source": "ガジェット通信 GetNews / ストレートプレス",
+          "link": "https://getnews.jp/archives/3720435"
         },
         {
-          "title": "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holiday",
+          "title": "スターフライヤー「STARFRIDAY」、航空券＋ホテル割引や国内線運賃を訴求",
           "summaryLines": [
-            "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holidayに関する最新動向です。",
-            "概要: A guide to all the airline and airport strikes in the UK and across Europe, and how they might impac…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "国内旅行セール情報として、スターフライヤーの「STARFRIDAY」で航空券＋ホテル最大1万3000円OFFクーポンなどが紹介された。",
+            "羽田〜北九州・福岡線の割安運賃や、レンタカー割引など、航空と宿泊・現地移動を組み合わせた需要喚起策が並ぶ。",
+            "月末から月初の航空会社・旅行予約サイトのセールは、夏前の国内旅行計画に影響しやすい。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "timeout.com",
-          "link": "https://www.timeout.com/news/these-are-all-the-strikes-at-european-airports-you-need-to-watch-out-for-right-now-092022"
-        },
-        {
-          "title": "Spirit's exit leaves Arnold Palmer Regional Airport as one of five routes no airline has claimed - Pittsburgh Business Times",
-          "summaryLines": [
-            "Spirit's exit leaves Arnold Palmer Regional Airport as one of five routes no airline has claimed - Pittsburgh Business Timesに関する最新動向です。",
-            "概要: Arnold Palmer Regional Airport lost its only carrier when Spirit shut down May 2 — an airline analys…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "bizjournals.com",
-          "link": "https://www.bizjournals.com/pittsburgh/news/2026/05/27/spirit-arnold-palmer-regional-airport-study.html"
+          "whyImportant": "航空券・ホテル・レンタカーを束ねた割引は、都市間移動と地方滞在の旅行単価を下げるため。",
+          "source": "Mono Money Living",
+          "link": "https://monomoney-living.com/aircraft-ticket_timesale/"
         }
       ]
     }
   ],
   "top3": [
-    "IT：New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-    "AI：Snowflake signs $6 billion deal with AWS tied to AI infrastructure | Reuters",
-    "暗号通貨：IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record"
+    "IT：Google Cloud、AI脅威に対抗する「Google AI Threat Defense」を発表",
+    "AI：デジタル庁、ガバメントAI「源内」向け国産LLMを再公募へ",
+    "時事・経済ニュース：5月の東京都区部コアCPI、前年比1.3％に減速"
   ],
   "headlines": [
     {
-      "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html",
-      "snippet": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。 概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…"
+      "title": "Google Cloud、AI脅威に対抗する「Google AI Threat Defense」を発表",
+      "source": "AI Watch",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2112680.html",
+      "snippet": "Google Cloudは、AIによる脅威を継続監視し、阻止する自動化セキュリティシステム「Google AI Threat Defense」を発表した。 Gemini、Wiz、CodeMender、Mandiantの知見を組み合わせ、露出状況の把握、リスク優先順位付け、自律的な修復、監視までを一連の流れで扱う。"
     },
     {
-      "title": "Googlebook Release Date, Specs, and OEMs: What We Know",
-      "source": "the-gadgeteer.com",
-      "link": "https://the-gadgeteer.com/2026/05/27/googlebook-release-date-specs-chromebook-successor",
-      "snippet": "Googlebook Release Date, Specs, and OEMs: What We Knowに関する最新動向です。 概要: Google&#039;s Googlebook replaces the Chromebook this fall with Android, Gemini, and a Magic Pointer…"
+      "title": "GitHub Enterprise Serverに認証不要SSRF、GHES 3.20.3などで修正",
+      "source": "セキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/github-ghes-ssrf-vulnerability-cve-2026-9312/",
+      "snippet": "GitHub Enterprise Serverの複数バージョンで、アップロードエンドポイントに起因する事前認証SSRF脆弱性（CVE-2026-9312）が修正された。 対象はGHES 3.16〜3.21のサポート版で、インターネット到達可能な環境では内部サービスやメタデータへのアクセスリスクがある。"
     },
     {
-      "title": "12 Best Secure Browsers in 2026 (Privacy Compared)",
-      "source": "impressivemagazine.com",
-      "link": "https://impressivemagazine.com/best-secure-browsers-2026/",
-      "snippet": "12 Best Secure Browsers in 2026 (Privacy Compared)に関する最新動向です。 概要: The 12 best secure browsers for 2026, compared by tracker blocking, fingerprint resistance, speed, a…"
+      "title": "アソビューの予約管理システムにサイバー攻撃、予約者情報2万7163件が流出",
+      "source": "セキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/asoview-partner-booking-system-cyberattack/",
+      "snippet": "アソビューは、パートナー向け予約管理システム「satsuki」への外部不正アクセスで、一部予約者の個人情報2万7163件が流出したと発表した。 流出対象は氏名、性別、生年月日、電話番号、住所、予約情報で、メールアドレス、パスワード、クレジットカード情報は含まれない。"
     },
     {
-      "title": "Push Security Named to Redpoint’s 2026 InfraRed 100",
-      "source": "finance.yahoo.com",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/push-security-named-redpoint-2026-193800660.html",
-      "snippet": "Push Security Named to Redpoint’s 2026 InfraRed 100に関する最新動向です。 概要: BOSTON, May 27, 2026--Push Security, the most powerful AI-native security tool in the browser, today…"
+      "title": "デジタル庁、ガバメントAI「源内」向け国産LLMを再公募へ",
+      "source": "ITmedia AI＋",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000036/",
+      "snippet": "デジタル庁は、政府の生成AI基盤「源内」で使う国産LLMの2027年度向け公募を11月に実施すると予告した。 初回は無償試用が前提だったが、次回は有償の政府調達に移行し、評価テストも50問から300問へ拡充する。"
     },
     {
-      "title": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/business/retail-consumer/snowflake-signs-6-billion-deal-with-aws-tied-ai-infrastructure-2026-05-27/",
-      "snippet": "Snowflake signs $6 billion deal with AWS tied to AI infrastructure | Reutersに関する最新動向です。 概要: Snowflake said ​on ‌Wednesday it has ​signed ​a $6 billion ⁠deal ​with ​Amazon Web Services , with ​…"
+      "title": "Anthropic、「Claude Opus 4.8」を一般提供　誠実さとエージェント能力を改善",
+      "source": "ITmedia AI＋",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+      "snippet": "Anthropicは5月28日、Claude Opus 4.8の一般提供を開始し、推論、コーディング、エージェント能力などを前世代から改善した。 自分の作業状況や不確実性をより正確に報告する「誠実さ」の改善が強調され、コード欠陥の見逃しや未実装報告漏れが減ったという。"
     },
     {
-      "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai",
-      "snippet": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。 概要: Extra heft may help the utilities break through the infrastructure logjam."
+      "title": "国産AI開発新会社に東芝・日立など15社も出資意向と報道",
+      "source": "Yahoo!ニュース / 読売新聞オンライン",
+      "link": "https://news.yahoo.co.jp/articles/a76646f807114189fef5d7c9b7e0956ac02a33d1",
+      "snippet": "ソフトバンク、NEC、ソニーグループ、ホンダなどが中核となる国産AI開発新会社に、東芝、日立、ファナック、JERAなども出資意向と報じられた。 日本企業の現場データやノウハウが海外AI利用で流出する懸念を背景に、国内勢で高性能な国産AIの開発・利用体制を整える狙いがある。"
     },
     {
-      "title": "At Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "snippet": "At Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals | TechCrunchに関する最新動向です。 概要: Databricks Co-founder, Arsalan Tavakoli-Shiraji, will unpack the shift on enterprise AI at TechCrunc…"
+      "title": "CME、暗号資産先物・オプションを24時間365日取引へ",
+      "source": "CRYPTO TIMES",
+      "link": "https://crypto-times.jp/news-cryptocurrency-futures-to-be-traded-24-hours-a-day/",
+      "snippet": "CMEグループの暗号資産先物・オプション取引が、5月29日から24時間365日化される見通しとなった。 金曜夜から日曜夜にかけても取引できるようになり、ビットコイン市場で「CMEギャップ」と呼ばれてきた週末の取引空白が縮小する可能性がある。"
     },
     {
-      "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog",
-      "source": "microsoft.com",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
-      "snippet": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blogに関する最新動向です。 概要: Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model ag…"
+      "title": "ビットコインが7.3万ドル割れ、米現物ETFから約7.3億ドル流出",
+      "source": "Cryptonews Japan",
+      "link": "https://cryptonews.com/jp/news/live-bitcoin-etf-outflows-geopolitical-risks-crypto-drop/",
+      "snippet": "5月29日の暗号資産市場では、ビットコインが一時7万3000ドルを下回り、米現物ビットコインETFから単日約7億3300万ドルが流出したと報じられた。 中東情勢やリスク資産への警戒感が重しとなり、ETF資金フローの悪化も価格下落に拍車をかけた。"
     },
     {
-      "title": "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record",
-      "snippet": "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on recordに関する最新動向です。 概要: IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January…"
+      "title": "日本の暗号資産規制改革にフィデリティ担当者が期待感",
+      "source": "CoinPost",
+      "link": "https://coinpost.jp/crypto/interview/fidelity-japan-crypto-regulation/",
+      "snippet": "フィデリティ・インターナショナル担当者へのインタビューで、日本の暗号資産関連規制改革への期待が示された。 国内では暗号資産ETFや税制、金融商品としての位置づけを巡る議論が続き、制度設計が市場参加者の関心を集めている。"
     },
     {
-      "title": "Bitcoin Falls Below $73,000 Despite Trump’s Crypto Capital Push - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-below-73-000-despite-trump-s-crypto-capital-push",
-      "snippet": "Bitcoin Falls Below $73,000 Despite Trump’s Crypto Capital Push - Bloombergに関する最新動向です。 概要: Bitcoin briefly fell below $73,000 despite a fresh push from Donald Trump for the CLARITY Act, sugge…"
+      "title": "5月の東京都区部コアCPI、前年比1.3％に減速",
+      "source": "ロイター",
+      "link": "https://jp.reuters.com/markets/japan/QFGFGCXBYFOLHPOLRHNSDLODTE-2026-05-29/",
+      "snippet": "5月の東京都区部消費者物価指数（生鮮食品を除く）は前年比1.3％上昇となり、ロイター集計の民間予測1.5％を下回った。 制度要因を除くと2％台半ばとの試算もあり、表面的な減速と基調インフレの見方が分かれる内容になった。"
     },
     {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
+      "title": "日経平均、6万6329円で史上最高値を更新と報道",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/",
+      "snippet": "29日の東京株式市場で日経平均株価は前日比1636円高の6万6329円となり、史上最高値を更新したと報じられた。 米イラン交渉進展観測を背景にした米株高や、海外投機筋による株価指数先物買いが相場を押し上げた。"
     },
     {
-      "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
-      "source": "investingnews.com",
-      "link": "https://investingnews.com/cryptocurrency-market-recap/",
-      "snippet": "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。 概要: Elsewhere in the sector, Drofa Comms identified three exchange models that it believes could shape t…"
+      "title": "ドル円は159円台前半、米イラン停戦延長観測で円高反応",
+      "source": "OANDA Japan",
+      "link": "https://www.oanda.jp/lab-education/market_news/2026_05_29_usdjpy/",
+      "snippet": "OANDAは29日朝のドル円見通しで、米国とイランの60日間停戦延長合意報道を受け、ドル円が円高で反応したと説明した。 米GDPが市場予想より弱かったことも、発表直後の円高方向の動きにつながった。"
     },
     {
-      "title": "Iran war splits global markets into clear winners and losers | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/",
-      "snippet": "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。 概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…"
+      "title": "2026年度も自治体の旅行支援・独自割引が各地で継続",
+      "source": "トラベラーズナビ",
+      "link": "https://travelersnavi.com/coupon/zenkokuwari2307",
+      "snippet": "全国旅行支援は終了したが、2026年度も自治体独自の宿泊割引、クーポン、旅行支援策が各地で続いている。 5月版のまとめでは、平日宿泊旅行の抽選クーポン、北海道・岩手・秋田・福島などの宿泊助成や割引施策が掲載された。"
     },
     {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+      "title": "JAPAN 47 GO、6月の国内イベント情報を公開",
+      "source": "ガジェット通信 GetNews / ストレートプレス",
+      "link": "https://getnews.jp/archives/3720435",
+      "snippet": "日本観光振興協会が運営する「JAPAN 47 GO」は、6月に全国で開催される初夏イベント情報を公開した。 備後国府まつり、いぶすきフラフェスティバル、小町まつり、信州辰野ほたる祭り、大阪の愛染祭などが紹介されている。"
     },
     {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "Tariff Fears Are Rattling the Market. Here's What 100 Years of Data Says About What Happens Next. | The Motley Fool",
-      "source": "fool.com",
-      "link": "https://fool.com/investing/2026/05/28/tariff-fears-are-rattling-the-market-heres-what-10",
-      "snippet": "Tariff Fears Are Rattling the Market. Here's What 100 Years of Data Says About What Happens Next. | The Motley Foolに関する最新動向です。 概要: The market's future may be volatile, but history has good news for investors."
-    },
-    {
-      "title": "Singapore Airlines and Air New Zealand to expand joint network as travel demand grows | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/asia-pacific/singapore-airlines-air-new-zealand-expand-joint-network-travel-demand-grows-2026-05-28/",
-      "snippet": "Singapore Airlines and Air New Zealand to expand joint network as travel demand grows | Reutersに関する最新動向です。 概要: Singapore Airlines said on Thursday that it would expand its joint network between New Zealand and ​…"
-    },
-    {
-      "title": "Dubai International Airport Boosts International Connectivity with More Airlines, Easier Transit, and Better Travel Opportunities for Tourists - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/wscs9v1v6rhx/",
-      "snippet": "Dubai International Airport Boosts International Connectivity with More Airlines, Easier Transit, and Better Travel Opportunities for Tourists - Travel And Tour Worldに関する最新動向です。 概要: Dubai International Airport expands airline operations with over 40 carriers, improving global conne…"
-    },
-    {
-      "title": "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holiday",
-      "source": "timeout.com",
-      "link": "https://www.timeout.com/news/these-are-all-the-strikes-at-european-airports-you-need-to-watch-out-for-right-now-092022",
-      "snippet": "2026 Europe Transport Strikes: Full List Of European Airport Strikes & Industrial Action That Could Impact Your June Summer Holidayに関する最新動向です。 概要: A guide to all the airline and airport strikes in the UK and across Europe, and how they might impac…"
-    },
-    {
-      "title": "Spirit's exit leaves Arnold Palmer Regional Airport as one of five routes no airline has claimed - Pittsburgh Business Times",
-      "source": "bizjournals.com",
-      "link": "https://www.bizjournals.com/pittsburgh/news/2026/05/27/spirit-arnold-palmer-regional-airport-study.html",
-      "snippet": "Spirit's exit leaves Arnold Palmer Regional Airport as one of five routes no airline has claimed - Pittsburgh Business Timesに関する最新動向です。 概要: Arnold Palmer Regional Airport lost its only carrier when Spirit shut down May 2 — an airline analys…"
+      "title": "スターフライヤー「STARFRIDAY」、航空券＋ホテル割引や国内線運賃を訴求",
+      "source": "Mono Money Living",
+      "link": "https://monomoney-living.com/aircraft-ticket_timesale/",
+      "snippet": "国内旅行セール情報として、スターフライヤーの「STARFRIDAY」で航空券＋ホテル最大1万3000円OFFクーポンなどが紹介された。 羽田〜北九州・福岡線の割安運賃や、レンタカー割引など、航空と宿泊・現地移動を組み合わせた需要喚起策が並ぶ。"
     }
   ],
   "meta": {
-    "sourceMode": "brave",
+    "sourceMode": "openclaw-web",
     "categoryCount": 5,
-    "itemCount": 20
+    "itemCount": 15
   },
-  "generatedAt": "2026-05-28T15:36:05.313417+00:00"
+  "generatedAt": "2026-05-29T11:03:20.382Z"
 }
