@@ -1,55 +1,44 @@
 {
   "date": "2026-05-30",
   "title": "2026-05-30 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "IBM commits $5 billion to secure open-source software | Reuters",
+          "title": "Google Cloud、AI脅威に備える「Google AI Threat Defense」を発表",
           "summaryLines": [
-            "IBM commits $5 billion to secure open-source software | Reutersに関する最新動向です。",
-            "概要: IBM said on Thursday it has committed $5 billion to an initiative that will deploy engineers and AI…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Google Cloudは、AIによる脅威を継続監視し、阻止する自動化セキュリティシステム「Google AI Threat Defense」を発表した。",
+            "Gemini、Wiz、CodeMender、Mandiantの知見を組み合わせ、露出状況の把握、リスク優先順位付け、自律的な修復、監視までを一連の流れで扱う。",
+            "脆弱性の検出からパッチ作成・検証までを高速化し、攻撃者より早く修正を展開することを狙う。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/transactional/ibm-commits-5-billion-secure-open-source-software-2026-05-28/"
+          "whyImportant": "AIが攻撃側だけでなく防御・修復の運用基盤にも組み込まれ、SOCや脆弱性管理の設計を変えるため。",
+          "source": "AI Watch",
+          "link": "https://ai.watch.impress.co.jp/docs/news/2112680.html"
         },
         {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "title": "GSX、生成AI組み込みWebアプリ向け「AIプロンプト診断」を開始",
           "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "GSXは、ChatGPT APIなどの生成AIを組み込んだWebアプリを対象に、プロンプトインジェクションやプロンプトリークを診断するサービスを開始した。",
+            "OWASP LLM Top 10に基づく8カテゴリーでAI固有のリスクを可視化し、4段階評価と具体的な対策を提示する。",
+            "同社は、本番AI導入の拡大に比べてセキュリティ制御の整備が遅れている点を課題としている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+          "whyImportant": "生成AIアプリの本番利用が増えるほど、従来のWeb診断だけでは拾えないAI固有リスクへの対策が必要になるため。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2112204.html"
         },
         {
-          "title": "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.com",
+          "title": "丸紅情報システムズ、SCS評価制度への対応支援サービスを開始",
           "summaryLines": [
-            "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.comに関する最新動向です。",
-            "概要: While this series has focused on alternatives to Windows, there are smaller steps one might take to…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "丸紅情報システムズは、経産省などが推進する「サプライチェーン強化に向けたセキュリティ対策評価制度」への対応支援サービスを始めた。",
+            "ギャップ分析、課題整理、準拠ロードマップ、継続的なリスクチェック、取引先管理までを4プランで提供する。",
+            "2026年3月時点の公開情報では、星3で26件、星4で43件の要求事項が示されている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "thurrott.com",
-          "link": "https://www.thurrott.com/cloud/web-browsers/335851/switcher-2026-thinking-about-web-browsers"
-        },
-        {
-          "title": "Googlebook Release Date, Specs, and OEMs: What We Know",
-          "summaryLines": [
-            "Googlebook Release Date, Specs, and OEMs: What We Knowに関する最新動向です。",
-            "概要: Google&#039;s Googlebook replaces the Chromebook this fall with Android, Gemini, and a Magic Pointer…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "the-gadgeteer.com",
-          "link": "https://the-gadgeteer.com/2026/05/27/googlebook-release-date-specs-chromebook-successor"
+          "whyImportant": "取引先を含めたサプライチェーン全体のセキュリティ要求が、調達・監査・契約条件に直結しやすくなるため。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2112453.html"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Microsoft to release new coding model next week, the Information reports | Reuters",
+          "title": "ガバメントAI「源内」、全府省庁18万人規模へ大規模実証を開始",
           "summaryLines": [
-            "Microsoft to release new coding model next week, the Information reports | Reutersに関する最新動向です。",
-            "概要: Microsoft will unveil a suite of new homegrown AI models next week at its annual \"Build\" conference…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デジタル庁は、生成AI利用環境プロジェクト「源内」の対象を拡大し、5月から大規模実証実験を開始した。",
+            "29日時点で約10万人の政府職員が利用可能となり、6月以降は防衛省、文科省、厚労省、経産省などへ広げる計画だ。",
+            "源内は文章作成や翻訳に加え、法制度調査、国会答弁分析、補助金制度調査、公用文校正など行政実務向け機能と連携する。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/business/microsoft-release-new-coding-model-next-week-information-reports-2026-05-28"
+          "whyImportant": "行政の生成AI利用が実証段階から大規模運用に近づき、政府内の業務設計とAIガバナンスに影響するため。",
+          "source": "Impress Watch",
+          "link": "https://www.watch.impress.co.jp/docs/news/2112863.html"
         },
         {
-          "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
+          "title": "デジタル庁、AI「源内」向け国産LLMを再公募へ　有償調達に移行",
           "summaryLines": [
-            "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。",
-            "概要: Extra heft may help the utilities break through the infrastructure logjam.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デジタル庁は、ガバメントAI「源内」で使う国産LLMの2027年度向け公募を11月に実施すると予告した。",
+            "初回は無償試用だったが、次回は有償の政府調達へ移行し、行政実務能力を測る評価テストも50問から300問に拡充する。",
+            "応募モデルには、ガバメントクラウド上での動作、料金体系、法令遵守、行政業務での活用方法などの説明を求める。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai"
+          "whyImportant": "国産LLMの競争軸が性能ベンチマークだけでなく、行政実務適性と調達要件へ広がるため。",
+          "source": "ITmedia AI＋",
+          "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000036/"
         },
         {
-          "title": "Some ideas for what comes next, May 2026",
+          "title": "exaBase 生成AI、Claude Opus 4.8を日本リージョンでも提供開始",
           "summaryLines": [
-            "Some ideas for what comes next, May 2026に関する最新動向です。",
-            "概要: Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Exa Enterprise AIは、法人向け生成AIサービス「exaBase 生成AI」でAnthropicの「Claude Opus 4.8」を海外・日本リージョンで提供開始した。",
+            "従来モデルより複雑なコーディング、長時間の自律的プロジェクト遂行、根拠のない主張を抑える誠実性が改善されたとしている。",
+            "日本国内で完結できる利用環境を用意し、既存ユーザーは追加申し込みなしで利用できる。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "interconnects.ai",
-          "link": "https://interconnects.ai/p/some-ideas-for-what-comes-next-may"
-        },
-        {
-          "title": "Model Release Notes | OpenAI Help Center",
-          "summaryLines": [
-            "Model Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/9624314-model-release-notes"
+          "whyImportant": "高性能モデルを国内リージョンで使える選択肢が増え、企業のAI導入で重視されるセキュリティ・コンプライアンス要件に響くため。",
+          "source": "PR TIMES / エクサウィザーズ",
+          "link": "https://prtimes.jp/main/html/rd/p/000000450.000030192.html"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+          "title": "米CFTC、米国初のビットコイン無期限先物を承認",
           "summaryLines": [
-            "Calamos bets protected Bitcoin ETFs can outlast crypto market swingsに関する最新動向です。",
-            "概要: As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "米CFTCは、KalshiEXが申請したビットコイン現物価格参照型の無期限先物契約「BTCPERP」を先物契約として承認した。",
+            "コインベースにもDeribit経由で無期限先物を米国内提供するためのノーアクションレターを出し、証拠金の扱いも一定条件で認めた。",
+            "CFTCは今後の無期限先物申請について、参照資産ごとに個別審査する方針も示している。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings"
+          "whyImportant": "オフショア中心だった暗号資産デリバティブの主要市場が、米国規制下へ移る道筋を開く可能性があるため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=712704"
         },
         {
-          "title": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloomberg",
+          "title": "ビットコインETF、記録的な9日連続流出で需要減退を示唆",
           "summaryLines": [
-            "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloombergに関する最新動向です。",
-            "概要: As SpaceX edges closer to what could be the largest initial public offering in history, a corner of…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CoinDeskは、ビットコインがリスク資産全般の上昇に比べて劣後し、月間高値から約10％下の水準で推移していると伝えた。",
+            "スポットビットコインETFからの純流出は記録的な9日連続となり、現物需要が価格維持に十分でないとの見方が示された。",
+            "長期保有者供給は高水準だが、短期保有者やCoinbase準備金の動きから新規買いの弱さも指摘されている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-ipo-hype-spurs-crypto-shadow-market-for-pre-listing-bets?srnd=phx-deals"
+          "whyImportant": "ETFフローはビットコイン相場の主要な需要源であり、連続流出は短期センチメントと資金配分に影響するため。",
+          "source": "CoinDesk Japan",
+          "link": "https://www.coindesk.com/ja/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand"
         },
         {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+          "title": "国内暗号資産市場、金商法移行・ステーブルコイン・ETF議論で転換点に",
           "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NADA NEWSは、日本の暗号資産市場が金商法移行、ステーブルコイン普及、ビットコインETF解禁議論を背景に転換点を迎えていると報じた。",
+            "東京で行われたパネルでは、暗号資産取引所が投機市場から金融インフラへ再定義される局面にどう対応するかが議論された。",
+            "規制変更は、取引所の収益構造、商品設計、投資家保護、税制対応を同時に見直すきっかけになる。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
-        },
-        {
-          "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
-          "summaryLines": [
-            "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。",
-            "概要: Elsewhere in the sector, Drofa Comms identified three exchange models that it believes could shape t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "investingnews.com",
-          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+          "whyImportant": "日本の制度整備が進めば、国内ETFやステーブルコイン活用など暗号資産の利用範囲が広がる可能性があるため。",
+          "source": "Yahoo!ファイナンス / NADA NEWS",
+          "link": "https://finance.yahoo.co.jp/news/detail/ad5bf1da172c32835f22eaef26a908ca2f32c94b"
         }
       ]
     },
@@ -158,233 +125,78 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Iran war splits global markets into clear winners and losers | Reuters",
+          "title": "政府・日銀の11兆円超介入後も円安傾向、日銀利上げが焦点に",
           "summaryLines": [
-            "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。",
-            "概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NHKは、4月28日から5月27日までの間に政府・日銀が11兆円を超える大規模な市場介入を実施したと報じた。",
+            "介入で円相場は一時的に円高方向へ動いたが、中東情勢をめぐる不透明感などを背景に再び円安傾向が続いている。",
+            "市場では、日銀が利上げに踏み切るかどうかも今後の焦点になっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/"
+          "whyImportant": "円安、原油高、金利判断は輸入物価・企業収益・家計負担に広く波及するため。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015136051000"
         },
         {
-          "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
+          "title": "6月の食品値上げ、1000品目超　中東情勢の影響も価格転嫁へ",
           "summaryLines": [
-            "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。",
-            "概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "民間調査会社のまとめとして、6月に値上げされる食品が1000品目余りにのぼるとNHKが伝えた。",
+            "中東情勢の影響でトレーやフィルムなど包装資材が値上がりしていることが背景にあり、今後も価格転嫁が続く可能性がある。",
+            "電気・ガス料金や小麦粉、パスタなどの値上げも関連ニュースとして挙げられている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "theguardian.com",
-          "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump"
+          "whyImportant": "食品とエネルギーの値上げは家計の実感インフレを押し上げ、消費行動や賃上げ議論に直結するため。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015134751000"
         },
         {
-          "title": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbers",
+          "title": "来週の為替、米雇用統計・ECB利上げ観測・日銀総裁講演に注目",
           "summaryLines": [
-            "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbersに関する最新動向です。",
-            "概要: The 2026 Trump tariffs amount to an average tax increase per US household of $700 and have not meani…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "外為どっとコム総合研究所は、6月1日から7日の重要イベントとして米5月雇用統計、ユーロ圏CPI、植田日銀総裁講演などを挙げた。",
+            "米国では原油高止まりの中でインフレ懸念が残り、FRBの年内利上げ織り込みが雇用統計で変化する可能性がある。",
+            "欧州ではECBの6月利上げ織り込み、日本では日銀の6月会合をめぐる見方が為替材料になりそうだ。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "taxfoundation.org",
-          "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/"
-        },
-        {
-          "title": "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstar",
-          "summaryLines": [
-            "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstarに関する最新動向です。",
-            "概要: Our outlook shows inflation ticking up to 2.7%, with GDP growth slowing.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "morningstar.com",
-          "link": "https://www.morningstar.com/economy/inflation-set-rise-tariff-costs-hit-consumers-2026"
+          "whyImportant": "主要中銀の政策見通しはドル円・株式・債券の同時変動要因になり、翌週の市場リスク管理に重要なため。",
+          "source": "外為どっとコム マネ育チャンネル",
+          "link": "https://www.gaitame.com/media/entry/2026/05/30/060000"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行",
       "items": [
         {
-          "title": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reuters",
+          "title": "全国自治体の国内旅行キャンペーンが続々、宿泊割や体験特典を展開",
           "summaryLines": [
-            "Costlier flights, hotels divide US summer travel into haves and have-nots | Reutersに関する最新動向です。",
-            "概要: Among low- and middle-income consumers still traveling, many are waiting longer to book.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベル Watchは、2026年度も全国自治体による旅行キャンペーンが続々始まっているとまとめた。",
+            "宿泊割、飲食・土産店で使えるクーポン、観光施設や体験アクティビティの割引など、地域ごとに独自施策が展開されている。",
+            "鉄道・航空・バス・高速道路各社の周遊パスやセールと組み合わせると、移動費を抑えながら国内旅行を計画しやすい。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/business/costlier-flights-hotels-divide-us-summer-travel-into-haves-have-nots-2026-05-28"
+          "whyImportant": "自治体支援と交通割引の組み合わせは、国内旅行需要と地方消費の押し上げにつながるため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2111492.html"
         },
         {
-          "title": "AirAsia MOVE says Asean travel demand remains strong in 2026",
+          "title": "長崎県「しま旅割引キャンペーン」、体験付き宿泊が最大3000円引き",
           "summaryLines": [
-            "AirAsia MOVE says Asean travel demand remains strong in 2026に関する最新動向です。",
-            "概要: Short-haul trips within Southeast Asia remain the region’s main tourism driver, as AirAsia MOVE says…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "長崎県は、対馬・壱岐・下五島・上五島・宇久・小値賀の6島エリアを対象に「長崎しま旅割引キャンペーン」を実施している。",
+            "じゃらんnetまたは楽天トラベルで配布するクーポンを取得し、体験付き宿泊プランを予約すると1泊最大3000円引きになる。",
+            "対象の島々では自然アクティビティ、歴史スポット巡り、郷土料理など島ならではの体験を楽しめる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "nationthailand.com",
-          "link": "https://nationthailand.com/news/40066746"
+          "whyImportant": "離島観光は交通費や宿泊費の負担が大きく、割引施策が周遊促進と地域経済支援に効きやすいため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2111607.html"
         },
         {
-          "title": "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Trip",
+          "title": "秋田県、最大1万2000円引き「得旅キャンペーン」の追加クーポン配布へ",
           "summaryLines": [
-            "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Tripに関する最新動向です。",
-            "概要: Planning a trip for World Cup 2026? Explore host cities by region, compare trip styles, learn when h…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "秋田県観光連盟は、「まだバレてない秋田県。得旅キャンペーン第1弾」の反響を受け、追加クーポン配布を決定した。",
+            "県内宿泊施設を対象に、通常クーポンで最大1万円引き、体験・食事・地酒・特産品などがセットのプランでは最大1万2000円引きとなる。",
+            "追加分はじゃらんnet、一休.com、楽天トラベルで6月中旬から配布され、宿泊対象期間は7月31日チェックアウトまで。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "blog.ticketmaster.com",
-          "link": "https://blog.ticketmaster.com/world-cup-2026-travel-guide/"
-        },
-        {
-          "title": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour World",
-          "summaryLines": [
-            "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour Worldに関する最新動向です。",
-            "概要: Loganair new route East Midlands launches daily from Jersey May 31, 2026, boosting UK tourism and co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/sqso79mq5ojq/"
+          "whyImportant": "夏前の宿泊需要を前倒しで喚起し、食・地酒・体験を含む高付加価値な地域消費につながるため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2111625.html"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：IBM commits $5 billion to secure open-source software | Reuters",
-    "AI：Microsoft to release new coding model next week, the Information reports | Reuters",
-    "暗号通貨：Calamos bets protected Bitcoin ETFs can outlast crypto market swings"
-  ],
-  "headlines": [
-    {
-      "title": "IBM commits $5 billion to secure open-source software | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/transactional/ibm-commits-5-billion-secure-open-source-software-2026-05-28/",
-      "snippet": "IBM commits $5 billion to secure open-source software | Reutersに関する最新動向です。 概要: IBM said on Thursday it has committed $5 billion to an initiative that will deploy engineers and AI…"
-    },
-    {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
-    },
-    {
-      "title": "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.com",
-      "source": "thurrott.com",
-      "link": "https://www.thurrott.com/cloud/web-browsers/335851/switcher-2026-thinking-about-web-browsers",
-      "snippet": "Switcher 2026: Thinking About Web Browsers ⭐️ - Thurrott.comに関する最新動向です。 概要: While this series has focused on alternatives to Windows, there are smaller steps one might take to…"
-    },
-    {
-      "title": "Googlebook Release Date, Specs, and OEMs: What We Know",
-      "source": "the-gadgeteer.com",
-      "link": "https://the-gadgeteer.com/2026/05/27/googlebook-release-date-specs-chromebook-successor",
-      "snippet": "Googlebook Release Date, Specs, and OEMs: What We Knowに関する最新動向です。 概要: Google&#039;s Googlebook replaces the Chromebook this fall with Android, Gemini, and a Magic Pointer…"
-    },
-    {
-      "title": "Microsoft to release new coding model next week, the Information reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/business/microsoft-release-new-coding-model-next-week-information-reports-2026-05-28",
-      "snippet": "Microsoft to release new coding model next week, the Information reports | Reutersに関する最新動向です。 概要: Microsoft will unveil a suite of new homegrown AI models next week at its annual \"Build\" conference…"
-    },
-    {
-      "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai",
-      "snippet": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。 概要: Extra heft may help the utilities break through the infrastructure logjam."
-    },
-    {
-      "title": "Some ideas for what comes next, May 2026",
-      "source": "interconnects.ai",
-      "link": "https://interconnects.ai/p/some-ideas-for-what-comes-next-may",
-      "snippet": "Some ideas for what comes next, May 2026に関する最新動向です。 概要: Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles…"
-    },
-    {
-      "title": "Model Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/9624314-model-release-notes",
-      "snippet": "Model Release Notes | OpenAI Help Centerに関する最新動向です。 概要: Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve…"
-    },
-    {
-      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-      "snippet": "Calamos bets protected Bitcoin ETFs can outlast crypto market swingsに関する最新動向です。 概要: As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into…"
-    },
-    {
-      "title": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-ipo-hype-spurs-crypto-shadow-market-for-pre-listing-bets?srnd=phx-deals",
-      "snippet": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets - Bloombergに関する最新動向です。 概要: As SpaceX edges closer to what could be the largest initial public offering in history, a corner of…"
-    },
-    {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
-    },
-    {
-      "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
-      "source": "investingnews.com",
-      "link": "https://investingnews.com/cryptocurrency-market-recap/",
-      "snippet": "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。 概要: Elsewhere in the sector, Drofa Comms identified three exchange models that it believes could shape t…"
-    },
-    {
-      "title": "Iran war splits global markets into clear winners and losers | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/",
-      "snippet": "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。 概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…"
-    },
-    {
-      "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
-      "source": "theguardian.com",
-      "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
-      "snippet": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。 概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…"
-    },
-    {
-      "title": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbers",
-      "source": "taxfoundation.org",
-      "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
-      "snippet": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbersに関する最新動向です。 概要: The 2026 Trump tariffs amount to an average tax increase per US household of $700 and have not meani…"
-    },
-    {
-      "title": "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstar",
-      "source": "morningstar.com",
-      "link": "https://www.morningstar.com/economy/inflation-set-rise-tariff-costs-hit-consumers-2026",
-      "snippet": "Inflation Set to Rise in 2026 as Tariff Costs Hit Consumers | Morningstarに関する最新動向です。 概要: Our outlook shows inflation ticking up to 2.7%, with GDP growth slowing."
-    },
-    {
-      "title": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/business/costlier-flights-hotels-divide-us-summer-travel-into-haves-have-nots-2026-05-28",
-      "snippet": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reutersに関する最新動向です。 概要: Among low- and middle-income consumers still traveling, many are waiting longer to book."
-    },
-    {
-      "title": "AirAsia MOVE says Asean travel demand remains strong in 2026",
-      "source": "nationthailand.com",
-      "link": "https://nationthailand.com/news/40066746",
-      "snippet": "AirAsia MOVE says Asean travel demand remains strong in 2026に関する最新動向です。 概要: Short-haul trips within Southeast Asia remain the region’s main tourism driver, as AirAsia MOVE says…"
-    },
-    {
-      "title": "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Trip",
-      "source": "blog.ticketmaster.com",
-      "link": "https://blog.ticketmaster.com/world-cup-2026-travel-guide/",
-      "snippet": "World Cup 2026 Travel & Hospitality Guide: Where to Stay, What to Do & How to Plan Your Tripに関する最新動向です。 概要: Planning a trip for World Cup 2026? Explore host cities by region, compare trip styles, learn when h…"
-    },
-    {
-      "title": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/sqso79mq5ojq/",
-      "snippet": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour Worldに関する最新動向です。 概要: Loganair new route East Midlands launches daily from Jersey May 31, 2026, boosting UK tourism and co…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-05-29T15:36:03.675766+00:00"
+  ]
 }
