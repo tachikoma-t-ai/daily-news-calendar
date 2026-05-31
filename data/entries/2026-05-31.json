@@ -1,55 +1,41 @@
 {
   "date": "2026-05-31",
   "title": "2026-05-31 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+          "title": "Reuters、NVIDIAチップ搭載Windows PCが翌週登場と報道",
           "summaryLines": [
-            "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersのテクノロジー欄は、NVIDIAチップを搭載した初のWindows PCが翌週に登場する見通しだと伝えました。",
+            "AI PCやArm/Windowsの選択肢が広がる可能性があり、PC市場の競争軸がCPU単体からAI処理性能へ移っています。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "端末側AI処理の普及は、開発・運用・調達の前提を変えるため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/"
         },
         {
-          "title": "IBM commits $5 billion to secure open-source software | Reuters",
+          "title": "Palo Alto Networksの認証回避脆弱性、悪用確認で警戒高まる",
           "summaryLines": [
-            "IBM commits $5 billion to secure open-source software | Reutersに関する最新動向です。",
-            "概要: IBM said on Thursday it has committed $5 billion to an initiative that will deploy engineers and AI…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Cyber Security Newsは、PAN-OSとPrisma Accessに影響する認証回避脆弱性CVE-2026-0257が実際に悪用されていると報じました。",
+            "CISAの既知悪用脆弱性カタログにも追加され、境界防御製品の更新とログ確認が急務になっています。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/transactional/ibm-commits-5-billion-secure-open-source-software-2026-05-28/"
+          "whyImportant": "ネットワーク防御基盤の脆弱性は侵入口になりやすく、企業の緊急対応優先度が高いため。",
+          "source": "Cyber Security News",
+          "link": "https://cybersecuritynews.com/"
         },
         {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "title": "Reuters、Googleキーワード広告判決がオンライン広告を変える可能性と紹介",
           "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersのテクノロジー欄は、インド裁判所によるGoogleキーワード広告を巡る判断が広告市場に影響し得るトピックとして掲載しました。",
+            "検索広告のブランド保護、競合入札、プラットフォーム責任を巡る論点が国際的に再点検されそうです。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
-        },
-        {
-          "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-          "summaryLines": [
-            "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。",
-            "概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html"
+          "whyImportant": "検索広告のルール変更は、マーケティング費用とブランド保護の実務に波及するため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/"
         }
       ]
     },
@@ -58,48 +44,34 @@
       "name": "AI",
       "items": [
         {
-          "title": "Dell shares soar 30% as AI server demand, price hikes power stellar quarter | Reuters",
+          "title": "デジタル庁、ガバメントAI「源内」の18万人規模実証を開始",
           "summaryLines": [
-            "Dell shares soar 30% as AI server demand, price hikes power stellar quarter | Reutersに関する最新動向です。",
-            "概要: Dell's shares surged 30% on Friday, as the PC maker's blockbuster results showed that its growing fo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デジタル庁は、全府省庁の約18万人の政府職員を対象にガバメントAI「源内」の大規模実証を始めたと公表しました。",
+            "2026年度中に全府省庁で利用可能にする計画で、行政文書・調査・法制度確認などの業務効率化を狙います。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/business/retail-consumer/dell-rallies-about-40-strong-nvidiapowered-ai-server-demand-2026-05-29/"
+          "whyImportant": "政府利用が進むと、公共部門のAI調達・データ整備・安全管理の標準づくりに直結するため。",
+          "source": "デジタル庁",
+          "link": "https://www.digital.go.jp/policies/genai"
         },
         {
-          "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
+          "title": "Reuters、AI半導体需要でSK Hynixが時価総額1兆ドル級に接近と報道",
           "summaryLines": [
-            "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。",
-            "概要: Extra heft may help the utilities break through the infrastructure logjam.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ReutersのAI欄は、NVIDIA向けなど高性能メモリ需要の強さを背景に、SK HynixがSamsungやMicronに続く大型銘柄として注目されていると伝えました。",
+            "AIチップ向け高帯域メモリの供給逼迫と価格上昇が、半導体メーカーの収益を押し上げています。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai"
+          "whyImportant": "AI投資の制約がモデル性能だけでなく、メモリ供給と設備投資に移っていることを示すため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/artificial-intelligence/"
         },
         {
-          "title": "Model Release Notes | OpenAI Help Center",
+          "title": "Business Insider、Googleの低コストAI戦略を分析",
           "summaryLines": [
-            "Model Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style and quality. It’s no…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Business Insiderは、Googleが検索事業で培った規模の経済をAIにも持ち込み、低コストなGemini系モデルで競争力を高めていると分析しました。",
+            "クラウドやGPU調達に外部依存する競合とのコスト構造の違いが、AIサービス価格や提供範囲に影響しそうです。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/9624314-model-release-notes"
-        },
-        {
-          "title": "AI Model Releases May 2026: Complete Launch Tracker",
-          "summaryLines": [
-            "AI Model Releases May 2026: Complete Launch Trackerに関する最新動向です。",
-            "概要: Every AI model released in May 2026 — Gemini 3.5 Flash, Composer 2.5, Grok Build, Gemini Omni, Antig…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "digitalapplied.com",
-          "link": "https://www.digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker"
+          "whyImportant": "AIサービスの勝敗がモデル精度だけでなく、推論コストと配布面の強さで決まり始めているため。",
+          "source": "Business Insider",
+          "link": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5"
         }
       ]
     },
@@ -108,48 +80,34 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
+          "title": "CFTC、米国初の規制下ビットコイン無期限先物を承認",
           "summaryLines": [
-            "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on recordに関する最新動向です。",
-            "概要: IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "BITTIMESは、米CFTCがKalshiEXによるビットコイン現物価格連動の無期限先物「BTCPERP」上場を承認したと報じました。",
+            "規制当局の監督下で米国の暗号資産デリバティブが広がる可能性があり、海外市場中心だった取引構造に変化が出そうです。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record"
+          "whyImportant": "米国での規制準拠デリバティブ拡大は、機関投資家の参加条件を変える可能性があるため。",
+          "source": "BITTIMES",
+          "link": "https://bittimes.net/news/223799.html"
         },
         {
-          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "title": "Crypto.news、CFTC承認を受けたBitcoin Perpetual Futuresを速報",
           "summaryLines": [
-            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
-            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Crypto.newsは、CFTCが規制下の米取引所で初となるビットコイン無期限先物を承認したことをトップニュースとして扱いました。",
+            "Kalshiの承認は、予測市場・デリバティブ・暗号資産規制が交差する領域の先例になります。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/latest/crypto"
+          "whyImportant": "同じテーマが複数媒体で速報扱いされ、市場制度面の重要ニュースと判断できるため。",
+          "source": "crypto.news",
+          "link": "https://crypto.news/"
         },
         {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+          "title": "大阪・なんばに暗号資産自動両替機、訪日客の日本円換金に対応",
           "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "BITTIMESは、ガイアが大阪市浪速区のトラベルハブなんばに暗号資産自動両替機「BTM」を設置したと紹介しました。",
+            "関西国際空港からアクセスしやすいなんばで、訪日旅行者などが暗号資産を日本円へ直接両替できる拠点になります。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
-        },
-        {
-          "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
-          "summaryLines": [
-            "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。",
-            "概要: Elsewhere in the sector, Bitcoin ETF outflows are on the rise, while Tether has seen a significant s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "investingnews.com",
-          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+          "whyImportant": "暗号資産の実利用が決済・観光インフラと結びつく国内事例として注目されるため。",
+          "source": "BITTIMES",
+          "link": "https://bittimes.net/news/223799.html"
         }
       ]
     },
@@ -158,233 +116,175 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Iran war splits global markets into clear winners and losers | Reuters",
+          "title": "日経・テレ東世論調査、高市内閣支持率は66%",
           "summaryLines": [
-            "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。",
-            "概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本経済新聞は、5月29〜31日の世論調査で高市内閣の支持率が66%となり、前回から3ポイント低下したと伝えました。",
+            "不支持率は28%で2ポイント上昇し、無党派層の支持は45%と前回から4ポイント低下しました。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/"
+          "whyImportant": "政権支持率は経済政策・予算・規制改革の実行力を測る重要な先行指標になるため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/"
         },
         {
-          "title": "Charting the Global Economy: Inflation Hits Incomes and Spending",
+          "title": "外為どっとコム、6月1日週のドル円イベントを整理",
           "summaryLines": [
-            "Charting the Global Economy: Inflation Hits Incomes and Spendingに関する最新動向です。",
-            "概要: US consumer spending merely edged up in April as war-driven inflation pressures sapped incomes and p…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "外為どっとコムは、6月1日週のドル円相場に影響し得る予定と注目材料をまとめました。",
+            "米国指標、日銀関連発言、地政学リスクなどが引き続き為替の変動要因になっています。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-05-30/world-economy-latest-inflation-hits-incomes-and-spending"
+          "whyImportant": "円相場は輸入物価、企業収益、個人の旅行・消費コストに直結するため。",
+          "source": "外為どっとコム",
+          "link": "https://www.gaitame.com/media/entry/2026/05/31/080000"
         },
         {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "title": "Reuters、原油高とインフレ懸念が世界市場の焦点と報道",
           "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersは、イラン情勢を背景に原油価格とインフレ圧力が各国市場の重要テーマになっていると伝えました。",
+            "エネルギー価格の上昇は、消費者物価、企業コスト、金融政策判断に広く波及します。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
-        },
-        {
-          "title": "Stock market news for May 27, 2026",
-          "summaryLines": [
-            "Stock market news for May 27, 2026に関する最新動向です。",
-            "概要: The Dow Industrials notched an all-time high in the session and posted a record close on Wednesday a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://cnbc.com/2026/05/26/stock-market-today-live-updates.html"
+          "whyImportant": "資源価格とインフレは株式・債券・為替の同時変動を起こしやすいため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/markets/"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reuters",
+          "title": "台風6号接近、ANAとJALが沖縄方面で欠航を決定",
           "summaryLines": [
-            "Costlier flights, hotels divide US summer travel into haves and have-nots | Reutersに関する最新動向です。",
-            "概要: Among low- and middle-income consumers still traveling, many are waiting longer to book.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日テレNEWS NNNは、台風6号の接近でANAとJALが沖縄本島・南西諸島を結ぶ便の一部欠航を決めたと報じました。",
+            "ANAは6月1日に沖縄方面104便を終日欠航し、JALも那覇空港発着便を終日欠航する見通しです。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/business/costlier-flights-hotels-divide-us-summer-travel-into-haves-have-nots-2026-05-28"
+          "whyImportant": "沖縄方面の国内旅行・出張予定に直接影響し、振替や宿泊延長判断が必要になるため。",
+          "source": "日テレNEWS NNN",
+          "link": "https://news.ntv.co.jp/category/society/8eef0a0ad8ef42b8a8988ed9e14b32d3"
         },
         {
-          "title": "Future of Tourism AI: How Artificial Intelligence Is Transforming Travel - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+          "title": "JAL、台風6号で国内線の運航影響を案内",
           "summaryLines": [
-            "Future of Tourism AI: How Artificial Intelligence Is Transforming Travel - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。",
-            "概要: Discover how Future of Tourism AI trends are transforming the travel industry in 2026 through smart…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JALは国内線の運航状況ページで、台風6号により遅延・欠航・引き返し・他空港着陸の可能性がある空港を案内しています。",
+            "旅行者には発着情報検索で最新の運航状況を確認するよう促しています。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "airguide.info",
-          "link": "https://airguide.info/future-of-tourism-ai-2026/"
+          "whyImportant": "公式運航情報は、航空券変更・宿泊手配・旅程判断の一次情報になるため。",
+          "source": "JAL",
+          "link": "https://www.jal.co.jp/jp/ja/other/weather_info_dom/"
         },
         {
-          "title": "Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - POLITICO",
+          "title": "2026年度も自治体独自の旅行支援が継続、5月版まとめ更新",
           "summaryLines": [
-            "Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - POLITICOに関する最新動向です。",
-            "概要: The DHS secretary has said Customs and Border Protection officers at the airport could be sent to ha…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベラーズナビは、2026年5月以降も実施される自治体独自の旅行支援・宿泊割引をまとめました。",
+            "秋田、福島、岩手などで宿泊割引や地域キャンペーンが予定され、物価高下で観光需要を支える動きが続いています。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "politico.com",
-          "link": "https://www.politico.com/news/2026/05/29/mullin-newark-airport-cuts-00943353"
-        },
-        {
-          "title": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour World",
-          "summaryLines": [
-            "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour Worldに関する最新動向です。",
-            "概要: Loganair new route East Midlands launches daily from Jersey May 31, 2026, boosting UK tourism and co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/sqso79mq5ojq/"
+          "whyImportant": "国内旅行の費用負担を下げ、地域観光の需要平準化にもつながるため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/zenkokuwari2307"
         }
       ]
     }
   ],
   "top3": [
-    "IT：As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-    "AI：Dell shares soar 30% as AI server demand, price hikes power stellar quarter | Reuters",
-    "暗号通貨：IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record"
+    "IT：Reuters、NVIDIAチップ搭載Windows PCが翌週登場と報道",
+    "AI：デジタル庁、ガバメントAI「源内」の18万人規模実証を開始",
+    "暗号通貨：CFTC、米国初の規制下ビットコイン無期限先物を承認"
   ],
   "headlines": [
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+      "title": "Reuters、NVIDIAチップ搭載Windows PCが翌週登場と報道",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/technology/",
+      "snippet": "Reutersのテクノロジー欄は、NVIDIAチップを搭載した初のWindows PCが翌週に登場する見通しだと伝えました。 AI PCやArm/Windowsの選択肢が広がる可能性があり、PC市場の競争軸がCPU単体からAI処理性能へ移っています。"
     },
     {
-      "title": "IBM commits $5 billion to secure open-source software | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/transactional/ibm-commits-5-billion-secure-open-source-software-2026-05-28/",
-      "snippet": "IBM commits $5 billion to secure open-source software | Reutersに関する最新動向です。 概要: IBM said on Thursday it has committed $5 billion to an initiative that will deploy engineers and AI…"
+      "title": "Palo Alto Networksの認証回避脆弱性、悪用確認で警戒高まる",
+      "source": "Cyber Security News",
+      "link": "https://cybersecuritynews.com/",
+      "snippet": "Cyber Security Newsは、PAN-OSとPrisma Accessに影響する認証回避脆弱性CVE-2026-0257が実際に悪用されていると報じました。 CISAの既知悪用脆弱性カタログにも追加され、境界防御製品の更新とログ確認が急務になっています。"
     },
     {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+      "title": "Reuters、Googleキーワード広告判決がオンライン広告を変える可能性と紹介",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/technology/",
+      "snippet": "Reutersのテクノロジー欄は、インド裁判所によるGoogleキーワード広告を巡る判断が広告市場に影響し得るトピックとして掲載しました。 検索広告のブランド保護、競合入札、プラットフォーム責任を巡る論点が国際的に再点検されそうです。"
     },
     {
-      "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html",
-      "snippet": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。 概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…"
+      "title": "デジタル庁、ガバメントAI「源内」の18万人規模実証を開始",
+      "source": "デジタル庁",
+      "link": "https://www.digital.go.jp/policies/genai",
+      "snippet": "デジタル庁は、全府省庁の約18万人の政府職員を対象にガバメントAI「源内」の大規模実証を始めたと公表しました。 2026年度中に全府省庁で利用可能にする計画で、行政文書・調査・法制度確認などの業務効率化を狙います。"
     },
     {
-      "title": "Dell shares soar 30% as AI server demand, price hikes power stellar quarter | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/business/retail-consumer/dell-rallies-about-40-strong-nvidiapowered-ai-server-demand-2026-05-29/",
-      "snippet": "Dell shares soar 30% as AI server demand, price hikes power stellar quarter | Reutersに関する最新動向です。 概要: Dell's shares surged 30% on Friday, as the PC maker's blockbuster results showed that its growing fo…"
+      "title": "Reuters、AI半導体需要でSK Hynixが時価総額1兆ドル級に接近と報道",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/technology/artificial-intelligence/",
+      "snippet": "ReutersのAI欄は、NVIDIA向けなど高性能メモリ需要の強さを背景に、SK HynixがSamsungやMicronに続く大型銘柄として注目されていると伝えました。 AIチップ向け高帯域メモリの供給逼迫と価格上昇が、半導体メーカーの収益を押し上げています。"
     },
     {
-      "title": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai",
-      "snippet": "NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI - Bloombergに関する最新動向です。 概要: Extra heft may help the utilities break through the infrastructure logjam."
+      "title": "Business Insider、Googleの低コストAI戦略を分析",
+      "source": "Business Insider",
+      "link": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
+      "snippet": "Business Insiderは、Googleが検索事業で培った規模の経済をAIにも持ち込み、低コストなGemini系モデルで競争力を高めていると分析しました。 クラウドやGPU調達に外部依存する競合とのコスト構造の違いが、AIサービス価格や提供範囲に影響しそうです。"
     },
     {
-      "title": "Model Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/9624314-model-release-notes",
-      "snippet": "Model Release Notes | OpenAI Help Centerに関する最新動向です。 概要: We’re updating GPT-5.5 Instant in ChatGPT and the API to improve response style and quality. It’s no…"
+      "title": "CFTC、米国初の規制下ビットコイン無期限先物を承認",
+      "source": "BITTIMES",
+      "link": "https://bittimes.net/news/223799.html",
+      "snippet": "BITTIMESは、米CFTCがKalshiEXによるビットコイン現物価格連動の無期限先物「BTCPERP」上場を承認したと報じました。 規制当局の監督下で米国の暗号資産デリバティブが広がる可能性があり、海外市場中心だった取引構造に変化が出そうです。"
     },
     {
-      "title": "AI Model Releases May 2026: Complete Launch Tracker",
-      "source": "digitalapplied.com",
-      "link": "https://www.digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker",
-      "snippet": "AI Model Releases May 2026: Complete Launch Trackerに関する最新動向です。 概要: Every AI model released in May 2026 — Gemini 3.5 Flash, Composer 2.5, Grok Build, Gemini Omni, Antig…"
+      "title": "Crypto.news、CFTC承認を受けたBitcoin Perpetual Futuresを速報",
+      "source": "crypto.news",
+      "link": "https://crypto.news/",
+      "snippet": "Crypto.newsは、CFTCが規制下の米取引所で初となるビットコイン無期限先物を承認したことをトップニュースとして扱いました。 Kalshiの承認は、予測市場・デリバティブ・暗号資産規制が交差する領域の先例になります。"
     },
     {
-      "title": "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record",
-      "snippet": "IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on recordに関する最新動向です。 概要: IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January…"
+      "title": "大阪・なんばに暗号資産自動両替機、訪日客の日本円換金に対応",
+      "source": "BITTIMES",
+      "link": "https://bittimes.net/news/223799.html",
+      "snippet": "BITTIMESは、ガイアが大阪市浪速区のトラベルハブなんばに暗号資産自動両替機「BTM」を設置したと紹介しました。 関西国際空港からアクセスしやすいなんばで、訪日旅行者などが暗号資産を日本円へ直接両替できる拠点になります。"
     },
     {
-      "title": "Crypto: Trending News, Latest Updates, Analysis",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/latest/crypto",
-      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
+      "title": "日経・テレ東世論調査、高市内閣支持率は66%",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/",
+      "snippet": "日本経済新聞は、5月29〜31日の世論調査で高市内閣の支持率が66%となり、前回から3ポイント低下したと伝えました。 不支持率は28%で2ポイント上昇し、無党派層の支持は45%と前回から4ポイント低下しました。"
     },
     {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
+      "title": "外為どっとコム、6月1日週のドル円イベントを整理",
+      "source": "外為どっとコム",
+      "link": "https://www.gaitame.com/media/entry/2026/05/31/080000",
+      "snippet": "外為どっとコムは、6月1日週のドル円相場に影響し得る予定と注目材料をまとめました。 米国指標、日銀関連発言、地政学リスクなどが引き続き為替の変動要因になっています。"
     },
     {
-      "title": "Today's Crypto News: Bitcoin Dips Amid Global Tensions",
-      "source": "investingnews.com",
-      "link": "https://investingnews.com/cryptocurrency-market-recap/",
-      "snippet": "Today's Crypto News: Bitcoin Dips Amid Global Tensionsに関する最新動向です。 概要: Elsewhere in the sector, Bitcoin ETF outflows are on the rise, while Tether has seen a significant s…"
+      "title": "Reuters、原油高とインフレ懸念が世界市場の焦点と報道",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/markets/",
+      "snippet": "Reutersは、イラン情勢を背景に原油価格とインフレ圧力が各国市場の重要テーマになっていると伝えました。 エネルギー価格の上昇は、消費者物価、企業コスト、金融政策判断に広く波及します。"
     },
     {
-      "title": "Iran war splits global markets into clear winners and losers | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/asia-pacific/global-markets-war-graphic-2026-05-27/",
-      "snippet": "Iran war splits global markets into clear winners and losers | Reutersに関する最新動向です。 概要: Three months since the Iran war began, persistently high oil prices have policymakers grappling with…"
+      "title": "台風6号接近、ANAとJALが沖縄方面で欠航を決定",
+      "source": "日テレNEWS NNN",
+      "link": "https://news.ntv.co.jp/category/society/8eef0a0ad8ef42b8a8988ed9e14b32d3",
+      "snippet": "日テレNEWS NNNは、台風6号の接近でANAとJALが沖縄本島・南西諸島を結ぶ便の一部欠航を決めたと報じました。 ANAは6月1日に沖縄方面104便を終日欠航し、JALも那覇空港発着便を終日欠航する見通しです。"
     },
     {
-      "title": "Charting the Global Economy: Inflation Hits Incomes and Spending",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-05-30/world-economy-latest-inflation-hits-incomes-and-spending",
-      "snippet": "Charting the Global Economy: Inflation Hits Incomes and Spendingに関する最新動向です。 概要: US consumer spending merely edged up in April as war-driven inflation pressures sapped incomes and p…"
+      "title": "JAL、台風6号で国内線の運航影響を案内",
+      "source": "JAL",
+      "link": "https://www.jal.co.jp/jp/ja/other/weather_info_dom/",
+      "snippet": "JALは国内線の運航状況ページで、台風6号により遅延・欠航・引き返し・他空港着陸の可能性がある空港を案内しています。 旅行者には発着情報検索で最新の運航状況を確認するよう促しています。"
     },
     {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "Stock market news for May 27, 2026",
-      "source": "cnbc.com",
-      "link": "https://cnbc.com/2026/05/26/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for May 27, 2026に関する最新動向です。 概要: The Dow Industrials notched an all-time high in the session and posted a record close on Wednesday a…"
-    },
-    {
-      "title": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/business/costlier-flights-hotels-divide-us-summer-travel-into-haves-have-nots-2026-05-28",
-      "snippet": "Costlier flights, hotels divide US summer travel into haves and have-nots | Reutersに関する最新動向です。 概要: Among low- and middle-income consumers still traveling, many are waiting longer to book."
-    },
-    {
-      "title": "Future of Tourism AI: How Artificial Intelligence Is Transforming Travel - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
-      "source": "airguide.info",
-      "link": "https://airguide.info/future-of-tourism-ai-2026/",
-      "snippet": "Future of Tourism AI: How Artificial Intelligence Is Transforming Travel - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。 概要: Discover how Future of Tourism AI trends are transforming the travel industry in 2026 through smart…"
-    },
-    {
-      "title": "Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - POLITICO",
-      "source": "politico.com",
-      "link": "https://www.politico.com/news/2026/05/29/mullin-newark-airport-cuts-00943353",
-      "snippet": "Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - POLITICOに関する最新動向です。 概要: The DHS secretary has said Customs and Border Protection officers at the airport could be sent to ha…"
-    },
-    {
-      "title": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/sqso79mq5ojq/",
-      "snippet": "Loganair joins British Airways & EasyJet in a new daily route from Jersey to East Midlands Airport (EMA), sparking a massive travel boom for France, Ireland, Germany & Spain Tourists in Summer 2026 - Travel And Tour Worldに関する最新動向です。 概要: Loganair new route East Midlands launches daily from Jersey May 31, 2026, boosting UK tourism and co…"
+      "title": "2026年度も自治体独自の旅行支援が継続、5月版まとめ更新",
+      "source": "トラベラーズナビ",
+      "link": "https://travelersnavi.com/coupon/zenkokuwari2307",
+      "snippet": "トラベラーズナビは、2026年5月以降も実施される自治体独自の旅行支援・宿泊割引をまとめました。 秋田、福島、岩手などで宿泊割引や地域キャンペーンが予定され、物価高下で観光需要を支える動きが続いています。"
     }
   ],
   "meta": {
-    "sourceMode": "brave",
+    "sourceMode": "openclaw-web-search-fetch",
     "categoryCount": 5,
-    "itemCount": 20
+    "itemCount": 15
   },
-  "generatedAt": "2026-05-30T15:36:07.843502+00:00"
+  "generatedAt": "2026-05-31T11:02:39.891Z"
 }
