@@ -1,0 +1,284 @@
+{
+  "date": "2026-06-01",
+  "title": "2026-06-01 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Google Storeが日本初上陸、表参道に2026年夏オープンへ",
+          "summaryLines": [
+            "Googleは6月1日、米国外で初となる直営店「Google Store 表参道」を東京・表参道に2026年夏オープンすると発表しました。",
+            "Pixel、Nest、Fitbitなどの体験・購入に加え、オンライン注文品の店頭受け取り、Pixel修理、初期設定サポートにも対応します。"
+          ],
+          "whyImportant": "端末販売とサポートのリアル拠点化は、国内スマートフォン市場とGoogleのAI体験普及に影響するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/01/news068.html"
+        },
+        {
+          "title": "セブン銀行、ファミリーマートで「ファミマATM」提供開始",
+          "summaryLines": [
+            "ファミリーマートは6月1日、セブン銀行のATM「ファミマATM」の設置とサービス提供を始めたと発表しました。",
+            "AFCを除く全国店舗に4年程度で約1万6000台を設置予定で、顔認証入出金、スマホATM、海外発行カードの日本円引き出しなどに対応します。"
+          ],
+          "whyImportant": "コンビニ金融インフラの再編は、キャッシュレスと現金利用が併存する生活導線に直結するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/01/news084.html"
+        },
+        {
+          "title": "BeReal投稿をきっかけに内部情報流出が相次ぐ、限定公開の油断に警鐘",
+          "summaryLines": [
+            "ITmedia NEWSは、若手社員らが勤務先の内部情報が写り込んだ画像をBeRealなどへ投稿し、X上で拡散する事案が相次いでいると報じました。",
+            "顧客情報や学校システム画面が写る例もあり、限定公開や消える投稿への安心感が情報管理リスクにつながっています。"
+          ],
+          "whyImportant": "職場のSNS利用ルールと情報漏えい教育を、実際の利用行動に合わせて見直す必要があるため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/01/news073.html"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "NVIDIA、Windows向けAI PCプロセッサ「RTX Spark」を発表",
+          "summaryLines": [
+            "NVIDIAはGTC Taipei 2026で、MediaTekと共同開発したArmベースSoC「RTX Spark」を発表しました。",
+            "Blackwell GPU、20コアGrace CPU、最大128GBユニファイドメモリを備え、ノートPC上で大規模AIモデルのローカル実行を狙います。"
+          ],
+          "whyImportant": "AI処理がクラウド集中から端末側にも広がり、PCの設計・調達・アプリ開発の前提を変えるため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html"
+        },
+        {
+          "title": "NVIDIA Vera Rubinが量産開始、エージェント型AIファクトリー向け基盤へ",
+          "summaryLines": [
+            "NVIDIAは6月1日、次世代AIファクトリー向けのVera Rubinプラットフォームが量産体制に入ったと発表しました。",
+            "前世代のGrace Blackwellと比べ、大規模環境でのエージェント処理スループットを10倍に高めるとしています。"
+          ],
+          "whyImportant": "AIエージェント普及のボトルネックが、モデルだけでなくラック規模の計算基盤と供給網に移っているため。",
+          "source": "NVIDIA / PR TIMES",
+          "link": "https://prtimes.jp/main/html/rd/p/000000618.000012662.html"
+        },
+        {
+          "title": "日立、Lenovo TruScale DaaS採用で最大17.3万台のPC調達・運用を最適化へ",
+          "summaryLines": [
+            "EnterpriseZineは、日立製作所がグローバルのPC調達・運用最適化を目的に「Lenovo TruScale DaaS」を採用したと伝えました。",
+            "日立グループは2028年度までに最大約17万3000台のPCを調達する計画で、今後のAI PC導入も見据えています。"
+          ],
+          "whyImportant": "企業AI活用は端末更新、運用負荷、セキュリティ標準化と一体で進むことを示すため。",
+          "source": "EnterpriseZine",
+          "link": "https://enterprisezine.jp/news/detail/24407"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "金融庁、暗号資産・ステーブルコイン仲介業制度を6月1日に施行",
+          "summaryLines": [
+            "金融庁は6月1日、暗号資産やステーブルコインの売買を媒介する「電子決済手段・暗号資産サービス仲介業」の新制度を施行しました。",
+            "交換業登録を自ら取得しないウォレット、ゲーム、Web3サービス事業者も、所属業者からの委託で取引機能を組み込みやすくなります。"
+          ],
+          "whyImportant": "国内Web3サービスが規制対応しながら暗号資産機能を提供する道筋を広げるため。",
+          "source": "BITTIMES",
+          "link": "https://bittimes.net/news/223820.html"
+        },
+        {
+          "title": "CFTC、暗号資産パーペチュアル契約の米国上場方針を公表",
+          "summaryLines": [
+            "米CFTCは5月29日、暗号資産パーペチュアル契約の上場に関する方針声明を公表し、Kalshiのビットコイン無期限契約「BTCPERP」も承認しました。",
+            "CoinbaseやKrakenなどは、これまで海外中心だった暗号資産デリバティブ市場を米国の規制下へ戻す動きとして歓迎しています。"
+          ],
+          "whyImportant": "規制下のデリバティブ拡大は、機関投資家の参加条件と市場流動性に影響するため。",
+          "source": "あたらしい経済 / Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/2dfa8e4c456acac617095f424b528a19ed0f92d7"
+        },
+        {
+          "title": "BTCは1170万円台半ば、CMEの暗号資産先物・オプション365日取引にも注目",
+          "summaryLines": [
+            "ウエルスアドバイザーによると、6月1日午前のBTCは1170万円台半ば、ETHは32万円前後で、主要暗号資産は動意薄でした。",
+            "CMEグループは5月29日から、ビットコイン先物・オプションの24時間365日取引を開始したと伝えられています。"
+          ],
+          "whyImportant": "週末を含む市場アクセス拡大は、暗号資産価格形成とリスク管理の実務を変える可能性があるため。",
+          "source": "ウエルスアドバイザー / Yahoo!ファイナンス",
+          "link": "https://finance.yahoo.co.jp/news/detail/71b0415a132633d11f9297d4b5b7d31148c4c5ba"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均、米株高を支えに続伸で寄り付き 連日の最高値更新",
+          "summaryLines": [
+            "Reutersは6月1日、東京株式市場で日経平均が続伸して始まり、連日の最高値更新となったと報じました。",
+            "米国株高が支えとなる一方、AI関連銘柄への資金流入が日本株全体のムードを押し上げています。"
+          ],
+          "whyImportant": "株高のけん引役がAI関連に集中するほど、景気認識と企業評価の偏りも市場リスクになるため。",
+          "source": "Reuters",
+          "link": "https://jp.reuters.com/markets/japan/HLCULEWJCJLUXCMZXXLC6HPRRA-2026-06-01/"
+        },
+        {
+          "title": "ドル円は159円台前半、米指標と中東情勢が今週の注目材料に",
+          "summaryLines": [
+            "OANDAは6月1日のドル円見通しで、先週末のドル円が159円台前半で円安気味に推移したと整理しました。",
+            "今週は米ISM製造業景況指数、JOLTS求人件数、米雇用統計などが予定され、日銀や中東情勢とあわせて為替材料になります。"
+          ],
+          "whyImportant": "円相場は輸入物価、企業収益、海外旅行費用に幅広く波及するため。",
+          "source": "OANDA証券",
+          "link": "https://www.oanda.jp/lab-education/market_news/2026_06_01_usdjpy/"
+        },
+        {
+          "title": "ゴールドマン、原油価格予想の下振れリスクに中国・欧州需要を指摘",
+          "summaryLines": [
+            "Reutersは、ゴールドマン・サックスが原油価格予想について、中国や欧州の需要低迷を大きな下振れリスクとして挙げたと報じました。",
+            "一方で中東の供給途絶は価格を押し上げる可能性があり、需要減速と地政学リスクが綱引きしています。"
+          ],
+          "whyImportant": "原油価格はインフレ、企業コスト、金融政策見通しを通じて世界市場に波及するため。",
+          "source": "Reuters / Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/c0adbcc88ad02ff0c59f783bdeaee8881b434201"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR東日本、台風6号接近で首都圏路線の遅延・運休可能性を案内",
+          "summaryLines": [
+            "JR東日本は6月1日、台風6号の影響により6月3日早朝から夜間にかけ、首都圏エリアの路線で遅延や運休が発生する可能性があると案内しました。",
+            "特急券などの払い戻し案内も出しており、旅行者に気象情報と最新の運行情報確認を求めています。"
+          ],
+          "whyImportant": "首都圏発着の国内旅行・出張の旅程変更や払い戻し判断に直結するため。",
+          "source": "JR東日本",
+          "link": "https://www.jreast.co.jp/"
+        },
+        {
+          "title": "台風6号、近畿接近見込みで関西3空港など58便欠航",
+          "summaryLines": [
+            "YTV NEWS NNNは、台風6号が2日夜から3日明け方に近畿地方へ最接近する見込みで、関西・伊丹・神戸の3空港と沖縄・九州方面を結ぶ便に欠航が出ていると報じました。",
+            "1日は計58便が欠航となり、鉄道は現時点で計画運休なしながら、今後の雨風次第で乱れる可能性があります。"
+          ],
+          "whyImportant": "関西発着の航空旅行と乗り継ぎ計画に直接影響し、早めの振替確認が必要なため。",
+          "source": "YTV NEWS NNN",
+          "link": "https://news.ntv.co.jp/n/ytv/category/society/yt99d0df40bc46440badab2238bb7e122c"
+        },
+        {
+          "title": "2026年6月以降の自治体独自旅行支援、宿泊割引・クーポン情報を更新",
+          "summaryLines": [
+            "トラベラーズナビは、全国旅行支援終了後も2026年度に自治体独自で続く旅行支援や宿泊割引を6月1日付で更新しました。",
+            "物価高の影響を受ける観光・宿泊事業者を支えるため、都道府県ごとの実施期間や販売開始日をまとめています。"
+          ],
+          "whyImportant": "国内旅行の費用計画に効くうえ、地域観光需要を下支えする施策として利用者・宿泊事業者双方に関係するため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/zenkokuwari2307"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Google Storeが日本初上陸、表参道に2026年夏オープンへ",
+    "AI：NVIDIA、Windows向けAI PCプロセッサ「RTX Spark」を発表",
+    "暗号通貨：金融庁、暗号資産・ステーブルコイン仲介業制度を6月1日に施行"
+  ],
+  "headlines": [
+    {
+      "title": "Google Storeが日本初上陸、表参道に2026年夏オープンへ",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/01/news068.html",
+      "snippet": "Googleは6月1日、米国外で初となる直営店「Google Store 表参道」を東京・表参道に2026年夏オープンすると発表しました。 Pixel、Nest、Fitbitなどの体験・購入に加え、オンライン注文品の店頭受け取り、Pixel修理、初期設定サポートにも対応します。"
+    },
+    {
+      "title": "セブン銀行、ファミリーマートで「ファミマATM」提供開始",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/01/news084.html",
+      "snippet": "ファミリーマートは6月1日、セブン銀行のATM「ファミマATM」の設置とサービス提供を始めたと発表しました。 AFCを除く全国店舗に4年程度で約1万6000台を設置予定で、顔認証入出金、スマホATM、海外発行カードの日本円引き出しなどに対応します。"
+    },
+    {
+      "title": "BeReal投稿をきっかけに内部情報流出が相次ぐ、限定公開の油断に警鐘",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/01/news073.html",
+      "snippet": "ITmedia NEWSは、若手社員らが勤務先の内部情報が写り込んだ画像をBeRealなどへ投稿し、X上で拡散する事案が相次いでいると報じました。 顧客情報や学校システム画面が写る例もあり、限定公開や消える投稿への安心感が情報管理リスクにつながっています。"
+    },
+    {
+      "title": "NVIDIA、Windows向けAI PCプロセッサ「RTX Spark」を発表",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html",
+      "snippet": "NVIDIAはGTC Taipei 2026で、MediaTekと共同開発したArmベースSoC「RTX Spark」を発表しました。 Blackwell GPU、20コアGrace CPU、最大128GBユニファイドメモリを備え、ノートPC上で大規模AIモデルのローカル実行を狙います。"
+    },
+    {
+      "title": "NVIDIA Vera Rubinが量産開始、エージェント型AIファクトリー向け基盤へ",
+      "source": "NVIDIA / PR TIMES",
+      "link": "https://prtimes.jp/main/html/rd/p/000000618.000012662.html",
+      "snippet": "NVIDIAは6月1日、次世代AIファクトリー向けのVera Rubinプラットフォームが量産体制に入ったと発表しました。 前世代のGrace Blackwellと比べ、大規模環境でのエージェント処理スループットを10倍に高めるとしています。"
+    },
+    {
+      "title": "日立、Lenovo TruScale DaaS採用で最大17.3万台のPC調達・運用を最適化へ",
+      "source": "EnterpriseZine",
+      "link": "https://enterprisezine.jp/news/detail/24407",
+      "snippet": "EnterpriseZineは、日立製作所がグローバルのPC調達・運用最適化を目的に「Lenovo TruScale DaaS」を採用したと伝えました。 日立グループは2028年度までに最大約17万3000台のPCを調達する計画で、今後のAI PC導入も見据えています。"
+    },
+    {
+      "title": "金融庁、暗号資産・ステーブルコイン仲介業制度を6月1日に施行",
+      "source": "BITTIMES",
+      "link": "https://bittimes.net/news/223820.html",
+      "snippet": "金融庁は6月1日、暗号資産やステーブルコインの売買を媒介する「電子決済手段・暗号資産サービス仲介業」の新制度を施行しました。 交換業登録を自ら取得しないウォレット、ゲーム、Web3サービス事業者も、所属業者からの委託で取引機能を組み込みやすくなります。"
+    },
+    {
+      "title": "CFTC、暗号資産パーペチュアル契約の米国上場方針を公表",
+      "source": "あたらしい経済 / Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2dfa8e4c456acac617095f424b528a19ed0f92d7",
+      "snippet": "米CFTCは5月29日、暗号資産パーペチュアル契約の上場に関する方針声明を公表し、Kalshiのビットコイン無期限契約「BTCPERP」も承認しました。 CoinbaseやKrakenなどは、これまで海外中心だった暗号資産デリバティブ市場を米国の規制下へ戻す動きとして歓迎しています。"
+    },
+    {
+      "title": "BTCは1170万円台半ば、CMEの暗号資産先物・オプション365日取引にも注目",
+      "source": "ウエルスアドバイザー / Yahoo!ファイナンス",
+      "link": "https://finance.yahoo.co.jp/news/detail/71b0415a132633d11f9297d4b5b7d31148c4c5ba",
+      "snippet": "ウエルスアドバイザーによると、6月1日午前のBTCは1170万円台半ば、ETHは32万円前後で、主要暗号資産は動意薄でした。 CMEグループは5月29日から、ビットコイン先物・オプションの24時間365日取引を開始したと伝えられています。"
+    },
+    {
+      "title": "日経平均、米株高を支えに続伸で寄り付き 連日の最高値更新",
+      "source": "Reuters",
+      "link": "https://jp.reuters.com/markets/japan/HLCULEWJCJLUXCMZXXLC6HPRRA-2026-06-01/",
+      "snippet": "Reutersは6月1日、東京株式市場で日経平均が続伸して始まり、連日の最高値更新となったと報じました。 米国株高が支えとなる一方、AI関連銘柄への資金流入が日本株全体のムードを押し上げています。"
+    },
+    {
+      "title": "ドル円は159円台前半、米指標と中東情勢が今週の注目材料に",
+      "source": "OANDA証券",
+      "link": "https://www.oanda.jp/lab-education/market_news/2026_06_01_usdjpy/",
+      "snippet": "OANDAは6月1日のドル円見通しで、先週末のドル円が159円台前半で円安気味に推移したと整理しました。 今週は米ISM製造業景況指数、JOLTS求人件数、米雇用統計などが予定され、日銀や中東情勢とあわせて為替材料になります。"
+    },
+    {
+      "title": "ゴールドマン、原油価格予想の下振れリスクに中国・欧州需要を指摘",
+      "source": "Reuters / Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/c0adbcc88ad02ff0c59f783bdeaee8881b434201",
+      "snippet": "Reutersは、ゴールドマン・サックスが原油価格予想について、中国や欧州の需要低迷を大きな下振れリスクとして挙げたと報じました。 一方で中東の供給途絶は価格を押し上げる可能性があり、需要減速と地政学リスクが綱引きしています。"
+    },
+    {
+      "title": "JR東日本、台風6号接近で首都圏路線の遅延・運休可能性を案内",
+      "source": "JR東日本",
+      "link": "https://www.jreast.co.jp/",
+      "snippet": "JR東日本は6月1日、台風6号の影響により6月3日早朝から夜間にかけ、首都圏エリアの路線で遅延や運休が発生する可能性があると案内しました。 特急券などの払い戻し案内も出しており、旅行者に気象情報と最新の運行情報確認を求めています。"
+    },
+    {
+      "title": "台風6号、近畿接近見込みで関西3空港など58便欠航",
+      "source": "YTV NEWS NNN",
+      "link": "https://news.ntv.co.jp/n/ytv/category/society/yt99d0df40bc46440badab2238bb7e122c",
+      "snippet": "YTV NEWS NNNは、台風6号が2日夜から3日明け方に近畿地方へ最接近する見込みで、関西・伊丹・神戸の3空港と沖縄・九州方面を結ぶ便に欠航が出ていると報じました。 1日は計58便が欠航となり、鉄道は現時点で計画運休なしながら、今後の雨風次第で乱れる可能性があります。"
+    },
+    {
+      "title": "2026年6月以降の自治体独自旅行支援、宿泊割引・クーポン情報を更新",
+      "source": "トラベラーズナビ",
+      "link": "https://travelersnavi.com/coupon/zenkokuwari2307",
+      "snippet": "トラベラーズナビは、全国旅行支援終了後も2026年度に自治体独自で続く旅行支援や宿泊割引を6月1日付で更新しました。 物価高の影響を受ける観光・宿泊事業者を支えるため、都道府県ごとの実施期間や販売開始日をまとめています。"
+    }
+  ]
+}
