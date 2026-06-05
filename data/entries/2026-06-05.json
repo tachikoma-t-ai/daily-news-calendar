@@ -1,55 +1,44 @@
 {
   "date": "2026-06-05",
   "title": "2026-06-05 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+          "title": "デジタル庁、新「マイナアプリ」アイコン公開　夏の統合アプリ提供へ",
           "summaryLines": [
-            "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デジタル庁は6月5日、2026年夏に提供予定のスマートフォンアプリ「マイナアプリ」のアイコンを公開しました。",
+            "現行の「マイナポータルアプリ」と「デジタル認証アプリ」を統合し、マイナンバーカード関連手続きの操作を1つのアプリにまとめます。",
+            "既存の認証APIや署名APIの互換性は維持され、既存システムの修正は不要としています。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "行政デジタルサービスの入口が統合され、利用者体験と事業者側の認証連携に影響するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/05/news097.html"
         },
         {
-          "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
+          "title": "JALモバイルにahamo版、月30GB・2970円で6月25日開始",
           "summaryLines": [
-            "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。",
-            "概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本航空とNTTドコモは、JALモバイルでahamoを利用できる「JALモバイル powered by ahamo」を6月25日に始めます。",
+            "月30GB、月額2970円、5分以内の国内通話無料などはahamoと共通で、どこかにマイルの割引クーポンや継続利用マイルを付けます。",
+            "ドコモがahamoをパートナー企業ブランド向けに提供する初の取り組みです。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "dev.to",
-          "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a"
+          "whyImportant": "通信・航空・ポイント経済圏の連携が進み、モバイル契約の差別化軸が通信品質から生活特典へ広がるため。",
+          "source": "Impress Watch",
+          "link": "https://www.watch.impress.co.jp/docs/news/2114676.html"
         },
         {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "title": "Oura Ring 5発売、40％小型化しつつバッテリーは6〜9日に延長",
           "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Ouraは6月5日、スマートリング「Oura Ring 5」を発売しました。価格は6万5800円からで、国内の主要オンラインストアなどで扱います。",
+            "前世代比で体積を40％削減し、LED強化やセンサー経路増加により6〜9日のバッテリー持続時間を実現しました。",
+            "分析データを期間指定で削除できるプライバシー機能も追加されています。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
-        },
-        {
-          "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-          "summaryLines": [
-            "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。",
-            "概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html"
+          "whyImportant": "ウェアラブル端末が小型化・長時間駆動・健康データ管理を同時に進め、日常利用のハードルを下げるため。",
+          "source": "Impress Watch",
+          "link": "https://www.watch.impress.co.jp/docs/news/2114202.html"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Microsoft teases new era of AI-driven devices at annual developer conference | Reuters",
+          "title": "ChatGPTのメモリ機能刷新、無料ユーザーへも順次展開へ",
           "summaryLines": [
-            "Microsoft teases new era of AI-driven devices at annual developer conference | Reutersに関する最新動向です。",
-            "概要: Microsoft announced a sweeping slate of AI initiatives, from autonomous ​workplace assistants and ga…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OpenAIは6月4日、ChatGPTのメモリ基盤「Dreaming」をV3へ更新し、米国のPlus/Proユーザーから提供を始めました。",
+            "過去の会話の事実、好み、時間経過による変化をより正確に扱うことを狙い、今後数週間で他国やFree、Goユーザーにも広げます。",
+            "新たにメモリサマリーページを用意し、記憶内容の確認・修正・話題制御もできるようにします。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/world/china/microsoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02"
+          "whyImportant": "生成AIが単発の応答ツールから、継続的な個人・業務文脈を扱うアシスタントへ進む節目になるため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html"
         },
         {
-          "title": "Microsoft’s first advanced reasoning AI is here | The Verge",
+          "title": "Anthropic、AIがAIを作る「再帰的自己改善」のリスクを警告",
           "summaryLines": [
-            "Microsoft’s first advanced reasoning AI is here | The Vergeに関する最新動向です。",
-            "概要: Microsoft announced seven new in-house AI models at Build 2026, including MAI-Thinking-1, its first…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Anthropicは、AIが後継モデルの設計・開発を担う再帰的自己改善について、社内データと将来シナリオを示しました。",
+            "2026年5月時点で同社コードベースにマージされるコードの80％超をClaudeが書いたとし、開発自動化の進展を説明しています。",
+            "一方で、人間の監督や安全性検証が追いつかなくなる可能性に備え、検証可能な減速・一時停止の仕組みを議論すべきだとしています。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "theverge.com",
-          "link": "https://theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
+          "whyImportant": "AI開発の速度そのものをAIが押し上げる局面では、企業競争と安全管理の両立がより難しくなるため。",
+          "source": "GIGAZINE",
+          "link": "https://gigazine.net/news/20260605-anthropic-ai-build-itself/"
         },
         {
-          "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+          "title": "Google、AI検索での流入減批判を受け「検索プロフィール」導入へ",
           "summaryLines": [
-            "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。",
-            "概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Googleは、クリエイターやパブリッシャー向けに「検索プロフィール」を導入すると報じられました。",
+            "Google検索をGeminiモデルやエージェント機能を統合したAI検索へ刷新する中、発信者側の可視性を高める狙いがあります。",
+            "AI要約によるサイト流入減への批判が強まるなか、検索プラットフォームとコンテンツ制作者の関係調整が進んでいます。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
-        },
-        {
-          "title": "Promoting Advanced Artificial Intelligence Innovation and Security – The White House",
-          "summaryLines": [
-            "Promoting Advanced Artificial Intelligence Innovation and Security – The White Houseに関する最新動向です。",
-            "概要: By the authority vested in me as President by the Constitution and the laws of the United States of…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "whitehouse.gov",
-          "link": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+          "whyImportant": "AI検索の設計は、メディア収益、SEO、情報流通の力学を大きく変えるため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Bitmine (BMNR) chairman Tom Lee calls Strategy's (MSTR) bitcoin sale classic 'bottom behavior'",
+          "title": "暗号資産市場、時価総額357.96兆円　BTCは1020万円で小幅下落",
           "summaryLines": [
-            "Bitmine (BMNR) chairman Tom Lee calls Strategy's (MSTR) bitcoin sale classic 'bottom behavior'に関する最新動向です。",
-            "概要: The Bitmine Immersion chairman said minor sales from key holders and institutional outflows are typi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "みんかぶ暗号資産によると、6月5日9時時点の暗号資産市場の時価総額は357.96兆円、24時間売買代金は19.92兆円でした。",
+            "ビットコインは1020万円で0.67％下落、イーサリアムは28万2540円で2.70％下落、XRPも2.88％下落しました。",
+            "時価総額100億円以上の51銘柄では、上昇11銘柄に対し下落32銘柄と弱含みでした。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/06/02/tom-lee-dismisses-bitcoin-fears-over-michael-saylor-first-bitcoin-sale-and-etf-outflows"
+          "whyImportant": "主要銘柄の下落が広がっており、国内投資家のリスク管理と資金フロー確認が重要になるため。",
+          "source": "みんかぶ暗号資産",
+          "link": "https://cc.minkabu.jp/column/5144"
         },
         {
-          "title": "Bitcoin (BTC) Falls to Pre-Iran Conflict Low as Crypto Slide Extends - Bloomberg",
+          "title": "ビットコイン失速、6月は中東情勢・規制法案・ETF資金流出が焦点",
           "summaryLines": [
-            "Bitcoin (BTC) Falls to Pre-Iran Conflict Low as Crypto Slide Extends - Bloombergに関する最新動向です。",
-            "概要: Bitcoin is poised for its longest losing streak since August, weighed down by the Middle East confli…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トウシルは、5月のビットコインが8.3万ドル手前で失速し、6月に7万ドルを割り込んだ背景を整理しました。",
+            "イラン情勢に加え、米国のClarity法案を巡る不透明感、BTC ETFからの資金流出、金融政策見通しが重しになっています。",
+            "株式市場への資金シフトが一服すればBTCへ資金が戻る可能性もある一方、短期的には時間がかかるとの見方です。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends"
+          "whyImportant": "暗号資産価格が地政学、規制、ETFフローと連動しやすくなり、単純な需給だけでは読みにくくなっているため。",
+          "source": "トウシル / Yahoo!ファイナンス",
+          "link": "https://finance.yahoo.co.jp/news/detail/98936b1549bb82705d8e7c3f8eab7f2f05c77e34"
         },
         {
-          "title": "US Senate Committee set to consider long-awaited crypto bill this week | Reuters",
+          "title": "イーサリアム、価格下落下でもBTCを上回る可能性　スタンチャート見解",
           "summaryLines": [
-            "US Senate Committee set to consider long-awaited crypto bill this week | Reutersに関する最新動向です。",
-            "概要: U.S. senators are set to consider long-awaited legislation that would create a regulatory framework…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "株式新聞Webは、スタンダード・チャータードがイーサリアムの対ビットコイン比率回復を見込んでいると報じました。",
+            "同社は、イーサリアム保有企業がステーキング利回りを得られる一方、ビットコイン保有企業には同様のキャッシュフロー手段が乏しい点を指摘しています。",
+            "年末にETH/BTC比率が0.04へ上がり、イーサリアムが相対的に40％超アウトパフォームする可能性を示しました。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/sustainability/boards-policy-regulation/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09"
-        },
-        {
-          "title": "Crypto Market Update: CFTC Clears Coinbase to Offer Global Crypto Perpetual Futures | INN",
-          "summaryLines": [
-            "Crypto Market Update: CFTC Clears Coinbase to Offer Global Crypto Perpetual Futures | INNに関する最新動向です。",
-            "概要: Michael Saylor&#39;s Strategy sold 32 BTC to raise roughly US$2.5 million in a previously telegraphe…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "investingnews.com",
-          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+          "whyImportant": "暗号資産の評価軸が価格上昇期待だけでなく、ステーキング利回りやトレジャリー運用へ広がっているため。",
+          "source": "株式新聞Web",
+          "link": "https://kabushiki.jp/news/753446"
         }
       ]
     },
@@ -158,233 +125,175 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Morning Bid: Equity supply shock? | Reuters",
+          "title": "日経平均、一時1600円超下落　AI・半導体株に利益確定売り",
           "summaryLines": [
-            "Morning Bid: Equity supply shock? | Reutersに関する最新動向です。",
-            "概要: A trader works at his post on the floor at the New York Stock Exchange (NYSE) in New York City, U.S.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NHKによると、6月5日の東京株式市場ではAIや半導体関連株を中心に利益確定売りが広がり、日経平均は一時1600円以上下落しました。",
+            "午後は下げ幅を縮小したものの、急ピッチの株高をけん引してきた銘柄への警戒感が表面化しました。",
+            "市場全体では物色先の入れ替わりも起きており、AI相場の持続性が改めて注目されています。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-02/"
+          "whyImportant": "AI関連への集中投資が調整に入ると、日本株全体の指数変動と投資家心理に大きく波及するため。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015141701000"
         },
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensions",
+          "title": "ドル円は160円付近、日銀利上げ報道で円高に振れる場面も",
           "summaryLines": [
-            "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensionsに関する最新動向です。",
-            "概要: US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest devel…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OANDAは6月5日のドル円見通しで、前日のドル円がわずかに円高となり、160円付近で推移したと整理しました。",
+            "昼ごろに6月の金融政策決定会合での政策金利引き上げに関する報道が伝わり、急落気味に円高が進む場面がありました。",
+            "同日夜には米5月雇用統計の発表も予定され、為替市場の注目材料になっています。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "finance.yahoo.com",
-          "link": "https://finance.yahoo.com/economy/live/stock-market-today-tuesday-june-2-ai-231755175.html"
+          "whyImportant": "為替は輸入物価、企業収益、海外旅行費用に直結し、日米金融政策への見方を反映するため。",
+          "source": "OANDA証券",
+          "link": "https://www.oanda.jp/lab-education/market_news/2026_06_05_usdjpy/"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "中東情勢を受けた補正予算、賛成多数で可決・成立",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NHKは6月5日、中東情勢を受けた今年度の補正予算が賛成多数で可決・成立したと伝えました。",
+            "原油やエネルギー価格、物価高への対応が政策課題となる中、政府の追加財政対応が決まりました。",
+            "同日のNHKトップニュースでは、資源・エネルギーや物価高関連の動きも大きく扱われています。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
-          "summaryLines": [
-            "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。",
-            "概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "theguardian.com",
-          "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump"
+          "whyImportant": "地政学リスクが国内財政・物価対策へ波及しており、家計と企業コストに関わる政策判断になるため。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Morning Bid: Equity supply shock? | Reuters",
+          "title": "大分県内で6月上旬イベント、大分空港の足湯10周年企画も開催",
           "summaryLines": [
-            "Morning Bid: Equity supply shock? | Reutersに関する最新動向です。",
-            "概要: Our Standards: The Thomson Reuters Trust Principles., opens new tab · Mike Dolan is Reuters Editor-a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "LOG OITAは、6月4日から10日に大分県内で開催されるイベントをまとめました。",
+            "大分空港では6月5日と6日に足湯10周年記念イベントを実施し、バラの足湯、抽選会、顔出しパネルなどを用意します。",
+            "天ケ瀬の吊り橋マルシェ、別府の蚤の市、鉄輪の蒸しイベントなど、温泉地を絡めた周遊にも使える内容です。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-02/"
+          "whyImportant": "空港や温泉地の地域イベントは、週末の国内旅行需要と現地回遊を押し上げる材料になるため。",
+          "source": "LOG OITA",
+          "link": "https://log-oita.com/6-4-6-10/"
         },
         {
-          "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+          "title": "京都6月上旬の観光イベント、平安神宮神苑無料公開や京町家公開",
           "summaryLines": [
-            "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。",
-            "概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "京都観光旅行ガイドは、6月5日からの京都の週末・6月上旬イベントをまとめました。",
+            "6月5日は平安神宮の神苑無料公開、6月5日から21日の金土日は重要文化財「杉本家住宅」の一般公開が予定されています。",
+            "梅小路公園手づくり市、平安楽市、京都いけばなプレゼンテーションなど、週末の市内観光に組み込みやすい催しも並びます。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "airguide.info",
-          "link": "https://airguide.info/connectivity-and-travel-tech-2026/"
+          "whyImportant": "梅雨入り前後の京都旅行で、混雑を分散しながら季節行事を組み込む計画に役立つため。",
+          "source": "京都観光旅行ガイド",
+          "link": "https://blog.kanko.jp/kyoto-sightseeing/weekend-visit/june/6first-week"
         },
         {
-          "title": "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Times",
+          "title": "6月5日更新の旅行・宿泊割引、楽天・JTB・自治体クーポンを整理",
           "summaryLines": [
-            "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Timesに関する最新動向です。",
-            "概要: Air travel could be disrupted into next year because of high jet fuel prices.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トラベラーズナビは6月5日、旅行予約サイトや自治体が配布する旅行・宿泊割引クーポン情報を更新しました。",
+            "当日の注目として楽天トラベルの「5のつく日」、JTBの宮崎県旅行支援、東武トップツアーズのキャンペーンなどを挙げています。",
+            "全国旅行支援終了後も、自治体独自の宿泊割引や予約サイトのクーポンが地域別に継続しています。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "nytimes.com",
-          "link": "https://nytimes.com/2026/06/01/opinion/summer-travel-planes.html"
-        },
-        {
-          "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
-          "summaryLines": [
-            "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。",
-            "概要: A round-up of all the travel news you need to know today.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "johnnyjet.com",
-          "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/"
+          "whyImportant": "国内旅行費用が上がるなか、宿泊割引や自治体支援は旅行先・予約時期の判断に直結するため。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/goto-reserve"
         }
       ]
     }
   ],
   "top3": [
-    "IT：As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-    "AI：Microsoft teases new era of AI-driven devices at annual developer conference | Reuters",
-    "暗号通貨：Bitmine (BMNR) chairman Tom Lee calls Strategy's (MSTR) bitcoin sale classic 'bottom behavior'"
+    "IT：デジタル庁、新「マイナアプリ」アイコン公開　夏の統合アプリ提供へ",
+    "AI：ChatGPTのメモリ機能刷新、無料ユーザーへも順次展開へ",
+    "時事・経済ニュース：日経平均、一時1600円超下落　AI・半導体株に利益確定売り"
   ],
   "headlines": [
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+      "title": "デジタル庁、新「マイナアプリ」アイコン公開　夏の統合アプリ提供へ",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news097.html",
+      "snippet": "デジタル庁は6月5日、2026年夏に提供予定のスマートフォンアプリ「マイナアプリ」のアイコンを公開しました。 現行の「マイナポータルアプリ」と「デジタル認証アプリ」を統合し、マイナンバーカード関連手続きの操作を1つのアプリにまとめます。 既存の認証APIや署名APIの互換性は維持され、既存システムの修正は不要としています。"
     },
     {
-      "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
-      "source": "dev.to",
-      "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a",
-      "snippet": "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。 概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…"
+      "title": "JALモバイルにahamo版、月30GB・2970円で6月25日開始",
+      "source": "Impress Watch",
+      "link": "https://www.watch.impress.co.jp/docs/news/2114676.html",
+      "snippet": "日本航空とNTTドコモは、JALモバイルでahamoを利用できる「JALモバイル powered by ahamo」を6月25日に始めます。 月30GB、月額2970円、5分以内の国内通話無料などはahamoと共通で、どこかにマイルの割引クーポンや継続利用マイルを付けます。 ドコモがahamoをパートナー企業ブランド向けに提供する初の取り組みです。"
     },
     {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+      "title": "Oura Ring 5発売、40％小型化しつつバッテリーは6〜9日に延長",
+      "source": "Impress Watch",
+      "link": "https://www.watch.impress.co.jp/docs/news/2114202.html",
+      "snippet": "Ouraは6月5日、スマートリング「Oura Ring 5」を発売しました。価格は6万5800円からで、国内の主要オンラインストアなどで扱います。 前世代比で体積を40％削減し、LED強化やセンサー経路増加により6〜9日のバッテリー持続時間を実現しました。 分析データを期間指定で削除できるプライバシー機能も追加されています。"
     },
     {
-      "title": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-release-movies-in-malayalam-this-week-4-1087.html",
-      "snippet": "New OTT Release Movies Malayalam | New Malayalam OTT Releases | Malayalam OTT Release This Week | New Ott Releases This Week In Malayalam – FilmiBeatに関する最新動向です。 概要: New & upcoming ott release movies Malayalam: Here we have listed the Malayalam movies releasing this…"
+      "title": "ChatGPTのメモリ機能刷新、無料ユーザーへも順次展開へ",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
+      "snippet": "OpenAIは6月4日、ChatGPTのメモリ基盤「Dreaming」をV3へ更新し、米国のPlus/Proユーザーから提供を始めました。 過去の会話の事実、好み、時間経過による変化をより正確に扱うことを狙い、今後数週間で他国やFree、Goユーザーにも広げます。 新たにメモリサマリーページを用意し、記憶内容の確認・修正・話題制御もできるようにします。"
     },
     {
-      "title": "Microsoft teases new era of AI-driven devices at annual developer conference | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/world/china/microsoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02",
-      "snippet": "Microsoft teases new era of AI-driven devices at annual developer conference | Reutersに関する最新動向です。 概要: Microsoft announced a sweeping slate of AI initiatives, from autonomous ​workplace assistants and ga…"
+      "title": "Anthropic、AIがAIを作る「再帰的自己改善」のリスクを警告",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260605-anthropic-ai-build-itself/",
+      "snippet": "Anthropicは、AIが後継モデルの設計・開発を担う再帰的自己改善について、社内データと将来シナリオを示しました。 2026年5月時点で同社コードベースにマージされるコードの80％超をClaudeが書いたとし、開発自動化の進展を説明しています。 一方で、人間の監督や安全性検証が追いつかなくなる可能性に備え、検証可能な減速・一時停止の仕組みを議論すべきだとしています。"
     },
     {
-      "title": "Microsoft’s first advanced reasoning AI is here | The Verge",
-      "source": "theverge.com",
-      "link": "https://theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "snippet": "Microsoft’s first advanced reasoning AI is here | The Vergeに関する最新動向です。 概要: Microsoft announced seven new in-house AI models at Build 2026, including MAI-Thinking-1, its first…"
+      "title": "Google、AI検索での流入減批判を受け「検索プロフィール」導入へ",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html",
+      "snippet": "Googleは、クリエイターやパブリッシャー向けに「検索プロフィール」を導入すると報じられました。 Google検索をGeminiモデルやエージェント機能を統合したAI検索へ刷新する中、発信者側の可視性を高める狙いがあります。 AI要約によるサイト流入減への批判が強まるなか、検索プラットフォームとコンテンツ制作者の関係調整が進んでいます。"
     },
     {
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
-      "snippet": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。 概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…"
+      "title": "暗号資産市場、時価総額357.96兆円　BTCは1020万円で小幅下落",
+      "source": "みんかぶ暗号資産",
+      "link": "https://cc.minkabu.jp/column/5144",
+      "snippet": "みんかぶ暗号資産によると、6月5日9時時点の暗号資産市場の時価総額は357.96兆円、24時間売買代金は19.92兆円でした。 ビットコインは1020万円で0.67％下落、イーサリアムは28万2540円で2.70％下落、XRPも2.88％下落しました。 時価総額100億円以上の51銘柄では、上昇11銘柄に対し下落32銘柄と弱含みでした。"
     },
     {
-      "title": "Promoting Advanced Artificial Intelligence Innovation and Security – The White House",
-      "source": "whitehouse.gov",
-      "link": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "snippet": "Promoting Advanced Artificial Intelligence Innovation and Security – The White Houseに関する最新動向です。 概要: By the authority vested in me as President by the Constitution and the laws of the United States of…"
+      "title": "ビットコイン失速、6月は中東情勢・規制法案・ETF資金流出が焦点",
+      "source": "トウシル / Yahoo!ファイナンス",
+      "link": "https://finance.yahoo.co.jp/news/detail/98936b1549bb82705d8e7c3f8eab7f2f05c77e34",
+      "snippet": "トウシルは、5月のビットコインが8.3万ドル手前で失速し、6月に7万ドルを割り込んだ背景を整理しました。 イラン情勢に加え、米国のClarity法案を巡る不透明感、BTC ETFからの資金流出、金融政策見通しが重しになっています。 株式市場への資金シフトが一服すればBTCへ資金が戻る可能性もある一方、短期的には時間がかかるとの見方です。"
     },
     {
-      "title": "Bitmine (BMNR) chairman Tom Lee calls Strategy's (MSTR) bitcoin sale classic 'bottom behavior'",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/06/02/tom-lee-dismisses-bitcoin-fears-over-michael-saylor-first-bitcoin-sale-and-etf-outflows",
-      "snippet": "Bitmine (BMNR) chairman Tom Lee calls Strategy's (MSTR) bitcoin sale classic 'bottom behavior'に関する最新動向です。 概要: The Bitmine Immersion chairman said minor sales from key holders and institutional outflows are typi…"
+      "title": "イーサリアム、価格下落下でもBTCを上回る可能性　スタンチャート見解",
+      "source": "株式新聞Web",
+      "link": "https://kabushiki.jp/news/753446",
+      "snippet": "株式新聞Webは、スタンダード・チャータードがイーサリアムの対ビットコイン比率回復を見込んでいると報じました。 同社は、イーサリアム保有企業がステーキング利回りを得られる一方、ビットコイン保有企業には同様のキャッシュフロー手段が乏しい点を指摘しています。 年末にETH/BTC比率が0.04へ上がり、イーサリアムが相対的に40％超アウトパフォームする可能性を示しました。"
     },
     {
-      "title": "Bitcoin (BTC) Falls to Pre-Iran Conflict Low as Crypto Slide Extends - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends",
-      "snippet": "Bitcoin (BTC) Falls to Pre-Iran Conflict Low as Crypto Slide Extends - Bloombergに関する最新動向です。 概要: Bitcoin is poised for its longest losing streak since August, weighed down by the Middle East confli…"
+      "title": "日経平均、一時1600円超下落　AI・半導体株に利益確定売り",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015141701000",
+      "snippet": "NHKによると、6月5日の東京株式市場ではAIや半導体関連株を中心に利益確定売りが広がり、日経平均は一時1600円以上下落しました。 午後は下げ幅を縮小したものの、急ピッチの株高をけん引してきた銘柄への警戒感が表面化しました。 市場全体では物色先の入れ替わりも起きており、AI相場の持続性が改めて注目されています。"
     },
     {
-      "title": "US Senate Committee set to consider long-awaited crypto bill this week | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/sustainability/boards-policy-regulation/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09",
-      "snippet": "US Senate Committee set to consider long-awaited crypto bill this week | Reutersに関する最新動向です。 概要: U.S. senators are set to consider long-awaited legislation that would create a regulatory framework…"
+      "title": "ドル円は160円付近、日銀利上げ報道で円高に振れる場面も",
+      "source": "OANDA証券",
+      "link": "https://www.oanda.jp/lab-education/market_news/2026_06_05_usdjpy/",
+      "snippet": "OANDAは6月5日のドル円見通しで、前日のドル円がわずかに円高となり、160円付近で推移したと整理しました。 昼ごろに6月の金融政策決定会合での政策金利引き上げに関する報道が伝わり、急落気味に円高が進む場面がありました。 同日夜には米5月雇用統計の発表も予定され、為替市場の注目材料になっています。"
     },
     {
-      "title": "Crypto Market Update: CFTC Clears Coinbase to Offer Global Crypto Perpetual Futures | INN",
-      "source": "investingnews.com",
-      "link": "https://investingnews.com/cryptocurrency-market-recap/",
-      "snippet": "Crypto Market Update: CFTC Clears Coinbase to Offer Global Crypto Perpetual Futures | INNに関する最新動向です。 概要: Michael Saylor&#39;s Strategy sold 32 BTC to raise roughly US$2.5 million in a previously telegraphe…"
+      "title": "中東情勢を受けた補正予算、賛成多数で可決・成立",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb",
+      "snippet": "NHKは6月5日、中東情勢を受けた今年度の補正予算が賛成多数で可決・成立したと伝えました。 原油やエネルギー価格、物価高への対応が政策課題となる中、政府の追加財政対応が決まりました。 同日のNHKトップニュースでは、資源・エネルギーや物価高関連の動きも大きく扱われています。"
     },
     {
-      "title": "Morning Bid: Equity supply shock? | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-02/",
-      "snippet": "Morning Bid: Equity supply shock? | Reutersに関する最新動向です。 概要: A trader works at his post on the floor at the New York Stock Exchange (NYSE) in New York City, U.S.…"
+      "title": "大分県内で6月上旬イベント、大分空港の足湯10周年企画も開催",
+      "source": "LOG OITA",
+      "link": "https://log-oita.com/6-4-6-10/",
+      "snippet": "LOG OITAは、6月4日から10日に大分県内で開催されるイベントをまとめました。 大分空港では6月5日と6日に足湯10周年記念イベントを実施し、バラの足湯、抽選会、顔出しパネルなどを用意します。 天ケ瀬の吊り橋マルシェ、別府の蚤の市、鉄輪の蒸しイベントなど、温泉地を絡めた周遊にも使える内容です。"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensions",
-      "source": "finance.yahoo.com",
-      "link": "https://finance.yahoo.com/economy/live/stock-market-today-tuesday-june-2-ai-231755175.html",
-      "snippet": "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensionsに関する最新動向です。 概要: US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest devel…"
+      "title": "京都6月上旬の観光イベント、平安神宮神苑無料公開や京町家公開",
+      "source": "京都観光旅行ガイド",
+      "link": "https://blog.kanko.jp/kyoto-sightseeing/weekend-visit/june/6first-week",
+      "snippet": "京都観光旅行ガイドは、6月5日からの京都の週末・6月上旬イベントをまとめました。 6月5日は平安神宮の神苑無料公開、6月5日から21日の金土日は重要文化財「杉本家住宅」の一般公開が予定されています。 梅小路公園手づくり市、平安楽市、京都いけばなプレゼンテーションなど、週末の市内観光に組み込みやすい催しも並びます。"
     },
     {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardian",
-      "source": "theguardian.com",
-      "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
-      "snippet": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up? | Stock markets | The Guardianに関する最新動向です。 概要: Wall Street has proved incredibly resilient to instability, and while consumer confidence has dipped…"
-    },
-    {
-      "title": "Morning Bid: Equity supply shock? | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-02/",
-      "snippet": "Morning Bid: Equity supply shock? | Reutersに関する最新動向です。 概要: Our Standards: The Thomson Reuters Trust Principles., opens new tab · Mike Dolan is Reuters Editor-a…"
-    },
-    {
-      "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
-      "source": "airguide.info",
-      "link": "https://airguide.info/connectivity-and-travel-tech-2026/",
-      "snippet": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。 概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…"
-    },
-    {
-      "title": "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://nytimes.com/2026/06/01/opinion/summer-travel-planes.html",
-      "snippet": "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Timesに関する最新動向です。 概要: Air travel could be disrupted into next year because of high jet fuel prices."
-    },
-    {
-      "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
-      "source": "johnnyjet.com",
-      "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/",
-      "snippet": "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。 概要: A round-up of all the travel news you need to know today."
+      "title": "6月5日更新の旅行・宿泊割引、楽天・JTB・自治体クーポンを整理",
+      "source": "トラベラーズナビ",
+      "link": "https://travelersnavi.com/coupon/goto-reserve",
+      "snippet": "トラベラーズナビは6月5日、旅行予約サイトや自治体が配布する旅行・宿泊割引クーポン情報を更新しました。 当日の注目として楽天トラベルの「5のつく日」、JTBの宮崎県旅行支援、東武トップツアーズのキャンペーンなどを挙げています。 全国旅行支援終了後も、自治体独自の宿泊割引や予約サイトのクーポンが地域別に継続しています。"
     }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-06-04T15:36:12.048511+00:00"
+  ]
 }
