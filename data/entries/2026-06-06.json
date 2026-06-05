@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-06",
+  "title": "2026-06-06 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+          "summaryLines": [
+            "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
+          "summaryLines": [
+            "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。",
+            "概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "dev.to",
+          "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        },
+        {
+          "title": "Battlefield 6 2026 roadmap updated with proximity chat & server browser details | Shacknews",
+          "summaryLines": [
+            "Battlefield 6 2026 roadmap updated with proximity chat & server browser details | Shacknewsに関する最新動向です。",
+            "概要: Battlefield Studios intends to launch the proximity chat feature for Season 4, and a server browser…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "shacknews.com",
+          "link": "https://www.shacknews.com/article/149449/battlefield-6-2026-roadmap-proximity-chat-server-browser"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "US officials eye government stakes in AI companies, NOTUS reports | Reuters",
+          "summaryLines": [
+            "US officials eye government stakes in AI companies, NOTUS reports | Reutersに関する最新動向です。",
+            "概要: Senior U.S. officials held preliminary discussions with major AI companies about the potential for t…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/legal/transactional/us-officials-eye-government-stakes-ai-companies-notus-reports-2026-06-05"
+        },
+        {
+          "title": "Microsoft’s first advanced reasoning AI is here | The Verge",
+          "summaryLines": [
+            "Microsoft’s first advanced reasoning AI is here | The Vergeに関する最新動向です。",
+            "概要: Microsoft announced seven new in-house AI models at Build 2026, including MAI-Thinking-1, its first…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "theverge.com",
+          "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
+        },
+        {
+          "title": "Brookfield Rolls Out New AI Infrastructure Playbook - Bloomberg",
+          "summaryLines": [
+            "Brookfield Rolls Out New AI Infrastructure Playbook - Bloombergに関する最新動向です。",
+            "概要: Bloom Energy Corp. struggled for years to convince investors its fuel cells were a practical alterna…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-06-03/brookfield-rolls-out-new-ai-infrastructure-playbook"
+        },
+        {
+          "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+          "summaryLines": [
+            "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。",
+            "概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
+          "summaryLines": [
+            "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformanceに関する最新動向です。",
+            "概要: ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover o…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says"
+        },
+        {
+          "title": "Ether and Privacy Coins Lead Latest Losses as Crypto Plummets - Bloomberg",
+          "summaryLines": [
+            "Ether and Privacy Coins Lead Latest Losses as Crypto Plummets - Bloombergに関する最新動向です。",
+            "概要: Ether sank to its lowest level in over a year as digital assets continued to sustain heavy losses af…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/ether-and-privacy-coins-lead-latest-losses-as-crypto-plummets"
+        },
+        {
+          "title": "US Senate Committee set to consider long-awaited crypto bill this week | Reuters",
+          "summaryLines": [
+            "US Senate Committee set to consider long-awaited crypto bill this week | Reutersに関する最新動向です。",
+            "概要: U.S. senators are set to consider long-awaited legislation that would create a regulatory framework…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/sustainability/boards-policy-regulation/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09"
+        },
+        {
+          "title": "What's fuelling Bitcoin, Ethereum and XRP crash? | FXStreet",
+          "summaryLines": [
+            "What's fuelling Bitcoin, Ethereum and XRP crash? | FXStreetに関する最新動向です。",
+            "概要: Cryptocurrency prices remain under pressure as a risk-off mood persists on Friday, with Bitcoin (BTC…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "fxstreet.com",
+          "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trade-under-sustained-selling-pressure-despite-mild-etf-inflows-202606051329"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Morning Bid: Equity supply shock? | Reuters",
+          "summaryLines": [
+            "Morning Bid: Equity supply shock? | Reutersに関する最新動向です。",
+            "概要: A trader works at his post on the floor at the New York Stock Exchange (NYSE) in New York City, U.S.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-02/"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensions",
+          "summaryLines": [
+            "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensionsに関する最新動向です。",
+            "概要: US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest devel…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "finance.yahoo.com",
+          "link": "https://finance.yahoo.com/economy/live/stock-market-today-tuesday-june-2-ai-231755175.html"
+        },
+        {
+          "title": "Stock market news for June 3, 2026",
+          "summaryLines": [
+            "Stock market news for June 3, 2026に関する最新動向です。",
+            "概要: Stocks fell Wednesday, with the S&P 500 snapping a nine-day win streak, as oil prices and Treasury y…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://cnbc.com/2026/06/02/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Airlines and business groups warn of chaos if US restricts international flights | Reuters",
+          "summaryLines": [
+            "Airlines and business groups warn of chaos if US restricts international flights | Reutersに関する最新動向です。",
+            "概要: A shutdown could also imperil billions of dollars in imported cargo like pharmaceuticals and semicon…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us/us-travel-group-warns-closing-newark-airport-international-travel-could-cost-8-2026-05-29/"
+        },
+        {
+          "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+          "summaryLines": [
+            "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。",
+            "概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "airguide.info",
+          "link": "https://airguide.info/connectivity-and-travel-tech-2026/"
+        },
+        {
+          "title": "Australia’s Gold Coast Airport Enters a Powerful New Growth Phase After Record-Breaking Passenger Numbers, Expanded Airline Connectivity and Surging International Demand Strengthen Queensland’s Tourism Supremacy Across Domestic and Global Travel Markets in 2026 - Travel And Tour World",
+          "summaryLines": [
+            "Australia’s Gold Coast Airport Enters a Powerful New Growth Phase After Record-Breaking Passenger Numbers, Expanded Airline Connectivity and Surging International Demand Strengthen Queensland’s Tourism Supremacy Across Domestic and Global Travel Markets in 2026 - Travel And Tour Worldに関する最新動向です。",
+            "概要: Gold Coast Airport records unprecedented passenger growth, highlighting tourism recovery, stronger c…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/k8gwcen2p60n/"
+        },
+        {
+          "title": "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Times",
+          "summaryLines": [
+            "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Timesに関する最新動向です。",
+            "概要: Air travel could be disrupted into next year because of high jet fuel prices.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "nytimes.com",
+          "link": "https://nytimes.com/2026/06/01/opinion/summer-travel-planes.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+    "AI：US officials eye government stakes in AI companies, NOTUS reports | Reuters",
+    "暗号通貨：Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance"
+  ],
+  "headlines": [
+    {
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
+      "source": "dev.to",
+      "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a",
+      "snippet": "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。 概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…"
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "Battlefield 6 2026 roadmap updated with proximity chat & server browser details | Shacknews",
+      "source": "shacknews.com",
+      "link": "https://www.shacknews.com/article/149449/battlefield-6-2026-roadmap-proximity-chat-server-browser",
+      "snippet": "Battlefield 6 2026 roadmap updated with proximity chat & server browser details | Shacknewsに関する最新動向です。 概要: Battlefield Studios intends to launch the proximity chat feature for Season 4, and a server browser…"
+    },
+    {
+      "title": "US officials eye government stakes in AI companies, NOTUS reports | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/legal/transactional/us-officials-eye-government-stakes-ai-companies-notus-reports-2026-06-05",
+      "snippet": "US officials eye government stakes in AI companies, NOTUS reports | Reutersに関する最新動向です。 概要: Senior U.S. officials held preliminary discussions with major AI companies about the potential for t…"
+    },
+    {
+      "title": "Microsoft’s first advanced reasoning AI is here | The Verge",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "snippet": "Microsoft’s first advanced reasoning AI is here | The Vergeに関する最新動向です。 概要: Microsoft announced seven new in-house AI models at Build 2026, including MAI-Thinking-1, its first…"
+    },
+    {
+      "title": "Brookfield Rolls Out New AI Infrastructure Playbook - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-06-03/brookfield-rolls-out-new-ai-infrastructure-playbook",
+      "snippet": "Brookfield Rolls Out New AI Infrastructure Playbook - Bloombergに関する最新動向です。 概要: Bloom Energy Corp. struggled for years to convince investors its fuel cells were a practical alterna…"
+    },
+    {
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "snippet": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。 概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…"
+    },
+    {
+      "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
+      "snippet": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformanceに関する最新動向です。 概要: ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover o…"
+    },
+    {
+      "title": "Ether and Privacy Coins Lead Latest Losses as Crypto Plummets - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-05/ether-and-privacy-coins-lead-latest-losses-as-crypto-plummets",
+      "snippet": "Ether and Privacy Coins Lead Latest Losses as Crypto Plummets - Bloombergに関する最新動向です。 概要: Ether sank to its lowest level in over a year as digital assets continued to sustain heavy losses af…"
+    },
+    {
+      "title": "US Senate Committee set to consider long-awaited crypto bill this week | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/sustainability/boards-policy-regulation/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09",
+      "snippet": "US Senate Committee set to consider long-awaited crypto bill this week | Reutersに関する最新動向です。 概要: U.S. senators are set to consider long-awaited legislation that would create a regulatory framework…"
+    },
+    {
+      "title": "What's fuelling Bitcoin, Ethereum and XRP crash? | FXStreet",
+      "source": "fxstreet.com",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-trade-under-sustained-selling-pressure-despite-mild-etf-inflows-202606051329",
+      "snippet": "What's fuelling Bitcoin, Ethereum and XRP crash? | FXStreetに関する最新動向です。 概要: Cryptocurrency prices remain under pressure as a risk-off mood persists on Friday, with Bitcoin (BTC…"
+    },
+    {
+      "title": "Morning Bid: Equity supply shock? | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-02/",
+      "snippet": "Morning Bid: Equity supply shock? | Reutersに関する最新動向です。 概要: A trader works at his post on the floor at the New York Stock Exchange (NYSE) in New York City, U.S.…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensions",
+      "source": "finance.yahoo.com",
+      "link": "https://finance.yahoo.com/economy/live/stock-market-today-tuesday-june-2-ai-231755175.html",
+      "snippet": "Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensionsに関する最新動向です。 概要: US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest devel…"
+    },
+    {
+      "title": "Stock market news for June 3, 2026",
+      "source": "cnbc.com",
+      "link": "https://cnbc.com/2026/06/02/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for June 3, 2026に関する最新動向です。 概要: Stocks fell Wednesday, with the S&P 500 snapping a nine-day win streak, as oil prices and Treasury y…"
+    },
+    {
+      "title": "Airlines and business groups warn of chaos if US restricts international flights | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us/us-travel-group-warns-closing-newark-airport-international-travel-could-cost-8-2026-05-29/",
+      "snippet": "Airlines and business groups warn of chaos if US restricts international flights | Reutersに関する最新動向です。 概要: A shutdown could also imperil billions of dollars in imported cargo like pharmaceuticals and semicon…"
+    },
+    {
+      "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+      "source": "airguide.info",
+      "link": "https://airguide.info/connectivity-and-travel-tech-2026/",
+      "snippet": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。 概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…"
+    },
+    {
+      "title": "Australia’s Gold Coast Airport Enters a Powerful New Growth Phase After Record-Breaking Passenger Numbers, Expanded Airline Connectivity and Surging International Demand Strengthen Queensland’s Tourism Supremacy Across Domestic and Global Travel Markets in 2026 - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/k8gwcen2p60n/",
+      "snippet": "Australia’s Gold Coast Airport Enters a Powerful New Growth Phase After Record-Breaking Passenger Numbers, Expanded Airline Connectivity and Surging International Demand Strengthen Queensland’s Tourism Supremacy Across Domestic and Global Travel Markets in 2026 - Travel And Tour Worldに関する最新動向です。 概要: Gold Coast Airport records unprecedented passenger growth, highlighting tourism recovery, stronger c…"
+    },
+    {
+      "title": "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://nytimes.com/2026/06/01/opinion/summer-travel-planes.html",
+      "snippet": "Opinion | Why This Summer Travel Season Will Be a Nightmare - The New York Timesに関する最新動向です。 概要: Air travel could be disrupted into next year because of high jet fuel prices."
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-06-05T15:36:59.767935+00:00"
+}
