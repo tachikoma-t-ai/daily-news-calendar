@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-07",
+  "title": "2026-06-07 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+          "summaryLines": [
+            "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        },
+        {
+          "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
+          "summaryLines": [
+            "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。",
+            "概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "dev.to",
+          "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a"
+        },
+        {
+          "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro - MacRumors",
+          "summaryLines": [
+            "Chrome Sets Browser Speed Records on M5 MacBook Pro - MacRumorsに関する最新動向です。",
+            "概要: Google&#039;s Chrome browser hit new records on browser benchmarking tools Speedometer 3.1 and JetSt…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "macrumors.com",
+          "link": "https://www.macrumors.com/2026/06/05/chrome-browser-speed-record-2026/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Meta repeatedly pushes back new AI model release for developers, WSJ says | Reuters",
+          "summaryLines": [
+            "Meta repeatedly pushes back new AI model release for developers, WSJ says | Reutersに関する最新動向です。",
+            "概要: Meta has repeatedly pushed back plans ​to release its new Muse Spark ‌AI model API to developers, an…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/meta-repeatedly-pushes-back-new-ai-model-release-developers-wsj-says-2026-06-04/"
+        },
+        {
+          "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+          "summaryLines": [
+            "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。",
+            "概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
+        },
+        {
+          "title": "Pre-Release AI Model Testing: NIST Framework Guide for Founders",
+          "summaryLines": [
+            "Pre-Release AI Model Testing: NIST Framework Guide for Foundersに関する最新動向です。",
+            "概要: What NIST AI RMF, EU AI Act, and US state laws require for pre-release AI model testing. A practical…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "buildmvpfast.com",
+          "link": "https://www.buildmvpfast.com/blog/mandatory-pre-release-ai-model-testing-nist-framework-2026"
+        },
+        {
+          "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog",
+          "summaryLines": [
+            "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blogに関する最新動向です。",
+            "概要: Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model ag…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "microsoft.com",
+          "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
+          "summaryLines": [
+            "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformanceに関する最新動向です。",
+            "概要: ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover o…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says"
+        },
+        {
+          "title": "Bitcoin Treasury Firms Lose $62 Billion as Crypto Market Slide Deepens - Bloomberg",
+          "summaryLines": [
+            "Bitcoin Treasury Firms Lose $62 Billion as Crypto Market Slide Deepens - Bloombergに関する最新動向です。",
+            "概要: Bitcoin’s slide this week is adding fresh pressure to one of the most ambitious financial experiment…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/bitcoin-treasury-firms-shed-62-billion-in-deepening-crypto-rout"
+        },
+        {
+          "title": "US Senate Committee set to consider long-awaited crypto bill this week | Reuters",
+          "summaryLines": [
+            "US Senate Committee set to consider long-awaited crypto bill this week | Reutersに関する最新動向です。",
+            "概要: U.S. senators are set to consider long-awaited legislation that would create a regulatory framework…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/sustainability/boards-policy-regulation/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09"
+        },
+        {
+          "title": "Crypto Market Update: House Bills Aims to Ban Lawmakers From Crypto Prediction Markets | INN",
+          "summaryLines": [
+            "Crypto Market Update: House Bills Aims to Ban Lawmakers From Crypto Prediction Markets | INNに関する最新動向です。",
+            "概要: Elsewhere in the crypto space, Strategy&#39;s Michael Saylor continues to defend the company&#39;s c…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "investingnews.com",
+          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain | Reuters",
+          "summaryLines": [
+            "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain | Reutersに関する最新動向です。",
+            "概要: Shares fell sharply on Friday after a blowout jobs report fueled bets of a rate hike by the ‌U.S. Fe…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "summaryLines": [
+            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
+            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+        },
+        {
+          "title": "OECD cuts global growth forecast to 2.8% for 2026 as energy shock threatens recovery - BusinessToday",
+          "summaryLines": [
+            "OECD cuts global growth forecast to 2.8% for 2026 as energy shock threatens recovery - BusinessTodayに関する最新動向です。",
+            "概要: The OECD has cut its global growth forecast for 2026 to 2.8%, warning that disruptions to oil and ga…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "businesstoday.in",
+          "link": "https://businesstoday.in/world/story/oecd-cuts-global-growth-forecast-to-2-8-for-2026-as-energy-shock-threatens-recovery-535232-2026-06-05"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Dow claims record closing high, S&P 500 advances; chip selloff weighs on Nasdaq | Reuters",
+          "summaryLines": [
+            "Dow claims record closing high, S&P 500 advances; chip selloff weighs on Nasdaq | Reutersに関する最新動向です。",
+            "概要: Wall Street advanced on Thursday as progress toward ​ending the Iran war buoyed investor sentiment…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/nasdaq-futures-lead-declines-after-broadcom-drop-2026-06-04/"
+        },
+        {
+          "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+          "summaryLines": [
+            "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。",
+            "概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "airguide.info",
+          "link": "https://airguide.info/connectivity-and-travel-tech-2026/"
+        },
+        {
+          "title": "New airline aims to boost travel at Tallahassee International Airport as passenger traffic trends down",
+          "summaryLines": [
+            "New airline aims to boost travel at Tallahassee International Airport as passenger traffic trends downに関する最新動向です。",
+            "概要: Tallahassee International is seeing fewer people flying, even as more flights are on the way.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "wctv.tv",
+          "link": "https://www.wctv.tv/2026/06/03/new-airline-aims-boost-travel-tallahassee-international-airport-passenger-traffic-trends-down/"
+        },
+        {
+          "title": "Vietnam’s Hanoi Transforms Into Global Travel Powerhouse: China, India, US & UK Tourists Surge as Airlines Expand Routes to New Mega Airport Hub - Travel And Tour World",
+          "summaryLines": [
+            "Vietnam’s Hanoi Transforms Into Global Travel Powerhouse: China, India, US & UK Tourists Surge as Airlines Expand Routes to New Mega Airport Hub - Travel And Tour Worldに関する最新動向です。",
+            "概要: Hanoi aviation tourism growth skyrockets as China, India, US, and UK tourists arrive via new airline…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/w34utog0tsq5/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+    "AI：Meta repeatedly pushes back new AI model release for developers, WSJ says | Reuters",
+    "暗号通貨：Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance"
+  ],
+  "headlines": [
+    {
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
+      "source": "dev.to",
+      "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a",
+      "snippet": "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。 概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…"
+    },
+    {
+      "title": "Chrome Sets Browser Speed Records on M5 MacBook Pro - MacRumors",
+      "source": "macrumors.com",
+      "link": "https://www.macrumors.com/2026/06/05/chrome-browser-speed-record-2026/",
+      "snippet": "Chrome Sets Browser Speed Records on M5 MacBook Pro - MacRumorsに関する最新動向です。 概要: Google&#039;s Chrome browser hit new records on browser benchmarking tools Speedometer 3.1 and JetSt…"
+    },
+    {
+      "title": "Meta repeatedly pushes back new AI model release for developers, WSJ says | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/meta-repeatedly-pushes-back-new-ai-model-release-developers-wsj-says-2026-06-04/",
+      "snippet": "Meta repeatedly pushes back new AI model release for developers, WSJ says | Reutersに関する最新動向です。 概要: Meta has repeatedly pushed back plans ​to release its new Muse Spark ‌AI model API to developers, an…"
+    },
+    {
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "snippet": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。 概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…"
+    },
+    {
+      "title": "Pre-Release AI Model Testing: NIST Framework Guide for Founders",
+      "source": "buildmvpfast.com",
+      "link": "https://www.buildmvpfast.com/blog/mandatory-pre-release-ai-model-testing-nist-framework-2026",
+      "snippet": "Pre-Release AI Model Testing: NIST Framework Guide for Foundersに関する最新動向です。 概要: What NIST AI RMF, EU AI Act, and US state laws require for pre-release AI model testing. A practical…"
+    },
+    {
+      "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blog",
+      "source": "microsoft.com",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
+      "snippet": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark | Microsoft Security Blogに関する最新動向です。 概要: Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model ag…"
+    },
+    {
+      "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
+      "snippet": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformanceに関する最新動向です。 概要: ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover o…"
+    },
+    {
+      "title": "Bitcoin Treasury Firms Lose $62 Billion as Crypto Market Slide Deepens - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-05/bitcoin-treasury-firms-shed-62-billion-in-deepening-crypto-rout",
+      "snippet": "Bitcoin Treasury Firms Lose $62 Billion as Crypto Market Slide Deepens - Bloombergに関する最新動向です。 概要: Bitcoin’s slide this week is adding fresh pressure to one of the most ambitious financial experiment…"
+    },
+    {
+      "title": "US Senate Committee set to consider long-awaited crypto bill this week | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/sustainability/boards-policy-regulation/us-senate-committee-set-consider-long-awaited-crypto-bill-next-week-2026-05-09",
+      "snippet": "US Senate Committee set to consider long-awaited crypto bill this week | Reutersに関する最新動向です。 概要: U.S. senators are set to consider long-awaited legislation that would create a regulatory framework…"
+    },
+    {
+      "title": "Crypto Market Update: House Bills Aims to Ban Lawmakers From Crypto Prediction Markets | INN",
+      "source": "investingnews.com",
+      "link": "https://investingnews.com/cryptocurrency-market-recap/",
+      "snippet": "Crypto Market Update: House Bills Aims to Ban Lawmakers From Crypto Prediction Markets | INNに関する最新動向です。 概要: Elsewhere in the crypto space, Strategy&#39;s Michael Saylor continues to defend the company&#39;s c…"
+    },
+    {
+      "title": "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+      "snippet": "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain | Reutersに関する最新動向です。 概要: Shares fell sharply on Friday after a blowout jobs report fueled bets of a rate hike by the ‌U.S. Fe…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
+    },
+    {
+      "title": "OECD cuts global growth forecast to 2.8% for 2026 as energy shock threatens recovery - BusinessToday",
+      "source": "businesstoday.in",
+      "link": "https://businesstoday.in/world/story/oecd-cuts-global-growth-forecast-to-2-8-for-2026-as-energy-shock-threatens-recovery-535232-2026-06-05",
+      "snippet": "OECD cuts global growth forecast to 2.8% for 2026 as energy shock threatens recovery - BusinessTodayに関する最新動向です。 概要: The OECD has cut its global growth forecast for 2026 to 2.8%, warning that disruptions to oil and ga…"
+    },
+    {
+      "title": "Dow claims record closing high, S&P 500 advances; chip selloff weighs on Nasdaq | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/nasdaq-futures-lead-declines-after-broadcom-drop-2026-06-04/",
+      "snippet": "Dow claims record closing high, S&P 500 advances; chip selloff weighs on Nasdaq | Reutersに関する最新動向です。 概要: Wall Street advanced on Thursday as progress toward ​ending the Iran war buoyed investor sentiment…"
+    },
+    {
+      "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+      "source": "airguide.info",
+      "link": "https://airguide.info/connectivity-and-travel-tech-2026/",
+      "snippet": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。 概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…"
+    },
+    {
+      "title": "New airline aims to boost travel at Tallahassee International Airport as passenger traffic trends down",
+      "source": "wctv.tv",
+      "link": "https://www.wctv.tv/2026/06/03/new-airline-aims-boost-travel-tallahassee-international-airport-passenger-traffic-trends-down/",
+      "snippet": "New airline aims to boost travel at Tallahassee International Airport as passenger traffic trends downに関する最新動向です。 概要: Tallahassee International is seeing fewer people flying, even as more flights are on the way."
+    },
+    {
+      "title": "Vietnam’s Hanoi Transforms Into Global Travel Powerhouse: China, India, US & UK Tourists Surge as Airlines Expand Routes to New Mega Airport Hub - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/w34utog0tsq5/",
+      "snippet": "Vietnam’s Hanoi Transforms Into Global Travel Powerhouse: China, India, US & UK Tourists Surge as Airlines Expand Routes to New Mega Airport Hub - Travel And Tour Worldに関する最新動向です。 概要: Hanoi aviation tourism growth skyrockets as China, India, US, and UK tourists arrive via new airline…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-06-06T15:36:11.061565+00:00"
+}
