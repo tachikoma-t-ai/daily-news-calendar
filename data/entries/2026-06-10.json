@@ -1,55 +1,33 @@
 {
   "date": "2026-06-10",
   "title": "2026-06-10 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
+          "title": "Microsoft、2026年6月の月例更新で208件の脆弱性に対処",
           "summaryLines": [
-            "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Microsoftは6月9日（現地時間）、サポート中のWindowsなどに月例セキュリティ更新を公開した。",
+            "CVEベースで208件に対処し、悪用確認済みのMicrosoft Defender脆弱性や、公開済みのHTTP.sys、BitLocker、CTFMON関連の脆弱性も含まれる。",
+            "Critical評価は38件で、OS、Office、Exchange、Copilot、Azureなど広い製品群に影響する。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "悪用確認済み脆弱性を含む大型更新で、企業端末とクラウド運用の緊急パッチ判断に直結するため。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2115814.html"
         },
         {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "title": "「Interop Tokyo 2026」が幕張メッセで開幕、テーマはAIとインターネットの次章",
           "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "インターネットテクノロジー専門イベント「Interop Tokyo 2026」が6月10日に開幕し、12日まで開催される。",
+            "672社・団体が出展し、通信インフラ、データセンター、セキュリティ、クラウド、エッジ、運用基盤などの最新動向を展示する。",
+            "会場内ネットワーク「ShowNet」や併催のAI NATIVE EXPOを通じ、AI前提社会の実装と運用が主要テーマになっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
-        },
-        {
-          "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
-          "summaryLines": [
-            "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。",
-            "概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "dev.to",
-          "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a"
-        },
-        {
-          "title": "Everything Apple Announced at WWDC 2026 | WIRED Middle East",
-          "summaryLines": [
-            "Everything Apple Announced at WWDC 2026 | WIRED Middle Eastに関する最新動向です。",
-            "概要: Updates include a new souped-up Siri, lots of iOS enhancements and some inkling on how an AI partner…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "wired.me",
-          "link": "https://wired.me/story/everything-apple-announced-at-wwdc-2026"
+          "whyImportant": "AI利用拡大でネットワークと運用基盤の要件が変わる中、国内ICT実装の方向性を示す場になるため。",
+          "source": "INTERNET Watch",
+          "link": "https://internet.watch.impress.co.jp/docs/event/2115584.html"
         }
       ]
     },
@@ -58,48 +36,26 @@
       "name": "AI",
       "items": [
         {
-          "title": "Microsoft’s first advanced reasoning AI is here | The Verge",
+          "title": "経営コンサル業の倒産が過去最多、生成AIによる代替が一因に",
           "summaryLines": [
-            "Microsoft’s first advanced reasoning AI is here | The Vergeに関する最新動向です。",
-            "概要: Microsoft announced seven new in-house AI models at Build 2026, including MAI-Thinking-1, its first…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "2026年5月までの経営コンサルティング業の倒産は74件となり、休廃業・解散も含めて2000年以降で過去最多となった。",
+            "帝国データバンクは、生成AIの進化により基礎的なリサーチや汎用的な研修コンテンツが代替されていると指摘している。",
+            "リスクマネジメントやM&Aなど、専門性で差別化できない事業者の淘汰がさらに進む可能性がある。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "theverge.com",
-          "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
+          "whyImportant": "生成AIがホワイトカラー業務の価格と提供価値を直接揺さぶっていることを示す具体例だから。",
+          "source": "テレ朝NEWS / dメニューニュース",
+          "link": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-000511228"
         },
         {
-          "title": "Foxconn and Intel team up to build next-gen AI systems | Reuters",
+          "title": "AIエージェント時代に必要な検討事項、MONOistが業務変化を整理",
           "summaryLines": [
-            "Foxconn and Intel team up to build next-gen AI systems | Reutersに関する最新動向です。",
-            "概要: Foxconn said on Thursday it will work with U.S. chipmaker Intel ​to jointly develop and deploy next-…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "MONOistは、生成AIとAIエージェントが現在のAIブームの中心であり、AIが社会インフラ化しつつあると論じた。",
+            "今後は「答えるAI」から、目的に沿ってツールを使い作業を進める「任せるAI」へ移行する可能性が高いとしている。",
+            "人間側には、目的設定、任せる範囲の設計、成果評価の力がより重要になる。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/china/foxconn-announces-strategic-collaboration-with-intel-next-gen-ai-infrastructure-2026-06-04/"
-        },
-        {
-          "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-          "summaryLines": [
-            "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。",
-            "概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
-        },
-        {
-          "title": "Promoting Advanced Artificial Intelligence Innovation and Security – The White House",
-          "summaryLines": [
-            "Promoting Advanced Artificial Intelligence Innovation and Security – The White Houseに関する最新動向です。",
-            "概要: By the authority vested in me as President by the Constitution and the laws of the United States of…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "whitehouse.gov",
-          "link": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+          "whyImportant": "AI導入をツール利用に留めず、業務設計と人材要件の見直しとして捉える必要があるため。",
+          "source": "MONOist",
+          "link": "https://monoist.itmedia.co.jp/mn/articles/2606/10/news010.html"
         }
       ]
     },
@@ -108,48 +64,26 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
+          "title": "ビットコインはマクロ経済の「炭鉱のカナリア」か、Bitwiseが市況分析",
           "summaryLines": [
-            "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformanceに関する最新動向です。",
-            "概要: ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover o…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Bitwiseは週次レポートで、ビットコインがマクロ経済の変化に先行して反応する可能性を取り上げた。",
+            "同社は、過去の傾向から株式市場に追加調整余地がある一方、ビットコインは調整の大部分を終え相対的に有利な局面にあると分析している。",
+            "背景として、ビットコインが365日取引され流動性変化に反応しやすい点を挙げている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says"
+          "whyImportant": "暗号資産をリスク資産全体の先行指標として見る視点は、相場判断とリスク管理に影響するため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=715846"
         },
         {
-          "title": "Crypto Market Faces Shakeout as Bitcoin Sheds $235 Billion in Value - Bloomberg",
+          "title": "SBI VCトレード、コスモス（ATOM）アップグレードに伴う入出庫注意を告知",
           "summaryLines": [
-            "Crypto Market Faces Shakeout as Bitcoin Sheds $235 Billion in Value - Bloombergに関する最新動向です。",
-            "概要: The easiest way to understand crypto used to be to look at Bitcoin.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "SBI VCトレードは、コスモス（ATOM）のネットワークアップグレード v27.4.0 に伴う入出庫制限について告知した。",
+            "予定時刻は2026年6月10日23時頃からで、終了時刻は未定。安定稼働確認後に順次処理するとしている。",
+            "ネットワーク側の状況により予定変更の可能性があり、余裕を持った資金移動を呼びかけている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto"
-        },
-        {
-          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-          "summaryLines": [
-            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
-            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
-        },
-        {
-          "title": "Top Bitcoin Price Predictions For 2026",
-          "summaryLines": [
-            "Top Bitcoin Price Predictions For 2026に関する最新動向です。",
-            "概要: Six months into 2026, Bitcoin is trading around $63,129 after experiencing one of its most volatile…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "cryptonews.net",
-          "link": "https://cryptonews.net/news/bitcoin/32981538"
+          "whyImportant": "チェーンアップグレード時の入出庫制限は、取引所利用者の資金移動と運用リスクに直結するため。",
+          "source": "SBI VCトレード",
+          "link": "https://www.sbivc.co.jp/newsview/krhvchtnai"
         }
       ]
     },
@@ -158,233 +92,56 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Trading Day: Recovery, but on mute | Reuters",
+          "title": "東京株式市場、AI・半導体株売りで日経平均が反落",
           "summaryLines": [
-            "Trading Day: Recovery, but on mute | Reutersに関する最新動向です。",
-            "概要: The S&P 500 and Nasdaq rebounded on Monday from Friday's tech-led rout, on news of anIsrael-Iran det…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "6月10日午前の東京株式市場で日経平均は反落し、前営業日比735円24銭安の6万4681円39銭となった。",
+            "前日の米国株でハイテク銘柄が下落した流れを受け、AI・半導体関連株の一角が売られた。",
+            "中東情勢の再緊張も投資家心理の悪化につながった。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-06-08"
+          "whyImportant": "AI・半導体主導の相場が外部環境に敏感になっており、日本株の資金循環を見る材料になるため。",
+          "source": "Reuters",
+          "link": "https://jp.reuters.com/markets/japan/4TJLNKTFZJP4XHYECEMDHUF7AY-2026-06-10/"
         },
         {
-          "title": "Bank of France to Raise 2026 Inflation Forecast, Moulin Says - Bloomberg",
+          "title": "経財相、日銀との緊密な連携に期待しつつ金融政策手法は日銀に委ねると発言",
           "summaryLines": [
-            "Bank of France to Raise 2026 Inflation Forecast, Moulin Says - Bloombergに関する最新動向です。",
-            "概要: France’s central bank will increase its projection for consumer-price gains this year due to the Ira…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "城内実経済財政担当相は6月9日の会見で、金融政策の具体的手法は日銀に委ねられると述べた。",
+            "政府と日銀の緊密な連携に期待するとし、高市政権の成長投資に関連して国内投資不足の流れを断ち切る方針を強調した。",
+            "市場では利上げや国債買い入れ減額の行方が引き続き注目されている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/bank-of-france-to-raise-2026-inflation-forecast-moulin-says"
-        },
-        {
-          "title": "Schwab Market Update | Charles Schwab",
-          "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-          "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+          "whyImportant": "政府と日銀の距離感は金利、為替、財政運営への市場期待を左右するため。",
+          "source": "Reuters",
+          "link": "https://jp.reuters.com/economy/bank-of-japan/GXTOVZWR3BNGBOSXTJBBPGJSLM-2026-06-09/"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行",
       "items": [
         {
-          "title": "Airlines and business groups warn of chaos if US restricts international flights | Reuters",
+          "title": "2026年6月時点の国内旅行補助金・割引サービスまとめが更新",
           "summaryLines": [
-            "Airlines and business groups warn of chaos if US restricts international flights | Reutersに関する最新動向です。",
-            "概要: A shutdown could also imperil billions of dollars in imported cargo like pharmaceuticals and semicon…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "補助金ポータルは、2026年6月時点で個人が使える国内旅行補助金・割引キャンペーンを地域別に整理した。",
+            "全国旅行支援は終了しているが、自治体独自の宿泊割引、地域クーポン、プレミアム付き宿泊券などが各地で実施されている。",
+            "福島、秋田、岩手、湯河原、箱根、東京島しょ部、信州、福岡、佐賀、宮崎など幅広い地域の施策が紹介されている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/us/us-travel-group-warns-closing-newark-airport-international-travel-could-cost-8-2026-05-29/"
+          "whyImportant": "夏休み前の国内旅行計画で、自治体キャンペーンを活用すると旅行費用を大きく抑えられるため。",
+          "source": "補助金ポータル",
+          "link": "https://hojyokin-portal.jp/columns/ryoko-hojokin-kojin"
         },
         {
-          "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+          "title": "6月10日は「路面電車の日」、国内23都市の都市交通として再評価進む",
           "summaryLines": [
-            "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。",
-            "概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "6月10日は語呂合わせで「路面電車の日」とされ、全国の路面電車で関連イベントも行われる。",
+            "国内では札幌、富山、大阪・堺、広島など23都市で23事業者が路面電車を運行している。",
+            "富山のLRT化、宇都宮ライトレール、広島駅周辺のルート再編、岡山駅乗り入れ計画など、観光にも使いやすい都市交通として再評価が進んでいる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "airguide.info",
-          "link": "https://airguide.info/connectivity-and-travel-tech-2026/"
-        },
-        {
-          "title": "Domestic travel is surging in 2026: What hotel search data across the G20 tells us - Hospitality Net",
-          "summaryLines": [
-            "Domestic travel is surging in 2026: What hotel search data across the G20 tells us - Hospitality Netに関する最新動向です。",
-            "概要: Lighthouse OTA and metasearch data shows domestic hotel search share across G20 nations rose 3.4 poi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "hospitalitynet.org",
-          "link": "https://hospitalitynet.org/report/4132878/domestic-travel-is-surging-in-2026-what-hotel-search-data-across-the-g20-tells-us"
-        },
-        {
-          "title": "Southwest Airlines adds new Florida destination from PIT - Pittsburgh Business Times",
-          "summaryLines": [
-            "Southwest Airlines adds new Florida destination from PIT - Pittsburgh Business Timesに関する最新動向です。",
-            "概要: It's the 22nd destination for Southwest Airlines, which is the largest airline by passenger share at…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "bizjournals.com",
-          "link": "https://www.bizjournals.com/pittsburgh/news/2026/06/09/southwest-airlines-florida-west-palm-beach.html"
+          "whyImportant": "路面電車は地域観光と都市回遊の足になり、国内旅行の移動体験や目的地選びにも影響するため。",
+          "source": "鉄道コム / Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/c6ceceda1007f85dd73bd628fb94663a0c273932"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-    "AI：Microsoft’s first advanced reasoning AI is here | The Verge",
-    "暗号通貨：Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance"
-  ],
-  "headlines": [
-    {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
-    },
-    {
-      "title": "New Features Added to the Web Platform in May 2026 - DEV Community",
-      "source": "dev.to",
-      "link": "https://dev.to/homayounmmdy/new-features-added-to-the-web-platform-in-may-2026-5b7a",
-      "snippet": "New Features Added to the Web Platform in May 2026 - DEV Communityに関する最新動向です。 概要: The web platform keeps evolving every month, and May 2026 introduced several surprisingly useful...…"
-    },
-    {
-      "title": "Everything Apple Announced at WWDC 2026 | WIRED Middle East",
-      "source": "wired.me",
-      "link": "https://wired.me/story/everything-apple-announced-at-wwdc-2026",
-      "snippet": "Everything Apple Announced at WWDC 2026 | WIRED Middle Eastに関する最新動向です。 概要: Updates include a new souped-up Siri, lots of iOS enhancements and some inkling on how an AI partner…"
-    },
-    {
-      "title": "Microsoft’s first advanced reasoning AI is here | The Verge",
-      "source": "theverge.com",
-      "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "snippet": "Microsoft’s first advanced reasoning AI is here | The Vergeに関する最新動向です。 概要: Microsoft announced seven new in-house AI models at Build 2026, including MAI-Thinking-1, its first…"
-    },
-    {
-      "title": "Foxconn and Intel team up to build next-gen AI systems | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/china/foxconn-announces-strategic-collaboration-with-intel-next-gen-ai-infrastructure-2026-06-04/",
-      "snippet": "Foxconn and Intel team up to build next-gen AI systems | Reutersに関する最新動向です。 概要: Foxconn said on Thursday it will work with U.S. chipmaker Intel ​to jointly develop and deploy next-…"
-    },
-    {
-      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
-      "snippet": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developersに関する最新動向です。 概要: At its Build developer conference, Microsoft announced a series of generative AI models to try and c…"
-    },
-    {
-      "title": "Promoting Advanced Artificial Intelligence Innovation and Security – The White House",
-      "source": "whitehouse.gov",
-      "link": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-      "snippet": "Promoting Advanced Artificial Intelligence Innovation and Security – The White Houseに関する最新動向です。 概要: By the authority vested in me as President by the Constitution and the laws of the United States of…"
-    },
-    {
-      "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
-      "snippet": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformanceに関する最新動向です。 概要: ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover o…"
-    },
-    {
-      "title": "Crypto Market Faces Shakeout as Bitcoin Sheds $235 Billion in Value - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto",
-      "snippet": "Crypto Market Faces Shakeout as Bitcoin Sheds $235 Billion in Value - Bloombergに関する最新動向です。 概要: The easiest way to understand crypto used to be to look at Bitcoin."
-    },
-    {
-      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
-      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
-    },
-    {
-      "title": "Top Bitcoin Price Predictions For 2026",
-      "source": "cryptonews.net",
-      "link": "https://cryptonews.net/news/bitcoin/32981538",
-      "snippet": "Top Bitcoin Price Predictions For 2026に関する最新動向です。 概要: Six months into 2026, Bitcoin is trading around $63,129 after experiencing one of its most volatile…"
-    },
-    {
-      "title": "Trading Day: Recovery, but on mute | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-06-08",
-      "snippet": "Trading Day: Recovery, but on mute | Reutersに関する最新動向です。 概要: The S&P 500 and Nasdaq rebounded on Monday from Friday's tech-led rout, on news of anIsrael-Iran det…"
-    },
-    {
-      "title": "Bank of France to Raise 2026 Inflation Forecast, Moulin Says - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-09/bank-of-france-to-raise-2026-inflation-forecast-moulin-says",
-      "snippet": "Bank of France to Raise 2026 Inflation Forecast, Moulin Says - Bloombergに関する最新動向です。 概要: France’s central bank will increase its projection for consumer-price gains this year due to the Ira…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "Airlines and business groups warn of chaos if US restricts international flights | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/us/us-travel-group-warns-closing-newark-airport-international-travel-could-cost-8-2026-05-29/",
-      "snippet": "Airlines and business groups warn of chaos if US restricts international flights | Reutersに関する最新動向です。 概要: A shutdown could also imperil billions of dollars in imported cargo like pharmaceuticals and semicon…"
-    },
-    {
-      "title": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
-      "source": "airguide.info",
-      "link": "https://airguide.info/connectivity-and-travel-tech-2026/",
-      "snippet": "Connectivity and Travel Tech: 2026 Updates - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updatesに関する最新動向です。 概要: Discover how connectivity and travel tech are reshaping airports, airlines, and tourism with smarter…"
-    },
-    {
-      "title": "Domestic travel is surging in 2026: What hotel search data across the G20 tells us - Hospitality Net",
-      "source": "hospitalitynet.org",
-      "link": "https://hospitalitynet.org/report/4132878/domestic-travel-is-surging-in-2026-what-hotel-search-data-across-the-g20-tells-us",
-      "snippet": "Domestic travel is surging in 2026: What hotel search data across the G20 tells us - Hospitality Netに関する最新動向です。 概要: Lighthouse OTA and metasearch data shows domestic hotel search share across G20 nations rose 3.4 poi…"
-    },
-    {
-      "title": "Southwest Airlines adds new Florida destination from PIT - Pittsburgh Business Times",
-      "source": "bizjournals.com",
-      "link": "https://www.bizjournals.com/pittsburgh/news/2026/06/09/southwest-airlines-florida-west-palm-beach.html",
-      "snippet": "Southwest Airlines adds new Florida destination from PIT - Pittsburgh Business Timesに関する最新動向です。 概要: It's the 22nd destination for Southwest Airlines, which is the largest airline by passenger share at…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-06-09T15:36:14.739061+00:00"
+  ]
 }
