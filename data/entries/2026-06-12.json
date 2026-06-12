@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T20:00:00+09:00",
+  "categories": [
+    {
+      "name": "IT",
+      "items": [
+        {
+          "title": "Cloud Foundry UAAにCVSS 10.0の秘密鍵漏えい脆弱性",
+          "summaryLines": [
+            "Cloud Foundry Foundation Security Teamは、Cloud Foundry UAAの公開エンドポイント「/token_keys」からEC秘密鍵コンポーネントが漏えいする恐れがあるCVE-2026-40965を公表した。",
+            "影響対象はuaa_release v76.12.0からv78.12.0、CF Deployment v30.0.0からv56.0.0で、修正版への更新とEC署名鍵のローテーションが推奨されている。"
+          ],
+          "whyImportant": "認証基盤のJWT署名鍵に関わるため、対象環境ではトークン偽造や権限昇格につながる重大リスクがある。",
+          "source": "セキュリティ対策Lab",
+          "link": "https://rocket-boys.co.jp/security-measures-lab/cloud-foundry-uaa-cve-2026-40965-vulnerability/"
+        },
+        {
+          "title": "Interop Tokyo 2026が開催、AI時代のネットワークとセキュリティを展示",
+          "summaryLines": [
+            "幕張メッセで「Interop Tokyo 2026」が6月10日から12日まで開催され、ネットワーク製品やセキュリティ製品、AI関連ソリューションが出展された。",
+            "2026年のテーマは「AIとインターネットの次章。Internet for AI, AI for Internet.」で、併催イベントを含め672社が出展した。"
+          ],
+          "whyImportant": "AI利用が拡大するなか、企業ITの関心がアプリだけでなくネットワーク運用・相互接続・セキュリティ基盤へ広がっている。",
+          "source": "Security NEXT",
+          "link": "https://www.security-next.com/185762"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "items": [
+        {
+          "title": "デジタル庁、生成AI調達・利活用ガイドライン第2.0版を決定",
+          "summaryLines": [
+            "デジタル庁は6月12日、生成AIの調達と利活用に係るガイドライン第2.0版を決定し、PDFに加えてWordやExcelの元ファイル、概要資料、英語版仮訳も公開した。",
+            "改定は技術進展、ユースケース拡大、国内外の制度・政策動向を踏まえたもので、アクセス制御や機密情報の扱いを調達段階から組み込む考え方が強調されている。"
+          ],
+          "whyImportant": "行政・公共調達での生成AI利用が実験段階から運用統制の段階へ進み、民間のAIガバナンス設計にも影響しそうだ。",
+          "source": "DXマガジン",
+          "link": "https://dxmagazine.jp/news/mmgi262210/"
+        },
+        {
+          "title": "Microsoft AI、独自AIモデル「MAI」7種を発表",
+          "summaryLines": [
+            "Microsoft AIは、推論、コーディング、画像生成、音声、文字起こしをカバーする独自モデル群「MAI」ファミリー7種を発表した。",
+            "MAI-Code-1-FlashはGitHub Copilotの個人プラン向けにVS Codeで展開済みで、今後Copilot CLIや法人向けプレビューにも広がる見通し。"
+          ],
+          "whyImportant": "大手AI競争が基盤モデル、開発者体験、自社チップ最適化を一体で競う段階に入りつつある。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2116621.html"
+        }
+      ]
+    },
+    {
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "JPモルガン、ビットコインと金の「通貨価値切り下げトレード」後退を分析",
+          "summaryLines": [
+            "JPモルガンのアナリストは、ビットコインと金を対象にした通貨価値切り下げトレードからの資金撤退が加速していると分析した。",
+            "金現物ETFでは6月5日週に約200億ドルが流出し、ビットコイン現物ETFでも4週連続の流出が続いているという。"
+          ],
+          "whyImportant": "ビットコインをインフレ・財政不安への逃避先とみる投資テーマが弱まると、ETF資金フローと価格の下押し圧力が強まりやすい。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=716514"
+        },
+        {
+          "title": "ブラックロックのビットコイン利回りETF「BITA」、上場準備が進展",
+          "summaryLines": [
+            "ブラックロックは、ビットコイン・プレミアムインカムETF「BITA」の登録届出書に係る第4次修正申請をSECへ提出した。",
+            "修正申請ではスポンサー手数料が0.65%に設定され、ナスダックでティッカー「BITA」として上場・売買される予定と報じられている。"
+          ],
+          "whyImportant": "現物保有だけでなく利回り型商品へ暗号資産ETFが広がることで、機関投資家向けの商品設計がさらに多様化する。",
+          "source": "Iolite",
+          "link": "https://iolite.net/news/coinpost-716510"
+        }
+      ]
+    },
+    {
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均が大幅上昇、中東情勢の緊張緩和期待で買い先行",
+          "summaryLines": [
+            "12日朝の東京株式市場で日経平均株価は一時2200円超上昇し、6万6000円台を回復した。",
+            "米大統領がイランへの空爆中止を表明したことで原油先物が下落し、ニューヨーク市場の株高を受けて東京市場でも買い注文が集中した。"
+          ],
+          "whyImportant": "地政学リスクと原油価格の変化が、半導体・AI関連株を含む日本株のリスク選好に直結している。",
+          "source": "日テレNEWS NNN",
+          "link": "https://news.ntv.co.jp/category/economy/2c02b69b435146408fa933f52921d2fd"
+        },
+        {
+          "title": "スペースXが過去最大規模のIPO、12日にナスダック上場へ",
+          "summaryLines": [
+            "ロイターは、イーロン・マスク氏率いる米宇宙企業スペースXがIPOを通じて750億ドルを調達したと報じた。",
+            "12日にナスダックへ上場する見通しで、巨大テック企業やAI関連企業の上場市場にも影響する大型案件として注目されている。"
+          ],
+          "whyImportant": "史上最大級のIPOは世界のリスクマネーの配分を動かし、日本市場のハイテク株にも波及し得る。",
+          "source": "ロイター",
+          "link": "https://jp.reuters.com/markets/japan/IL6Y2HYUENJCPI26D6Y3FEVYZ4-2026-06-11/"
+        }
+      ]
+    },
+    {
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "東京ディズニーリゾート、非公式プライベートツアーに注意喚起",
+          "summaryLines": [
+            "東京ディズニーリゾートは、同社と関係のない非公式ガイドによるプライベートツアー販売サイトがSNS上で確認されたとして、利用しないよう呼びかけた。",
+            "公式の「プライベートVIPツアー」はディズニーホテル該当客室宿泊者向けで、7月1日以降は参加費用が一律66万円に改定される。"
+          ],
+          "whyImportant": "人気テーマパーク旅行では、非公式サービスによるトラブル回避と正規サービスの条件確認が旅行計画上の重要点になる。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2116440.html"
+        },
+        {
+          "title": "隅田川花火大会、すみだリバーウォーク貸切の特別鑑賞プラン発売",
+          "summaryLines": [
+            "東武トップツアーズは、7月25日開催の第49回隅田川花火大会に向け、すみだリバーウォークを貸し切る特別鑑賞プランを6月12日12時から発売する。",
+            "合計55席、最大80名分を用意し、東武ホテル特製オードブルとドリンク付きで、6月30日までの申込・購入は10%引きとなる。"
+          ],
+          "whyImportant": "都市型イベント旅行では、混雑回避や限定席を組み込んだ高付加価値プランへの需要が高まっている。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2116381.html"
+        }
+      ]
+    }
+  ],
+  "itemCount": 10
+}
