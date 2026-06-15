@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T20:00:00+09:00",
+  "categories": [
+    {
+      "name": "IT",
+      "items": [
+        {
+          "title": "Google I/O 2026、AIエージェント時代の開発基盤を整理",
+          "summaryLines": [
+            "GoogleはGoogle I/O 2026で、AIエージェントを中心にした開発者向けツール群を発表した。",
+            "Antigravity 2.0、Antigravity CLI、Android CLI、WebMCP、Chrome DevTools for agentsなど、開発・移行・検証をエージェントに任せる基盤が並んだ。"
+          ],
+          "whyImportant": "AIエージェントが単なる補助ツールから、開発環境やWeb標準に組み込まれる段階へ進んでいる。",
+          "source": "＠IT",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news053.html"
+        },
+        {
+          "title": "マッチングアプリ経由の高額コンサル契約、消費者庁が事業者名を挙げ注意喚起",
+          "summaryLines": [
+            "消費者庁は、マッチングアプリで出会った相手から「営業の仕事」を紹介され、高額なコンサル契約や借り入れに誘導された相談が相次いでいるとして注意喚起した。",
+            "大学生などが50万〜150万円の支払いを求められ、実際には同じようにアプリ上で勧誘するよう誘導される事例が紹介されている。"
+          ],
+          "whyImportant": "デジタルサービス上の勧誘が消費者被害につながる例で、本人確認、プラットフォーム運営、若年層保護の課題を示している。",
+          "source": "INTERNET Watch",
+          "link": "https://internet.watch.impress.co.jp/docs/news/2117035.html"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "items": [
+        {
+          "title": "Anthropic、米政府指令でClaude Fable 5とMythos 5の提供を一時停止",
+          "summaryLines": [
+            "Anthropicは、米政府の輸出管理指令に従い、Claude Fable 5とClaude Mythos 5へのアクセスを一時停止した。",
+            "同社は、対象外モデルには影響がないと説明しつつ、政府の懸念はジェイルブレイク可能性をめぐる誤解だとして早期復旧を目指すとしている。"
+          ],
+          "whyImportant": "先端AIモデルの利用可否が安全保障・輸出管理によって急変するリスクを、企業利用者に突きつけた。",
+          "source": "AI Watch",
+          "link": "https://ai.watch.impress.co.jp/docs/news/2117104.html"
+        },
+        {
+          "title": "NECとAnthropicの金融AI協業に国内金融機関8社が参画",
+          "summaryLines": [
+            "NECは、Anthropicとの協業に国内金融機関8社が参画し、Claudeなどを活用した金融サービス高度化に取り組むと発表した。",
+            "品質・付加価値向上、業務プロセス変革、サイバーセキュリティ対策とITモダナイゼーションを主なテーマに掲げている。"
+          ],
+          "whyImportant": "金融機関での生成AI活用が、実験段階から業務特化型の共同開発・ガバナンス構築へ進みつつある。",
+          "source": "Web担当者Forum / Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/5e1bc810696d04e23fe38081a1ec03353e92bd94"
+        }
+      ]
+    },
+    {
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "BTC/JPY週足終値が1000万円台、米イラン和平期待で暗号資産市場が底堅く推移",
+          "summaryLines": [
+            "SBI VCトレードの週次レポートによると、6月7〜13日週のBTC/JPY週足終値は前週比6.03％高の10,329,850円だった。",
+            "BTCの節目水準や米イラン和平合意への期待が支えとなり、AI関連トークンへの資金フローも今週の焦点として挙げられた。"
+          ],
+          "whyImportant": "暗号資産市場は地政学リスク、AI規制、FOMCなど複数の外部材料に左右される局面が続いている。",
+          "source": "あたらしい経済",
+          "link": "https://www.neweconomy.jp/features/sbivct/582583"
+        },
+        {
+          "title": "ビットコインが6万5000ドル台を回復、現物ETFへの資金流入再開が支援材料に",
+          "summaryLines": [
+            "Digital Todayは、ビットコインが6万ドル近辺から反発し、15日午後時点で6万5000ドル台を回復したと報じた。",
+            "中東情勢の緊張緩和観測、SpaceX上場、ビットコイン現物ETFへの8585万ドルの純流入が相場の支えになった。"
+          ],
+          "whyImportant": "ETFフローの改善は機関投資家需要の回復を測る材料で、短期相場の底入れ判断に使われやすい。",
+          "source": "Digital Today",
+          "link": "https://www.digitaltoday.co.kr/jp/view/63436/bitcoin-recovers-65000-as-etf-inflows-resume-and-iran-optimism-spreads"
+        }
+      ]
+    },
+    {
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米国とイラン、戦闘終結に向け19日にスイスで覚書署名へ",
+          "summaryLines": [
+            "NHKは、アメリカとイランが日本時間15日朝、戦闘終結に向けた覚書を交わすことで合意したと報じた。",
+            "署名は19日にスイスで行われる予定で、ホルムズ海峡の開放など具体的な前進につながるかが焦点になる。"
+          ],
+          "whyImportant": "中東情勢の緊張緩和は原油価格、海上輸送、インフレ見通しに直結し、日本経済にも影響が大きい。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015149921000"
+        },
+        {
+          "title": "日経平均が終値で初の6万9000円台、米イラン合意報道で最高値更新",
+          "summaryLines": [
+            "15日の東京株式市場で日経平均株価は前週末比3297円高の6万9317円となり、終値で最高値を更新した。",
+            "米イランの戦闘終結合意報道で原油安とリスク選好が進み、AI・半導体関連を含む幅広い銘柄が買われた。"
+          ],
+          "whyImportant": "地政学リスクの後退が日本株へ即座に波及し、エネルギー価格と成長株期待が市場心理を大きく動かした。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOUB150CQTV10C26A6000000/"
+        }
+      ]
+    },
+    {
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "じゃらん、6月20日開始の「お得な10日間」へ15日からクーポン事前配布",
+          "summaryLines": [
+            "トラベラーズナビによると、じゃらんは6月20日10時から29日まで「じゃらんのお得な10日間」を実施し、一部クーポンを6月15日10時から事前配布する。",
+            "宿泊最大1万円引きクーポンや、宿泊施設クーポン・地域クーポンとの併用により最大2万5000円以上の割引が狙えるとしている。"
+          ],
+          "whyImportant": "夏休み前の国内宿泊需要に向け、クーポンの配布タイミングと併用条件が旅行費用を大きく左右する。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/jalan10days"
+        },
+        {
+          "title": "Travel Watch週間ランキング、温泉宿の最大30％オフ企画が上位に並ぶ",
+          "summaryLines": [
+            "Travel Watchの6月8〜14日アクセスランキングでは、亀の井ホテル熱海、亀の井ホテル草津リゾート、大江戸温泉物語Premium各施設の割引記事が上位に入った。",
+            "楽天トラベルスーパーSALE関連で、熱海、草津、山代温泉、伊香保、別府など国内温泉地の1泊2食プラン最大30％オフが注目を集めた。"
+          ],
+          "whyImportant": "国内旅行では大型セールと温泉宿需要が引き続き強く、夏の地域観光・宿泊稼働の先行指標になりやすい。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/access_ranking/2117052.html"
+        }
+      ]
+    }
+  ],
+  "itemCount": 10
+}
