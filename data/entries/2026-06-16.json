@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T20:00:00+09:00",
+  "categories": [
+    {
+      "name": "IT",
+      "items": [
+        {
+          "title": "ソフトバンクとOpenAI、日本向け「Patching as a Service」を提供開始",
+          "summaryLines": [
+            "ソフトバンクグループ、ソフトバンク、SB OAI Japanは、OpenAIの技術を活用したサイバーセキュリティー対策ソリューション「Patching as a Service」の提供開始を発表した。",
+            "脆弱性診断から修復方針の策定、実装提案までを一気通貫で支援し、まず日本国内の重要インフラ企業に順次案内する。"
+          ],
+          "whyImportant": "AIを攻撃側だけでなく防御側の運用に組み込む動きが、日本の重要インフラ保護へ広がり始めた。",
+          "source": "ソフトバンク",
+          "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260616_02/"
+        },
+        {
+          "title": "厚労省LANでTeamsデータ消失、委託先の設定ミスが原因",
+          "summaryLines": [
+            "厚生労働省は、厚労省LANシステムの更改作業で、Microsoft Teams上のチャットデータや共有ファイルなどが削除されたと発表した。",
+            "東芝が保存期間の設定対象を誤ったことが原因で、一部の行政文書に該当するチャットデータは復元困難になった。"
+          ],
+          "whyImportant": "クラウド業務基盤の移行・保守では、設定レビューと復元テストの不備が行政データの消失に直結する。",
+          "source": "INTERNET Watch",
+          "link": "https://internet.watch.impress.co.jp/docs/news/2117220.html"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "items": [
+        {
+          "title": "PwC、日本企業の生成AI活用率87％も効果創出は6カ国で最低水準と分析",
+          "summaryLines": [
+            "PwC Japanグループは、生成AIに関する2026年春の6カ国比較調査を公開した。",
+            "日本企業の生成AI活用・推進度は87％まで伸びた一方、期待を大きく上回る効果を創出する企業は9％にとどまり、米国や英国との差が目立った。"
+          ],
+          "whyImportant": "生成AI導入の焦点が「使うか」から、効果測定、業務変革、従業員・顧客への成果還元へ移っている。",
+          "source": "PwC Japanグループ",
+          "link": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html"
+        },
+        {
+          "title": "Meta、Facebookに「AI Mode」を導入へ",
+          "summaryLines": [
+            "Metaは、Facebook上でMeta AIが質問に答える新機能「AI Mode」を発表した。",
+            "グループやリールなどMetaアプリ上の公開投稿をもとに回答を生成し、写真・動画編集にもAI機能を追加する。"
+          ],
+          "whyImportant": "SNS検索と生成AI回答が融合し、公開投稿の使われ方やプライバシー説明の重要性がさらに高まる。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/16/news061.html"
+        }
+      ]
+    },
+    {
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン、6万6300ドル付近で日足中期線の攻防",
+          "summaryLines": [
+            "JinaCoinのチャート分析は、ビットコインが6万6300ドル付近で推移し、日足中期HMAの突破・維持が焦点だとした。",
+            "4時間足では上昇の流れが残る一方、直上のボリンジャーバンド上限を超える強い上昇が必要と分析している。"
+          ],
+          "whyImportant": "BTC相場は短期反発局面にあるが、長期上昇への転換にはテクニカル上の確認材料がまだ不足している。",
+          "source": "JinaCoin",
+          "link": "https://jinacoin.ne.jp/chart-analysis-crypto-20260616/"
+        },
+        {
+          "title": "ビットコイン採掘難易度が大幅低下、マイナー採算悪化が背景",
+          "summaryLines": [
+            "CoinPostは、ビットコインの採掘難易度が週末に10.09％低下し、史上11番目に大きい下方修正になったと報じた。",
+            "6月のBTC価格下落で一部マイナーの採算が悪化し、稼働停止がブロック生成速度の低下につながった。"
+          ],
+          "whyImportant": "採掘難易度の低下は、BTC価格だけでなくマイナーの収益性やAI・HPC事業への転換圧力を映す。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=717087"
+        }
+      ]
+    },
+    {
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日銀、政策金利を1.0％程度へ引き上げ",
+          "summaryLines": [
+            "日銀は16日の金融政策決定会合で、無担保コールレート翌日物の誘導目標を0.75％程度から1.0％程度へ引き上げることを決めた。",
+            "決定は7対1の賛成多数で、政策金利は1995年9月以来およそ31年ぶりの高水準となった。"
+          ],
+          "whyImportant": "追加利上げは家計・企業の借入コスト、為替、株式市場の見通しに広く影響する。",
+          "source": "ロイター",
+          "link": "https://jp.reuters.com/economy/bank-of-japan/W2YUMMCCEFMIPAGMMZYM3D63IQ-2026-06-16/"
+        },
+        {
+          "title": "日経平均、取引時間中に初の7万円突破",
+          "summaryLines": [
+            "16日の東京株式市場で日経平均株価は午後に買いが強まり、取引時間中として初めて7万円台に乗せた。",
+            "日銀の追加利上げが市場の想定内と受け止められ、AI・半導体関連を中心に買い安心感が広がった。"
+          ],
+          "whyImportant": "金融政策イベント通過後も日本株への資金流入が続き、AI・半導体期待が相場を支える構図が続いている。",
+          "source": "NHKニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015150931000"
+        }
+      ]
+    },
+    {
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "じゃらん、6月20日開始の「お得な10日間」へクーポン事前配布",
+          "summaryLines": [
+            "じゃらんは、6月20日10時から29日まで実施する「じゃらんのお得な10日間」に向け、一部クーポンを6月15日10時から事前配布している。",
+            "宿泊最大1万円引きクーポンや、宿泊施設・地域クーポンとの併用で最大2万5000円以上の割引が狙える。"
+          ],
+          "whyImportant": "夏の国内旅行予約では、クーポン配布日と併用条件を押さえることで宿泊費を大きく抑えられる。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/jalan10days"
+        },
+        {
+          "title": "沖縄・名護に「コートヤード・バイ・マリオット沖縄リゾート」開業",
+          "summaryLines": [
+            "マリオット・インターナショナルは15日、沖縄県名護市に「コートヤード・バイ・マリオット沖縄リゾート」を開業した。",
+            "旧「かねひで喜瀬ビーチパレス」を約8カ月の休業を経て改装し、全170室で家族連れやグループ旅行需要に対応する。"
+          ],
+          "whyImportant": "沖縄北部の宿泊供給が拡充し、リゾート需要や周辺観光地への送客にプラス材料となる。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOJC161JJ0W6A610C2000000/"
+        }
+      ]
+    }
+  ],
+  "itemCount": 10
+}

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "date": "2026-06-16",
+      "path": "entries/2026-06-16.json",
+      "itemCount": 10,
+      "generatedAt": "2026-06-16T20:00:00+09:00"
+    },
+    {
       "date": "2026-06-15",
       "path": "entries/2026-06-15.json",
       "itemCount": 10,
@@ -31,5 +37,5 @@
       "generatedAt": "2026-06-11T20:00:00+09:00"
     }
   ],
-  "latest": "2026-06-15"
+  "latest": "2026-06-16"
 }
