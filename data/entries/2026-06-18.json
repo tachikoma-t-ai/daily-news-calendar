@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T20:00:00+09:00",
+  "categories": [
+    {
+      "name": "IT",
+      "items": [
+        {
+          "title": "PayPay、請求リンク作成とマイコード表示に本人確認を必須化",
+          "summaryLines": [
+            "PayPayは6月18日、個人間送金で使う「請求リンク作成」と「マイコード表示」にeKYCによる本人確認を必須化した。",
+            "未確認ユーザーは該当機能を使えなくなる一方、残高を送る機能や電話番号・PayPay IDでの受け取りは引き続き本人確認なしで利用できる。"
+          ],
+          "whyImportant": "スマホ決済のP2P送金で、利便性より詐欺・不正利用対策を優先する動きが強まっている。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/18/news084.html"
+        },
+        {
+          "title": "メルカリ、日本の商品を米国から買える「グローバルアプリ」を開始",
+          "summaryLines": [
+            "メルカリは6月18日、米国向けに世界共通アプリ「メルカリ グローバルアプリ」を提供開始したと発表した。",
+            "日本のメルカリやメルカリShopsの商品、駿河屋の在庫を海外から閲覧・購入でき、同社は2028年までに50以上の国と地域への展開を目指す。"
+          ],
+          "whyImportant": "越境ECの拡大で、日本の中古・ホビー市場が海外需要を直接取り込む局面に入っている。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/18/news108.html"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "items": [
+        {
+          "title": "ChatGPTに予約実行機能「Scheduled tasks」、定期作業や監視を自動化",
+          "summaryLines": [
+            "OpenAIは6月17日（現地時間）、ChatGPTの有料プラン向けに「Scheduled tasks」を順次展開すると発表した。",
+            "リマインダー、定期作業、Web検索や連携アプリの監視を指定時刻に実行でき、既存の「Pulse」はこの役割を統合する形で終了する。"
+          ],
+          "whyImportant": "チャット型AIが「聞かれたら答える」ツールから、能動的に動く個人エージェントへ移行している。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html"
+        },
+        {
+          "title": "Anthropic、「Claude Design」と「Claude Code」の双方向連携を強化",
+          "summaryLines": [
+            "AnthropicはClaude Designを強化し、デザインシステムの取り込み、キャンバス上の直接編集、外部ツール連携を拡充した。",
+            "Claude Codeとの同期も強化され、既存コンポーネントを前提にデザインから実装へ、またコードからデザイン編集へ行き来しやすくなった。"
+          ],
+          "whyImportant": "AI開発支援はコード生成だけでなく、デザインシステムと実装をつなぐ制作ワークフロー全体へ広がっている。",
+          "source": "GIGAZINE",
+          "link": "https://gigazine.net/news/20260618-claude-design-claude-code/"
+        }
+      ]
+    },
+    {
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコイン弱気相場続くも、投資家の警戒感は緩和傾向",
+          "summaryLines": [
+            "Glassnodeの週次レポートによると、ビットコインは強気・弱気の境界とされる7万7200ドルを約15％下回り、なお弱気相場にある。",
+            "一方で実現時価総額の減少は直近7日でほぼ止まり、オプション市場の予想変動率も低下して、過度な警戒は和らいでいるという。"
+          ],
+          "whyImportant": "相場の底入れ判断は価格だけでなく、資本流出の鈍化やレバレッジ整理の進み具合が焦点になっている。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=717951"
+        },
+        {
+          "title": "BTC大口保有者の供給量が1680万BTC超で過去最高に",
+          "summaryLines": [
+            "CryptoQuantのデータを基にした分析で、1BTC超を持つ大口投資家の保有供給量が1680万BTCを超え、過去最高を更新した。",
+            "小口投資家も慎重ながら蓄積を再開しており、一部では現物保有からETFへのエクスポージャー移行も進んでいるとみられる。"
+          ],
+          "whyImportant": "下落局面でも大口・小口の蓄積が続くなら、ビットコインの機関化と需給構造の変化を示す材料になる。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=718210"
+        }
+      ]
+    },
+    {
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均、初の7万1000円台で終了　AI・半導体株がけん引",
+          "summaryLines": [
+            "18日の東京株式市場で日経平均は6日続伸し、前営業日比1151円24銭高の7万1053円49銭で取引を終えた。",
+            "FOMCはタカ派的と受け止められたが、米半導体株高や中東情勢への過度な懸念後退が国内のAI・半導体関連株を支えた。"
+          ],
+          "whyImportant": "日本株の最高値更新は、金融政策よりもAI・半導体テーマと地政学リスクの後退が買い材料になっていることを示す。",
+          "source": "ロイター",
+          "link": "https://jp.reuters.com/markets/japan/CVUMZLNGL5KRPDLO5OYN54KV4M-2026-06-18/"
+        },
+        {
+          "title": "ドル円は160円後半で推移、FOMC後のドル買いと介入警戒が綱引き",
+          "summaryLines": [
+            "18日午後3時のドル円は160円後半で推移し、前日ニューヨーク市場終盤からほぼ横ばいだった。",
+            "想定以上にタカ派的なFOMCを受けてドル買いが続く一方、約1年11カ月ぶり高値圏では為替介入への警戒から上値が重くなった。"
+          ],
+          "whyImportant": "円安が160円台後半に定着すると、物価・企業収益・政府の為替対応への圧力が再び強まる。",
+          "source": "ロイター",
+          "link": "https://jp.reuters.com/opinion/DKNPITKFURPNXIC74E3VN6PIV4-2026-06-18/"
+        }
+      ]
+    },
+    {
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "東海道・山陽新幹線、最上級座席「Supreme Class」を10月導入",
+          "summaryLines": [
+            "JR東海とJR西日本は、東海道・山陽新幹線のN700Sに最上級座席「Supreme Class」を10月1日から順次導入する。",
+            "完全個室タイプのCabinは1編成2室限定で、東京発着の料金例は新大阪まで4万2100円から。初列車は東京6時発の「のぞみ1号」を予定する。"
+          ],
+          "whyImportant": "国内幹線移動で高付加価値・個室需要を狙う新サービスが始まり、出張・観光の選択肢が広がる。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2117928.html"
+        },
+        {
+          "title": "JAL、奄美群島5島対象の「しまめぐり割」を販売開始",
+          "summaryLines": [
+            "ジャルパックは「JALふるさと応援割 奄美群島しまめぐり割」を販売開始し、対象5島の旅行代金を1人最大2万円引きにする。",
+            "販売期間は6月16日から12月15日までで、条件を満たす利用者には現地加盟店で使える5000円分の電子クーポンも付与する。"
+          ],
+          "whyImportant": "離島周遊を支援する割引は、夏以降の国内旅行需要と地域消費を押し上げる施策として注目される。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2117906.html"
+        }
+      ]
+    }
+  ],
+  "itemCount": 10
+}
