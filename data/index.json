@@ -1,77 +1,17 @@
 {
-  "entries": [
-    {
-      "date": "2026-06-22",
-      "path": "entries/2026-06-22.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-22T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-21",
-      "path": "entries/2026-06-21.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-21T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-20",
-      "path": "entries/2026-06-20.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-20T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-19",
-      "path": "entries/2026-06-19.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-19T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-18",
-      "path": "entries/2026-06-18.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-18T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-17",
-      "path": "entries/2026-06-17.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-17T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-16",
-      "path": "entries/2026-06-16.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-16T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-15",
-      "path": "entries/2026-06-15.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-15T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-14",
-      "path": "entries/2026-06-14.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-14T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-13",
-      "path": "entries/2026-06-13.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-13T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-12",
-      "path": "entries/2026-06-12.json",
-      "itemCount": 10,
-      "generatedAt": "2026-06-12T20:00:00+09:00"
-    },
-    {
-      "date": "2026-06-11",
-      "path": "entries/2026-06-11.json",
-      "itemCount": 9,
-      "generatedAt": "2026-06-11T20:00:00+09:00"
-    }
-  ],
-  "latest": "2026-06-22"
+  "entries": {
+    "2026-06-11": "data/entries/2026-06-11.json",
+    "2026-06-12": "data/entries/2026-06-12.json",
+    "2026-06-13": "data/entries/2026-06-13.json",
+    "2026-06-14": "data/entries/2026-06-14.json",
+    "2026-06-15": "data/entries/2026-06-15.json",
+    "2026-06-16": "data/entries/2026-06-16.json",
+    "2026-06-17": "data/entries/2026-06-17.json",
+    "2026-06-18": "data/entries/2026-06-18.json",
+    "2026-06-19": "data/entries/2026-06-19.json",
+    "2026-06-20": "data/entries/2026-06-20.json",
+    "2026-06-21": "data/entries/2026-06-21.json",
+    "2026-06-22": "data/entries/2026-06-22.json",
+    "2026-07-10": "data/entries/2026-07-10.json"
+  }
 }
