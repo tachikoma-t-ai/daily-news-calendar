@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-21",
+  "title": "2026-03-21 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "US, Germany, Canada disrupt botnets that infected millions of devices",
+          "summaryLines": [
+            "Reutersによると米独加の当局が連携し、世界300万台超に感染した4つの主要ボットネット基盤を無力化。",
+            "企業・個人端末を悪用する大規模サイバー犯罪インフラに対して、国際協調の摘発が進展。",
+            "感染拡大の温床だったC2インフラ遮断により、被害抑制と再発防止策が焦点。"
+          ],
+          "whyImportant": "ボットネット摘発は企業のセキュリティ運用やインシデント対応の前提を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/media-telecom/us-says-it-disrupted-botnets-that-infected-over-3-million-devices-worldwide-2026-03-20/"
+        },
+        {
+          "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
+          "summaryLines": [
+            "Reutersは、米国防総省でClaude利用停止指示が進む一方、現場では代替が難しいと報道。",
+            "大規模データ検索やコード作成などで使っていた業務が手作業へ戻るケースも出ている。",
+            "生成AIの調達リスク管理と運用実務のギャップが浮き彫りになった。"
+          ],
+          "whyImportant": "政府機関のAI利用方針は、公共調達とエンタープライズAI導入全体に波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/hegseth-wants-pentagon-dump-anthropics-claude-military-users-say-its-not-so-easy-2026-03-19/"
+        },
+        {
+          "title": "UK lawmakers question Lloyds over account glitch that exposed customers' details",
+          "summaryLines": [
+            "Reutersによると英ロイズ銀行で他人の取引情報が見える不具合が発生し、議会が説明を要求。",
+            "英財務委員会はデータ機密性の重大な侵害になり得るとして原因究明を求めた。",
+            "金融アプリの運用信頼性と個人情報保護の課題が改めて注目されている。"
+          ],
+          "whyImportant": "金融システムの情報漏えい問題は、規制対応コストとユーザー信頼に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/uk-lawmakers-question-lloyds-over-account-glitch-that-exposed-customers-details-2026-03-17/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Nvidia gets Beijing nod for H200 chip sales, adapts Groq chip for China, sources say",
+          "summaryLines": [
+            "ReutersによるとNvidiaは中国当局の承認を得てH200の販売を進め、対中向け調整チップも準備。",
+            "輸出規制下でも中国市場需要を取り込むため、製品仕様を地域別に最適化する動きが継続。",
+            "AI半導体の地政学対応がサプライチェーン戦略の中心になっている。"
+          ],
+          "whyImportant": "規制適合チップの供給可否は、世界のAI計算資源配分と企業投資判断に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says-2026-03-18/"
+        },
+        {
+          "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+          "summaryLines": [
+            "ReutersはNvidiaが中国市場で販売可能なGroq系チップの準備を進めていると報道。",
+            "輸出制約が続く中、地域規制に合わせた派生製品で需要を取り込む戦略が鮮明。",
+            "グローバル共通品から地域最適品へのシフトが進む可能性が示された。"
+          ],
+          "whyImportant": "地域別製品戦略の加速は、AIチップ競争のルールと市場シェア争いを変えるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/"
+        },
+        {
+          "title": "Mystery AI model revealed to be Xiaomi's following suspicions it was DeepSeek V4",
+          "summaryLines": [
+            "開発元不明で話題化したモデルについて、ReutersはXiaomi製と判明したと報道。",
+            "DeepSeek系との観測が後退し、中国勢AI開発のプレイヤー地図が修正された。",
+            "モデルの出自確定により、提携・投資観測の前提も見直しが進んでいる。"
+          ],
+          "whyImportant": "モデル開発主体の確定は、企業評価やエコシステム分析の精度に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "US securities regulator issues long-awaited crypto guidance",
+          "summaryLines": [
+            "Reutersによると米SECが暗号資産の証券該当性に関する解釈ガイダンスを提示。",
+            "非証券資産でも販売方法によっては証券規制対象になり得る点が明確化された。",
+            "長らく続いた制度不透明感の緩和に向けた重要な前進と受け止められている。"
+          ],
+          "whyImportant": "法的分類の明確化は、取引所・発行体・投資家のコンプライアンス設計を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/"
+        },
+        {
+          "title": "Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls",
+          "summaryLines": [
+            "Reutersによるとシティは米国の立法進展の遅れを受け、BTC/ETHの12か月目標を引き下げ。",
+            "規制追い風が後ずれすることで、ETF主導の需要拡大シナリオを慎重化。",
+            "マクロと制度要因の遅延が価格見通しに反映された。"
+          ],
+          "whyImportant": "機関投資家の見通し修正は、市場センチメントと資金流入期待に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/"
+        },
+        {
+          "title": "Wall Street is 'ring-fencing' the blockchain tech as Nasdaq’s tokenization plan wins a major regulatory battle",
+          "summaryLines": [
+            "CoinDeskによるとNasdaqのトークン化証券の枠組みがSEC承認を獲得。",
+            "ブロックチェーンの効率性を取り込みつつ、既存の市場構造を維持する設計が注目された。",
+            "伝統金融主導のオンチェーン化が次段階に入ったことを示す動き。"
+          ],
+          "whyImportant": "証券トークン化の制度前進は、暗号資産と伝統金融の接続を加速させるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/business/2026/03/19/nasdaq-winning-sec-approval-to-move-stocks-onchain-shows-how-wall-street-is-taking-charge-of-crypto-tech"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Fed leaves interest rates unchanged, expects inflation to climb",
+          "summaryLines": [
+            "ReutersによるとFRBは政策金利を据え置き、インフレ見通しを引き上げた。",
+            "失業率見通しは安定的ながら、年内利下げ余地は限定的との見方が強まっている。",
+            "金融市場では金利高止まりシナリオへの織り込みが進行。"
+          ],
+          "whyImportant": "米金利見通しは為替・株式・債券の価格形成に世界規模で影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/"
+        },
+        {
+          "title": "Central banks stand ready to tackle war-led inflation",
+          "summaryLines": [
+            "Reutersは主要中銀が、戦争起因のエネルギー高によるインフレ再燃に備える姿勢を報道。",
+            "FRB・BOCなどが必要なら引き締め強化も辞さないトーンを示した。",
+            "地政学ショックが再び金融政策の主要変数となっている。"
+          ],
+          "whyImportant": "エネルギー由来インフレは家計負担と企業収益を同時に圧迫し、景気見通しを左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/americas/fed-boc-strike-hawkish-tones-top-central-banks-convene-wars-shadow-2026-03-18/"
+        },
+        {
+          "title": "Instant View: Investors react to BOJ's decision to hold rates",
+          "summaryLines": [
+            "Reutersによると日銀の据え置き判断に対し、市場は物価見通しと今後の正常化ペースを注視。",
+            "コア物価2%回帰時期の見方が後ろ倒しになるとの分析も示された。",
+            "日本の金利経路をめぐる不確実性が円相場と国内債券に影響している。"
+          ],
+          "whyImportant": "日銀政策の変化は日本の資金調達コストと為替の方向感に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-03-19/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "バスターミナル東京八重洲 第2期エリア（地下A）が開業",
+          "summaryLines": [
+            "トラベルWatchによると、東京駅八重洲口の「バスターミナル東京八重洲」第2期（地下A）が3月20日に開業。",
+            "第1期と合わせて乗降バースは13まで拡大し、2029年には第3期を含む国内最大級20バース体制を予定。",
+            "都心発着の高速バス利便性向上で、国内周遊の移動選択肢が広がる。"
+          ],
+          "whyImportant": "バスターミナル拡張は都市間移動の容量増につながり、国内旅行需要の受け皿を強化するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2095050.html"
+        },
+        {
+          "title": "大洗パークホテル、全館リニューアルオープン",
+          "summaryLines": [
+            "トラベルWatchによると「大洗パークホテル」が3月1日に全館リニューアル。",
+            "サウナ・ジャグジー付きスイート新設、湯上がりラウンジ整備など滞在体験を強化。",
+            "地産地消メニューの提供拡充で地域観光との連動も打ち出した。"
+          ],
+          "whyImportant": "地方宿の高付加価値化は、国内旅行の消費単価向上と再訪需要の創出に重要なため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2094993.html"
+        },
+        {
+          "title": "湯河原の温泉旅館「奥湯河原 結唯 -YUI-」がリニューアル開業へ",
+          "summaryLines": [
+            "トラベルWatchによると「奥湯河原 結唯 -YUI-」本館が5月15日にリニューアル開業予定。",
+            "1フロア1室・全室120㎡超で、天然温泉とサウナを備える客室を用意。",
+            "首都圏近郊の温泉旅行で、体験重視型の宿泊供給が拡大している。"
+          ],
+          "whyImportant": "高品質な近距離温泉宿の増加は、週末国内旅行市場の競争力を高めるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2094778.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：US, Germany, Canada disrupt botnets that infected millions of devices",
+    "AI：Nvidia gets Beijing nod for H200 chip sales, adapts Groq chip for China, sources say",
+    "暗号通貨：US securities regulator issues long-awaited crypto guidance"
+  ],
+  "headlines": [
+    {
+      "title": "US, Germany, Canada disrupt botnets that infected millions of devices",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/media-telecom/us-says-it-disrupted-botnets-that-infected-over-3-million-devices-worldwide-2026-03-20/",
+      "snippet": "Reutersによると米独加の当局が連携し、世界300万台超に感染した4つの主要ボットネット基盤を無力化。"
+    },
+    {
+      "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/hegseth-wants-pentagon-dump-anthropics-claude-military-users-say-its-not-so-easy-2026-03-19/",
+      "snippet": "Reutersは、米国防総省でClaude利用停止指示が進む一方、現場では代替が難しいと報道。"
+    },
+    {
+      "title": "UK lawmakers question Lloyds over account glitch that exposed customers' details",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/uk-lawmakers-question-lloyds-over-account-glitch-that-exposed-customers-details-2026-03-17/",
+      "snippet": "Reutersによると英ロイズ銀行で他人の取引情報が見える不具合が発生し、議会が説明を要求。"
+    },
+    {
+      "title": "Nvidia gets Beijing nod for H200 chip sales, adapts Groq chip for China, sources say",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says-2026-03-18/",
+      "snippet": "ReutersによるとNvidiaは中国当局の承認を得てH200の販売を進め、対中向け調整チップも準備。"
+    },
+    {
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/",
+      "snippet": "ReutersはNvidiaが中国市場で販売可能なGroq系チップの準備を進めていると報道。"
+    },
+    {
+      "title": "Mystery AI model revealed to be Xiaomi's following suspicions it was DeepSeek V4",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
+      "snippet": "開発元不明で話題化したモデルについて、ReutersはXiaomi製と判明したと報道。"
+    },
+    {
+      "title": "US securities regulator issues long-awaited crypto guidance",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/",
+      "snippet": "Reutersによると米SECが暗号資産の証券該当性に関する解釈ガイダンスを提示。"
+    },
+    {
+      "title": "Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/citigroup-cuts-12-month-bitcoin-ether-targets-us-crypto-legislation-stalls-2026-03-17/",
+      "snippet": "Reutersによるとシティは米国の立法進展の遅れを受け、BTC/ETHの12か月目標を引き下げ。"
+    },
+    {
+      "title": "Wall Street is 'ring-fencing' the blockchain tech as Nasdaq’s tokenization plan wins a major regulatory battle",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/business/2026/03/19/nasdaq-winning-sec-approval-to-move-stocks-onchain-shows-how-wall-street-is-taking-charge-of-crypto-tech",
+      "snippet": "CoinDeskによるとNasdaqのトークン化証券の枠組みがSEC承認を獲得。"
+    },
+    {
+      "title": "Fed leaves interest rates unchanged, expects inflation to climb",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/",
+      "snippet": "ReutersによるとFRBは政策金利を据え置き、インフレ見通しを引き上げた。"
+    },
+    {
+      "title": "Central banks stand ready to tackle war-led inflation",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/americas/fed-boc-strike-hawkish-tones-top-central-banks-convene-wars-shadow-2026-03-18/",
+      "snippet": "Reutersは主要中銀が、戦争起因のエネルギー高によるインフレ再燃に備える姿勢を報道。"
+    },
+    {
+      "title": "Instant View: Investors react to BOJ's decision to hold rates",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/view-investors-react-bojs-decision-hold-rates-2026-03-19/",
+      "snippet": "Reutersによると日銀の据え置き判断に対し、市場は物価見通しと今後の正常化ペースを注視。"
+    },
+    {
+      "title": "バスターミナル東京八重洲 第2期エリア（地下A）が開業",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2095050.html",
+      "snippet": "トラベルWatchによると、東京駅八重洲口の「バスターミナル東京八重洲」第2期（地下A）が3月20日に開業。"
+    },
+    {
+      "title": "大洗パークホテル、全館リニューアルオープン",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2094993.html",
+      "snippet": "トラベルWatchによると「大洗パークホテル」が3月1日に全館リニューアル。"
+    },
+    {
+      "title": "湯河原の温泉旅館「奥湯河原 結唯 -YUI-」がリニューアル開業へ",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2094778.html",
+      "snippet": "トラベルWatchによると「奥湯河原 結唯 -YUI-」本館が5月15日にリニューアル開業予定。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 15
+  },
+  "generatedAt": "2026-03-21T11:04:45.067333+00:00"
+}

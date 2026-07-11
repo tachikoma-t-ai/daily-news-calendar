@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-06",
+  "title": "2026-03-06 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "マーベル、2028年度売上見通しが市場予想超え　AIデータセンター向け需要が牽引（Reuters）",
+          "summaryLines": [
+            "米半導体メーカーのマーベルは、2028年度売上見通しを前年比約40%増の約150億ドルとし、市場予想を上回った。",
+            "AIデータセンターで使うインターコネクト技術やカスタム半導体需要の強さが背景で、27年度見通しも上方修正した。",
+            "大手IT各社のAIインフラ投資拡大が、ネットワーク/サーバー半導体の需要を押し上げる構図が鮮明になっている。"
+          ],
+          "whyImportant": "AI投資拡大の恩恵がGPU以外の周辺半導体にも波及していることを示し、ITインフラ投資の裾野を測る指標になるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/world-indices/TWUA5JS4ENPODA4BZ7YMA6ZV6E-2026-03-06/"
+        },
+        {
+          "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げ　フォートナイト復帰へ（Reuters）",
+          "summaryLines": [
+            "GoogleはAndroidで開発者の課金手段の選択肢を広げ、手数料引き下げを順次導入すると発表した。",
+            "開発者はGoogle Playと並行して独自課金や自社サイト誘導が可能になり、サードパーティーストア導入も進める。",
+            "Epic Gamesとの長年の係争解決を受け、フォートナイトがグローバルでGoogleのアプリストアに復帰する。"
+          ],
+          "whyImportant": "アプリ流通の競争環境と手数料モデルの変化が、モバイル開発者の収益構造とプラットフォーム支配力に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、米国防総省との契約条項を修正協議　利用原則の明確化へ（Reuters）",
+          "summaryLines": [
+            "OpenAIのアルトマンCEOは、米国防総省との契約に追加条項を設ける協議を進めていると明らかにした。",
+            "同社サービスが情報機関で利用されないことを確認する条項など、利用範囲の明確化を図る内容が含まれる。",
+            "機密ネットワーク導入契約の発表後、軍事・安全保障分野でのAI利用ガバナンスが改めて焦点となっている。"
+          ],
+          "whyImportant": "政府調達AIの契約設計は、商用AIの公共分野展開における実務ルールの先例になりやすいため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/"
+        },
+        {
+          "title": "日生米国法人、ChatGPTの『法律業務』関与を主張しOpenAIを提訴（Reuters）",
+          "summaryLines": [
+            "日本生命の米国法人は、ChatGPTが非弁行為に当たる形で訴訟を助長したとしてOpenAIを米連邦地裁に提訴した。",
+            "同社は損害賠償に加えて懲罰的賠償を請求し、OpenAI側は『訴えに根拠はない』と反論している。",
+            "対話型AIが法務領域に関与する際の責任範囲を巡る争点が、具体的な訴訟として顕在化した。"
+          ],
+          "whyImportant": "生成AIの実運用で、利用者責任と提供者責任の境界を司法がどう判断するかに影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/STPOPYKV3VLBHAHZ5BU2SKT2BE-2026-03-06/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "米ビットコイン現物ETF、1日で約5億ドル流入　年初来流出をほぼ相殺（CoinPost）",
+          "summaryLines": [
+            "CoinPostは、米ビットコイン現物ETF11本のうち10本で資金流入が確認され、1日で約5億ドル規模となったと報じた。",
+            "イラン攻撃後の安値からビットコインが反発する中、機関フローの変化やセンチメント改善が背景として議論されている。",
+            "一方で『短期的な反発にすぎない可能性』を指摘する見方もあり、市場解釈は分かれている。"
+          ],
+          "whyImportant": "ETFフローは暗号資産市場の需給を直接左右し、短中期の価格トレンドを判断する重要材料になるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692970"
+        },
+        {
+          "title": "ロシア財務省、ステーブルコイン独立法案を検討　既存仮想通貨規制と別軸で設計（CoinPost）",
+          "summaryLines": [
+            "CoinPostによると、ロシア財務省はステーブルコインを既存の暗号資産規制とは分けた独立法として整備する方針を示した。",
+            "背景には対外制裁下でのクロスボーダー決済ニーズがあり、中央銀行や市場関係者との協議が続いている。",
+            "取引所規制法の進展後に法案具体化が見込まれ、ステーブルコインの制度設計が加速する可能性がある。"
+          ],
+          "whyImportant": "国家レベルの法整備はステーブルコインの実需と規制モデルの国際比較に影響し、市場の制度競争を左右するため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692834"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は続伸、押し目買い優勢で55,620円台に（Reuters）",
+          "summaryLines": [
+            "6日の東京市場で日経平均は前日比342円高の55,620円で取引を終え、続伸した。",
+            "中東情勢への警戒は残る一方、値ごろ感を意識した買いが入り、後場終盤には上げ幅を拡大した。",
+            "米株先物の上昇や原油先物の低下が、過度なリスク回避の後退につながったとの見方も出ている。"
+          ],
+          "whyImportant": "地政学リスク局面での日本株の耐性は、投資家のリスク許容度と資本市場の安定性を測る重要シグナルのため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/KYBFJYPG5VM5VJMZCT44JXH4S4-2026-03-06/"
+        },
+        {
+          "title": "城内経財相、中東情勢の長期化リスクを注視　経済・物価への影響を分析へ（Reuters）",
+          "summaryLines": [
+            "城内経済財政相は、中東情勢が長期化・拡大した場合の日本のエネルギー・物価への影響を注視する姿勢を示した。",
+            "現時点で個別コメントは控えるとしつつ、国際金融市場と経済・物価動向を高い関心で見ていくと述べた。",
+            "政策当局が地政学リスクを前提にしたマクロ運営の機動性を重視していることが示された。"
+          ],
+          "whyImportant": "エネルギー価格ショックが再燃する局面では、政府の物価・景気対応スタンスが家計と企業の予見可能性を左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/VZ5PC3SXVBLRBPGNVFLMHTPF3E-2026-03-06/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ブルーインパルス、2026年度の展示飛行予定を公表　全国イベントで観光集客期待（トラベルWatch）",
+          "summaryLines": [
+            "航空自衛隊は、2026年度のブルーインパルス展示飛行スケジュールを発表した。",
+            "復興イベントや航空祭、マラソンなど全国各地の行事で実施予定で、東京・横浜関連イベントも含まれる。",
+            "詳細な飛行経路は今後調整されるが、地域イベントと連動した人流喚起が見込まれる。"
+          ],
+          "whyImportant": "大型飛行イベントは宿泊・交通・周辺消費を同時に押し上げ、地域観光の短期需要を作る起爆剤になりやすいため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091032.html"
+        },
+        {
+          "title": "広島電鉄、併用軌道で50km/h試運転を国内初実施　速達性と安全性向上を検証（トラベルWatch）",
+          "summaryLines": [
+            "広島電鉄は横川線の一部区間で、最高50km/hの試運転を開始した（通常の併用軌道上限40km/hを例外許可）。",
+            "自動車との速度差を縮めることで事故防止と速達性向上を狙い、国交省などの検討会の取り組みとして実施される。",
+            "検証結果が良好なら、将来的に営業車両での50km/h運転導入も計画している。"
+          ],
+          "whyImportant": "都市内交通の移動時間短縮は観光回遊性を高め、地方都市の滞在価値向上に直結するインフラ改善だから。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091203.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：マーベル、2028年度売上見通しが市場予想超え　AIデータセンター向け需要が牽引（Reuters）",
+    "AI：日生米国法人、ChatGPTの\"法律業務\"関与を主張しOpenAIを提訴（Reuters）",
+    "暗号通貨：米ビットコイン現物ETF、1日で約5億ドル流入　年初来流出をほぼ相殺（CoinPost）"
+  ],
+  "headlines": [
+    {
+      "title": "マーベル、2028年度売上見通しが市場予想超え　AIデータセンター向け需要が牽引（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/world-indices/TWUA5JS4ENPODA4BZ7YMA6ZV6E-2026-03-06/",
+      "snippet": "AIデータセンター向け需要の強さを背景に、マーベルが中期売上見通しを上方で示した。"
+    },
+    {
+      "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げ　フォートナイト復帰へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/",
+      "snippet": "Googleはアプリ課金の選択肢を広げ、手数料見直しを進める方針を示した。"
+    },
+    {
+      "title": "OpenAI、米国防総省との契約条項を修正協議　利用原則の明確化へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/",
+      "snippet": "OpenAIは国防総省契約に追加条項を設け、利用範囲の明確化を協議している。"
+    },
+    {
+      "title": "日生米国法人、ChatGPTの\"法律業務\"関与を主張しOpenAIを提訴（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/STPOPYKV3VLBHAHZ5BU2SKT2BE-2026-03-06/",
+      "snippet": "生成AIの法務利用を巡る責任範囲が、具体的な訴訟争点として浮上した。"
+    },
+    {
+      "title": "米ビットコイン現物ETF、1日で約5億ドル流入　年初来流出をほぼ相殺（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692970",
+      "snippet": "米BTC現物ETFに大口流入が入り、需給改善への期待が高まっている。"
+    },
+    {
+      "title": "ロシア財務省、ステーブルコイン独立法案を検討　既存仮想通貨規制と別軸で設計（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692834",
+      "snippet": "ロシアはステーブルコインを別建てで制度化する方向を示した。"
+    },
+    {
+      "title": "日経平均は続伸、押し目買い優勢で55,620円台に（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/KYBFJYPG5VM5VJMZCT44JXH4S4-2026-03-06/",
+      "snippet": "東京株式市場は続伸し、地政学警戒と押し目買いの綱引きの中で底堅さを示した。"
+    },
+    {
+      "title": "城内経財相、中東情勢の長期化リスクを注視　経済・物価への影響を分析へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/VZ5PC3SXVBLRBPGNVFLMHTPF3E-2026-03-06/",
+      "snippet": "政府は中東情勢が国内物価・経済に与える波及を高い関心で監視する姿勢を示した。"
+    },
+    {
+      "title": "ブルーインパルス、2026年度の展示飛行予定を公表　全国イベントで観光集客期待（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091032.html",
+      "snippet": "2026年度の展示飛行計画公表で、各地イベントの来訪需要拡大が期待される。"
+    },
+    {
+      "title": "広島電鉄、併用軌道で50km/h試運転を国内初実施　速達性と安全性向上を検証（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091203.html",
+      "snippet": "路面電車の速度向上実証は、都市内移動の利便性改善に向けた重要な試みとなる。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-06T11:12:00Z"
+}

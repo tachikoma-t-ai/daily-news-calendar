@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-11",
+  "title": "2026-04-11 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日関連ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Broadcom、Google向けカスタムAIチップ開発で長期契約（Reuters）",
+          "summaryLines": [
+            "ReutersによるとBroadcomは、Google向けカスタムAIチップ開発を巡る長期契約を締結した。",
+            "クラウドと生成AI向けの専用半導体を継続供給する体制を強化し、両社の協業を中長期で固定化する動き。",
+            "汎用GPU依存だけでなく、ハイパースケーラー各社の専用チップ戦略が一段と進んでいる。"
+          ],
+          "whyImportant": "AIインフラの主戦場が「モデル性能」だけでなく半導体設計力に移っているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/"
+        },
+        {
+          "title": "Intel、Musk氏のTerafab AIチップ計画に参画（Reuters）",
+          "summaryLines": [
+            "ReutersによるとIntelは、SpaceX・Tesla関連のTerafab AIチップ複合計画への参画を明らかにした。",
+            "ロボティクスとデータセンター向け計算需要を見据え、設計・製造面での連携を拡大する構図。",
+            "巨大AI計算基盤を巡って、半導体企業とプラットフォーム企業の提携再編が加速している。"
+          ],
+          "whyImportant": "次世代AI基盤の供給網が再編されると、価格・供給安定性・競争構造に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/autos-transportation/intel-join-musks-terafab-mega-ai-chip-project-2026-04-07/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "CoreWeave、AnthropicとAIクラウド契約を締結し株価上昇（Reuters）",
+          "summaryLines": [
+            "ReutersによるとCoreWeaveはAnthropicとのAIクラウド契約を発表し、株価が上昇した。",
+            "Nvidia系GPU供給網を背景に、いわゆるネオクラウド企業の存在感がさらに拡大している。",
+            "大規模モデル開発企業が計算資源を外部確保する流れは継続している。"
+          ],
+          "whyImportant": "生成AI競争ではモデル企業の優位性がクラウド調達力に大きく依存するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/"
+        },
+        {
+          "title": "Anthropic、Big Tech連携のAIサイバーセキュリティ計画を公表（Reuters）",
+          "summaryLines": [
+            "ReutersによるとAnthropicは、AppleやAmazon、Microsoftを含むパートナー連携で高度モデルの検証計画を打ち出した。",
+            "サイバーセキュリティ用途での事前評価を重視し、実運用前のリスク低減を狙う。",
+            "高性能モデルの公開と安全性担保を両立させる試みとして注目される。"
+          ],
+          "whyImportant": "AIの実装拡大には、性能競争と同時に安全性評価の標準化が不可欠なため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ホワイトハウス研究、ステーブルコイン利回り論争で業界主張を後押し（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、ホワイトハウスの報告は「利回り提供の全面禁止が銀行健全性を大きく改善するとは限らない」と示した。",
+            "Clarity Act議論で、暗号資産業界側の論点を補強する材料として受け止められている。",
+            "ステーブルコイン規制は金融安定とイノベーション促進のバランスが焦点となる。"
+          ],
+          "whyImportant": "米国の制度設計次第で、ステーブルコイン市場の成長速度と事業モデルが変わるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/08/white-house-study-bolsters-crypto-s-stance-in-stablecoin-yield-fight-against-bankers"
+        },
+        {
+          "title": "SEC、資金調達論点を扱う「Reg Crypto」提案に接近（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによるとSECのAtkins委員長は、資金調達やスタートアップ向け例外を含む規制提案を近く示す考えを表明した。",
+            "証券該当性の線引きを明確化し、発行体・取引基盤の法的不確実性を減らす狙い。",
+            "米規制当局の姿勢が、トークン発行市場と投資家保護の枠組みに影響する。"
+          ],
+          "whyImportant": "規制の明確化は、暗号資産プロジェクトの資金調達コストと市場参加のしやすさを左右するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/07/sec-close-to-putting-out-reg-crypto-for-fundraising-questions-chair-atkins-says"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米3月CPI、ガソリン高騰で大幅上振れ（Reuters）",
+          "summaryLines": [
+            "Reutersによると米国の3月消費者物価は、ガソリン価格急騰を背景に大きく伸びた。",
+            "エネルギー高に加え、一部サービス価格や関税転嫁の影響もインフレ圧力として意識されている。",
+            "市場では利下げ時期の再評価が進み、金利・為替・株式の見通しに波及している。"
+          ],
+          "whyImportant": "インフレ再加速は金融政策の転換時期を遅らせ、世界の資産価格に連鎖するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/middle-east/us-consumer-prices-surge-expected-march-2026-04-10/"
+        },
+        {
+          "title": "サンフランシスコ連銀デイリー総裁、油価ショックでインフレ低下に時間（Reuters）",
+          "summaryLines": [
+            "Reutersによるとデイリー総裁は、原油ショックが続く場合はインフレ率低下に想定以上の時間が必要との見方を示した。",
+            "停戦進展なら物価圧力が和らぐシナリオも示しつつ、不確実性の高さを強調。",
+            "地政学とエネルギー価格が金融政策見通しを左右する構図が続いている。"
+          ],
+          "whyImportant": "政策金利の長期高止まり観測は、企業調達コストと家計負担に直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/middle-east/feds-daly-says-oil-shock-means-getting-inflation-down-takes-longer-2026-04-10/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "JR6社、2026年GW指定席予約のピークは下り5/2・上り5/5（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、JR6社のGW期間（4/24〜5/6）指定席予約は前年超えで推移している。",
+            "ピークは下り5月2日、上り5月5日で、時間帯によっては新幹線が満席になるケースもある。",
+            "早期予約と混雑時間回避が国内移動の実務上のポイントになっている。"
+          ],
+          "whyImportant": "大型連休の国内旅行需要を示す先行指標で、交通・宿泊計画に直結するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2100891.html"
+        },
+        {
+          "title": "富士芝桜まつりが4月11日開幕、約50万株の花景観を展開（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、山梨・富士本栖湖リゾートで「2026富士芝桜まつり」が4/11〜5/24に開催。",
+            "残雪の富士山と芝桜の景観に加え、新フォトスポットや地元グルメ施策を打ち出している。",
+            "春の近距離レジャー需要を取り込む国内イベントとして注目される。"
+          ],
+          "whyImportant": "季節イベントは地方観光の集客と周辺消費の押し上げに寄与するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2099714.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Broadcom、Google向けカスタムAIチップ開発で長期契約（Reuters）",
+    "AI：CoreWeave、AnthropicとAIクラウド契約を締結し株価上昇（Reuters）",
+    "時事・経済：米3月CPI、ガソリン高騰で大幅上振れ（Reuters）"
+  ],
+  "headlines": [
+    {
+      "title": "Broadcom、Google向けカスタムAIチップ開発で長期契約（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/",
+      "snippet": "ReutersによるとBroadcomは、Google向けカスタムAIチップ開発を巡る長期契約を締結した。"
+    },
+    {
+      "title": "Intel、Musk氏のTerafab AIチップ計画に参画（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/autos-transportation/intel-join-musks-terafab-mega-ai-chip-project-2026-04-07/",
+      "snippet": "ReutersによるとIntelは、SpaceX・Tesla関連のTerafab AIチップ複合計画への参画を明らかにした。"
+    },
+    {
+      "title": "CoreWeave、AnthropicとAIクラウド契約を締結し株価上昇（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
+      "snippet": "ReutersによるとCoreWeaveはAnthropicとのAIクラウド契約を発表し、株価が上昇した。"
+    },
+    {
+      "title": "Anthropic、Big Tech連携のAIサイバーセキュリティ計画を公表（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/litigation/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-2026-04-07/",
+      "snippet": "ReutersによるとAnthropicは、AppleやAmazon、Microsoftを含むパートナー連携で高度モデルの検証計画を打ち出した。"
+    },
+    {
+      "title": "ホワイトハウス研究、ステーブルコイン利回り論争で業界主張を後押し（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/08/white-house-study-bolsters-crypto-s-stance-in-stablecoin-yield-fight-against-bankers",
+      "snippet": "CoinDeskによると、ホワイトハウスの報告は「利回り提供の全面禁止が銀行健全性を大きく改善するとは限らない」と示した。"
+    },
+    {
+      "title": "SEC、資金調達論点を扱う「Reg Crypto」提案に接近（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/07/sec-close-to-putting-out-reg-crypto-for-fundraising-questions-chair-atkins-says",
+      "snippet": "CoinDeskによるとSECのAtkins委員長は、資金調達やスタートアップ向け例外を含む規制提案を近く示す考えを表明した。"
+    },
+    {
+      "title": "米3月CPI、ガソリン高騰で大幅上振れ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/middle-east/us-consumer-prices-surge-expected-march-2026-04-10/",
+      "snippet": "Reutersによると米国の3月消費者物価は、ガソリン価格急騰を背景に大きく伸びた。"
+    },
+    {
+      "title": "サンフランシスコ連銀デイリー総裁、油価ショックでインフレ低下に時間（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/middle-east/feds-daly-says-oil-shock-means-getting-inflation-down-takes-longer-2026-04-10/",
+      "snippet": "Reutersによるとデイリー総裁は、原油ショックが続く場合はインフレ率低下に想定以上の時間が必要との見方を示した。"
+    },
+    {
+      "title": "JR6社、2026年GW指定席予約のピークは下り5/2・上り5/5（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2100891.html",
+      "snippet": "トラベルWatchによると、JR6社のGW期間（4/24〜5/6）指定席予約は前年超えで推移している。"
+    },
+    {
+      "title": "富士芝桜まつりが4月11日開幕、約50万株の花景観を展開（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2099714.html",
+      "snippet": "トラベルWatchによると、山梨・富士本栖湖リゾートで「2026富士芝桜まつり」が4/11〜5/24に開催。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-04-11T11:03:00+00:00"
+}

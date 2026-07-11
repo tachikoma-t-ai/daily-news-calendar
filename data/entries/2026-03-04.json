@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-04",
+  "title": "2026-03-04 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "英自動運転スタートアップOxa、1.03億ドル調達　港湾・空港向け展開を加速（Reuters）",
+          "summaryLines": [
+            "英国の自動運転ソフト開発企業Oxaは、1億300万ドルの資金調達を実施した。",
+            "港湾・空港・物流拠点など、限定エリアでの商用展開を拡大する計画が示された。",
+            "公道ロボタクシーより先に、産業インフラ領域で自動運転の実装を進める戦略が鮮明になっている。"
+          ],
+          "whyImportant": "自動運転の収益化が“B2Bの閉域環境”から先行する流れを示し、実装競争の主戦場を映しているため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/uk-self-driving-startup-oxa-raises-103mln-scale-up-ports-airports-2026-03-04/"
+        },
+        {
+          "title": "NVIDIA出資のAyar Labs、5億ドル調達　光I/O半導体に大型資金（Reuters）",
+          "summaryLines": [
+            "Ayar LabsはシリーズEで5億ドルを調達し、企業価値は37.5億ドルと報じられた。",
+            "同社は光を使ってチップ間データ転送を行う技術を開発し、AI時代の帯域・電力課題の解決を狙う。",
+            "半導体サプライチェーンで“電気配線の限界”を補う次世代実装への投資が続いている。"
+          ],
+          "whyImportant": "AI計算需要の増加でチップ間接続がボトルネック化しており、光インターコネクトの実用化は競争力に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/nvidia-backed-ayar-labs-raises-500-million-375-billion-valuation-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、NATO非機密ネットワーク向け契約を検討（Reuters）",
+          "summaryLines": [
+            "OpenAIがNATOの「非機密ネットワーク」でAI技術を展開する契約を検討していると報じられた。",
+            "直近の米国防総省関連契約に続き、安全保障分野での導入範囲が拡大する可能性がある。",
+            "一方で利用範囲やガバナンス設計をどう区分するかが、実装上の重要論点になっている。"
+          ],
+          "whyImportant": "AIの公共・安全保障領域への実装が進むほど、利用境界と統制ルールが国際標準化の争点になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/"
+        },
+        {
+          "title": "OpenAI、GitHub対抗のコードホスティング基盤を開発中と報道（Reuters）",
+          "summaryLines": [
+            "Reutersは、OpenAIがMicrosoftのGitHubに対抗する新しいコードホスティング基盤を開発中と報じた。",
+            "生成AIの“提案”だけでなく、開発ワークフロー全体のプラットフォーム化を狙う動きとみられる。",
+            "AIモデル競争が、開発者基盤・配布経路を含むエコシステム競争へ広がっている。"
+          ],
+          "whyImportant": "開発者プラットフォームの主導権は、将来のAI利用データ・収益モデル・標準APIの支配力に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/openai-is-developing-alternative-microsofts-github-information-reports-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "日銀、ブロックチェーン活用の当座預金決済サンドボックス実験を表明（CoinPost）",
+          "summaryLines": [
+            "CoinPostによると、日銀の植田総裁はブロックチェーン上で当座預金決済を扱う実験に言及した。",
+            "既存システム連携や銀行間・証券決済ユースケースを外部専門家と検討する方針が示された。",
+            "24時間365日決済やステーブルコイン連携の可能性を含む、ホールセール決済基盤の刷新議論が進む。"
+          ],
+          "whyImportant": "中央銀行マネーのトークン化実験は、日本のデジタル通貨・決済インフラ設計に中長期で影響するため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692348"
+        },
+        {
+          "title": "金融庁、SANAE TOKENの違法性を巡り調査検討と報道（CoinPost）",
+          "summaryLines": [
+            "CoinPostは、現職首相名を冠したミームコイン『SANAE TOKEN』を巡り金融庁が調査を検討と報じた。",
+            "無登録発行の可能性や、社会的影響の大きさから事実関係の確認が焦点になっている。",
+            "関係者側の説明と公的見解に差異があり、国内でのトークン発行・表示の適法性が改めて問われている。"
+          ],
+          "whyImportant": "国内トークン発行のコンプライアンス運用に対する当局姿勢を示し、事業者の実務基準に波及しうるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692264"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "植田日銀総裁、中東情勢を注視　中心見通し実現なら追加利上げ継続（Reuters）",
+          "summaryLines": [
+            "植田総裁は、衆院財金委で中東情勢の経済・物価への影響を注視すると述べた。",
+            "中心シナリオが実現すれば政策金利引き上げで緩和度合いを調整する方針を改めて示した。",
+            "原油高が景気下押しとインフレ押し上げの両面を持つ中、賃金動向や為替の影響も重視している。"
+          ],
+          "whyImportant": "地政学リスク下での日銀の反応関数は、金利・為替・企業資金調達コストの見通しを左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/economy/bank-of-japan/BKT4CFKSNBINNBU2P5XEPWCIIA-2026-03-04/"
+        },
+        {
+          "title": "日経平均が大幅続落、前日比2033円安　中東情勢警戒でリスクオフ（Reuters）",
+          "summaryLines": [
+            "東京株式市場で日経平均は3日続落し、前営業日比2033円安で取引を終えた。",
+            "中東情勢の緊迫化を背景にリスク回避が強まり、半導体関連株を中心に売りが広がった。",
+            "日経VIは高水準となり、市場の不安心理の強まりが示された。"
+          ],
+          "whyImportant": "株価急変とボラティリティ上昇は家計資産・企業調達・政策判断に連鎖しやすく、実体経済にも影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/IHFA3ZHVFRIADJRDRBVPK2ZXJU-2026-03-04/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ANA、国内線タイムセール実施　羽田〜新千歳往復2万20円から（トラベルWatch）",
+          "summaryLines": [
+            "ANAは3月3日〜9日に国内線タイムセールを実施し、5月19日〜8月7日搭乗分を対象とした。",
+            "羽田〜新千歳、羽田〜福岡、羽田〜那覇など主要路線で往復セール運賃を設定。",
+            "運賃リニューアル後の需要期に向け、価格訴求で夏季の国内移動需要を取り込む狙いがある。"
+          ],
+          "whyImportant": "航空運賃の販促は国内旅行の実需を直接刺激し、地域間の観光流動に即効性があるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090457.html"
+        },
+        {
+          "title": "関空第2ターミナル国内線、改装後4月1日開業　スマートレーン導入（トラベルWatch）",
+          "summaryLines": [
+            "関西エアポートは、改装した関西国際空港第2ターミナル（国内線）を4月1日に開業すると発表。",
+            "自動手荷物預け機や20m級スマートレーン導入で保安検査場を拡張し、待合エリアも増強した。",
+            "フードコート整備も進み、LCC利用者を中心とした国内移動の利便性向上が見込まれる。"
+          ],
+          "whyImportant": "空港オペレーション改善は混雑時の体験価値を高め、関西発着の国内旅行需要の受け皿を広げるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090093.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：OpenAI、NATO非機密ネットワーク向け契約を検討（Reuters）",
+    "経済：日経平均が大幅続落、前日比2033円安　中東情勢警戒でリスクオフ（Reuters）",
+    "旅行：関空第2ターミナル国内線、改装後4月1日開業　スマートレーン導入（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "英自動運転スタートアップOxa、1.03億ドル調達　港湾・空港向け展開を加速（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/uk-self-driving-startup-oxa-raises-103mln-scale-up-ports-airports-2026-03-04/",
+      "snippet": "英国Oxaは1億300万ドルを調達し、港湾・空港など閉域環境での自動運転展開を拡大する方針。"
+    },
+    {
+      "title": "NVIDIA出資のAyar Labs、5億ドル調達　光I/O半導体に大型資金（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/nvidia-backed-ayar-labs-raises-500-million-375-billion-valuation-2026-03-03/",
+      "snippet": "Ayar Labsは5億ドルを調達し、AI向けの光インターコネクト技術開発を加速する。"
+    },
+    {
+      "title": "OpenAI、NATO非機密ネットワーク向け契約を検討（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai-looking-contract-with-nato-source-says-2026-03-04/",
+      "snippet": "OpenAIはNATOの非機密ネットワーク向けAI展開契約を検討していると報じられた。"
+    },
+    {
+      "title": "OpenAI、GitHub対抗のコードホスティング基盤を開発中と報道（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/openai-is-developing-alternative-microsofts-github-information-reports-2026-03-03/",
+      "snippet": "OpenAIがGitHub対抗となる開発者向け基盤を準備しているとReutersが伝えた。"
+    },
+    {
+      "title": "日銀、ブロックチェーン活用の当座預金決済サンドボックス実験を表明（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692348",
+      "snippet": "日銀が当座預金決済でブロックチェーン活用の実験に言及し、制度設計の検討が進む。"
+    },
+    {
+      "title": "金融庁、SANAE TOKENの違法性を巡り調査検討と報道（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692264",
+      "snippet": "金融庁が無登録発行の可能性を含め事実関係を確認する方向と報じられた。"
+    },
+    {
+      "title": "植田日銀総裁、中東情勢を注視　中心見通し実現なら追加利上げ継続（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/economy/bank-of-japan/BKT4CFKSNBINNBU2P5XEPWCIIA-2026-03-04/",
+      "snippet": "中東リスクを注視しつつ、経済・物価が想定通りなら利上げ継続の方針を示した。"
+    },
+    {
+      "title": "日経平均が大幅続落、前日比2033円安　中東情勢警戒でリスクオフ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/IHFA3ZHVFRIADJRDRBVPK2ZXJU-2026-03-04/",
+      "snippet": "日経平均は3日続落し、地政学リスクを背景に今年最大級の下げ幅となった。"
+    },
+    {
+      "title": "ANA、国内線タイムセール実施　羽田〜新千歳往復2万20円から（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090457.html",
+      "snippet": "ANAが夏季搭乗分の国内線セールを実施し、主要幹線で割安な往復運賃を提示した。"
+    },
+    {
+      "title": "関空第2ターミナル国内線、改装後4月1日開業　スマートレーン導入（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090093.html",
+      "snippet": "関空第2ターミナル国内線が改装を終え再開業し、保安検査と待合機能を強化する。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-04T11:07:00Z"
+}

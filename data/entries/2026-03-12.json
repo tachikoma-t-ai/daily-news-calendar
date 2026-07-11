@@ -1,0 +1,179 @@
+{
+  "date": "2026-03-12",
+  "title": "2026-03-12 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "日産、ウーバーと自動運転で協業　2026年後半に東京でロボタクシー実証（Reuters）",
+          "summaryLines": [
+            "日産はウーバーと自動運転分野で協業し、東京でロボタクシーの試験運行を始める計画を発表した。",
+            "EV『リーフ』をベースに、英WayveのAI技術を使った自動運転システムを搭載する。",
+            "まずはドライバー同乗の安全監視付きで小規模に開始し、段階的な拡大を目指す。"
+          ],
+          "whyImportant": "日本の都市交通で“自動運転×配車”の実装が具体段階に入り、モビリティ産業の競争軸が変わるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/G7C6A5FX55JTLDDX7XD5B5GMEI-2026-03-12/"
+        },
+        {
+          "title": "アトラシアン、従業員10％を削減しAI時代向けに再配置（Reuters）",
+          "summaryLines": [
+            "アトラシアンは約1600人（従業員の約10％）のレイオフを発表した。",
+            "経営陣は、目的は『人間をAIに置き換えること』ではなく、AI時代に必要な職種へ資源を再配分することだと説明。",
+            "関連費用として2.25億〜2.36億ドルを見込み、組織と拠点規模も見直す。"
+          ],
+          "whyImportant": "主要SaaS企業の人員戦略が、AI導入を前提にした“職種の再設計”フェーズへ移行しているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/6Q2ZGF4DLFLMRAIKFNQ7CEU3HM-2026-03-12/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "中国の政府機関・国有企業、AIエージェント『OpenClaw』導入自粛を警告（Reuters）",
+          "summaryLines": [
+            "中国の政府機関と国有企業が、セキュリティー懸念を理由にOpenClawの業務端末への導入を警告したと報じられた。",
+            "中央当局や国営メディアは、データ漏えい・削除・不正利用リスクを繰り返し指摘している。",
+            "全面禁止ではないが、職員や従業員にインストールしないよう推奨・指示する動きが出ている。"
+          ],
+          "whyImportant": "生成AIの普及局面で、国家・公共領域の採用可否が“性能”より“セキュリティー統制”で決まる流れが強まるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/HEEYCWX46VMNTDMYDLXBAAMHXQ-2026-03-12/"
+        },
+        {
+          "title": "米国防総省、Anthropic製AIは原則停止方針でも例外利用を容認（Reuters）",
+          "summaryLines": [
+            "米国防総省は、6カ月で段階停止としたAnthropic製生成AIについて、国家安全保障上必要なら例外利用を認める可能性を示した。",
+            "例外は『極めてまれで特別な状況』に限定し、代替手段がなく任務に不可欠な場合にのみ審査される。",
+            "一方で核・弾道ミサイル防衛などの重要任務系からは優先的に排除する方針も確認された。"
+          ],
+          "whyImportant": "政府調達におけるAI規制が“全面禁止/全面容認”ではなく、リスクベース運用へ向かっていることを示すため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/business/technology/3LUNB6JGHZP7NHDYGLMRHRE2CI-2026-03-12/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "英中銀、ポンド連動ステーブルコイン規制案の修正に前向き（Reuters）",
+          "summaryLines": [
+            "英中銀副総裁は、ポンド連動ステーブルコイン規制案について修正に『真に前向き』と表明した。",
+            "発行体に対する無利息預け入れ比率（60:40枠組み）や保有上限など、業界が反発する論点を再検討するとした。",
+            "6月に改めて規則草案を公表し、再度意見公募を実施する見通し。"
+          ],
+          "whyImportant": "主要中銀の規制設計が実務に合わせて調整されれば、ステーブルコインの制度化と利用拡大の現実性が高まるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/3SGIPGPAAZMKDIQS54YKCQN6ZE-2026-03-12/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "ホンダ、通期最終損益を赤字へ下方修正　EV3車種の開発中止が影響（Reuters）",
+          "summaryLines": [
+            "ホンダは2026年3月期の最終損益見通しを黒字3000億円から4200億〜6900億円の赤字へ下方修正した。",
+            "北米向けEV3車種の開発・発売中止に伴う損失計上が主因で、営業損益も赤字見通しへ転落。",
+            "会社側は一過性要因を除けば収益基盤は維持できるとし、HV強化など戦略再構築を進める。"
+          ],
+          "whyImportant": "EV投資の見直しが大手製造業の業績・雇用・サプライチェーンに波及する局面に入っているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/world-indices/VVK5QFFGSZPXDMKBTQCJWKC6DU-2026-03-12/"
+        },
+        {
+          "title": "ドル円は一時159円台、原油高と介入警戒がせめぎ合い（Reuters）",
+          "summaryLines": [
+            "東京市場でドル円は一時159.24円まで上昇し、約2カ月ぶり高値圏を付けた。",
+            "原油高と米長期金利上昇を背景にドル買いが優勢となる一方、為替介入への警戒感が上値を抑えた。",
+            "市場では、当局の口先介入・レートチェックの有無が次の相場方向を左右するとみられている。"
+          ],
+          "whyImportant": "資源価格と為替の連動が強まり、輸入物価や金融政策への圧力を通じて日本経済に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/F62QKGKBJFP3BBPGGVWXLSZIHU-2026-03-12/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR東日本、2026年春の在来線ダイヤ改正　武蔵野線の東京方面直通を増発（トラベルWatch）",
+          "summaryLines": [
+            "JR東日本は3月14日の改正で、武蔵野線の土休日朝時間帯に東京方面（京葉線）直通列車を増発する。",
+            "横浜線・根岸線や仙石線などでワンマン運転の導入・拡大を進め、運行体系を再編。",
+            "西船橋周辺の行先見直しや地方線区の車両統一も含め、混雑緩和と運行安定化を狙う。"
+          ],
+          "whyImportant": "首都圏〜近郊の移動利便性が変わり、週末レジャーや地域回遊の実需に直接影響するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2092850.html"
+        },
+        {
+          "title": "東京シティパス、3月14日から対象施設拡充　地下鉄24時間券セットを強化（トラベルWatch）",
+          "summaryLines": [
+            "東京メトロとリンクティビティは、地下鉄乗り放題と観光特典を組み合わせた『東京シティパス』に7施設を追加する。",
+            "飲食・買い物クーポンや文化施設特典が拡大し、3月30日からはスカイライナー往復を選べるタイプも追加予定。",
+            "料金は改定後、1日券4100円〜・2日券4900円〜・3日券5900円〜となる。"
+          ],
+          "whyImportant": "都市観光の交通と体験を一体販売する動きが、国内旅行の周遊消費単価を押し上げる可能性があるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2092943.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：日産、ウーバーと自動運転で協業　2026年後半に東京でロボタクシー実証（Reuters）",
+    "時事・経済ニュース：ホンダ、通期最終損益を赤字へ下方修正　EV3車種の開発中止が影響（Reuters）",
+    "暗号通貨：英中銀、ポンド連動ステーブルコイン規制案の修正に前向き（Reuters）"
+  ],
+  "headlines": [
+    {
+      "title": "日産、ウーバーと自動運転で協業　2026年後半に東京でロボタクシー実証（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/G7C6A5FX55JTLDDX7XD5B5GMEI-2026-03-12/",
+      "snippet": "日産・ウーバー・Wayveの3社連携で、日本の自動運転配車が実証段階へ進む。"
+    },
+    {
+      "title": "中国の政府機関・国有企業、AIエージェント『OpenClaw』導入自粛を警告（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/HEEYCWX46VMNTDMYDLXBAAMHXQ-2026-03-12/",
+      "snippet": "公共領域の生成AI採用で、セキュリティー統制を優先する姿勢が鮮明になった。"
+    },
+    {
+      "title": "英中銀、ポンド連動ステーブルコイン規制案の修正に前向き（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/3SGIPGPAAZMKDIQS54YKCQN6ZE-2026-03-12/",
+      "snippet": "ステーブルコイン制度設計が、実務的な調整局面へ入っている。"
+    },
+    {
+      "title": "ホンダ、通期最終損益を赤字へ下方修正　EV3車種の開発中止が影響（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/world-indices/VVK5QFFGSZPXDMKBTQCJWKC6DU-2026-03-12/",
+      "snippet": "EV戦略の修正が大手自動車メーカーの業績見通しを大きく揺らした。"
+    },
+    {
+      "title": "JR東日本、2026年春の在来線ダイヤ改正　武蔵野線の東京方面直通を増発（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2092850.html",
+      "snippet": "首都圏近郊の移動動線見直しが、週末・日常の国内移動に影響する。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 9
+  },
+  "generatedAt": "2026-03-12T11:06:00Z"
+}

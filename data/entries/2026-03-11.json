@@ -1,0 +1,203 @@
+{
+  "date": "2026-03-11",
+  "title": "2026-03-11 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "X、デジタル決済「Xマネー」を4月に限定一般公開へ（Reuters）",
+          "summaryLines": [
+            "イーロン・マスク氏は、Xの決済機能「Xマネー」を来月に限定公開すると明らかにした。",
+            "XはVisaとの提携を通じ、アプリ内での送金・決済を実装する体制を整えている。",
+            "投稿・メッセージ・決済を統合した“万能アプリ化”戦略の中核機能として位置づけられる。"
+          ],
+          "whyImportant": "SNSが金融インフラを取り込む動きが加速し、プラットフォーム競争の軸が変わるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/KSFQX67TRFO4ZAPEQGNKZULRWU-2026-03-11/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、ChatGPTへ動画生成「Sora」導入を計画と報道（Reuters）",
+          "summaryLines": [
+            "The Information報道として、OpenAIが動画生成AI「Sora」をChatGPTに組み込む計画が伝えられた。",
+            "Soraは既に単体アプリとして提供されているが、統合後は対話型UIからの動画生成が進む可能性がある。",
+            "OpenAIから公式コメントは出ていない段階で、実装時期と機能範囲が焦点となる。"
+          ],
+          "whyImportant": "テキスト対話から動画生成まで一体化すれば、生成AIの利用ハードルが大きく下がるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/SGXS3IBOQRLY3OT6WEPBODPUPU-2026-03-11/"
+        },
+        {
+          "title": "マイクロソフト、国防総省の指定を巡る訴訟でAnthropic支持の意見書（Reuters）",
+          "summaryLines": [
+            "Microsoftは、Anthropicが米国防総省の“供給網リスク指定”の差し止めを求める訴訟で支援意見書を提出。",
+            "同社は軍向け技術へのAnthropic製品組み込みで直接的な影響を受けるとして、仮処分の必要性を主張した。",
+            "AI安全と国家安全保障を両立する契約・調達ルールの再設計が争点になっている。"
+          ],
+          "whyImportant": "政府調達ルールが、民間AIの提供条件や実装可能領域を左右する先例になるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/TEOJNMA64FNT7IJMXLUGYJK3P4-2026-03-11/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Cboe、ビットコインETFオプションのボラティリティ指数「BITVX」導入へ（Reuters）",
+          "summaryLines": [
+            "Cboeはブラックロックのビットコイン現物ETFオプションを基にした新指数の開始を発表した。",
+            "30日先の予想変動率を示す設計で、VIXに類似した“暗号資産版の恐怖指数”として機能する。",
+            "機関投資家の参入拡大を背景に、価格発見やヘッジ手段の高度化が進んでいる。"
+          ],
+          "whyImportant": "暗号資産市場が伝統金融と同等のリスク管理指標を持つ段階に入ったため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/JCSCDMXEXZJAJLKIMEC2DKRKBA-2026-03-11/"
+        },
+        {
+          "title": "米上院で仮想通貨市場構造法案に妥協案、ステーブルコイン利回り制限を協議（CoinPost）",
+          "summaryLines": [
+            "米上院銀行委員会で、クラリティー法案成立に向けた超党派の妥協案づくりが進んでいる。",
+            "銀行側の懸念である“預金流出”に対応するため、ステーブルコイン保有への利回り付与を制限する方向が示された。",
+            "SEC/CFTCの管轄整理を含む法案進展への期待から、市場は3月中旬以降の審議を注視している。"
+          ],
+          "whyImportant": "米規制の明確化は、機関投資家マネーの流入余地と業界の成長速度に直結するため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693750"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は続伸で寄り付き、心理的節目の5万5000円を回復（Reuters）",
+          "summaryLines": [
+            "東京市場で日経平均は続伸して始まり、寄り後に5万5000円台を回復した。",
+            "米市場での半導体株高を追い風に、アドバンテストや東京エレクトロンなど関連株が堅調に推移。",
+            "指数寄与度の高い主力株にも買いが入り、リスク選好の持ち直しが示された。"
+          ],
+          "whyImportant": "半導体主導の地合い回復が、日本株全体のセンチメント改善を左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/KSSJWB3H7FJZ7DXQXFGFOKJVJQ-2026-03-11/"
+        },
+        {
+          "title": "2月の国内企業物価は前年比2.0％上昇、非鉄・食料が押し上げ（Reuters）",
+          "summaryLines": [
+            "日銀発表の2月企業物価指数は前年比2.0％上昇で、60カ月連続のプラスとなった。",
+            "銅・金などの市況高で非鉄金属が大幅上昇し、農林水産物や飲食料品の価格転嫁も続いた。",
+            "一方で前月比は0.1％下落し、電気・ガス料金支援策によるエネルギー価格低下が下押しした。"
+          ],
+          "whyImportant": "企業の仕入れコスト動向は、今後の消費者物価と金融政策判断の先行指標になるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/business/VDSFDXI6DJJDRC7JDOZCOKBPTA-2026-03-11/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JAL、GW含む国内線タイムセールを実施　羽田〜札幌/那覇が1万円台（トラベルWatch）",
+          "summaryLines": [
+            "JALは3月10日〜11日に国内線タイムセールを実施し、搭乗期間は4月1日〜6月30日。",
+            "羽田〜新千歳/那覇が片道1万10円〜、羽田〜伊丹8,800円〜など主要路線を値下げした。",
+            "同時期に航空券＋宿泊のダイナミックパッケージ販促も進め、春〜初夏需要を取り込む。"
+          ],
+          "whyImportant": "繁忙期を含む運賃低下は、国内旅行の需要喚起と地域消費の拡大に効くため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091249.html"
+        },
+        {
+          "title": "JR東日本、久留里線（久留里〜上総亀山）の廃止届を提出（トラベルWatch）",
+          "summaryLines": [
+            "JR東日本は3月9日付で、久留里線の一部区間について鉄道事業廃止届を国交省に提出した。",
+            "利用減少で鉄道維持のメリットが薄れたとして、代替バスへの交通体系転換を進める方針。",
+            "代替バスの運営・運行費用は18年分を同社が負担し、自治体と詳細調整を行うとしている。"
+          ],
+          "whyImportant": "地方交通の再編は、観光アクセスの設計と地域滞在需要に長期的な影響を与えるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091803.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "AI：OpenAI、ChatGPTへ動画生成『Sora』導入を計画と報道（Reuters）",
+    "暗号通貨：Cboe、ビットコインETFオプションのボラティリティ指数『BITVX』導入へ（Reuters）",
+    "時事・経済ニュース：2月の国内企業物価は前年比2.0％上昇、非鉄・食料が押し上げ（Reuters）"
+  ],
+  "headlines": [
+    {
+      "title": "X、デジタル決済『Xマネー』を4月に限定一般公開へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/KSFQX67TRFO4ZAPEQGNKZULRWU-2026-03-11/",
+      "snippet": "Xが決済機能を本格展開し、SNSと金融の統合モデルを前進させる。"
+    },
+    {
+      "title": "OpenAI、ChatGPTへ動画生成『Sora』導入を計画と報道（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/SGXS3IBOQRLY3OT6WEPBODPUPU-2026-03-11/",
+      "snippet": "対話UIから動画生成まで一体化する可能性が浮上した。"
+    },
+    {
+      "title": "マイクロソフト、国防総省の指定を巡る訴訟でAnthropic支持の意見書（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/TEOJNMA64FNT7IJMXLUGYJK3P4-2026-03-11/",
+      "snippet": "AI安全と国家安全保障を巡る官民ルール形成が加速している。"
+    },
+    {
+      "title": "Cboe、ビットコインETFオプションのボラティリティ指数『BITVX』導入へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/JCSCDMXEXZJAJLKIMEC2DKRKBA-2026-03-11/",
+      "snippet": "暗号資産市場向けの機関投資家用リスク指標が整備される。"
+    },
+    {
+      "title": "米上院で仮想通貨市場構造法案に妥協案、ステーブルコイン利回り制限を協議（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693750",
+      "snippet": "規制明確化に向けた法案協議が再始動し、市場の期待が高まっている。"
+    },
+    {
+      "title": "日経平均は続伸で寄り付き、心理的節目の5万5000円を回復（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/KSSJWB3H7FJZ7DXQXFGFOKJVJQ-2026-03-11/",
+      "snippet": "半導体株高を追い風に日本株のセンチメントが持ち直した。"
+    },
+    {
+      "title": "2月の国内企業物価は前年比2.0％上昇、非鉄・食料が押し上げ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/business/VDSFDXI6DJJDRC7JDOZCOKBPTA-2026-03-11/",
+      "snippet": "企業のコスト上昇圧力が続き、価格転嫁動向が注目される。"
+    },
+    {
+      "title": "JAL、GW含む国内線タイムセールを実施　羽田〜札幌/那覇が1万円台（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091249.html",
+      "snippet": "春〜初夏の国内旅行需要を狙った値下げ販売が進んでいる。"
+    },
+    {
+      "title": "JR東日本、久留里線（久留里〜上総亀山）の廃止届を提出（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091803.html",
+      "snippet": "地方路線のバス転換が進み、地域交通の再設計が本格化している。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 9
+  },
+  "generatedAt": "2026-03-11T11:05:00Z"
+}

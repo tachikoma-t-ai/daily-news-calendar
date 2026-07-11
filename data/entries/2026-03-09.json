@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-09",
+  "title": "2026-03-09 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げを発表（Reuters）",
+          "summaryLines": [
+            "GoogleはAndroidで、開発者がGoogle Play以外の課金システムを併用できるようにし、手数料引き下げも段階導入すると発表した。",
+            "ユーザーを自社サイト決済へ誘導しやすくするほか、サードパーティーアプリストアの導入性も改善する方針。",
+            "Epicとの係争解決を受け、フォートナイトがGoogleアプリストアへ復帰する。"
+          ],
+          "whyImportant": "モバイル配信の手数料構造と競争環境が変わり、アプリ事業者の収益性に直結するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/"
+        },
+        {
+          "title": "オラクルとOpenAI、テキサス州AIデータセンター拡張計画を中止と報道（Reuters）",
+          "summaryLines": [
+            "Reutersによると、OracleとOpenAIはテキサス州アビリーンの主力AIデータセンター拡張計画を取りやめたと報じられた。",
+            "背景には資金調達と需要見通しを巡る調整の長期化がある一方、別キャンパスでの追加容量整備は継続見通し。",
+            "スターゲート全体では、より大規模な容量開発計画は引き続き進んでいる。"
+          ],
+          "whyImportant": "AIインフラ投資の実行速度が、クラウド供給力と関連銘柄の業績見通しを左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/SKRCLWVQBFNGFE7UWXRJIVBJ6M-2026-03-08/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、米国防総省との契約内容を修正協議（Reuters）",
+          "summaryLines": [
+            "OpenAIのアルトマンCEOは、米国防総省との契約に追加条項を設ける方向で協議中と表明した。",
+            "追加条項には、情報機関での利用に別途修正を要することなど、利用範囲の明確化が含まれる。",
+            "軍事・安全保障領域での生成AI活用におけるガバナンス設計が論点となっている。"
+          ],
+          "whyImportant": "公共分野でのAI利用ルールは、民間を含む今後の導入基準と信頼形成に影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/"
+        },
+        {
+          "title": "OpenAI、「GPT-5.4」を公開　プロ向け高性能モデルを展開（Impress Watch）",
+          "summaryLines": [
+            "OpenAIはGPT-5.4を提供開始し、ChatGPT・API・Codexで展開した。",
+            "推論、コーディング、エージェント実行を統合し、専門業務での精度と効率を高めたとしている。",
+            "上位版のGPT-5.4 Proも公開され、長文脈処理や実務ワークフローでの活用を強化した。"
+          ],
+          "whyImportant": "高性能モデルの実装速度が、企業のAI導入競争と業務自動化の水準を押し上げるため。",
+          "source": "watch.impress.co.jp",
+          "link": "https://www.watch.impress.co.jp/docs/news/2091068.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "北朝鮮関連ハッカー、仮想通貨企業を標的に大規模攻撃か（CoinPost）",
+          "summaryLines": [
+            "セキュリティ機関の報告として、北朝鮮関連とみられる攻撃者が複数の暗号資産企業に侵入した可能性が示された。",
+            "Web脆弱性やクラウド認証情報悪用で、APIキーや秘密鍵、取引所関連ソフトなど高価値情報を窃取したとされる。",
+            "直接的な資産流出は未確認だが、将来的な大規模窃取への準備行為として警戒が強まっている。"
+          ],
+          "whyImportant": "取引所・ウォレット運営におけるサプライチェーン防御と鍵管理体制の再点検が急務になるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693385"
+        },
+        {
+          "title": "ビットコイン、地政学リスクで上値重く　原油高が重しに（CoinPost）",
+          "summaryLines": [
+            "CoinPostの週次分析では、BTCは中東情勢の緊迫と原油上昇に左右されながら高値圏で推移した。",
+            "停戦期待や規制進展観測で反発する局面がある一方、エネルギー価格上昇によるインフレ懸念が上値を抑えている。",
+            "市場は地政学ニュースと米金融政策見通しの変化に敏感な展開が続いている。"
+          ],
+          "whyImportant": "暗号資産がマクロ環境に連動する局面では、ボラティリティ管理とイベントリスク対応がより重要になるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693085"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は大幅反落、歴代3位の下げ幅（Reuters）",
+          "summaryLines": [
+            "9日の東京市場で日経平均は前営業日比2,892円安の52,728円で引け、歴代3位の下げ幅を記録した。",
+            "イラン情勢長期化への警戒と原油急騰で世界的なリスクオフが強まり、一時は4,200円超安まで下落した。",
+            "後場は原油上昇一服で下げ渋ったが、半導体関連を中心に幅広く売られた。"
+          ],
+          "whyImportant": "エネルギー価格ショックが株価・企業収益・家計心理へ同時波及する局面に入っているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/C4GFGKWDU5LJJDK5MOH6JS336M-2026-03-09/"
+        },
+        {
+          "title": "東京市場で『トリプル安』、円安・債券安・株安が同時進行（Reuters）",
+          "summaryLines": [
+            "9日の東京市場では、円安・債券安（金利上昇）・株安の『トリプル安』が同時に進行した。",
+            "日経平均は一時3,600円超安、ドル円は一時158円台後半、10年国債利回りも上昇し市場不安が拡大。",
+            "原油価格急騰を起点に、景気後退とインフレ圧力の同時懸念が強まっている。"
+          ],
+          "whyImportant": "資産価格の同時下落は金融環境を急速に引き締め、実体経済への下押し圧力を強めるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/3NOX7H6ODZLUVI26VGFBU6YHGU-2026-03-09/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ピーチ、国内全路線を含む『感謝セール』を実施　国内線2,990円〜（トラベルWatch）",
+          "summaryLines": [
+            "Peachは創業15周年を記念し、国内25路線を含む全路線対象のセールを3月4日〜8日に実施した。",
+            "国内線は成田〜新千歳や関西〜成田などで片道2,990円から、対象搭乗は3月下旬〜10月下旬。",
+            "春〜秋の移動需要を意識した価格施策で、LCC利用の裾野拡大が見込まれる。"
+          ],
+          "whyImportant": "低価格運賃の拡大は国内観光の需要喚起と地域間移動の活性化に直結するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090370.html"
+        },
+        {
+          "title": "ANA、5〜8月搭乗分の国内線タイムセールを実施（トラベルWatch）",
+          "summaryLines": [
+            "ANAは3月3日〜9日に国内線タイムセールを実施し、対象搭乗期間は5月19日〜8月7日。",
+            "羽田〜新千歳往復2万20円から、羽田〜福岡/那覇往復2万460円からなど主要幹線を値下げした。",
+            "新運賃体系と連動し、夏前の早期予約需要を取り込む動きとなっている。"
+          ],
+          "whyImportant": "夏季需要期の早期販売は、航空需要予測と宿泊・観光消費の先行指標になるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090457.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "時事・経済ニュース：日経平均は大幅反落、歴代3位の下げ幅（Reuters）",
+    "IT：オラクルとOpenAI、テキサス州AIデータセンター拡張計画を中止と報道（Reuters）",
+    "暗号通貨：北朝鮮関連ハッカー、仮想通貨企業を標的に大規模攻撃か（CoinPost）"
+  ],
+  "headlines": [
+    {
+      "title": "グーグル、Androidの課金選択肢拡大と手数料引き下げを発表（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/P2FZO3POAZLEXGBGKXDT2FOHPM-2026-03-05/",
+      "snippet": "GoogleはAndroidで課金選択肢を拡大し、手数料引き下げを段階導入する方針を示した。"
+    },
+    {
+      "title": "オラクルとOpenAI、テキサス州AIデータセンター拡張計画を中止と報道（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/SKRCLWVQBFNGFE7UWXRJIVBJ6M-2026-03-08/",
+      "snippet": "両社は一部拡張計画を取りやめた一方、別拠点での容量開発は継続する見通しと報じられた。"
+    },
+    {
+      "title": "OpenAI、米国防総省との契約内容を修正協議（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/EJCAC45CJBIR7CMWJ2Z2SPVZBI-2026-03-03/",
+      "snippet": "OpenAIは利用範囲明確化に向け、米国防総省との契約条項追加を協議している。"
+    },
+    {
+      "title": "OpenAI、『GPT-5.4』を公開　プロ向け高性能モデルを展開（Impress Watch）",
+      "source": "watch.impress.co.jp",
+      "link": "https://www.watch.impress.co.jp/docs/news/2091068.html",
+      "snippet": "GPT-5.4は推論・コーディング・エージェント実行を統合し、専門業務での効率向上を狙う。"
+    },
+    {
+      "title": "北朝鮮関連ハッカー、仮想通貨企業を標的に大規模攻撃か（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693385",
+      "snippet": "複数の暗号資産企業で機密情報窃取が報告され、将来攻撃への準備行為が警戒されている。"
+    },
+    {
+      "title": "ビットコイン、地政学リスクで上値重く　原油高が重しに（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693085",
+      "snippet": "BTCは地政学要因で変動し、原油高によるインフレ懸念が上値を抑える展開となった。"
+    },
+    {
+      "title": "日経平均は大幅反落、歴代3位の下げ幅（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/C4GFGKWDU5LJJDK5MOH6JS336M-2026-03-09/",
+      "snippet": "日経平均は一時4,200円超安となり、終値でも歴代3位の下げ幅を記録した。"
+    },
+    {
+      "title": "東京市場で『トリプル安』、円安・債券安・株安が同時進行（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/3NOX7H6ODZLUVI26VGFBU6YHGU-2026-03-09/",
+      "snippet": "原油急騰を背景に、円安・金利上昇・株安が同時に進み市場の不安定さが増した。"
+    },
+    {
+      "title": "ピーチ、国内全路線を含む『感謝セール』を実施　国内線2,990円〜（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090370.html",
+      "snippet": "創業15周年セールで国内25路線を含む全路線を対象に値下げを実施した。"
+    },
+    {
+      "title": "ANA、5〜8月搭乗分の国内線タイムセールを実施（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090457.html",
+      "snippet": "ANAは主要幹線を中心に往復運賃を引き下げ、夏前需要の取り込みを進めている。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-09T11:05:00Z"
+}

@@ -1,0 +1,390 @@
+{
+  "date": "2026-04-22",
+  "title": "2026-04-22 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "New Google Chrome Security Alert For 3.5 Billion Users",
+          "summaryLines": [
+            "New Google Chrome Security Alert For 3.5 Billion Usersに関する最新動向です。",
+            "概要: Google has issued a new security update for 3.5 billion Chrome users. Here’s what you need to know a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "forbes.com",
+          "link": "https://forbes.com/sites/daveywinder/2026/04/24/new-google-chrome-security-alert-for-35-billion-users"
+        },
+        {
+          "title": "Apryse Expands In-Browser Document Collaboration and Developer Capabilities Across Its Platform",
+          "summaryLines": [
+            "Apryse Expands In-Browser Document Collaboration and Developer Capabilities Across Its Platformに関する最新動向です。",
+            "概要: The next wave of enterprise apps won’t open documents – they",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "globenewswire.com",
+          "link": "https://www.globenewswire.com/news-release/2026/04/22/3278887/0/en/apryse-expands-in-browser-document-collaboration-and-developer-capabilities-across-its-platform.html"
+        },
+        {
+          "title": "Thunderbird and Firefox 150 release • The Register",
+          "summaryLines": [
+            "Thunderbird and Firefox 150 release • The Registerに関する最新動向です。",
+            "概要: If you're stuck without access to tech support – say, half way to the Moon – then you're better off…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "theregister.com",
+          "link": "https://www.theregister.com/2026/04/22/ffox_and_tbird_150/"
+        },
+        {
+          "title": "Introducing Web Console (Beta): Code Where You Build on Salesforce | Salesforce Developers Blog",
+          "summaryLines": [
+            "Introducing Web Console (Beta): Code Where You Build on Salesforce | Salesforce Developers Blogに関する最新動向です。",
+            "概要: A modern, browser-based IDE embedded in Salesforce workflows, built for faster debugging, quicker fi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "developer.salesforce.com",
+          "link": "https://developer.salesforce.com/blogs/2026/04/introducing-web-console-beta-code-where-you-build-on-salesforce"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+          "summaryLines": [
+            "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。",
+            "概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/"
+        },
+        {
+          "title": "DeepSeek Unveils Newest Flagship AI Model a Year after Upending Silicon Valley - Bloomberg",
+          "summaryLines": [
+            "DeepSeek Unveils Newest Flagship AI Model a Year after Upending Silicon Valley - Bloombergに関する最新動向です。",
+            "概要: A year after rattling Silicon Valley with its technology, China’s DeepSeek rolled out preview versio…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough"
+        },
+        {
+          "title": "DeepSeek previews new AI model that 'closes the gap' with frontier models | TechCrunch",
+          "summaryLines": [
+            "DeepSeek previews new AI model that 'closes the gap' with frontier models | TechCrunchに関する最新動向です。",
+            "概要: DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"
+        },
+        {
+          "title": "China's DeepSeek releases preview of long-awaited V4 model as AI race intensifies",
+          "summaryLines": [
+            "China's DeepSeek releases preview of long-awaited V4 model as AI race intensifiesに関する最新動向です。",
+            "概要: Chinese AI startup DeepSeek has released a preview version of its long awaited V4 large language mod…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week",
+          "summaryLines": [
+            "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-weekに関する最新動向です。",
+            "概要: Ether is outperforming bitcoin as ETF flows, spot prices and a 41% jump in Ethereum transactions mov…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week"
+        },
+        {
+          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "summaryLines": [
+            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
+            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/latest/crypto"
+        },
+        {
+          "title": "Current price of Ethereum for April 22, 2026 | Fortune",
+          "summaryLines": [
+            "Current price of Ethereum for April 22, 2026 | Fortuneに関する最新動向です。",
+            "概要: Ethereum isn’t just digital money; it&#x27;s a decentralized computing platform, meaning users can b…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "fortune.com",
+          "link": "https://fortune.com/article/price-of-ethereum-04-22-2026/"
+        },
+        {
+          "title": "Daily Crypto Signals: Bitcoin Eyes $80K Breakout as ETF Inflows Hit $2B, Ethereum Eyes $6K - Forex News by FX Leaders",
+          "summaryLines": [
+            "Daily Crypto Signals: Bitcoin Eyes $80K Breakout as ETF Inflows Hit $2B, Ethereum Eyes $6K - Forex News by FX Leadersに関する最新動向です。",
+            "概要: US-listed spot Bitcoin ETFs posted a seven-day inflow streak worth $1.9 billion, led by BlackRock&#0…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "fxleaders.com",
+          "link": "https://www.fxleaders.com/news/2026/04/24/daily-crypto-signals-bitcoin-eyes-80k-breakout-as-etf-inflows-hit-2b-ethereum-eyes-6k/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Up, or down? War scrambles financial markets' signalling efforts | Reuters",
+          "summaryLines": [
+            "Up, or down? War scrambles financial markets' signalling efforts | Reutersに関する最新動向です。",
+            "概要: The traditional global asset correlations that collapsed when the war in the Middle East erupted rem…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/global-markets-correlations-graphic-2026-04-24/"
+        },
+        {
+          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "summaryLines": [
+            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
+            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+        },
+        {
+          "title": "Stock market news for April 23, 2026",
+          "summaryLines": [
+            "Stock market news for April 23, 2026に関する最新動向です。",
+            "概要: Stocks pulled back on Thursday, led by a drop in software and higher oil prices.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/04/22/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened | Business | The Guardian",
+          "summaryLines": [
+            "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened | Business | The Guardianに関する最新動向です。",
+            "概要: Brent crude hits highest level since the US and Iran first agreed a ceasefire in early April",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "theguardian.com",
+          "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes | Reuters",
+          "summaryLines": [
+            "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes | Reutersに関する最新動向です。",
+            "概要: The S&P 500 and Nasdaq closed at record highs on Friday, ​bolstered by optimism for possible negotia…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/wall-street-futures-mixed-us-iran-stalemate-keeps-investors-edge-2026-04-24/"
+        },
+        {
+          "title": "What a looming jet fuel shortage could mean for summer travel",
+          "summaryLines": [
+            "What a looming jet fuel shortage could mean for summer travelに関する最新動向です。",
+            "概要: Europe may face a jet fuel shortage in several weeks, perhaps leading airlines to cancel flights ahe…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/04/21/what-a-looming-jet-fuel-shortage-could-mean-for-summer-travel.html"
+        },
+        {
+          "title": "Journey Awards 2026: Best Hotels, Airlines and Destinations - InsideHook",
+          "summaryLines": [
+            "Journey Awards 2026: Best Hotels, Airlines and Destinations - InsideHookに関する最新動向です。",
+            "概要: Welcome to The Journey Awards: InsideHook&#039;s travel awards celebrating of the best airlines, hot…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "insidehook.com",
+          "link": "https://insidehook.com/travel/best-travel-destinations-airlines-hotels"
+        },
+        {
+          "title": "Larnaka International Airport Now Welcomes Discover Airlines in Major Lufthansa Group Expansion Move - Travel And Tour World",
+          "summaryLines": [
+            "Larnaka International Airport Now Welcomes Discover Airlines in Major Lufthansa Group Expansion Move - Travel And Tour Worldに関する最新動向です。",
+            "概要: Discover Airlines has launched its operations at Larnaka International Airport, marking the Lufthans…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/larnaka-international-airport-now-welcomes-discover-airlines-in-major-lufthansa-group-expansion-move/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：New Google Chrome Security Alert For 3.5 Billion Users",
+    "AI：DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+    "暗号通貨：Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week"
+  ],
+  "headlines": [
+    {
+      "title": "New Google Chrome Security Alert For 3.5 Billion Users",
+      "source": "forbes.com",
+      "link": "https://forbes.com/sites/daveywinder/2026/04/24/new-google-chrome-security-alert-for-35-billion-users",
+      "snippet": "New Google Chrome Security Alert For 3.5 Billion Usersに関する最新動向です。 概要: Google has issued a new security update for 3.5 billion Chrome users. Here’s what you need to know a…"
+    },
+    {
+      "title": "Apryse Expands In-Browser Document Collaboration and Developer Capabilities Across Its Platform",
+      "source": "globenewswire.com",
+      "link": "https://www.globenewswire.com/news-release/2026/04/22/3278887/0/en/apryse-expands-in-browser-document-collaboration-and-developer-capabilities-across-its-platform.html",
+      "snippet": "Apryse Expands In-Browser Document Collaboration and Developer Capabilities Across Its Platformに関する最新動向です。 概要: The next wave of enterprise apps won’t open documents – they"
+    },
+    {
+      "title": "Thunderbird and Firefox 150 release • The Register",
+      "source": "theregister.com",
+      "link": "https://www.theregister.com/2026/04/22/ffox_and_tbird_150/",
+      "snippet": "Thunderbird and Firefox 150 release • The Registerに関する最新動向です。 概要: If you're stuck without access to tech support – say, half way to the Moon – then you're better off…"
+    },
+    {
+      "title": "Introducing Web Console (Beta): Code Where You Build on Salesforce | Salesforce Developers Blog",
+      "source": "developer.salesforce.com",
+      "link": "https://developer.salesforce.com/blogs/2026/04/introducing-web-console-beta-code-where-you-build-on-salesforce",
+      "snippet": "Introducing Web Console (Beta): Code Where You Build on Salesforce | Salesforce Developers Blogに関する最新動向です。 概要: A modern, browser-based IDE embedded in Salesforce workflows, built for faster debugging, quicker fi…"
+    },
+    {
+      "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
+      "snippet": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。 概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…"
+    },
+    {
+      "title": "DeepSeek Unveils Newest Flagship AI Model a Year after Upending Silicon Valley - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
+      "snippet": "DeepSeek Unveils Newest Flagship AI Model a Year after Upending Silicon Valley - Bloombergに関する最新動向です。 概要: A year after rattling Silicon Valley with its technology, China’s DeepSeek rolled out preview versio…"
+    },
+    {
+      "title": "DeepSeek previews new AI model that 'closes the gap' with frontier models | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "snippet": "DeepSeek previews new AI model that 'closes the gap' with frontier models | TechCrunchに関する最新動向です。 概要: DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural…"
+    },
+    {
+      "title": "China's DeepSeek releases preview of long-awaited V4 model as AI race intensifies",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html",
+      "snippet": "China's DeepSeek releases preview of long-awaited V4 model as AI race intensifiesに関する最新動向です。 概要: Chinese AI startup DeepSeek has released a preview version of its long awaited V4 large language mod…"
+    },
+    {
+      "title": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week",
+      "snippet": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-weekに関する最新動向です。 概要: Ether is outperforming bitcoin as ETF flows, spot prices and a 41% jump in Ethereum transactions mov…"
+    },
+    {
+      "title": "Crypto: Trending News, Latest Updates, Analysis",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/latest/crypto",
+      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
+    },
+    {
+      "title": "Current price of Ethereum for April 22, 2026 | Fortune",
+      "source": "fortune.com",
+      "link": "https://fortune.com/article/price-of-ethereum-04-22-2026/",
+      "snippet": "Current price of Ethereum for April 22, 2026 | Fortuneに関する最新動向です。 概要: Ethereum isn’t just digital money; it&#x27;s a decentralized computing platform, meaning users can b…"
+    },
+    {
+      "title": "Daily Crypto Signals: Bitcoin Eyes $80K Breakout as ETF Inflows Hit $2B, Ethereum Eyes $6K - Forex News by FX Leaders",
+      "source": "fxleaders.com",
+      "link": "https://www.fxleaders.com/news/2026/04/24/daily-crypto-signals-bitcoin-eyes-80k-breakout-as-etf-inflows-hit-2b-ethereum-eyes-6k/",
+      "snippet": "Daily Crypto Signals: Bitcoin Eyes $80K Breakout as ETF Inflows Hit $2B, Ethereum Eyes $6K - Forex News by FX Leadersに関する最新動向です。 概要: US-listed spot Bitcoin ETFs posted a seven-day inflow streak worth $1.9 billion, led by BlackRock&#0…"
+    },
+    {
+      "title": "Up, or down? War scrambles financial markets' signalling efforts | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/global-markets-correlations-graphic-2026-04-24/",
+      "snippet": "Up, or down? War scrambles financial markets' signalling efforts | Reutersに関する最新動向です。 概要: The traditional global asset correlations that collapsed when the war in the Middle East erupted rem…"
+    },
+    {
+      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
+    },
+    {
+      "title": "Stock market news for April 23, 2026",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/04/22/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for April 23, 2026に関する最新動向です。 概要: Stocks pulled back on Thursday, led by a drop in software and higher oil prices."
+    },
+    {
+      "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened | Business | The Guardian",
+      "source": "theguardian.com",
+      "link": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
+      "snippet": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened | Business | The Guardianに関する最新動向です。 概要: Brent crude hits highest level since the US and Iran first agreed a ceasefire in early April"
+    },
+    {
+      "title": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/wall-street-futures-mixed-us-iran-stalemate-keeps-investors-edge-2026-04-24/",
+      "snippet": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes | Reutersに関する最新動向です。 概要: The S&P 500 and Nasdaq closed at record highs on Friday, ​bolstered by optimism for possible negotia…"
+    },
+    {
+      "title": "What a looming jet fuel shortage could mean for summer travel",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/04/21/what-a-looming-jet-fuel-shortage-could-mean-for-summer-travel.html",
+      "snippet": "What a looming jet fuel shortage could mean for summer travelに関する最新動向です。 概要: Europe may face a jet fuel shortage in several weeks, perhaps leading airlines to cancel flights ahe…"
+    },
+    {
+      "title": "Journey Awards 2026: Best Hotels, Airlines and Destinations - InsideHook",
+      "source": "insidehook.com",
+      "link": "https://insidehook.com/travel/best-travel-destinations-airlines-hotels",
+      "snippet": "Journey Awards 2026: Best Hotels, Airlines and Destinations - InsideHookに関する最新動向です。 概要: Welcome to The Journey Awards: InsideHook&#039;s travel awards celebrating of the best airlines, hot…"
+    },
+    {
+      "title": "Larnaka International Airport Now Welcomes Discover Airlines in Major Lufthansa Group Expansion Move - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/larnaka-international-airport-now-welcomes-discover-airlines-in-major-lufthansa-group-expansion-move/",
+      "snippet": "Larnaka International Airport Now Welcomes Discover Airlines in Major Lufthansa Group Expansion Move - Travel And Tour Worldに関する最新動向です。 概要: Discover Airlines has launched its operations at Larnaka International Airport, marking the Lufthans…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-04-26T12:39:39.257650+00:00"
+}

@@ -1,0 +1,220 @@
+{
+  "date": "2026-04-10",
+  "title": "2026-04-10 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日関連ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "SiFive、Nvidiaらから4億ドル調達しデータセンター向けCPU市場へ本格参入（Reuters）",
+          "summaryLines": [
+            "Reutersによると半導体スタートアップSiFiveは、Atreides ManagementやNvidiaなどから4億ドルを調達した。",
+            "資金はデータセンター向けCPU技術の拡張に充てる方針で、AI計算需要の急増を追い風に事業を拡大する。",
+            "RISC-V系プレイヤーとして、既存CPU陣営への対抗軸を強める動きになっている。"
+          ],
+          "whyImportant": "AIインフラの需要拡大で、チップ供給の選択肢が増えるかを左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/sifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09/"
+        },
+        {
+          "title": "Meta、CoreWeaveと追加210億ドル規模のAIクラウド契約（Reuters）",
+          "summaryLines": [
+            "ReutersによるとMetaは、CoreWeaveとの提携を拡大し追加のクラウド計算能力確保へ210億ドル規模の契約を結んだ。",
+            "自社モデル競争力の強化に向け、外部GPUクラウドの長期確保を優先する戦略が鮮明になった。",
+            "AI開発競争で、資本力とインフラ調達力が勝敗を分ける局面が続いている。"
+          ],
+          "whyImportant": "大手プラットフォーマーの巨額インフラ投資が、クラウド価格と供給逼迫に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/coreweave-signs-21-billion-ai-cloud-deal-with-meta-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "米控訴裁、Anthropicの国防総省ブラックリスト停止を当面認めず（Reuters）",
+          "summaryLines": [
+            "Reutersによると米連邦控訴裁判所は、Anthropicに対する国防総省の安全保障上の指定について、差し止めを当面認めなかった。",
+            "同社は軍事用途に関する利用制限を巡って政府側と対立しており、訴訟は継続する見通し。",
+            "生成AI企業の公共調達・安全保障リスク評価を巡る先例として注目される。"
+          ],
+          "whyImportant": "AI企業の契約機会と安全保障ガバナンスの線引きを左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us-court-declines-block-pentagons-anthropic-blacklisting-now-2026-04-08/"
+        },
+        {
+          "title": "OpenAI、月額100ドルのChatGPT ProでAnthropic対抗を強化（CNBC）",
+          "summaryLines": [
+            "CNBCによるとOpenAIは、月額100ドルのChatGPT Proサブスクリプションを発表した。",
+            "上位機能・高性能利用の価格帯を引き上げ、開発者や業務利用ユーザーの囲い込みを進める狙い。",
+            "高単価プラン競争が、モデル性能だけでなく収益構造の差別化にも広がっている。"
+          ],
+          "whyImportant": "生成AIの収益化フェーズで、価格戦略が市場シェアに直結するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/04/09/openai-chatgpt-pro-subscription-anthropic-claude-code.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "日本、暗号資産を金融商品として位置づける制度改正へ（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、日本は暗号資産を金融商品として分類する方向で制度改正を進める。",
+            "無登録業者への罰則強化、インサイダー取引の禁止、発行体の年次開示などが柱とされる。",
+            "国内市場の投資家保護と、機関投資家受け入れの制度基盤整備が同時進行している。"
+          ],
+          "whyImportant": "法的位置づけの明確化は、国内取引所と機関マネーの参入条件を決めるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products"
+        },
+        {
+          "title": "米財務省、サイバー脅威情報共有を暗号資産業界にも拡大（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると米財務省は、従来の金融機関向けハッカー警戒情報の共有枠組みに暗号資産企業を組み込む方針を示した。",
+            "脅威インテリジェンスの即時共有により、取引所や関連事業者の初動対応を底上げする狙い。",
+            "規制面だけでなく、実務レベルでのセキュリティ標準化が進みつつある。"
+          ],
+          "whyImportant": "サイバー対策の共通基盤は、業界全体の信用リスクと被害拡大を抑えるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "イラン戦争の影響でロシア主要石油税収が4月に約90億ドルへ倍増（Reuters試算）",
+          "summaryLines": [
+            "Reutersの試算では、イラン戦争の影響による原油価格上昇でロシアの主要石油関連税収が4月に約90億ドルへ増加した。",
+            "資源価格の地政学プレミアムが、産油国の財政余力を押し上げる構図が鮮明になっている。",
+            "エネルギー市場の変動が各国の財政・為替・インフレに連鎖する局面が続く。"
+          ],
+          "whyImportant": "地政学リスクが資源価格を通じて世界景気と物価に波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/energy/iran-war-doubles-russias-main-oil-revenue-9-bln-april-reuters-calculations-show-2026-04-09/"
+        },
+        {
+          "title": "ゴールドマン、2026年Q2の原油価格見通しを下方修正（Reuters）",
+          "summaryLines": [
+            "Reutersによるとゴールドマン・サックスは2026年第2四半期のBrentとWTIの価格予想を引き下げた。",
+            "需給見通しの再評価を背景に、短期の上振れリスクと中期の調整圧力を併せて織り込む形。",
+            "原油見通しの変更は、航空・物流・化学など幅広い業種の収益前提に影響する。"
+          ],
+          "whyImportant": "原油価格予想の修正は、企業業績見通しとインフレ期待の再計算を促すため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/energy/goldman-sachs-lowers-second-quarter-2026-oil-price-forecasts-2026-04-09/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "浜松マリオットホテル、5月1日開業へ（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、既存のグランドホテル浜松を改装した「浜松マリオットホテル」が5月1日に開業する。",
+            "スイートを含む全236室を備え、静岡県西部エリアでの上位宿泊需要を取り込む狙い。",
+            "国内主要都市近郊でのブランド転換型リニューアルが進んでいる。"
+          ],
+          "whyImportant": "地方中核都市の宿泊供給強化は、週末・連休の国内旅行需要の受け皿になるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2099748.html"
+        },
+        {
+          "title": "アパホテル、北見と福知山で新規開業を発表（トラベルWatch）",
+          "summaryLines": [
+            "トラベルWatchによると、アパホテルは「オホーツク北見」（4月1日）と「福知山駅前」（5月1日）の開業を進める。",
+            "公式サイト/アプリで先行予約を開始し、地方交通結節点でのビジネス・観光需要を狙う。",
+            "地方都市での客室供給拡大が、国内移動の選択肢を広げる流れとなっている。"
+          ],
+          "whyImportant": "駅前立地の供給増は、移動コストと宿泊確保のハードルを下げるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2090608.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：SiFive、Nvidiaらから4億ドル調達しデータセンター向けCPU市場へ本格参入（Reuters）",
+    "AI：OpenAI、月額100ドルのChatGPT ProでAnthropic対抗を強化（CNBC）",
+    "暗号通貨：日本、暗号資産を金融商品として位置づける制度改正へ（CoinDesk）"
+  ],
+  "headlines": [
+    {
+      "title": "SiFive、Nvidiaらから4億ドル調達しデータセンター向けCPU市場へ本格参入（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/sifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09/",
+      "snippet": "Reutersによると半導体スタートアップSiFiveは、Atreides ManagementやNvidiaなどから4億ドルを調達した。"
+    },
+    {
+      "title": "Meta、CoreWeaveと追加210億ドル規模のAIクラウド契約（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/coreweave-signs-21-billion-ai-cloud-deal-with-meta-2026-04-09/",
+      "snippet": "ReutersによるとMetaは、CoreWeaveとの提携を拡大し追加のクラウド計算能力確保へ210億ドル規模の契約を結んだ。"
+    },
+    {
+      "title": "米控訴裁、Anthropicの国防総省ブラックリスト停止を当面認めず（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us-court-declines-block-pentagons-anthropic-blacklisting-now-2026-04-08/",
+      "snippet": "Reutersによると米連邦控訴裁判所は、Anthropicに対する国防総省の安全保障上の指定について、差し止めを当面認めなかった。"
+    },
+    {
+      "title": "OpenAI、月額100ドルのChatGPT ProでAnthropic対抗を強化（CNBC）",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/04/09/openai-chatgpt-pro-subscription-anthropic-claude-code.html",
+      "snippet": "CNBCによるとOpenAIは、月額100ドルのChatGPT Proサブスクリプションを発表した。"
+    },
+    {
+      "title": "日本、暗号資産を金融商品として位置づける制度改正へ（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/10/japan-moves-to-classify-cryptocurrencies-as-financial-products",
+      "snippet": "CoinDeskによると、日本は暗号資産を金融商品として分類する方向で制度改正を進める。"
+    },
+    {
+      "title": "米財務省、サイバー脅威情報共有を暗号資産業界にも拡大（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
+      "snippet": "CoinDeskによると米財務省は、従来の金融機関向けハッカー警戒情報の共有枠組みに暗号資産企業を組み込む方針を示した。"
+    },
+    {
+      "title": "イラン戦争の影響でロシア主要石油税収が4月に約90億ドルへ倍増（Reuters試算）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/energy/iran-war-doubles-russias-main-oil-revenue-9-bln-april-reuters-calculations-show-2026-04-09/",
+      "snippet": "Reutersの試算では、イラン戦争の影響による原油価格上昇でロシアの主要石油関連税収が4月に約90億ドルへ増加した。"
+    },
+    {
+      "title": "ゴールドマン、2026年Q2の原油価格見通しを下方修正（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/energy/goldman-sachs-lowers-second-quarter-2026-oil-price-forecasts-2026-04-09/",
+      "snippet": "Reutersによるとゴールドマン・サックスは2026年第2四半期のBrentとWTIの価格予想を引き下げた。"
+    },
+    {
+      "title": "浜松マリオットホテル、5月1日開業へ（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2099748.html",
+      "snippet": "トラベルWatchによると、既存のグランドホテル浜松を改装した「浜松マリオットホテル」が5月1日に開業する。"
+    },
+    {
+      "title": "アパホテル、北見と福知山で新規開業を発表（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2090608.html",
+      "snippet": "トラベルWatchによると、アパホテルは「オホーツク北見」（4月1日）と「福知山駅前」（5月1日）の開業を進める。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-04-10T11:04:00+00:00"
+}

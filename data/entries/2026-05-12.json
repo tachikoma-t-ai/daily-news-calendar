@@ -1,0 +1,390 @@
+{
+  "date": "2026-05-12",
+  "title": "2026-05-12 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcements",
+          "summaryLines": [
+            "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcementsに関する最新動向です。",
+            "概要: Tech News News: Google I/O 2026 officially kicked off tonight at 10:30 pm IST, broadcasting live fro…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "timesofindia.indiatimes.com",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2026-android-17-updates-android-xr-gemini-intelligence-and-other-things-to-expect/articleshow/131198172.cms"
+        },
+        {
+          "title": "The Best Private Browsers We've Tested for 2026 | PCMag",
+          "summaryLines": [
+            "The Best Private Browsers We've Tested for 2026 | PCMagに関する最新動向です。",
+            "概要: When you access the internet with a standard web browser, marketers can mine your data and target yo…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/stop-trackers-dead-the-best-private-browsers"
+        },
+        {
+          "title": "Browser Market Share 2026: Complete Statistics Report",
+          "summaryLines": [
+            "Browser Market Share 2026: Complete Statistics Reportに関する最新動向です。",
+            "概要: Browser market share for 2026: Chrome, Safari, Edge, Firefox, and challenger data by region and devi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "digitalapplied.com",
+          "link": "https://www.digitalapplied.com/blog/browser-market-share-2026-complete-statistics"
+        },
+        {
+          "title": "Chrome Releases: Stable Channel Update for Desktop",
+          "summaryLines": [
+            "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。",
+            "概要: Note: Access to bug details and links may be kept restricted until a majority of users are updated w…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "chromereleases.googleblog.com",
+          "link": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+          "summaryLines": [
+            "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。",
+            "概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/"
+        },
+        {
+          "title": "The latest AI news we announced in April 2026",
+          "summaryLines": [
+            "The latest AI news we announced in April 2026に関する最新動向です。",
+            "概要: Here are Google’s latest AI updates from April 2026",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "blog.google",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"
+        },
+        {
+          "title": "Google announces AI-powered advances at I/O 2026 | Social Media Today",
+          "summaryLines": [
+            "Google announces AI-powered advances at I/O 2026 | Social Media Todayに関する最新動向です。",
+            "概要: The tech giant’s annual showcase highlighted a range of AI-supported content generation tools across…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "socialmediatoday.com",
+          "link": "https://socialmediatoday.com/news/google-announces-ai-powered-advances-at-io-2026/820667"
+        },
+        {
+          "title": "Google I/O 2026 Recap: Top 10 AI Announcements That You Might Have Missed - Tech",
+          "summaryLines": [
+            "Google I/O 2026 Recap: Top 10 AI Announcements That You Might Have Missed - Techに関する最新動向です。",
+            "概要: All about Gemini AI and its first-ever smart glasses!",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "in.mashable.com",
+          "link": "https://in.mashable.com/tech/109938/google-io-2026-recap-top-10-ai-announcements-that-you-might-have-missed"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "The bitcoin ETF recovery in flows is real. It is just not complete yet",
+          "summaryLines": [
+            "The bitcoin ETF recovery in flows is real. It is just not complete yetに関する最新動向です。",
+            "概要: While ETF inflows have resumed, the recovery has yet to match last fall’s peak.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet"
+        },
+        {
+          "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+          "summaryLines": [
+            "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。",
+            "概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/"
+        },
+        {
+          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "summaryLines": [
+            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
+            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/latest/crypto"
+        },
+        {
+          "title": "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morning",
+          "summaryLines": [
+            "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morningに関する最新動向です。",
+            "概要: Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "finance.yahoo.com",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-15-2026-prices-open-higher-but-slipping-this-morning-111851137.html"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reuters",
+          "summaryLines": [
+            "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reutersに関する最新動向です。",
+            "概要: Major stock indexes mostly eased as technology shares fell on Monday, while Brent oil prices climbed…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-18/"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "summaryLines": [
+            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
+            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+        },
+        {
+          "title": "Stock market news for May 15, 2026",
+          "summaryLines": [
+            "Stock market news for May 15, 2026に関する最新動向です。",
+            "概要: Stocks fell on Friday, bogged down by losses in technology stocks and a rise in U.S. Treasury yields…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reuters",
+          "summaryLines": [
+            "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reutersに関する最新動向です。",
+            "概要: Bulgarian Prime Minister Rumen Radev on Wednesday said he spoke to U.S. President ​Donald Trump over…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/aerospace-defense/bulgaria-wants-us-allow-visa-free-travel-its-nationals-says-pm-2026-05-20/"
+        },
+        {
+          "title": "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour World",
+          "summaryLines": [
+            "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour Worldに関する最新動向です。",
+            "概要: Crowne Plaza Changi Airport named 2026’s best airport hotel, boosting Singapore travel, airline traf…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/qantas-joins-singapore-airlines-emirates-cathay-pacific-passengers-to-rejoice-as-crowne-plaza-changi-airport-named-2026s-top-airport-hotel-how-this-boosts-australian-chinese/"
+        },
+        {
+          "title": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Post",
+          "summaryLines": [
+            "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Postに関する最新動向です。",
+            "概要: Health experts are growing increasingly concerned about the outbreak, given that cases could have be…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "washingtonpost.com",
+          "link": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/"
+        },
+        {
+          "title": "The Latest in Travel & Tourism News",
+          "summaryLines": [
+            "The Latest in Travel & Tourism Newsに関する最新動向です。",
+            "概要: This news roundup covers FIFA World Cup 2026 economic outlook, Viking leadership shifts and ASTA’s w…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "recommend.com",
+          "link": "https://recommend.com/partner/the-latest-in-travel-tourism-news"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcements",
+    "AI：DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+    "暗号通貨：The bitcoin ETF recovery in flows is real. It is just not complete yet"
+  ],
+  "headlines": [
+    {
+      "title": "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcements",
+      "source": "timesofindia.indiatimes.com",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2026-android-17-updates-android-xr-gemini-intelligence-and-other-things-to-expect/articleshow/131198172.cms",
+      "snippet": "Google I/O 2026: SynthID comes to Chrome; Google Gemini 3.5 Flash, Ask YouTube and other key announcementsに関する最新動向です。 概要: Tech News News: Google I/O 2026 officially kicked off tonight at 10:30 pm IST, broadcasting live fro…"
+    },
+    {
+      "title": "The Best Private Browsers We've Tested for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/stop-trackers-dead-the-best-private-browsers",
+      "snippet": "The Best Private Browsers We've Tested for 2026 | PCMagに関する最新動向です。 概要: When you access the internet with a standard web browser, marketers can mine your data and target yo…"
+    },
+    {
+      "title": "Browser Market Share 2026: Complete Statistics Report",
+      "source": "digitalapplied.com",
+      "link": "https://www.digitalapplied.com/blog/browser-market-share-2026-complete-statistics",
+      "snippet": "Browser Market Share 2026: Complete Statistics Reportに関する最新動向です。 概要: Browser market share for 2026: Chrome, Safari, Edge, Firefox, and challenger data by region and devi…"
+    },
+    {
+      "title": "Chrome Releases: Stable Channel Update for Desktop",
+      "source": "chromereleases.googleblog.com",
+      "link": "https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html",
+      "snippet": "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。 概要: Note: Access to bug details and links may be kept restricted until a majority of users are updated w…"
+    },
+    {
+      "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
+      "snippet": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy | Reutersに関する最新動向です。 概要: DeepSeek, the Chinese startup whose low-cost AI model stunned the world last year, launched on Frida…"
+    },
+    {
+      "title": "The latest AI news we announced in April 2026",
+      "source": "blog.google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "snippet": "The latest AI news we announced in April 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from April 2026"
+    },
+    {
+      "title": "Google announces AI-powered advances at I/O 2026 | Social Media Today",
+      "source": "socialmediatoday.com",
+      "link": "https://socialmediatoday.com/news/google-announces-ai-powered-advances-at-io-2026/820667",
+      "snippet": "Google announces AI-powered advances at I/O 2026 | Social Media Todayに関する最新動向です。 概要: The tech giant’s annual showcase highlighted a range of AI-supported content generation tools across…"
+    },
+    {
+      "title": "Google I/O 2026 Recap: Top 10 AI Announcements That You Might Have Missed - Tech",
+      "source": "in.mashable.com",
+      "link": "https://in.mashable.com/tech/109938/google-io-2026-recap-top-10-ai-announcements-that-you-might-have-missed",
+      "snippet": "Google I/O 2026 Recap: Top 10 AI Announcements That You Might Have Missed - Techに関する最新動向です。 概要: All about Gemini AI and its first-ever smart glasses!"
+    },
+    {
+      "title": "The bitcoin ETF recovery in flows is real. It is just not complete yet",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet",
+      "snippet": "The bitcoin ETF recovery in flows is real. It is just not complete yetに関する最新動向です。 概要: While ETF inflows have resumed, the recovery has yet to match last fall’s peak."
+    },
+    {
+      "title": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/legal/government/sec-readies-plan-trading-crypto-versions-stocks-bloomberg-news-reports-2026-05-18/",
+      "snippet": "SEC readies plan for trading crypto versions of stocks, Bloomberg News reports | Reutersに関する最新動向です。 概要: The Trump administration plans to unveil a framework for trading tokenized or ​digital versions of s…"
+    },
+    {
+      "title": "Crypto: Trending News, Latest Updates, Analysis",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/latest/crypto",
+      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morning",
+      "source": "finance.yahoo.com",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-15-2026-prices-open-higher-but-slipping-this-morning-111851137.html",
+      "snippet": "Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morningに関する最新動向です。 概要: Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $…"
+    },
+    {
+      "title": "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-18/",
+      "snippet": "Stocks mostly ease with tech shares while oil prices climb to two-week high | Reutersに関する最新動向です。 概要: Major stock indexes mostly eased as technology shares fell on Monday, while Brent oil prices climbed…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
+    },
+    {
+      "title": "Stock market news for May 15, 2026",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for May 15, 2026に関する最新動向です。 概要: Stocks fell on Friday, bogged down by losses in technology stocks and a rise in U.S. Treasury yields…"
+    },
+    {
+      "title": "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/aerospace-defense/bulgaria-wants-us-allow-visa-free-travel-its-nationals-says-pm-2026-05-20/",
+      "snippet": "Bulgaria wants U.S. to allow visa-free travel for its nationals, says PM | Reutersに関する最新動向です。 概要: Bulgarian Prime Minister Rumen Radev on Wednesday said he spoke to U.S. President ​Donald Trump over…"
+    },
+    {
+      "title": "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/qantas-joins-singapore-airlines-emirates-cathay-pacific-passengers-to-rejoice-as-crowne-plaza-changi-airport-named-2026s-top-airport-hotel-how-this-boosts-australian-chinese/",
+      "snippet": "Qantas joins Singapore Airlines, Emirates & Cathay Pacific Passengers to Rejoice as Crowne Plaza Changi Airport Named 2026’s Top Airport Hotel — How This Boosts Australian, Chinese, Indian Tourism and Puts Singapore Changi, Sydney and Hong Kong Airports on the Global Travel Map - Travel And Tour Worldに関する最新動向です。 概要: Crowne Plaza Changi Airport named 2026’s best airport hotel, boosting Singapore travel, airline traf…"
+    },
+    {
+      "title": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Post",
+      "source": "washingtonpost.com",
+      "link": "https://www.washingtonpost.com/health/2026/05/18/ebola-outbreak-prompts-us-screen-travelers-airports-other-ports-entry/",
+      "snippet": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Postに関する最新動向です。 概要: Health experts are growing increasingly concerned about the outbreak, given that cases could have be…"
+    },
+    {
+      "title": "The Latest in Travel & Tourism News",
+      "source": "recommend.com",
+      "link": "https://recommend.com/partner/the-latest-in-travel-tourism-news",
+      "snippet": "The Latest in Travel & Tourism Newsに関する最新動向です。 概要: This news roundup covers FIFA World Cup 2026 economic outlook, Viking leadership shifts and ASTA’s w…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-05-20T13:14:36.174639+00:00"
+}

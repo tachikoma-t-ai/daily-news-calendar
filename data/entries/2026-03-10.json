@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-10",
+  "title": "2026-03-10 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "マイクロソフト、「Copilot Co-Work」を発表　Anthropicの機能を統合（Reuters）",
+          "summaryLines": [
+            "Microsoftは企業向けCopilotに、Anthropicの「Claude Co-Work」を組み込んだ新機能を発表した。",
+            "アプリ作成・スプレッドシート構築・大量データ整理など、監督下での複雑タスク実行を想定している。",
+            "月内に早期アクセス提供を開始予定で、既存のMicrosoft 365 Copilot体系と連携して展開する。"
+          ],
+          "whyImportant": "企業ITの実務ワークフローに“自律エージェント”が本格導入される転換点になり得るため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/7BVZ5BTEV5JHHDRMEC4V6TJDTE-2026-03-10/"
+        },
+        {
+          "title": "カナダ、TikTokの国内運営継続を条件付きで容認（Reuters）",
+          "summaryLines": [
+            "カナダ政府は国家安全保障審査を終え、TikTokの国内運営継続と投資実行を条件付きで認めた。",
+            "新たな法的拘束力のある約束として、国内拠点維持や文化分野投資、データ保護策の強化を求めている。",
+            "未成年保護を含むプライバシー対策を強化し、規制と事業継続の両立を図る判断となった。"
+          ],
+          "whyImportant": "各国で進むプラットフォーム規制の“禁止一辺倒ではない”現実的なモデルケースとなるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/business/technology/Z4QWVCEYEJJRNLCYIK4IFIR2GY-2026-03-10/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Anthropic、米国防総省を提訴　リスク指定は違法と主張（Reuters）",
+          "summaryLines": [
+            "Anthropicは、国防総省による「サプライチェーン上のリスク」指定の取り消しを求めて提訴した。",
+            "同社は、指定が言論の自由や適正手続きの権利を侵害すると主張し、執行差し止めも求めている。",
+            "OpenAIやGoogleの研究者らが法廷助言書を提出し、業界全体の研究環境への影響を懸念した。"
+          ],
+          "whyImportant": "AI安全策と国家安全保障の線引きが、今後の官民契約ルールを左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/XHVTGKOVNJP2TGCFCTHWDQTYN4-2026-03-09/"
+        },
+        {
+          "title": "米政権、民間向けAI契約で“合法用途の包括許諾”を義務化へ（Reuters/FT報道）",
+          "summaryLines": [
+            "Reutersによると、米政権は政府調達向けに、AI企業へ“あらゆる合法的利用”の不可逆ライセンス提供を求める指針を準備。",
+            "背景には、軍事利用制限を巡る国防総省とAnthropicの対立があり、調達ルール整備を急いでいる。",
+            "契約条件が厳格化すれば、AI企業の提供方針やモデル設計に直接影響する可能性がある。"
+          ],
+          "whyImportant": "政府調達の標準契約が、民間AIベンダーの安全設計と事業戦略を事実上規定するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/HOYB5F3UFZK77GUORVLXDZVSJY-2026-03-08/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "国内取引所の出来高が急増、bitFlyerは一時前日比3倍（CoinPost）",
+          "summaryLines": [
+            "CoinPostによると、株安と円安が重なった局面で国内暗号資産取引所の売買高が急拡大した。",
+            "bitFlyerは3月9日に24時間出来高が一時前日比3倍、Coincheckやbitbankも約2倍まで増加。",
+            "市場急変時の資金シフト先として、暗号資産への短期流入が強まった可能性が示された。"
+          ],
+          "whyImportant": "日本のリスク資産市場で、暗号資産がヘッジ先・回転先として機能し始めている兆候だから。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693552"
+        },
+        {
+          "title": "ビットコイン採掘済み数量が2,000万BTCを突破（CoinPost）",
+          "summaryLines": [
+            "ビットコインの発行上限2,100万BTCに対し、採掘済みが2,000万BTCを超え、95.2%以上が供給済みとなった。",
+            "残り供給は100万BTC未満で、次回半減期は2028年4月見通し、完全発行は2140年ごろとされる。",
+            "ETF保有増と取引所残高低下も重なり、流通供給の先細りが改めて意識されている。"
+          ],
+          "whyImportant": "供給制約の進行は中長期の価格形成や機関投資家の保有戦略に直結するため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=693468"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は大幅反発、原油下落で過度な警戒が後退（Reuters）",
+          "summaryLines": [
+            "10日の東京市場で日経平均は前日比1,519円高の54,248円と反発した。",
+            "前日の急落後に自律反発の買い戻しが入る一方、中東情勢と原油動向への警戒で後場はもみ合いとなった。",
+            "TOPIXも上昇したが、原油相場次第で市場の不安定さが続くとの見方が残る。"
+          ],
+          "whyImportant": "エネルギー価格の変動が日本株全体のリスク許容度を左右する局面が続いているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/JR2EWFRGNJJ3XDY3WD3DLGUFU4-2026-03-10/"
+        },
+        {
+          "title": "G7、石油備蓄放出を含む市場安定化対応を継続協議（Reuters）",
+          "summaryLines": [
+            "片山財務相は、必要に応じたG7財務相会合の継続開催に言及し、国際協調を重視する姿勢を示した。",
+            "赤沢経産相もG7エネルギー相会合で、IEA加盟国による協調備蓄放出を有効策として支持を表明。",
+            "中東情勢の長期化リスクを前提に、金融市場とエネルギー供給の両面で政策対応が進んでいる。"
+          ],
+          "whyImportant": "資源価格ショックへの国際協調の成否が、インフレ・為替・景気の同時安定化に影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/5WX5K4DDNZLNDIBPJ2QJXG7KWU-2026-03-10/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ソラシドエア、5月搭乗分セールを実施　羽田〜九州8,360円〜（トラベルWatch）",
+          "summaryLines": [
+            "ソラシドエアは3月10日〜12日、5月19日〜31日搭乗分の「ソラシドスペシャル」を販売。",
+            "羽田〜鹿児島8,360円〜、羽田〜那覇9,240円〜など、九州・沖縄方面を中心に価格を引き下げた。",
+            "同時にサマーダイヤ期の別運賃も案内し、春〜初夏の国内移動需要を取り込む構え。"
+          ],
+          "whyImportant": "地方路線の価格低下は、国内旅行需要の前倒し予約と地域消費の押し上げにつながるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091849.html"
+        },
+        {
+          "title": "JAL、GW含む国内線タイムセールを開始　羽田〜札幌/那覇1万円〜（トラベルWatch）",
+          "summaryLines": [
+            "JALは3月10日〜11日、国内線タイムセールを実施し、対象搭乗期間は4月1日〜6月30日。",
+            "羽田〜新千歳・那覇が片道1万10円〜、羽田〜伊丹8,800円〜など主要幹線を中心に値下げした。",
+            "GW需要を含む繁忙期を対象に、早期販売で需要の確保を狙う施策となっている。"
+          ],
+          "whyImportant": "繁忙期運賃の低価格化は、家計の旅行計画と航空・宿泊の需要配分に大きく効くため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091249.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "時事・経済ニュース：日経平均は大幅反発、原油下落で過度な警戒が後退（Reuters）",
+    "AI：Anthropic、米国防総省を提訴　リスク指定は違法と主張（Reuters）",
+    "IT：マイクロソフト、『Copilot Co-Work』を発表　Anthropicの機能を統合（Reuters）"
+  ],
+  "headlines": [
+    {
+      "title": "マイクロソフト、『Copilot Co-Work』を発表　Anthropicの機能を統合（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/7BVZ5BTEV5JHHDRMEC4V6TJDTE-2026-03-10/",
+      "snippet": "Microsoftは企業向けCopilotにAnthropicの機能を統合し、自律エージェント需要の取り込みを進める。"
+    },
+    {
+      "title": "カナダ、TikTokの国内運営継続を条件付きで容認（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/business/technology/Z4QWVCEYEJJRNLCYIK4IFIR2GY-2026-03-10/",
+      "snippet": "カナダはデータ保護や未成年保護の強化を条件に、TikTok事業の継続を認めた。"
+    },
+    {
+      "title": "Anthropic、米国防総省を提訴　リスク指定は違法と主張（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/XHVTGKOVNJP2TGCFCTHWDQTYN4-2026-03-09/",
+      "snippet": "AIの軍事利用を巡る対立が訴訟に発展し、業界横断での支持表明も出た。"
+    },
+    {
+      "title": "米政権、民間向けAI契約で“合法用途の包括許諾”を義務化へ（Reuters/FT報道）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/HOYB5F3UFZK77GUORVLXDZVSJY-2026-03-08/",
+      "snippet": "米政府調達の新指針案は、AI企業の契約条件と提供方針に大きな影響を与える可能性がある。"
+    },
+    {
+      "title": "国内取引所の出来高が急増、bitFlyerは一時前日比3倍（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693552",
+      "snippet": "株安・円安局面で国内暗号資産市場への短期資金流入が強まった。"
+    },
+    {
+      "title": "ビットコイン採掘済み数量が2,000万BTCを突破（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=693468",
+      "snippet": "供給上限に対する発行進捗が95％を超え、希少性への注目が高まっている。"
+    },
+    {
+      "title": "日経平均は大幅反発、原油下落で過度な警戒が後退（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/JR2EWFRGNJJ3XDY3WD3DLGUFU4-2026-03-10/",
+      "snippet": "前日の急落後に買い戻しが入り反発したが、中東情勢への警戒は継続している。"
+    },
+    {
+      "title": "G7、石油備蓄放出を含む市場安定化対応を継続協議（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/5WX5K4DDNZLNDIBPJ2QJXG7KWU-2026-03-10/",
+      "snippet": "財務・エネルギー両面での協調枠組みが強化され、政策対応の継続性が示された。"
+    },
+    {
+      "title": "ソラシドエア、5月搭乗分セールを実施　羽田〜九州8,360円〜（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091849.html",
+      "snippet": "九州・沖縄方面の運賃引き下げで、春の国内移動需要の取り込みを進める。"
+    },
+    {
+      "title": "JAL、GW含む国内線タイムセールを開始　羽田〜札幌/那覇1万円〜（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091249.html",
+      "snippet": "GWを含む対象期間で主要路線を値下げし、早期予約の喚起を狙う。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-10T11:10:00Z"
+}

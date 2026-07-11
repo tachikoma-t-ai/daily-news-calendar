@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-18",
+  "title": "2026-03-18 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+          "summaryLines": [
+            "TechCrunchは、Appleの3月発表を総覧し、MacBook Neo・iPhone 17e・M5世代Macなどを整理した。",
+            "MacBook Neoは599ドルの低価格帯で、Apple製ノートの裾野を広げる位置づけ。",
+            "iPhone 17eやiPad Air（M4）など、コスパ重視の新製品群で買い替え需要の取り込みを狙う。"
+          ],
+          "whyImportant": "主要ベンダーの価格レンジ拡張は、個人・教育・法人の端末更新判断に直接影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/"
+        },
+        {
+          "title": "All the news about Apple’s MacBook Neo, iPhone 17E, and more",
+          "summaryLines": [
+            "The VergeはMacBook Neoの実機印象として、価格に対する設計品質と実用性能のバランスを評価。",
+            "Neoは13インチ筐体でUSB-Cや1080pカメラを備える一方、MagSafeやThunderboltは非搭載。",
+            "教育向け割引を含めるとさらに導入しやすく、エントリー機としての存在感が増している。"
+          ],
+          "whyImportant": "低価格でも体験品質を維持できるかは、エコシステム拡大戦略の成否を左右するため。",
+          "source": "theverge.com",
+          "link": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad"
+        },
+        {
+          "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion",
+          "summaryLines": [
+            "Reutersによると、NvidiaはGTCで推論需要を中核に据えた新チップ/ソフト戦略を示した。",
+            "同社はAI関連の収益機会を従来想定から上方修正し、1兆ドル規模と見込む見方を提示。",
+            "生成AI市場の重心が“学習”から“推論最適化”へ移る流れが一段と鮮明になった。"
+          ],
+          "whyImportant": "推論コストの低下と性能向上は、企業AI導入のROIと普及速度を決定づけるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI reportedly plans to add Sora video generation to ChatGPT",
+          "summaryLines": [
+            "Engadgetは、OpenAIが動画生成モデルSoraをChatGPTへ統合する計画を報じた。",
+            "Sora単体アプリの利用鈍化を受け、ChatGPTの巨大ユーザー基盤で再拡大を狙う構図。",
+            "一方で動画推論コストは大きく、クレジット制や追加課金の設計が収益面の焦点になる。"
+          ],
+          "whyImportant": "動画生成の本体統合は、生成AIの利用頻度・課金モデル・競争軸を同時に変えるため。",
+          "source": "engadget.com",
+          "link": "https://www.engadget.com/apps/openai-reportedly-plans-to-add-sora-video-generation-to-chatgpt-222611439.html"
+        },
+        {
+          "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+          "summaryLines": [
+            "TechCrunchによると、Mistralは企業専用モデル構築基盤「Mistral Forge」を発表。",
+            "既存モデルの微調整だけでなく、企業データ起点でのカスタム学習を前面に打ち出した。",
+            "データ主権や運用自由度を重視する企業向けに、OpenAI/Anthropicとの差別化を進める。"
+          ],
+          "whyImportant": "企業の“自社最適AI”需要を取り込めるかは、B2B生成AI市場の主導権を左右するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
+        },
+        {
+          "title": "OpenAI to cut back on side projects to focus on core business, WSJ reports",
+          "summaryLines": [
+            "Reutersは、OpenAIが周辺プロジェクトを絞り込み、コア事業へ集中する方針を報じた。",
+            "経営資源をコード生成や企業向け利用など収益性の高い領域に再配分する狙い。",
+            "大型投資局面での選択と集中が、同社の成長効率を重視するフェーズに入ったことを示す。"
+          ],
+          "whyImportant": "大手AI企業の戦略転換は、開発優先順位とエコシステム全体の投資配分に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/openai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin price news: BTC price target cut to $112,000 at Citigroup; ETH trimmed to $3,175",
+          "summaryLines": [
+            "CoinDeskによると、Citigroupは米規制進展の遅れなどを理由にBTC/ETHの12か月目標を引き下げた。",
+            "新目標はBTC 112,000ドル、ETH 3,175ドルで、ETF資金流入前提も下方修正。",
+            "それでも中長期の上昇余地は残るとし、規制整備が主要な上振れ要因と位置付ける。"
+          ],
+          "whyImportant": "機関投資家の想定レンジ修正は、市場センチメントと資金フロー見通しを変えやすいため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls"
+        },
+        {
+          "title": "The SEC and CFTC join hands: State of Crypto",
+          "summaryLines": [
+            "CoinDeskは、SECとCFTCがデジタル資産監督の連携強化に向けMOUを締結したと報じた。",
+            "共同会合やデータ共有、解釈調整を通じて“規制の継ぎ目”を減らす方針。",
+            "証券/商品区分の実務整理が進めば、事業者のコンプライアンス設計がしやすくなる。"
+          ],
+          "whyImportant": "監督の一貫性向上は、米国市場での新規プロダクト開発と参入判断を後押しするため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto"
+        },
+        {
+          "title": "BTC price analysis: Bitcoin set for best week since September 2025 as correlation with tech stocks weakens",
+          "summaryLines": [
+            "CoinDeskによると、ビットコインは週次で約8.5%上昇し、テック株との相関が低下。",
+            "米現物ETFへの資金流入回復が下支えし、地政学リスク下でも相対的に底堅さを示した。",
+            "“リスク資産の一部”から“独自に反応する資産”への再評価が進む兆しが見える。"
+          ],
+          "whyImportant": "相関構造の変化は、分散投資やヘッジ戦略の前提を見直す契機になるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Consumer prices rose 2.4% annually in February, as expected",
+          "summaryLines": [
+            "CNBC/BLSによると、米2月CPIは前年比2.4%、前月比0.3%で市場予想通り。",
+            "コアCPIは前年比2.5%で、インフレは高止まりしつつ再加速は確認されなかった。",
+            "ただし統計は中東情勢による原油ショック前で、先行きは上振れリスクが残る。"
+          ],
+          "whyImportant": "金融政策の利下げ期待と家計購買力見通しを左右する基礎データだから。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
+        },
+        {
+          "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+          "summaryLines": [
+            "CNBCは、米2025年10-12月期GDP成長率が年率0.7%へ下方改定されたと報じた。",
+            "同時に1月コアPCEは前年比3.1%と高止まりし、景気減速と物価圧力が併存。",
+            "市場ではスタグフレーション懸念が再び意識され、政策運営の難易度が上がっている。"
+          ],
+          "whyImportant": "成長鈍化とインフレ持続の同時進行は、金利・株式・為替に広く波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
+        },
+        {
+          "title": "Global week ahead: Price pressure in the pipeline",
+          "summaryLines": [
+            "CNBCは、原油高を背景に主要国の金利低下シナリオが後退していると分析。",
+            "債券市場では中銀のタカ派織り込みが進み、年内利下げ期待が縮小。",
+            "一時的ショックか持続インフレかの見極めが、FedやECBの政策運営の焦点となる。"
+          ],
+          "whyImportant": "中銀スタンスの変化は、グローバル資産価格と企業調達コストに直結するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/15/global-week-ahead-price-pressure-in-the-pipeline.html"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "3月14日から東京～熱海間のきっぷ購入に注意。「異なる線路」扱いが影響するケースも解説",
+          "summaryLines": [
+            "Travel Watchによると、3月14日改定で東京～熱海間は在来線と新幹線の運賃共通扱いから除外。",
+            "JR東日本の運賃改定により、経路変更時に差額精算が必要となるケースが増える。",
+            "旅程の途中変更や細かい経路設計をする旅行者ほど、事前確認の重要度が高まった。"
+          ],
+          "whyImportant": "首都圏〜伊豆方面の移動実務に直結し、乗車券購入ミスや当日トラブルを防ぐため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2092887.html"
+        },
+        {
+          "title": "JR西日本のダイヤ改正まとめ。大阪環状線・新快速に「うれしート」登場、北陸新幹線の臨時列車ほか【2026春】",
+          "summaryLines": [
+            "JR西日本は3月14日改正で、山陽新幹線の夜間帯利便性や北陸新幹線の輸送を強化。",
+            "大阪環状線・新快速・呉線で有料指定席「うれしート」を拡大し、着席需要へ対応した。",
+            "奈良線など停車体系の見直しも行い、観光・週末移動の使い勝手改善が進む。"
+          ],
+          "whyImportant": "鉄道ダイヤと座席サービスの更新は、国内旅行の行程最適化と快適性に直接効くため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093216.html"
+        },
+        {
+          "title": "「東急ステイ渋谷 恵比寿」 2026年3月17日開業",
+          "summaryLines": [
+            "東急不動産・東急リゾーツ&ステイは「東急ステイ渋谷 恵比寿」を開業した。",
+            "恵比寿駅近接に全77室を配置し、中長期滞在機能や飲食・地域連携コンテンツを強化。",
+            "広域渋谷圏の滞在ハブとして、都市観光とビジネスの双方を取り込む狙い。"
+          ],
+          "whyImportant": "都心の宿泊供給拡充は、国内旅行の宿泊選択肢と価格安定性に寄与するため。",
+          "source": "prtimes.jp",
+          "link": "https://prtimes.jp/main/html/rd/p/000000963.000055787.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+    "AI：OpenAI reportedly plans to add Sora video generation to ChatGPT",
+    "暗号通貨：Bitcoin price news: BTC price target cut to $112,000 at Citigroup; ETH trimmed to $3,175"
+  ],
+  "headlines": [
+    {
+      "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+      "snippet": "Appleが3月に投入した低価格〜上位帯の新製品群を一気に整理。"
+    },
+    {
+      "title": "All the news about Apple’s MacBook Neo, iPhone 17E, and more",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad",
+      "snippet": "MacBook Neoの実機評価で、価格と実用性のバランスが注目された。"
+    },
+    {
+      "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/",
+      "snippet": "Nvidiaは推論需要拡大を背景にAI市場機会の上方見通しを提示。"
+    },
+    {
+      "title": "OpenAI reportedly plans to add Sora video generation to ChatGPT",
+      "source": "engadget.com",
+      "link": "https://www.engadget.com/apps/openai-reportedly-plans-to-add-sora-video-generation-to-chatgpt-222611439.html",
+      "snippet": "SoraのChatGPT統合で動画生成の利用母数拡大が見込まれる。"
+    },
+    {
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "snippet": "Mistralが企業向けカスタムモデル構築基盤Forgeを発表。"
+    },
+    {
+      "title": "OpenAI to cut back on side projects to focus on core business, WSJ reports",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/openai-cut-back-side-projects-focus-core-business-wsj-reports-2026-03-17/",
+      "snippet": "OpenAIが事業の選択と集中を進める方針と報じられた。"
+    },
+    {
+      "title": "Bitcoin price news: BTC price target cut to $112,000 at Citigroup; ETH trimmed to $3,175",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+      "snippet": "CitigroupがBTC/ETH見通しを下方修正し、規制進展遅れを警戒。"
+    },
+    {
+      "title": "The SEC and CFTC join hands: State of Crypto",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
+      "snippet": "SECとCFTCの連携強化で米暗号資産規制の整合性向上が期待される。"
+    },
+    {
+      "title": "BTC price analysis: Bitcoin set for best week since September 2025 as correlation with tech stocks weakens",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/15/bitcoin-set-for-best-week-since-september-2025-as-correlation-with-tech-stocks-weakens",
+      "snippet": "ビットコインが株式との相関を弱めつつ上昇し、ETF流入も回復。"
+    },
+    {
+      "title": "Consumer prices rose 2.4% annually in February, as expected",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html",
+      "snippet": "米2月CPIは予想通りで、インフレは高止まりしつつ横ばい。"
+    },
+    {
+      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
+      "snippet": "米成長率の下方改定とコア物価高止まりで景気懸念が強まる。"
+    },
+    {
+      "title": "Global week ahead: Price pressure in the pipeline",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/15/global-week-ahead-price-pressure-in-the-pipeline.html",
+      "snippet": "原油高で主要中銀の緩和観測が後退し、市場はタカ派を再評価。"
+    },
+    {
+      "title": "3月14日から東京～熱海間のきっぷ購入に注意。「異なる線路」扱いが影響するケースも解説",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2092887.html",
+      "snippet": "東京〜熱海の運賃制度変更で経路選択時の注意点が増えた。"
+    },
+    {
+      "title": "JR西日本のダイヤ改正まとめ。大阪環状線・新快速に「うれしート」登場、北陸新幹線の臨時列車ほか【2026春】",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093216.html",
+      "snippet": "JR西日本がダイヤ改正で移動利便性と着席サービスを拡充。"
+    },
+    {
+      "title": "「東急ステイ渋谷 恵比寿」 2026年3月17日開業",
+      "source": "prtimes.jp",
+      "link": "https://prtimes.jp/main/html/rd/p/000000963.000055787.html",
+      "snippet": "恵比寿に新ホテルが開業し、都市滞在の受け皿が広がる。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 15
+  },
+  "generatedAt": "2026-03-18T11:04:30.000000+00:00"
+}

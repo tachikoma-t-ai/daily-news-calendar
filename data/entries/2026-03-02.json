@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-02",
+  "title": "2026-03-02 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "ＡＳＭＬ、半導体製造装置の光源出力向上　2030年までに生産最大50％増も（Reuters）",
+          "summaryLines": [
+            "ASMLはEUV露光装置の光源出力を600Wから1000Wへ高める技術を開発した。",
+            "1時間当たりの半導体生産量を引き上げ、チップ単価の低減につながる可能性がある。",
+            "TSMC・Intelなど先端半導体メーカー向けで、対中競争を見据えた供給能力強化の意味合いも大きい。"
+          ],
+          "whyImportant": "AI需要で逼迫する先端半導体の供給制約を緩和し、IT産業全体のコストと投資計画に影響するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/O5ONKUB4VNPEDIDLTXDQGLOWP4-2026-02-24/"
+        },
+        {
+          "title": "アングル：ＩＴ・コンサル株売りいつまで、市場は「ＡＩ耐性」見極めへ（Reuters）",
+          "summaryLines": [
+            "Anthropicの新機能を受けて進んだSaaS・コンサル株売りは、過度な悲観がいったん後退した。",
+            "市場は「AIに代替される業務」と「独自データや業務設計力で残る業務」を選別する局面に移行。",
+            "業績の裏付けとAI活用戦略の提示が、今後の株価回復の鍵になるとの見方が示された。"
+          ],
+          "whyImportant": "日本のIT企業評価が“AIテーマの一律売買”から、収益構造と競争優位を問う実力相場へ進んでいるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/F4IVMCXVNZJBNPKIE2LNJETVW4-2026-02-26/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、米政府機密網へのAI展開契約を獲得（TechnoEdge）",
+          "summaryLines": [
+            "OpenAIは米政府機密ネットワークでのAI展開契約を発表し、軍事領域での導入を進める姿勢を示した。",
+            "発表では「国内大規模監視の禁止」「武力行使における人間責任」などの安全原則を協定へ反映したと主張。",
+            "国家安全保障案件で、モデル性能だけでなく契約上の安全ガバナンスが競争軸になっている。"
+          ],
+          "whyImportant": "公共領域へのAI実装が加速する中、企業の安全ポリシーが実運用契約にどう落ちるかが業界標準を左右するため。",
+          "source": "www.techno-edge.net",
+          "link": "https://www.techno-edge.net/article/2026/03/01/4890.html"
+        },
+        {
+          "title": "Anthropic、米戦争省のClaude無制限使用要求を拒否（TechnoEdge）",
+          "summaryLines": [
+            "Anthropicは、国内監視や完全自律兵器につながる可能性を理由に、Claudeの無制限利用要求を拒否した。",
+            "当局側は契約上の圧力を強めたが、同社は「良心に従う」として安全境界の維持を優先。",
+            "AI企業と国家の関係が、倫理条項・法制度・供給責任を巡る対立局面に入っている。"
+          ],
+          "whyImportant": "生成AIの軍事・政府利用で「どこまで許容するか」という企業のレッドラインが、事業継続と直結し始めたため。",
+          "source": "www.techno-edge.net",
+          "link": "https://www.techno-edge.net/article/2026/02/27/4888.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "伝統金融とDeFiの融合が加速、ステーブルコイン実装の課題を議論（CoinPost）",
+          "summaryLines": [
+            "MoneyX 2026でVisa・Chainlink・Alpacaが、ステーブルコイン決済と証券領域への実装進展を共有した。",
+            "VisaはUSDC建て決済の累計が約45億ドル規模に達したと説明し、送金・払い戻し拡張にも言及。",
+            "一方で法域をまたぐ規制・準備金・コンプライアンスの相互運用が、スケール拡大の最大ボトルネックとされた。"
+          ],
+          "whyImportant": "暗号資産市場の主戦場が投機から決済・証券インフラへ移る中、制度整備の進捗が採用速度を決めるため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=692048"
+        },
+        {
+          "title": "週刊仮想通貨ニュース：金融庁の分離課税解説などに関心集中（CoinPost）",
+          "summaryLines": [
+            "CoinPost週報では、個人マイナーの採掘成功や金融庁による暗号資産課税解説などが注目テーマとなった。",
+            "税制面では、現行の総合課税から一定取引で20%分離課税への見直し方向が改めて意識された。",
+            "価格材料だけでなく、制度変更と国内事業インフラ（ST・送金等）の進展が市場関心の中心にある。"
+          ],
+          "whyImportant": "日本の暗号資産市場では税制・制度の設計が参加者拡大と資金流入の前提条件になっているため。",
+          "source": "coinpost.jp",
+          "link": "https://coinpost.jp/?p=691873"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "中東情勢緊迫で東京市場急反落、識者は「初動は過敏反応」と分析（Reuters）",
+          "summaryLines": [
+            "中東情勢悪化を受け、日経平均は大幅反落で始まりリスクオフの動きが広がった。",
+            "市場関係者は、原油価格や紛争長期化が鍵としつつ、ショック安後に落ち着きを取り戻す可能性にも言及。",
+            "エネルギー高と地政学リスクが、日本株のセクター間格差を広げる展開が意識されている。"
+          ],
+          "whyImportant": "地政学ショックが日本の株価・物価・企業コストへ波及し、景気見通しの前提を変え得るため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/economy/T76FFNAKLRJUNHPAIXUPJPJNSA-2026-03-02/"
+        },
+        {
+          "title": "中東情勢悪化でも利上げ継続方針に変化なし＝氷見野日銀副総裁（Reuters）",
+          "summaryLines": [
+            "日銀の氷見野副総裁は、中東情勢緊迫化の中でも利上げ継続方針自体は変わらないと説明した。",
+            "一方で、経済・物価への影響は不確実性が高く、今後の展開を慎重に見極める姿勢を示した。",
+            "市場では次回利上げ時期を巡る思惑が続き、政策判断と外部ショックのバランスが焦点となっている。"
+          ],
+          "whyImportant": "金融政策の正常化ペースが、為替・債券・家計負担に直接影響する重要局面だから。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/japan/VUG5UGZHU5JZXODWYMPWLBXECA-2026-03-02/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "ANA、GW国内航空券セールを実施　航空券＋宿泊クーポンも拡充（トラベルWatch）",
+          "summaryLines": [
+            "ANAの「ANAにキュン！」で、GW（5/2〜5/6）搭乗分の国内線セールが展開された。",
+            "羽田〜新千歳・伊丹・福岡/那覇など主要路線で割引運賃を提示し、需要の前倒し獲得を狙う。",
+            "国内ダイナミックパッケージ向け最大2万円引きなど、宿泊・アクティビティ連動施策も強化した。"
+          ],
+          "whyImportant": "大型連休前の価格施策は、国内旅行需要の配分と予約タイミングを大きく左右するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2088074.html"
+        },
+        {
+          "title": "JAL、国内航空券＋ホテルのタイムセールで最大3万円引き（トラベルWatch）",
+          "summaryLines": [
+            "JALは国内航空券と宿泊を組み合わせたダイナミックパッケージのタイムセールを開始した。",
+            "会員向けクーポンは1グループ最大3万円引きで、観光オプションやレンタカー割引も同時展開。",
+            "交通単体でなく旅行全体の費用最適化を促す販売で、地方滞在型需要の取り込みを狙っている。"
+          ],
+          "whyImportant": "航空・宿泊・現地移動を束ねた商品は、国内観光の客単価と周遊消費を押し上げやすいため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2088932.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "経済：中東情勢緊迫で東京市場急反落、識者は「初動は過敏反応」と分析（Reuters）",
+    "AI：OpenAI、米政府機密網へのAI展開契約を獲得（TechnoEdge）",
+    "旅行：ANA、GW国内航空券セールを実施　航空券＋宿泊クーポンも拡充（トラベルWatch）"
+  ],
+  "headlines": [
+    {
+      "title": "ＡＳＭＬ、半導体製造装置の光源出力向上　2030年までに生産最大50％増も（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/O5ONKUB4VNPEDIDLTXDQGLOWP4-2026-02-24/",
+      "snippet": "ASMLはEUV露光装置の光源出力を600Wから1000Wへ高める技術を開発した。"
+    },
+    {
+      "title": "アングル：ＩＴ・コンサル株売りいつまで、市場は「ＡＩ耐性」見極めへ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/F4IVMCXVNZJBNPKIE2LNJETVW4-2026-02-26/",
+      "snippet": "Anthropicの新機能を受けて進んだSaaS・コンサル株売りは、過度な悲観がいったん後退した。"
+    },
+    {
+      "title": "OpenAI、米政府機密網へのAI展開契約を獲得（TechnoEdge）",
+      "source": "www.techno-edge.net",
+      "link": "https://www.techno-edge.net/article/2026/03/01/4890.html",
+      "snippet": "OpenAIは米政府機密ネットワークでのAI展開契約を発表し、軍事領域での導入を進める姿勢を示した。"
+    },
+    {
+      "title": "Anthropic、米戦争省のClaude無制限使用要求を拒否（TechnoEdge）",
+      "source": "www.techno-edge.net",
+      "link": "https://www.techno-edge.net/article/2026/02/27/4888.html",
+      "snippet": "Anthropicは、国内監視や完全自律兵器につながる可能性を理由に、Claudeの無制限利用要求を拒否した。"
+    },
+    {
+      "title": "伝統金融とDeFiの融合が加速、ステーブルコイン実装の課題を議論（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=692048",
+      "snippet": "MoneyX 2026でVisa・Chainlink・Alpacaが、ステーブルコイン決済と証券領域への実装進展を共有し"
+    },
+    {
+      "title": "週刊仮想通貨ニュース：金融庁の分離課税解説などに関心集中（CoinPost）",
+      "source": "coinpost.jp",
+      "link": "https://coinpost.jp/?p=691873",
+      "snippet": "CoinPost週報では、個人マイナーの採掘成功や金融庁による暗号資産課税解説などが注目テーマとなった。"
+    },
+    {
+      "title": "中東情勢緊迫で東京市場急反落、識者は「初動は過敏反応」と分析（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/economy/T76FFNAKLRJUNHPAIXUPJPJNSA-2026-03-02/",
+      "snippet": "中東情勢悪化を受け、日経平均は大幅反落で始まりリスクオフの動きが広がった。"
+    },
+    {
+      "title": "中東情勢悪化でも利上げ継続方針に変化なし＝氷見野日銀副総裁（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/world/japan/VUG5UGZHU5JZXODWYMPWLBXECA-2026-03-02/",
+      "snippet": "日銀の氷見野副総裁は、中東情勢緊迫化の中でも利上げ継続方針自体は変わらないと説明した。"
+    },
+    {
+      "title": "ANA、GW国内航空券セールを実施　航空券＋宿泊クーポンも拡充（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2088074.html",
+      "snippet": "ANAの「ANAにキュン！」で、GW（5/2〜5/6）搭乗分の国内線セールが展開された。"
+    },
+    {
+      "title": "JAL、国内航空券＋ホテルのタイムセールで最大3万円引き（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2088932.html",
+      "snippet": "JALは国内航空券と宿泊を組み合わせたダイナミックパッケージのタイムセールを開始した。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-02T11:05:00Z"
+}

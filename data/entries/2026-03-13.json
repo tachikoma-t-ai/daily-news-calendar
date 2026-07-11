@@ -1,0 +1,190 @@
+{
+  "date": "2026-03-13",
+  "title": "2026-03-13 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "ローム、東芝との提携強化で協議継続　パワー半導体統合含め（Reuters）",
+          "summaryLines": [
+            "ロームは、東芝とのパワー半導体事業統合を含む提携強化の協議を継続していると表明した。",
+            "報道された「統合交渉入り」自体は同社発表ではないとしつつ、資本提携も視野に選択肢を検討中。",
+            "2024年から続く協議が、国内半導体再編の具体フェーズに入りつつある。"
+          ],
+          "whyImportant": "日本勢のパワー半導体供給力・競争力を左右する再編テーマで、EV/産業用途にも波及するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/2O74MAI2LBPXTN2G7XI7YJKXFI-2026-03-13/"
+        },
+        {
+          "title": "フジクラ、日米で最大3000億円投資　光ファイバー生産を最大3倍へ（Reuters）",
+          "summaryLines": [
+            "フジクラは光ファイバー/光ケーブル増産へ、日米で最大3000億円を順次投資すると発表。",
+            "千葉新工場とあわせ、関連生産能力を現状の最大約3倍に引き上げる計画。",
+            "生成AIデータセンター需要の拡大と、米AIインフラ向け供給を見据えた対応としている。"
+          ],
+          "whyImportant": "AIインフラの“通信のボトルネック”解消に直結し、日本企業の設備投資テーマとしても大きいため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/TXNVZN4XVFN4NIKV5DPMJ2WT7Y-2026-03-13/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "メタ、新AIモデル「アボカド」公開延期　性能見劣りと報道（Reuters）",
+          "summaryLines": [
+            "メタが新AIモデルの公開を当初予定から5月以降へ延期したと報じられた。",
+            "競合モデル比で性能が見劣りすることが理由とされ、内部で対応を協議。",
+            "同社は次期モデル投入を継続し、年内の開発加速姿勢を示している。"
+          ],
+          "whyImportant": "大手AI開発が“先行公開”より品質重視へ振れ、競争軸がモデル性能と実装速度の両立に移っているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/2AZICZ7W4BIQRCAAC6ZPGYCAZE-2026-03-13/"
+        },
+        {
+          "title": "ウクライナ、戦場データを同盟国に開放　ドローンAI訓練を加速（Reuters）",
+          "summaryLines": [
+            "ウクライナは同盟国向けに、戦場の画像・動画データを活用できる基盤を提供すると発表。",
+            "機密を守りつつAIモデルを訓練できる仕組みを整え、無人機開発の速度を高める狙い。",
+            "戦場で得られる実データを使うことで、自律システムの実運用精度向上が期待される。"
+          ],
+          "whyImportant": "実戦データを巡る国際連携が、軍事AIの開発速度と能力差を左右する局面に入っているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/world/ukraine/J3PHRNO3HFKTTHGDZCOFEQVZHA-2026-03-13/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Cboe、ビットコインETFオプションのボラ指数「BITVX」導入へ（Reuters）",
+          "summaryLines": [
+            "Cboeはブラックロックのビットコイン現物ETFオプションを対象にしたボラティリティ指数を開始予定。",
+            "向こう30日間の予想変動率を測る設計で、3月23日の開始を計画している。",
+            "機関投資家の需要拡大を背景に、暗号資産のリスク管理指標を整備する動きが進む。"
+          ],
+          "whyImportant": "暗号資産市場に“標準的な恐怖指数”が整うことで、ヘッジ・価格発見・機関参加が進みやすくなるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/JCSCDMXEXZJAJLKIMEC2DKRKBA-2026-03-11/"
+        },
+        {
+          "title": "ブラックロックのステーキング型ETH ETF、初日取引は約1550万ドル（CoinDesk）",
+          "summaryLines": [
+            "iShares Staked Ethereum Trust（ETHB）が上場初日に約1550万ドルの売買高を記録。",
+            "ETH現物保有に加え、ステーキング報酬の分配を組み込んだ“利回り型ETF”として設計された。",
+            "暗号資産ETFが単純な価格連動から、インカム獲得型へ拡張する流れを示した。"
+          ],
+          "whyImportant": "ETF商品設計の多様化は、機関投資家資金の流入経路を広げ、市場構造を変える可能性があるため。",
+          "source": "www.coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/13/blackrock-s-staked-ether-etf-draws-usd15-million-in-first-day-trading"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は続落、イラン情勢の長期化懸念で一時1100円超安（Reuters）",
+          "summaryLines": [
+            "東京市場で日経平均は633円安で引け、取引中には1100円超下落する場面があった。",
+            "中東情勢の緊迫化と原油高止まりを背景に、週末リスクを意識した売りが優勢。",
+            "主力ハイテク・自動車株が軟調となる一方、資源関連や一部素材株は底堅さを見せた。"
+          ],
+          "whyImportant": "地政学と資源価格が日本株・為替に直結する地合いが続き、資産配分の難易度を高めているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/56Q2QETABRIEZGY5IWVHLGHHKI-2026-03-13/"
+        },
+        {
+          "title": "ドル円は一時159.69円、1年8カ月ぶり高水準（Reuters）",
+          "summaryLines": [
+            "ドル円は東京時間午後に159.69円まで上昇し、年初来高値を更新。",
+            "イラン情勢と原油高を背景にドル高圧力が続き、介入警戒の中でも上昇基調が維持された。",
+            "当局発言への反応は限定的で、市場は外部要因主導の円安継続を意識している。"
+          ],
+          "whyImportant": "輸入物価・企業コスト・家計負担に波及し、金融政策や為替対応への注目をさらに高めるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/2BLT5AWUSZMEDC6PTB57CWOL7U-2026-03-13/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR北海道、旭川方面特急を全車指定席化　道内特急は全面移行へ（トラベルWatch）",
+          "summaryLines": [
+            "JR北海道は3月14日改正で、札幌〜旭川方面などの特急を全車指定席へ変更する。",
+            "これにより道内特急はすべて全車指定席となり、自由席特急券の扱いはなくなる。",
+            "一部お得きっぷの終了やチケットレス定期券導入など、利用ルールも大きく見直される。"
+          ],
+          "whyImportant": "北海道内の移動コストと予約行動が変わり、観光需要・周遊計画への実務影響が大きいため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093279.html"
+        },
+        {
+          "title": "Lime、日本で電動キックボード提供を終了　座り乗り「Limeラクモ」に一本化（トラベルWatch）",
+          "summaryLines": [
+            "Limeは日本国内で、立ち乗り型の提供を終了し座り乗り型に一本化すると発表した。",
+            "首都圏では移行を完了し、沖縄（那覇・石垣）でも今春中に切替完了見込み。",
+            "利用データ上、継続利用率の高い座り乗り型が日常移動として定着したことを理由に挙げた。"
+          ],
+          "whyImportant": "観光地を含む都市回遊の“ラストワンマイル”手段が安全性・利用行動ベースで再編されるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093262.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：フジクラ、日米で最大3000億円投資　光ファイバー生産を最大3倍へ（Reuters）",
+    "時事・経済ニュース：日経平均は続落、イラン情勢の長期化懸念で一時1100円超安（Reuters）",
+    "暗号通貨：Cboe、ビットコインETFオプションのボラ指数「BITVX」導入へ（Reuters）"
+  ],
+  "headlines": [
+    {
+      "title": "フジクラ、日米で最大3000億円投資　光ファイバー生産を最大3倍へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/TXNVZN4XVFN4NIKV5DPMJ2WT7Y-2026-03-13/",
+      "snippet": "生成AIデータセンター需要拡大を見据え、光通信インフラ増産投資が本格化。"
+    },
+    {
+      "title": "メタ、新AIモデル「アボカド」公開延期　性能見劣りと報道（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/2AZICZ7W4BIQRCAAC6ZPGYCAZE-2026-03-13/",
+      "snippet": "大手AIの開発競争で、公開スピードより性能確保を優先する姿勢が鮮明に。"
+    },
+    {
+      "title": "Cboe、ビットコインETFオプションのボラ指数「BITVX」導入へ（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/JCSCDMXEXZJAJLKIMEC2DKRKBA-2026-03-11/",
+      "snippet": "暗号資産市場に機関向けリスク管理指標が整い始めた。"
+    },
+    {
+      "title": "日経平均は続落、イラン情勢の長期化懸念で一時1100円超安（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/56Q2QETABRIEZGY5IWVHLGHHKI-2026-03-13/",
+      "snippet": "地政学リスクと原油高が日本株の下押し圧力として継続。"
+    },
+    {
+      "title": "JR北海道、旭川方面特急を全車指定席化　道内特急は全面移行へ（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093279.html",
+      "snippet": "北海道内の鉄道旅行で予約前提の利用スタイルが標準化する。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-13T11:04:54Z"
+}

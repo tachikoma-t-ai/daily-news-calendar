@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-22",
+  "title": "2026-03-22 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Googleがクラウドセキュリティ企業Wizの320億ドル買収を完了",
+          "summaryLines": [
+            "GoogleはWizの買収を正式完了し、同社過去最大のM&Aとなった。",
+            "WizはGoogle Cloud傘下に入る一方、マルチクラウド対応（AWS/Azure等）は継続する方針。",
+            "統合後はAI時代を見据えた統合セキュリティ基盤の提供を加速する。"
+          ],
+          "whyImportant": "クラウド利用企業のセキュリティ製品選定とマルチクラウド戦略に直結するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/"
+        },
+        {
+          "title": "Google Chromeが9月から“2週間リリース”へ移行",
+          "summaryLines": [
+            "GoogleはChromeのメジャー更新間隔を4週間から2週間へ短縮すると発表。",
+            "AIブラウザ競争の激化を背景に、機能改良の投入速度を上げる狙いがある。",
+            "従来の週次セキュリティ更新に加え、機能面の変化頻度も高まる見込み。"
+          ],
+          "whyImportant": "Web開発・検証サイクルの短縮が必要になり、運用負荷と互換性確認の重要度が増すため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule"
+        },
+        {
+          "title": "NVIDIA、AWS向けに2027年末までにGPU100万基供給へ（Reuters）",
+          "summaryLines": [
+            "Reuters報道によると、NVIDIAはAmazonのクラウド部門向けに大規模GPU供給を進める。",
+            "供給規模は2027年までで100万基とされ、クラウドAI計算資源の確保競争を映す動き。",
+            "ハイエンドGPUの需給とクラウドAI価格形成への影響が注目される。"
+          ],
+          "whyImportant": "AIインフラ供給量が企業のモデル開発速度・コスト構造を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/retail-consumer/nvidia-sell-1-million-chips-amazon-by-end-2027-cloud-deal-2026-03-19/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "米政権がAI立法フレームワーク公表、州規制の統一を提案",
+          "summaryLines": [
+            "米ホワイトハウスはAIに関する国家レベルの立法フレームワークを公表。",
+            "子どもの保護や電力コスト配慮を掲げつつ、州ごとの差異を抑える方向を示した。",
+            "AI産業育成と規制整備を同時に進める政策設計として市場が注視している。"
+          ],
+          "whyImportant": "AI事業者のコンプライアンス要件と米国内の市場参入戦略に大きく影響するため。",
+          "source": "whitehouse.gov / reuters.com",
+          "link": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/"
+        },
+        {
+          "title": "“正体不明モデル”Hunter AlphaはXiaomi製と判明（Reuters）",
+          "summaryLines": [
+            "OpenRouter上で話題化した匿名モデルHunter Alphaの開発元がXiaomiと報じられた。",
+            "当初はDeepSeek系新モデルとの見方が強く、業界内で性能評価が先行していた。",
+            "中国勢のモデル開発競争が、匿名公開→後日開示の形でさらに加速している。"
+          ],
+          "whyImportant": "モデル供給元の見極めは、採用時のガバナンス・リスク評価に不可欠なため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/"
+        },
+        {
+          "title": "OpenAI、2026年末までに人員を約8000人へ拡大方針（FT報道）",
+          "summaryLines": [
+            "ReutersによるFT引用で、OpenAIが従業員数を約4500人から約8000人へ拡大する計画が報じられた。",
+            "研究開発・製品化・安全性対応を同時に進めるための組織増強とみられる。",
+            "主要AI企業の“人材獲得競争”が次の競争力を決める局面に入っている。"
+          ],
+          "whyImportant": "モデル性能競争だけでなく、実装・運用・安全体制の拡張力が差別化要因になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "シティ、BTC/ETHの12カ月目標を下方修正",
+          "summaryLines": [
+            "Citigroupは米国の暗号資産法整備の遅れなどを理由に、BTC/ETH目標値を引き下げた。",
+            "ETF流入の想定も見直し、価格上昇シナリオの前提をより保守的に変更。",
+            "それでも現値比では上振れ余地を残すとの見方を維持している。"
+          ],
+          "whyImportant": "機関投資家の想定レンジ変更は、相場センチメントと資金配分に波及しやすいため。",
+          "source": "coindesk.com / reuters.com",
+          "link": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls"
+        },
+        {
+          "title": "ETHが24時間で約10%上昇、BTCを上回る反発",
+          "summaryLines": [
+            "CoinDeskによると、ETHはETF資金流入と関連需要を背景に大きく反発。",
+            "BTCより強い値動きとなり、アルト側へ資金が戻る兆しが示された。",
+            "ただし高値からは依然大幅な下落圏で、回復の持続性が焦点。"
+          ],
+          "whyImportant": "主導銘柄の移り変わりは、ポートフォリオ戦略とボラティリティ管理に直結するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up"
+        },
+        {
+          "title": "FOMC後、BTCは7万ドル近辺を維持も金融環境に警戒感",
+          "summaryLines": [
+            "Crypto.comの市場解説では、FOMCの“タカ派据え置き”後にBTCは変動を拡大。",
+            "ETF資金流出や金利見通しの変化が、短期的な上値の重さにつながった。",
+            "ETHはステーキングETF期待などで相対的に底堅さを見せた。"
+          ],
+          "whyImportant": "暗号資産は金融政策ショックの影響を受けやすく、マクロ連動の把握が重要なため。",
+          "source": "crypto.com",
+          "link": "https://crypto.com/us/market-updates/march-2026-fomc-recap-btc-eth-price"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "FRBが金利据え置き、インフレ見通しは上方方向（Reuters）",
+          "summaryLines": [
+            "FRBは政策金利を据え置き、年内の利下げ見通しは限定的とのシグナルを維持。",
+            "エネルギー高と地政学リスクを受け、物価見通しは上振れ方向が意識されている。",
+            "市場は“利下げ先送り”シナリオの織り込みを進めた。"
+          ],
+          "whyImportant": "金利見通しの変化は為替・株式・資金調達コスト全体に連鎖するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/"
+        },
+        {
+          "title": "主要中銀、戦争由来のインフレ圧力に警戒を継続（Reuters）",
+          "summaryLines": [
+            "Reutersは、主要中央銀行がエネルギー起点の物価上振れに備える姿勢を報道。",
+            "政策金利は据え置きでも、追加引き締め余地を残す発言が目立った。",
+            "金融市場では“再インフレ”へのヘッジ需要が高まっている。"
+          ],
+          "whyImportant": "中銀のタカ派トーンは世界的な資産価格と企業投資計画に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/americas/fed-boc-strike-hawkish-tones-top-central-banks-convene-wars-shadow-2026-03-18/"
+        },
+        {
+          "title": "米株はFOMC後に大幅安、利下げ期待が後退",
+          "summaryLines": [
+            "Reuters配信記事によれば、FOMC後に米主要株価指数はそろって下落。",
+            "原油高・地政学リスク・インフレ再燃懸念がリスク資産の重しとなった。",
+            "成長株中心にバリュエーション調整圧力が強まる展開となった。"
+          ],
+          "whyImportant": "リスク資産の調整は企業調達環境や家計の投資行動にも波及しやすいため。",
+          "source": "investmenthouse.com (Reuters syndication)",
+          "link": "https://www.investmenthouse.com/2026/03/20/wall-street-ends-sharply-lower-after-fed-keeps-rates-unchanged/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "観光庁、次期計画で観光を“戦略産業”に位置付け",
+          "summaryLines": [
+            "観光庁は2026〜2030年度の新たな観光立国推進基本計画の最終審議を実施。",
+            "オーバーツーリズム対策強化、地方誘客、国内旅行消費額拡大（30兆円目標）を明示。",
+            "地域住民の生活の質と観光成長の両立を政策の軸に据えた。"
+          ],
+          "whyImportant": "国内旅行の需要分散や地域投資の方向性を左右する中長期方針だから。",
+          "source": "ryoko-net.co.jp",
+          "link": "https://www.ryoko-net.co.jp/?p=163190"
+        },
+        {
+          "title": "JR北海道、道内特急を全車指定席化（3月ダイヤ改正）",
+          "summaryLines": [
+            "札幌〜旭川方面を含む特急が全車指定席となり、北海道内は全面移行が完了。",
+            "一部割引きっぷ終了やチケットレス商品への移行も同時に進む。",
+            "旅行者は乗車前の座席確保がより重要になり、予約行動の前倒しが必要。"
+          ],
+          "whyImportant": "国内旅行の移動計画・費用・予約体験を直接変える制度変更のため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093279.html"
+        },
+        {
+          "title": "JR東日本、久留里線の一部区間廃止届を提出",
+          "summaryLines": [
+            "JR東日本は久留里〜上総亀山間の鉄道事業廃止を国交省へ届け出た。",
+            "沿線では代替バス運行計画が進み、地域交通のモード転換が具体化している。",
+            "ローカル路線維持の課題が、国内旅行のアクセス設計にも影響を与える事例。"
+          ],
+          "whyImportant": "地方観光地の到達性は旅行需要と地域経済に直結するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2091803.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Googleがクラウドセキュリティ企業Wizの320億ドル買収を完了",
+    "AI：米政権がAI立法フレームワーク公表、州規制の統一を提案",
+    "日本の旅行：観光庁、次期計画で観光を“戦略産業”に位置付け"
+  ],
+  "headlines": [
+    {
+      "title": "Googleがクラウドセキュリティ企業Wizの320億ドル買収を完了",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+      "snippet": "GoogleはWizの買収を正式完了し、同社過去最大のM&Aとなった。 WizはGoogle Cloud傘下に入る一方、マルチクラウド対応（AWS/Azure等）は継続する方針。"
+    },
+    {
+      "title": "Google Chromeが9月から“2週間リリース”へ移行",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule",
+      "snippet": "GoogleはChromeのメジャー更新間隔を4週間から2週間へ短縮すると発表。 AIブラウザ競争の激化を背景に、機能改良の投入速度を上げる狙いがある。"
+    },
+    {
+      "title": "NVIDIA、AWS向けに2027年末までにGPU100万基供給へ（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/retail-consumer/nvidia-sell-1-million-chips-amazon-by-end-2027-cloud-deal-2026-03-19/",
+      "snippet": "Reuters報道によると、NVIDIAはAmazonのクラウド部門向けに大規模GPU供給を進める。 供給規模は2027年までで100万基とされ、クラウドAI計算資源の確保競争を映す動き。"
+    },
+    {
+      "title": "米政権がAI立法フレームワーク公表、州規制の統一を提案",
+      "source": "whitehouse.gov / reuters.com",
+      "link": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+      "snippet": "米ホワイトハウスはAIに関する国家レベルの立法フレームワークを公表。 子どもの保護や電力コスト配慮を掲げつつ、州ごとの差異を抑える方向を示した。"
+    },
+    {
+      "title": "“正体不明モデル”Hunter AlphaはXiaomi製と判明（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
+      "snippet": "OpenRouter上で話題化した匿名モデルHunter Alphaの開発元がXiaomiと報じられた。 当初はDeepSeek系新モデルとの見方が強く、業界内で性能評価が先行していた。"
+    },
+    {
+      "title": "OpenAI、2026年末までに人員を約8000人へ拡大方針（FT報道）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
+      "snippet": "ReutersによるFT引用で、OpenAIが従業員数を約4500人から約8000人へ拡大する計画が報じられた。 研究開発・製品化・安全性対応を同時に進めるための組織増強とみられる。"
+    },
+    {
+      "title": "シティ、BTC/ETHの12カ月目標を下方修正",
+      "source": "coindesk.com / reuters.com",
+      "link": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+      "snippet": "Citigroupは米国の暗号資産法整備の遅れなどを理由に、BTC/ETH目標値を引き下げた。 ETF流入の想定も見直し、価格上昇シナリオの前提をより保守的に変更。"
+    },
+    {
+      "title": "ETHが24時間で約10%上昇、BTCを上回る反発",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
+      "snippet": "CoinDeskによると、ETHはETF資金流入と関連需要を背景に大きく反発。 BTCより強い値動きとなり、アルト側へ資金が戻る兆しが示された。"
+    },
+    {
+      "title": "FOMC後、BTCは7万ドル近辺を維持も金融環境に警戒感",
+      "source": "crypto.com",
+      "link": "https://crypto.com/us/market-updates/march-2026-fomc-recap-btc-eth-price",
+      "snippet": "Crypto.comの市場解説では、FOMCの“タカ派据え置き”後にBTCは変動を拡大。 ETF資金流出や金利見通しの変化が、短期的な上値の重さにつながった。"
+    },
+    {
+      "title": "FRBが金利据え置き、インフレ見通しは上方方向（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/",
+      "snippet": "FRBは政策金利を据え置き、年内の利下げ見通しは限定的とのシグナルを維持。 エネルギー高と地政学リスクを受け、物価見通しは上振れ方向が意識されている。"
+    },
+    {
+      "title": "主要中銀、戦争由来のインフレ圧力に警戒を継続（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/americas/fed-boc-strike-hawkish-tones-top-central-banks-convene-wars-shadow-2026-03-18/",
+      "snippet": "Reutersは、主要中央銀行がエネルギー起点の物価上振れに備える姿勢を報道。 政策金利は据え置きでも、追加引き締め余地を残す発言が目立った。"
+    },
+    {
+      "title": "米株はFOMC後に大幅安、利下げ期待が後退",
+      "source": "investmenthouse.com (Reuters syndication)",
+      "link": "https://www.investmenthouse.com/2026/03/20/wall-street-ends-sharply-lower-after-fed-keeps-rates-unchanged/",
+      "snippet": "Reuters配信記事によれば、FOMC後に米主要株価指数はそろって下落。 原油高・地政学リスク・インフレ再燃懸念がリスク資産の重しとなった。"
+    },
+    {
+      "title": "観光庁、次期計画で観光を“戦略産業”に位置付け",
+      "source": "ryoko-net.co.jp",
+      "link": "https://www.ryoko-net.co.jp/?p=163190",
+      "snippet": "観光庁は2026〜2030年度の新たな観光立国推進基本計画の最終審議を実施。 オーバーツーリズム対策強化、地方誘客、国内旅行消費額拡大（30兆円目標）を明示。"
+    },
+    {
+      "title": "JR北海道、道内特急を全車指定席化（3月ダイヤ改正）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093279.html",
+      "snippet": "札幌〜旭川方面を含む特急が全車指定席となり、北海道内は全面移行が完了。 一部割引きっぷ終了やチケットレス商品への移行も同時に進む。"
+    },
+    {
+      "title": "JR東日本、久留里線の一部区間廃止届を提出",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2091803.html",
+      "snippet": "JR東日本は久留里〜上総亀山間の鉄道事業廃止を国交省へ届け出た。 沿線では代替バス運行計画が進み、地域交通のモード転換が具体化している。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 15
+  },
+  "generatedAt": "2026-03-22T11:04:43.273936+00:00"
+}

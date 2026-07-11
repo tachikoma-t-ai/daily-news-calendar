@@ -1,0 +1,220 @@
+{
+  "date": "2026-03-25",
+  "title": "2026-03-25 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日周辺の主要ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Arm、新AIデータセンターチップを発表 年間収益に数十億ドル上積み見通し（Reuters）",
+          "summaryLines": [
+            "ReutersによるとArmは新しいAI向けデータセンターチップを公表し、事業戦略の転換点になると示した。",
+            "同社はこの新製品が年間収益に数十億ドル規模の寄与をもたらす可能性があると説明。",
+            "半導体の競争軸が設計IPライセンス中心から、より直接的なAIインフラ収益へ広がっている。"
+          ],
+          "whyImportant": "AIインフラの主導権を握る企業が変わる可能性があり、クラウド/半導体の投資配分に影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/media-telecom/arm-unveils-new-ai-chip-expects-it-add-billions-annual-revenue-2026-03-24/"
+        },
+        {
+          "title": "Amazon傘下Zoox、ロボタクシー展開をサンフランシスコ/ラスベガスで拡大（Reuters）",
+          "summaryLines": [
+            "Reuters報道で、Zooxは既存都市でのサービス拡張に加え、AustinとMiamiで専用車両の試験を進める方針を示した。",
+            "米国内での展開地域を段階的に増やし、実運用データの蓄積を急いでいる。",
+            "自動運転は“技術デモ”から、都市ごとの運用最適化と規模拡大のフェーズへ移行している。"
+          ],
+          "whyImportant": "ロボタクシーの商用化進展は、都市交通・物流・保険など周辺産業まで波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/zoox-widen-us-robotaxi-footprint-with-san-francisco-vegas-expansion-2026-03-24/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、Sora動画プラットフォームの終了方針を巡り波紋（Reuters）",
+          "summaryLines": [
+            "Reutersは、OpenAIがSora関連サービスの扱い見直しを進めていると報じた。",
+            "提携・制作現場側では想定より急な方針転換との受け止めがあり、調整が課題になっている。",
+            "生成AIサービスは性能競争だけでなく、継続提供の安定性そのものが評価軸になっている。"
+          ],
+          "whyImportant": "導入企業にとってはツール選定時に“機能”だけでなく“提供継続リスク”の管理が必須になるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/"
+        },
+        {
+          "title": "OpenAI、非営利部門の新体制と今後1年で10億ドル規模の投資計画（Reuters）",
+          "summaryLines": [
+            "ReutersによるとOpenAIは非営利部門の主要人事を発表し、AI関連プロジェクトへの投資方針を示した。",
+            "今後1年で少なくとも10億ドル規模の資金を投じる計画とされ、ガバナンスと公共性の説明が焦点。",
+            "AI企業の評価は商用成長に加え、公益目的との整合をどう示すかが重要になっている。"
+          ],
+          "whyImportant": "資金配分と組織体制の変化は、研究テーマ・提携先・規制対応の優先順位を左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/openai-non-profit-names-leaders-plans-spend-1-billion-this-year-bloomberg-news-2026-03-24/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Wintermute、WTI原油CFDのOTC取引を開始 24/7需要取り込みへ（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、Wintermute AsiaはWTI原油CFDをOTCで提供開始し、暗号資産基盤でコモディティ需要を取り込む。",
+            "地政学リスクで週末の価格変動が増える中、伝統市場が閉じる時間帯のヘッジ需要を狙う設計。",
+            "暗号業界が“暗号資産そのもの”から、24時間取引インフラ提供へ領域を拡張している。"
+          ],
+          "whyImportant": "クリプト市場の収益源が多様化し、従来金融との境界がさらに薄れる動きだから。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/25/crypto-giant-debuts-oil-trading-but-it-s-a-different-model-to-hyperliquid-s-perps"
+        },
+        {
+          "title": "BTCが6.8万ドル付近へ下落、24時間で4億ドル超の先物清算（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskは、週末の地政学リスクを背景にビットコインが下落し、レバレッジポジションの清算が急増したと報じた。",
+            "清算額は24時間で4億ドル超、うちロングが大半を占め、強気ポジション解消が進行。",
+            "デリバティブ主導の値動きが続き、短期市場はニュース感応度の高い不安定な局面にある。"
+          ],
+          "whyImportant": "清算主導の急変動は個人・機関ともにリスク管理の前提を変えるため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/23/bitcoin-retreats-to-usd68-000-leaving-cme-gap-as-traders-eye-usd70-000-rebound"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "米国の停戦模索報道で株高・原油安、相場はリスク緩和を織り込み（Reuters）",
+          "summaryLines": [
+            "Reutersによると、米国がイラン戦争で1か月停戦を模索しているとの報道を受け、株式は上昇し原油は下落。",
+            "地政学リスクが一時後退するシナリオが意識され、市場は安全資産偏重からやや巻き戻し。",
+            "ただし交渉の不確実性が高く、相場はヘッドラインで振れやすい状態が続いている。"
+          ],
+          "whyImportant": "エネルギー価格と金利見通しが同時に動くため、世界の資産配分に直結するから。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-03-25/"
+        },
+        {
+          "title": "イラン戦争の経済打撃、国・地域で格差拡大の可能性（Reuters）",
+          "summaryLines": [
+            "Reutersは、イラン戦争の影響がエネルギー輸入依存国や観光依存国に強く出る可能性を分析。",
+            "燃料・食料コスト上昇、物流混乱、通貨安が同時発生し、脆弱国ほど負担が大きくなる構図。",
+            "同じ原油高でも打撃は一様でなく、各国の財政体力と外貨構造で明暗が分かれている。"
+          ],
+          "whyImportant": "地域別の景気・物価差が広がると、政策協調や企業の投資先判断が難しくなるため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/energy/who-hurts-most-iran-war-hits-global-economy-2026-03-20/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "観光庁、デジタルノマド誘客補助事業の公募を開始（3月25日）",
+          "summaryLines": [
+            "観光庁の公募情報（2026年3月25日更新）で、令和8年度のデジタルノマド誘客に向けた補助事業の募集開始が告知された。",
+            "自治体・DMO・宿泊/交通事業者など幅広い関係者を対象に、地域受入体制づくりを促進する内容。",
+            "国内の長期滞在・ワーケーション需要を取り込む施策が、実装段階に進みつつある。"
+          ],
+          "whyImportant": "国内各地域の平日需要創出と滞在消費拡大につながる政策予算が動き始めたため。",
+          "source": "mlit.go.jp（観光庁）",
+          "link": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html"
+        },
+        {
+          "title": "日本旅行、国内観光活性化キャンペーン「こころに響く日本の旅」開始（北海道）",
+          "summaryLines": [
+            "日本旅行の発表によると、4〜9月の第1弾として北海道方面で国内旅行キャンペーンを展開。",
+            "体験型コンテンツ、現地クーポン、宿泊・移動商品を組み合わせ、地域滞在の魅力訴求を強化する。",
+            "価格訴求と現地体験を一体化した商品設計で、国内旅行需要の底上げを狙う動き。"
+          ],
+          "whyImportant": "GW〜夏商戦に向けた国内旅行商品の実売動向を占う、需要喚起施策の具体例だから。",
+          "source": "prtimes.jp",
+          "link": "https://prtimes.jp/main/html/rd/p/000000987.000004858.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Arm、新AIデータセンターチップを発表 年間収益に数十億ドル上積み見通し（Reuters）",
+    "AI：OpenAI、非営利部門の新体制と今後1年で10億ドル規模の投資計画（Reuters）",
+    "日本の旅行：観光庁、デジタルノマド誘客補助事業の公募を開始（3月25日）"
+  ],
+  "headlines": [
+    {
+      "title": "Arm、新AIデータセンターチップを発表 年間収益に数十億ドル上積み見通し（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/media-telecom/arm-unveils-new-ai-chip-expects-it-add-billions-annual-revenue-2026-03-24/",
+      "snippet": "Armが新AIデータセンターチップを発表。収益構造の転換を狙う動き。"
+    },
+    {
+      "title": "Amazon傘下Zoox、ロボタクシー展開をサンフランシスコ/ラスベガスで拡大（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/zoox-widen-us-robotaxi-footprint-with-san-francisco-vegas-expansion-2026-03-24/",
+      "snippet": "Zooxが米主要都市で展開拡大。自動運転の商用化フェーズが前進。"
+    },
+    {
+      "title": "OpenAI、Sora動画プラットフォームの終了方針を巡り波紋（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/",
+      "snippet": "Soraの扱い見直し報道で、導入企業側の継続性リスクが意識される。"
+    },
+    {
+      "title": "OpenAI、非営利部門の新体制と今後1年で10億ドル規模の投資計画（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/openai-non-profit-names-leaders-plans-spend-1-billion-this-year-bloomberg-news-2026-03-24/",
+      "snippet": "OpenAIが非営利部門を再編。公益・研究投資の規模感が注目点に。"
+    },
+    {
+      "title": "Wintermute、WTI原油CFDのOTC取引を開始 24/7需要取り込みへ（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/25/crypto-giant-debuts-oil-trading-but-it-s-a-different-model-to-hyperliquid-s-perps",
+      "snippet": "暗号インフラを使った原油CFD提供が始まり、市場の境界が拡張。"
+    },
+    {
+      "title": "BTCが6.8万ドル付近へ下落、24時間で4億ドル超の先物清算（CoinDesk）",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/23/bitcoin-retreats-to-usd68-000-leaving-cme-gap-as-traders-eye-usd70-000-rebound",
+      "snippet": "地政学リスクでBTCが下押し。レバレッジ清算が相場変動を拡大。"
+    },
+    {
+      "title": "米国の停戦模索報道で株高・原油安、相場はリスク緩和を織り込み（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-03-25/",
+      "snippet": "停戦期待で株高・原油安に。ヘッドライン主導の相場が継続。"
+    },
+    {
+      "title": "イラン戦争の経済打撃、国・地域で格差拡大の可能性（Reuters）",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/energy/who-hurts-most-iran-war-hits-global-economy-2026-03-20/",
+      "snippet": "エネルギー輸入・観光依存国ほど打撃が大きい構図を分析。"
+    },
+    {
+      "title": "観光庁、デジタルノマド誘客補助事業の公募を開始（3月25日）",
+      "source": "mlit.go.jp（観光庁）",
+      "link": "https://www.mlit.go.jp/kankocho/kobo_2026_00003.html",
+      "snippet": "デジタルノマド誘客向け補助事業が公募開始。地域受入整備を後押し。"
+    },
+    {
+      "title": "日本旅行、国内観光活性化キャンペーン「こころに響く日本の旅」開始（北海道）",
+      "source": "prtimes.jp",
+      "link": "https://prtimes.jp/main/html/rd/p/000000987.000004858.html",
+      "snippet": "北海道向け企画商品を順次展開し、国内旅行需要の喚起を狙う。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-25T11:05:00.000000+00:00"
+}

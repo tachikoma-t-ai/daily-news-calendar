@@ -1,0 +1,190 @@
+{
+  "date": "2026-03-14",
+  "title": "2026-03-14 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）の主要トピックを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "日立とGEベルノバ、東南アジアで小型モジュール炉（SMR）導入検討で合意（Reuters）",
+          "summaryLines": [
+            "日立製作所とGEベルノバは、東南アジアでSMR「BWRX-300」の導入機会を共同で検討すると発表した。",
+            "日本サプライヤーとの連携や、SMR供給を支えるサプライチェーン強化も検討対象に含める。",
+            "インド太平洋エネルギー安全保障フォーラムで署名され、実装フェーズに向けた枠組みづくりが進む。"
+          ],
+          "whyImportant": "電力需要増と脱炭素を背景に、日本企業の原子力関連サプライチェーン拡大につながる可能性があるため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/global-markets/3DKYLEHMVBNHTJJS32RJXMAR5I-2026-03-14/"
+        },
+        {
+          "title": "日本政府、科学技術投資を5年で60兆円規模へ（Nikkei Asia）",
+          "summaryLines": [
+            "日本政府は2030年度までの5年間で、科学技術分野への政府投資を60兆円規模に引き上げる方針と報じられた。",
+            "重点分野はAI・宇宙・核融合で、民間投資の呼び込みも合わせて進める構え。",
+            "研究開発費の拡大と重点領域への集中配分が、次世代産業政策の軸になる。"
+          ],
+          "whyImportant": "AI・先端技術の国際競争で、日本の研究開発基盤と産業投資の方向性を左右する政策テーマだから。",
+          "source": "asia.nikkei.com",
+          "link": "https://asia.nikkei.com/business/science/japan-to-double-science-tech-spending-to-380bn-over-5-years"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "米商務省、AI半導体輸出の新規則案を撤回（Reuters報道）",
+          "summaryLines": [
+            "ロイター報道として、米商務省がAI向け半導体輸出規制の新たな規則案を撤回したと伝えられた。",
+            "公表から約2週間での取り下げとなり、政権内の調整難航が背景とされる。",
+            "対中輸出管理とAI産業育成のバランスを巡る政策運営の難しさが改めて示された。"
+          ],
+          "whyImportant": "AI計算資源の国際供給網に直結するため、半導体企業・クラウド事業者・各国政策に影響しやすい。",
+          "source": "news.yahoo.co.jp（Reuters）",
+          "link": "https://news.yahoo.co.jp/articles/e35c17ddb58b467f7a6c4cfb7ef546bfd081b3c4"
+        },
+        {
+          "title": "メタ、AI投資負担増を背景に大規模レイオフを計画と報道（Reuters）",
+          "summaryLines": [
+            "ロイターは、メタがAIインフラ投資コストを背景に、全社の2割超に及ぶ可能性のある人員削減を検討していると報じた。",
+            "効率化を進めつつ、AI開発への資源配分を維持・強化する狙いが示唆されている。",
+            "生成AI競争の激化で、大手テックの採用・投資配分が再編局面に入っている。"
+          ],
+          "whyImportant": "AI覇権競争が雇用戦略とコスト構造に波及し、テック業界全体の経営モデルに影響するため。",
+          "source": "www.reuters.com",
+          "link": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ビットコインが7.2万ドル台、ドル高局面でも相対的に堅調（CoinDesk）",
+          "summaryLines": [
+            "CoinDeskによると、ビットコインは欧州時間に7.2万ドルを上回り、主要株価指数先物より強い値動きを示した。",
+            "市場では7.4万ドル超えで上放れシナリオ、届かなければレンジ継続との見方が並立。",
+            "先物建玉の増加などから、ボラティリティ低下下でも資金流入が続く構図が示されている。"
+          ],
+          "whyImportant": "暗号資産のリスク選好度合いを測る局面で、機関資金の継続流入を判断する材料になるため。",
+          "source": "www.coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/13/bitcoin-outperforms-stocks-tops-usd72-000-even-as-dollar-strengthens"
+        },
+        {
+          "title": "ドルッケンミラー氏、ステーブルコインが10〜15年で決済基盤になり得ると発言（CoinDesk）",
+          "summaryLines": [
+            "著名投資家スタンレー・ドルッケンミラー氏は、将来の決済システムでステーブルコインが中核になる可能性に言及した。",
+            "従来インフラより速く安価で、実務上の生産性向上につながるとの見立てを示した。",
+            "一方で暗号資産全体には慎重姿勢を維持し、用途の選別が進む見方を示している。"
+          ],
+          "whyImportant": "投機テーマから実需インフラへの評価軸シフトを示し、規制・金融機関の導入判断に影響するため。",
+          "source": "www.coindesk.com",
+          "link": "https://www.coindesk.com/business/2026/03/13/stablecoins-bitcoin-could-reshape-finance-stanley-druckenmiller-says"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "日経平均は続落、一時1100円超安　中東情勢と原油高を警戒（Reuters）",
+          "summaryLines": [
+            "東京株式市場で日経平均は前日比633円安で引け、取引中には1100円超下落する場面があった。",
+            "イラン情勢の長期化懸念と原油高止まりを背景に、週末を前にリスク回避の売りが優勢となった。",
+            "為替の円安進行が続くなかでも、景気減速懸念から輸出関連株は軟調だった。"
+          ],
+          "whyImportant": "地政学リスクと資源価格が株・為替・企業収益を同時に揺らす局面が続いているため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/markets/japan/56Q2QETABRIEZGY5IWVHLGHHKI-2026-03-13/"
+        },
+        {
+          "title": "焦点：円安圧力が再燃、当局の介入判断は難度上昇（Reuters）",
+          "summaryLines": [
+            "ロイターの分析記事は、原油高と有事のドル買いが重なる局面で円安圧力がくすぶっていると指摘。",
+            "ファンダメンタルズ要因が強い局面では、当局が「投機」と判断しにくく、介入のハードルが上がる構図が示された。",
+            "G7協調やエネルギー価格の行方が、為替政策の余地を左右するとの見方が中心。"
+          ],
+          "whyImportant": "円安の持続は輸入物価・家計負担・金融政策の選択肢に直結し、日本経済の体感コストを左右するため。",
+          "source": "jp.reuters.com",
+          "link": "https://jp.reuters.com/opinion/P33CK3QF3VL3XOB42KOCY6EQEU-2026-03-13/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR西日本、2026年春ダイヤ改正　新幹線臨時便や「うれしート」拡大（トラベルWatch）",
+          "summaryLines": [
+            "JR西日本は3月14日改正で、山陽・北陸新幹線の臨時列車設定や所要時間短縮などを実施する。",
+            "大阪環状線・呉線・新快速に有料指定席「うれしート」を拡大し、着席ニーズへの対応を強化。",
+            "奈良線の停車駅見直しや新駅開業も含み、関西・北陸周遊の利便性に影響する改正となる。"
+          ],
+          "whyImportant": "春の国内旅行シーズンに直結する鉄道ネットワーク再編で、移動計画と予約行動が変わるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093216.html"
+        },
+        {
+          "title": "東京〜熱海間、3月14日以降は在来線・新幹線で乗車券共通利用に注意（トラベルWatch）",
+          "summaryLines": [
+            "JR東日本の運賃改定により、東京〜熱海間は在来線と東海道新幹線が「同一線路」扱いから外れる。",
+            "改定後は経路違いのきっぷ流用ができないケースが増え、旅行開始後の変更手続きに時間がかかる可能性がある。",
+            "東京圏〜伊豆方面の移動では、事前に経路と券種を確認する実務的重要性が高まる。"
+          ],
+          "whyImportant": "首都圏近距離〜温泉地移動の定番区間で、きっぷ選択ミスがそのまま時間ロス・追加負担につながるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2092887.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：日立とGEベルノバ、東南アジアで小型モジュール炉（SMR）導入検討で合意（Reuters）",
+    "時事・経済ニュース：日経平均は続落、一時1100円超安　中東情勢と原油高を警戒（Reuters）",
+    "暗号通貨：ビットコインが7.2万ドル台、ドル高局面でも相対的に堅調（CoinDesk）"
+  ],
+  "headlines": [
+    {
+      "title": "日立とGEベルノバ、東南アジアで小型モジュール炉（SMR）導入検討で合意（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/global-markets/3DKYLEHMVBNHTJJS32RJXMAR5I-2026-03-14/",
+      "snippet": "日本企業の原子力関連サプライチェーン拡大につながる可能性。"
+    },
+    {
+      "title": "米商務省、AI半導体輸出の新規則案を撤回（Reuters報道）",
+      "source": "news.yahoo.co.jp（Reuters）",
+      "link": "https://news.yahoo.co.jp/articles/e35c17ddb58b467f7a6c4cfb7ef546bfd081b3c4",
+      "snippet": "AI半導体の輸出管理方針に再調整が入り、政策の不確実性が増した。"
+    },
+    {
+      "title": "ビットコインが7.2万ドル台、ドル高局面でも相対的に堅調（CoinDesk）",
+      "source": "www.coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/13/bitcoin-outperforms-stocks-tops-usd72-000-even-as-dollar-strengthens",
+      "snippet": "先物建玉増加を伴う上昇で、リスク資産内での相対強度が意識された。"
+    },
+    {
+      "title": "日経平均は続落、一時1100円超安　中東情勢と原油高を警戒（Reuters）",
+      "source": "jp.reuters.com",
+      "link": "https://jp.reuters.com/markets/japan/56Q2QETABRIEZGY5IWVHLGHHKI-2026-03-13/",
+      "snippet": "地政学リスクが日本株のボラティリティを押し上げた。"
+    },
+    {
+      "title": "JR西日本、2026年春ダイヤ改正　新幹線臨時便や「うれしート」拡大（トラベルWatch）",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093216.html",
+      "snippet": "関西・北陸方面の国内旅行で、運行と着席サービスの選択肢が広がる。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 10
+  },
+  "generatedAt": "2026-03-14T11:04:48Z"
+}

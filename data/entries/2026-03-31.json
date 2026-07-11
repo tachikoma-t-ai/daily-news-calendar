@@ -1,0 +1,390 @@
+{
+  "date": "2026-03-31",
+  "title": "2026-03-31 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Google says Android with Chrome is ‘fastest mobile platform for web browsing’",
+          "summaryLines": [
+            "Google says Android with Chrome is ‘fastest mobile platform for web browsing’に関する最新動向です。",
+            "概要: Google shared today that Android and Chrome have set “new performance records” for mobile web browsi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "9to5google.com",
+          "link": "https://9to5google.com/2026/03/25/chrome-android-mobile-web-performance/"
+        },
+        {
+          "title": "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumors",
+          "summaryLines": [
+            "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumorsに関する最新動向です。",
+            "概要: Google today said that Android has set a new record for mobile web performance, making it the fastes…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "macrumors.com",
+          "link": "https://macrumors.com/2026/03/25/chrome-fastest-mobile-platform-web-browsing"
+        },
+        {
+          "title": "24 MARCH 2026 - [BETA] Synapse Web | Razer Insider",
+          "summaryLines": [
+            "24 MARCH 2026 - [BETA] Synapse Web | Razer Insiderに関する最新動向です。",
+            "概要: Synapse Web - V.2603190601 LINK: https://synapse.razer.com INTRODUCING: RAZER VIPER V4 PRO - FOR THE…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "insider.razer.com",
+          "link": "https://insider.razer.com/beta-release-versions-feedback-31/24-march-2026-beta-synapse-web-87439"
+        },
+        {
+          "title": "Google Moves Chrome to a Two-Week Development Schedule - Thurrott.com",
+          "summaryLines": [
+            "Google Moves Chrome to a Two-Week Development Schedule - Thurrott.comに関する最新動向です。",
+            "概要: Starting with Chrome 153 in September 2026, Google will move its web browser to a two-week developme…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "thurrott.com",
+          "link": "https://thurrott.com/cloud/web-browsers/google-chrome/333320/google-moves-chrome-to-a-two-week-development-schedule"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "CoreWeave secures $8.5 billion loan to expand AI infrastructure | Reuters",
+          "summaryLines": [
+            "CoreWeave secures $8.5 billion loan to expand AI infrastructure | Reutersに関する最新動向です。",
+            "概要: Cloud infrastructure firm CoreWeave has secured $8.5 billion in financing through ​a delayed-draw te…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/coreweave-secures-85-billion-loan-expand-ai-infrastructure-2026-03-31/"
+        },
+        {
+          "title": "The latest AI news we announced in March 2026",
+          "summaryLines": [
+            "The latest AI news we announced in March 2026に関する最新動向です。",
+            "概要: Here are Google’s latest AI updates from March 2026",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "blog.google",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/"
+        },
+        {
+          "title": "Best AI Models April 2026: Ranked by Benchmarks",
+          "summaryLines": [
+            "Best AI Models April 2026: Ranked by Benchmarksに関する最新動向です。",
+            "概要: GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6, GLM-5 - every major AI model ranked by SWE-bench, ARC-AGI-…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "buildfastwithai.com",
+          "link": "https://buildfastwithai.com/blogs/best-ai-models-april-2026"
+        },
+        {
+          "title": "New AI Model Releases Last 24 Hours: Latest Announcements",
+          "summaryLines": [
+            "New AI Model Releases Last 24 Hours: Latest Announcementsに関する最新動向です。",
+            "概要: Track the latest AI model releases announced in the past 24 hours. A clear roundup of new AI launche…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "labla.org",
+          "link": "https://labla.org/latest-ai-model-releases-past-24-hours/new-ai-model-releases-last-24-hours"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerate",
+          "summaryLines": [
+            "Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerateに関する最新動向です。",
+            "概要: Fresh Ethereum ETF inflows, digital asset treasury Bitmine buying and a shift away from bitcoin to a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up"
+        },
+        {
+          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "summaryLines": [
+            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
+            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/latest/crypto"
+        },
+        {
+          "title": "US securities regulator issues long-awaited crypto guidance | Reuters",
+          "summaryLines": [
+            "US securities regulator issues long-awaited crypto guidance | Reutersに関する最新動向です。",
+            "概要: The U.S. Securities and Exchange Commission on Tuesday issued an interpretation clarifying which typ…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/"
+        },
+        {
+          "title": "Bitcoin Price Prediction 2026-2031: Is $73K Still Possible After 4% Drop?",
+          "summaryLines": [
+            "Bitcoin Price Prediction 2026-2031: Is $73K Still Possible After 4% Drop?に関する最新動向です。",
+            "概要: Bitcoin price prediction April 2026 suggests BTC may reach $75K. Explore daily, weekly outlook, tech…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindcx.com",
+          "link": "https://coindcx.com/blog/price-predictions/bitcoin-price-weekly/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "TRADING DAY Seeking signals from the noise | Reuters",
+          "summaryLines": [
+            "TRADING DAY Seeking signals from the noise | Reutersに関する最新動向です。",
+            "概要: Wall Street and the Asian stock markets that were open ticked higher on Easter Monday, as investors…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/world/asia-pacific/global-markets-trading-day-graphic-2026-04-06"
+        },
+        {
+          "title": "Stock market news for April 1, 2026",
+          "summaryLines": [
+            "Stock market news for April 1, 2026に関する最新動向です。",
+            "概要: Stocks rose on Wednesday, while oil prices declined to start the month, as hope grew that an end to…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://cnbc.com/2026/03/31/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Economic Calendar 6 - 10 April 2026 - KAOHOON INTERNATIONAL",
+          "summaryLines": [
+            "Economic Calendar 6 - 10 April 2026 - KAOHOON INTERNATIONALに関する最新動向です。",
+            "概要: The following table is important global economic data from 6 - 10 April 2026.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "kaohooninternational.com",
+          "link": "https://kaohooninternational.com/economics/580667"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "US says Iran war at decisive moment, Tehran threatens US businesses in region | Reuters",
+          "summaryLines": [
+            "US says Iran war at decisive moment, Tehran threatens US businesses in region | Reutersに関する最新動向です。",
+            "概要: U.S. Defense Secretary Pete Hegseth said on Tuesday the next few days in the war against Iran would…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/energy/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-obliterate-iran-2026-03-31/"
+        },
+        {
+          "title": "Air Serbia, Wizz Air, Lufthansa, Turkish Airlines Fuel Serbia’s Tourism Surge: Q1 2026 Sees Historic Growth in Flights, Passengers, and Hotel Bookings! - Travel And Tour World",
+          "summaryLines": [
+            "Air Serbia, Wizz Air, Lufthansa, Turkish Airlines Fuel Serbia’s Tourism Surge: Q1 2026 Sees Historic Growth in Flights, Passengers, and Hotel Bookings! - Travel And Tour Worldに関する最新動向です。",
+            "概要: Air Serbia, Wizz Air, and Lufthansa are driving an unprecedented tourism surge in Serbia, country’s…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/air-serbia-wizz-air-lufthansa-turkish-airlines-fuel-serbias-tourism-surge-q1-2026-sees-historic-growth-in-flights-passengers-and-hotel-bookings/"
+        },
+        {
+          "title": "Dubai airport latest: Updates from United Airlines, IndiGo, Lufthansa and more | Time Out Dubai",
+          "summaryLines": [
+            "Dubai airport latest: Updates from United Airlines, IndiGo, Lufthansa and more | Time Out Dubaiに関する最新動向です。",
+            "概要: But some of the world's biggest airlines continue to adjust to the current situation, and several ro…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "timeoutdubai.com",
+          "link": "https://www.timeoutdubai.com/news/dubai-airport-travel-advice-april-2026"
+        },
+        {
+          "title": "Alaska Airlines unveils its first-ever International Business Class Suites experience, setting a new standard for long-haul travel - Alaska Airlines, Hawaiian Airlines and Horizon Air",
+          "summaryLines": [
+            "Alaska Airlines unveils its first-ever International Business Class Suites experience, setting a new standard for long-haul travel - Alaska Airlines, Hawaiian Airlines and Horizon Airに関する最新動向です。",
+            "概要: Featuring private lie‑flat suites, elevated dining and premium lounge access, the product is designe…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "news.alaskaair.com",
+          "link": "https://news.alaskaair.com/guest-experience/alaska-airlines-unveils-international-business-class-suites-experience/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Google says Android with Chrome is ‘fastest mobile platform for web browsing’",
+    "AI：CoreWeave secures $8.5 billion loan to expand AI infrastructure | Reuters",
+    "暗号通貨：Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerate"
+  ],
+  "headlines": [
+    {
+      "title": "Google says Android with Chrome is ‘fastest mobile platform for web browsing’",
+      "source": "9to5google.com",
+      "link": "https://9to5google.com/2026/03/25/chrome-android-mobile-web-performance/",
+      "snippet": "Google says Android with Chrome is ‘fastest mobile platform for web browsing’に関する最新動向です。 概要: Google shared today that Android and Chrome have set “new performance records” for mobile web browsi…"
+    },
+    {
+      "title": "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumors",
+      "source": "macrumors.com",
+      "link": "https://macrumors.com/2026/03/25/chrome-fastest-mobile-platform-web-browsing",
+      "snippet": "Google Claims Android Is Now Faster Than iPhone for Web Browsing - MacRumorsに関する最新動向です。 概要: Google today said that Android has set a new record for mobile web performance, making it the fastes…"
+    },
+    {
+      "title": "24 MARCH 2026 - [BETA] Synapse Web | Razer Insider",
+      "source": "insider.razer.com",
+      "link": "https://insider.razer.com/beta-release-versions-feedback-31/24-march-2026-beta-synapse-web-87439",
+      "snippet": "24 MARCH 2026 - [BETA] Synapse Web | Razer Insiderに関する最新動向です。 概要: Synapse Web - V.2603190601 LINK: https://synapse.razer.com INTRODUCING: RAZER VIPER V4 PRO - FOR THE…"
+    },
+    {
+      "title": "Google Moves Chrome to a Two-Week Development Schedule - Thurrott.com",
+      "source": "thurrott.com",
+      "link": "https://thurrott.com/cloud/web-browsers/google-chrome/333320/google-moves-chrome-to-a-two-week-development-schedule",
+      "snippet": "Google Moves Chrome to a Two-Week Development Schedule - Thurrott.comに関する最新動向です。 概要: Starting with Chrome 153 in September 2026, Google will move its web browser to a two-week developme…"
+    },
+    {
+      "title": "CoreWeave secures $8.5 billion loan to expand AI infrastructure | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/coreweave-secures-85-billion-loan-expand-ai-infrastructure-2026-03-31/",
+      "snippet": "CoreWeave secures $8.5 billion loan to expand AI infrastructure | Reutersに関する最新動向です。 概要: Cloud infrastructure firm CoreWeave has secured $8.5 billion in financing through ​a delayed-draw te…"
+    },
+    {
+      "title": "The latest AI news we announced in March 2026",
+      "source": "blog.google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "snippet": "The latest AI news we announced in March 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from March 2026"
+    },
+    {
+      "title": "Best AI Models April 2026: Ranked by Benchmarks",
+      "source": "buildfastwithai.com",
+      "link": "https://buildfastwithai.com/blogs/best-ai-models-april-2026",
+      "snippet": "Best AI Models April 2026: Ranked by Benchmarksに関する最新動向です。 概要: GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6, GLM-5 - every major AI model ranked by SWE-bench, ARC-AGI-…"
+    },
+    {
+      "title": "New AI Model Releases Last 24 Hours: Latest Announcements",
+      "source": "labla.org",
+      "link": "https://labla.org/latest-ai-model-releases-past-24-hours/new-ai-model-releases-last-24-hours",
+      "snippet": "New AI Model Releases Last 24 Hours: Latest Announcementsに関する最新動向です。 概要: Track the latest AI model releases announced in the past 24 hours. A clear roundup of new AI launche…"
+    },
+    {
+      "title": "Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerate",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/16/ether-surges-10-leading-crypto-rebound-as-etf-demand-bitmine-buying-pick-up",
+      "snippet": "Ethereum price news: ETH surges 10% outpacing bitcoin gains as ETF demand, Bitmine buying accelerateに関する最新動向です。 概要: Fresh Ethereum ETF inflows, digital asset treasury Bitmine buying and a shift away from bitcoin to a…"
+    },
+    {
+      "title": "Crypto: Trending News, Latest Updates, Analysis",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/latest/crypto",
+      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
+    },
+    {
+      "title": "US securities regulator issues long-awaited crypto guidance | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/",
+      "snippet": "US securities regulator issues long-awaited crypto guidance | Reutersに関する最新動向です。 概要: The U.S. Securities and Exchange Commission on Tuesday issued an interpretation clarifying which typ…"
+    },
+    {
+      "title": "Bitcoin Price Prediction 2026-2031: Is $73K Still Possible After 4% Drop?",
+      "source": "coindcx.com",
+      "link": "https://coindcx.com/blog/price-predictions/bitcoin-price-weekly/",
+      "snippet": "Bitcoin Price Prediction 2026-2031: Is $73K Still Possible After 4% Drop?に関する最新動向です。 概要: Bitcoin price prediction April 2026 suggests BTC may reach $75K. Explore daily, weekly outlook, tech…"
+    },
+    {
+      "title": "TRADING DAY Seeking signals from the noise | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/world/asia-pacific/global-markets-trading-day-graphic-2026-04-06",
+      "snippet": "TRADING DAY Seeking signals from the noise | Reutersに関する最新動向です。 概要: Wall Street and the Asian stock markets that were open ticked higher on Easter Monday, as investors…"
+    },
+    {
+      "title": "Stock market news for April 1, 2026",
+      "source": "cnbc.com",
+      "link": "https://cnbc.com/2026/03/31/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for April 1, 2026に関する最新動向です。 概要: Stocks rose on Wednesday, while oil prices declined to start the month, as hope grew that an end to…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "Economic Calendar 6 - 10 April 2026 - KAOHOON INTERNATIONAL",
+      "source": "kaohooninternational.com",
+      "link": "https://kaohooninternational.com/economics/580667",
+      "snippet": "Economic Calendar 6 - 10 April 2026 - KAOHOON INTERNATIONALに関する最新動向です。 概要: The following table is important global economic data from 6 - 10 April 2026."
+    },
+    {
+      "title": "US says Iran war at decisive moment, Tehran threatens US businesses in region | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/energy/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-obliterate-iran-2026-03-31/",
+      "snippet": "US says Iran war at decisive moment, Tehran threatens US businesses in region | Reutersに関する最新動向です。 概要: U.S. Defense Secretary Pete Hegseth said on Tuesday the next few days in the war against Iran would…"
+    },
+    {
+      "title": "Air Serbia, Wizz Air, Lufthansa, Turkish Airlines Fuel Serbia’s Tourism Surge: Q1 2026 Sees Historic Growth in Flights, Passengers, and Hotel Bookings! - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/air-serbia-wizz-air-lufthansa-turkish-airlines-fuel-serbias-tourism-surge-q1-2026-sees-historic-growth-in-flights-passengers-and-hotel-bookings/",
+      "snippet": "Air Serbia, Wizz Air, Lufthansa, Turkish Airlines Fuel Serbia’s Tourism Surge: Q1 2026 Sees Historic Growth in Flights, Passengers, and Hotel Bookings! - Travel And Tour Worldに関する最新動向です。 概要: Air Serbia, Wizz Air, and Lufthansa are driving an unprecedented tourism surge in Serbia, country’s…"
+    },
+    {
+      "title": "Dubai airport latest: Updates from United Airlines, IndiGo, Lufthansa and more | Time Out Dubai",
+      "source": "timeoutdubai.com",
+      "link": "https://www.timeoutdubai.com/news/dubai-airport-travel-advice-april-2026",
+      "snippet": "Dubai airport latest: Updates from United Airlines, IndiGo, Lufthansa and more | Time Out Dubaiに関する最新動向です。 概要: But some of the world's biggest airlines continue to adjust to the current situation, and several ro…"
+    },
+    {
+      "title": "Alaska Airlines unveils its first-ever International Business Class Suites experience, setting a new standard for long-haul travel - Alaska Airlines, Hawaiian Airlines and Horizon Air",
+      "source": "news.alaskaair.com",
+      "link": "https://news.alaskaair.com/guest-experience/alaska-airlines-unveils-international-business-class-suites-experience/",
+      "snippet": "Alaska Airlines unveils its first-ever International Business Class Suites experience, setting a new standard for long-haul travel - Alaska Airlines, Hawaiian Airlines and Horizon Airに関する最新動向です。 概要: Featuring private lie‑flat suites, elevated dining and premium lounge access, the product is designe…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-04-07T12:18:42.272348+00:00"
+}

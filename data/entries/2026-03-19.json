@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-19",
+  "title": "2026-03-19 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で直近ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
+          "summaryLines": [
+            "Reutersによると、MicrosoftはOpenAIとAmazonの約500億ドル規模のクラウド契約を巡り法的措置を検討している。",
+            "報道では、同契約がOpenAIとの独占的クラウド取り決めに抵触する可能性が論点。",
+            "生成AIの商用化が進む中、基盤インフラ契約の主導権争いが一段と表面化した。"
+          ],
+          "whyImportant": "主要AI企業の提携構造が変わると、クラウド市場シェアと企業向けAI供給体制に波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/technology/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-2026-03-18/"
+        },
+        {
+          "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+          "summaryLines": [
+            "Reutersは、Nvidiaが中国市場向けに販売可能なGroq関連チップを準備していると報じた。",
+            "同社は2025年末に約170億ドルでGroq技術を取り込み、GTCでも新製品群を提示。",
+            "規制対応と市場維持を両立する製品戦略が、半導体競争の次の焦点になっている。"
+          ],
+          "whyImportant": "対中規制下での製品設計は、AI半導体の供給網と売上見通しを左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/"
+        },
+        {
+          "title": "Debt investors offloading exposure to software companies is latest sign of pain",
+          "summaryLines": [
+            "Reutersは、ソフトウェア企業向け債務エクスポージャーを投資家が圧縮している動きを報じた。",
+            "金利環境と評価見直しで、成長企業の資金調達コスト上昇が意識されている。",
+            "大型M&Aが続く一方で、信用市場ではリスク選別が強まっている。"
+          ],
+          "whyImportant": "ソフトウェア企業の資金調達環境悪化は、採用・研究開発・M&Aの速度に直結するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/finance/debt-investors-offloading-exposure-software-companies-is-latest-sign-pain-2026-03-17/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion",
+          "summaryLines": [
+            "Reutersによると、NvidiaはGTCで推論需要を軸にした新チップ・ソフト戦略を示した。",
+            "AI関連の収益機会を1兆ドル規模と見る強気見通しを提示。",
+            "市場の重心が学習中心から推論最適化へ移る流れが鮮明になっている。"
+          ],
+          "whyImportant": "推論コストと性能の改善は、企業AI導入のROIを大きく左右するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/"
+        },
+        {
+          "title": "Mistral bets on build-your-own AI as it takes on OpenAI, Anthropic in the enterprise",
+          "summaryLines": [
+            "TechCrunchによると、Mistralは企業が自社データでカスタムモデルを構築できる「Mistral Forge」を発表。",
+            "RAGや微調整だけでなく、用途に応じた学習と運用主導権を企業側に置く構成を強調した。",
+            "同社は企業特化戦略を加速し、エンタープライズAIの差別化を狙う。"
+          ],
+          "whyImportant": "企業のデータ主権とカスタム需要を押さえる企業が、B2B生成AIの主導権を握るため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/"
+        },
+        {
+          "title": "OpenAI to sell AI to US agencies through Amazon cloud unit",
+          "summaryLines": [
+            "Reutersによると、OpenAIはAmazonのクラウド経由で米政府機関向けにAIモデル提供を進める契約を結んだ。",
+            "機密・非機密の双方で利用可能な形を想定し、公共セクター販売を拡大する狙い。",
+            "政府調達市場での生成AI競争が本格化し、クラウド連携の重要性が増している。"
+          ],
+          "whyImportant": "公共部門での採用拡大は、AI企業の収益安定化と規制適合の標準化を促すため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/business/retail-consumer/openai-sell-ai-us-agencies-through-amazon-cloud-unit-information-reports-2026-03-17/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "US securities regulator issues long-awaited crypto guidance",
+          "summaryLines": [
+            "Reutersは、米SECが暗号資産の扱いに関する待望のガイダンスを公表したと報じた。",
+            "同時にスタートアップ向けのセーフハーバー案にも言及され、市場制度設計の前進が示された。",
+            "法的位置づけの明確化により、事業者のコンプライアンス設計が進みやすくなる。"
+          ],
+          "whyImportant": "規制の不確実性低下は、機関投資家の参入判断と新規サービス開発を後押しするため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/"
+        },
+        {
+          "title": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+          "summaryLines": [
+            "CoinDeskによると、Citigroupは米法整備の遅れやETF流入前提の見直しを理由にBTC/ETH目標を引き下げた。",
+            "新目標はBTC 112,000ドル、ETH 3,175ドルで、従来予想から大幅に下方修正。",
+            "それでも中長期上昇余地は残るとの見方で、規制進展が最大の上振れ要因とされた。"
+          ],
+          "whyImportant": "大手金融機関の見通し変更は、市場センチメントと資金フロー期待に影響するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls"
+        },
+        {
+          "title": "Bitcoin price fails to penetrate $75,000 even after SEC/CFTC guidance",
+          "summaryLines": [
+            "CoinDeskは、SEC/CFTCの共同解釈公表後もビットコインが75,000ドルを明確に突破できなかったと報じた。",
+            "ガイダンスではトークン分類を整理し、法的な不確実性を一定程度低減。",
+            "ただし価格面では上値抵抗が意識され、短期は方向感の乏しい展開が続いている。"
+          ],
+          "whyImportant": "規制好材料が即時に価格へ反映されない局面は、需給と投資家心理の弱さを示すため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Wholesale prices rose 0.7% in February, up 3.4% annually",
+          "summaryLines": [
+            "CNBC/BLSによると、米2月PPIは前月比+0.7%と市場予想を上回った。",
+            "コアPPIも+0.5%で、サービス価格の上昇圧力が目立つ内容。",
+            "先行インフレ圧力の強さを受け、市場の利下げ時期観測は後ずれした。"
+          ],
+          "whyImportant": "生産者物価の再加速は、消費者物価と金利見通しの上振れリスクを高めるため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
+        },
+        {
+          "title": "Fourth-quarter GDP revised down to 0.7%; January core inflation at 3.1%",
+          "summaryLines": [
+            "CNBCによると、米2025年10-12月期GDPは年率0.7%へ下方改定された。",
+            "同時に1月コアPCEは前年比3.1%と高止まりし、成長鈍化と物価圧力が併存。",
+            "景気減速懸念とインフレ持続が、政策判断を難しくしている。"
+          ],
+          "whyImportant": "低成長と高インフレの組み合わせは、株・債券・為替の前提を同時に揺らすため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
+        },
+        {
+          "title": "Australia central bank hikes rates to 4.1% as inflation risks rise",
+          "summaryLines": [
+            "CNBCによると、豪中銀は政策金利を4.1%へ引き上げ、2025年4月以来の高水準となった。",
+            "インフレが目標上限を上回る状況に加え、中東情勢による価格上振れリスクを警戒。",
+            "世界的に「高金利長期化」シナリオが再評価されている。"
+          ],
+          "whyImportant": "主要中銀の引き締め継続は、世界の資本コストとリスク資産評価に直接効くため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "祇園の中心に全55室のラグジュアリーホテル「帝国ホテル 京都」が開業",
+          "summaryLines": [
+            "Travel Watchによると、帝国ホテルは京都・祇園に30年ぶりの新規ホテルを3月5日に開業した。",
+            "登録有形文化財「弥栄会館」の意匠を活かし、全55室の高付加価値滞在を提供。",
+            "歴史建築の保存と宿泊需要取り込みを両立する都心型再開発の事例となる。"
+          ],
+          "whyImportant": "京都の宿泊供給強化は、訪日・国内双方の高単価需要受け皿を広げるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093269.html"
+        },
+        {
+          "title": "JR東日本、在来線ダイヤ改正で武蔵野線直通増発や横浜線ワンマン運転開始",
+          "summaryLines": [
+            "Travel Watchによると、JR東日本は3月14日改正で在来線の運行体系を広く見直した。",
+            "武蔵野線の東京方面直通増発、横浜線・根岸線のワンマン運転開始など利便性を調整。",
+            "首都圏近郊旅行や日帰り移動の計画に影響する改正内容が多い。"
+          ],
+          "whyImportant": "鉄道ダイヤ更新は、国内旅行の所要時間・乗換計画・混雑回避に直結するため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2092850.html"
+        },
+        {
+          "title": "福島県、1泊3000円引きの旅行支援「また来て。」割を実施",
+          "summaryLines": [
+            "Travel Watchによると、福島県は県内宿泊を1人1泊3,000円割引する需要喚起策を発表。",
+            "第1期は5月11日〜6月30日宿泊分が対象で、4月1日から順次予約販売を開始。",
+            "OTA・旅行会社・宿直接予約を組み合わせ、地域送客の拡大を狙う。"
+          ],
+          "whyImportant": "自治体の割引施策は、国内旅行の実需と地方宿泊稼働率の押し上げ要因になるため。",
+          "source": "travel.watch.impress.co.jp",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2093064.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
+    "AI：Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion",
+    "暗号通貨：US securities regulator issues long-awaited crypto guidance"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/technology/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-2026-03-18/",
+      "snippet": "Reutersによると、MicrosoftはOpenAIとAmazonの約500億ドル規模のクラウド契約を巡り法的措置を検討している。"
+    },
+    {
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/",
+      "snippet": "Reutersは、Nvidiaが中国市場向けに販売可能なGroq関連チップを準備していると報じた。"
+    },
+    {
+      "title": "Debt investors offloading exposure to software companies is latest sign of pain",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/finance/debt-investors-offloading-exposure-software-companies-is-latest-sign-pain-2026-03-17/",
+      "snippet": "Reutersは、ソフトウェア企業向け債務エクスポージャーを投資家が圧縮している動きを報じた。"
+    },
+    {
+      "title": "Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/",
+      "snippet": "Reutersによると、NvidiaはGTCで推論需要を軸にした新チップ・ソフト戦略を示した。"
+    },
+    {
+      "title": "Mistral bets on build-your-own AI as it takes on OpenAI, Anthropic in the enterprise",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "snippet": "TechCrunchによると、Mistralは企業が自社データでカスタムモデルを構築できる「Mistral Forge」を発表。"
+    },
+    {
+      "title": "OpenAI to sell AI to US agencies through Amazon cloud unit",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/business/retail-consumer/openai-sell-ai-us-agencies-through-amazon-cloud-unit-information-reports-2026-03-17/",
+      "snippet": "Reutersによると、OpenAIはAmazonのクラウド経由で米政府機関向けにAIモデル提供を進める契約を結んだ。"
+    },
+    {
+      "title": "US securities regulator issues long-awaited crypto guidance",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/",
+      "snippet": "Reutersは、米SECが暗号資産の扱いに関する待望のガイダンスを公表したと報じた。"
+    },
+    {
+      "title": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
+      "snippet": "CoinDeskによると、Citigroupは米法整備の遅れやETF流入前提の見直しを理由にBTC/ETH目標を引き下げた。"
+    },
+    {
+      "title": "Bitcoin price fails to penetrate $75,000 even after SEC/CFTC guidance",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+      "snippet": "CoinDeskは、SEC/CFTCの共同解釈公表後もビットコインが75,000ドルを明確に突破できなかったと報じた。"
+    },
+    {
+      "title": "Wholesale prices rose 0.7% in February, up 3.4% annually",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
+      "snippet": "CNBC/BLSによると、米2月PPIは前月比+0.7%と市場予想を上回った。"
+    },
+    {
+      "title": "Fourth-quarter GDP revised down to 0.7%; January core inflation at 3.1%",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
+      "snippet": "CNBCによると、米2025年10-12月期GDPは年率0.7%へ下方改定された。"
+    },
+    {
+      "title": "Australia central bank hikes rates to 4.1% as inflation risks rise",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html",
+      "snippet": "CNBCによると、豪中銀は政策金利を4.1%へ引き上げ、2025年4月以来の高水準となった。"
+    },
+    {
+      "title": "祇園の中心に全55室のラグジュアリーホテル「帝国ホテル 京都」が開業",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093269.html",
+      "snippet": "Travel Watchによると、帝国ホテルは京都・祇園に30年ぶりの新規ホテルを3月5日に開業した。"
+    },
+    {
+      "title": "JR東日本、在来線ダイヤ改正で武蔵野線直通増発や横浜線ワンマン運転開始",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2092850.html",
+      "snippet": "Travel Watchによると、JR東日本は3月14日改正で在来線の運行体系を広く見直した。"
+    },
+    {
+      "title": "福島県、1泊3000円引きの旅行支援「また来て。」割を実施",
+      "source": "travel.watch.impress.co.jp",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2093064.html",
+      "snippet": "Travel Watchによると、福島県は県内宿泊を1人1泊3,000円割引する需要喚起策を発表。"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 15
+  },
+  "generatedAt": "2026-03-19T11:03:45.000000+00:00"
+}
