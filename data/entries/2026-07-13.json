@@ -1,55 +1,33 @@
 {
   "date": "2026-07-13",
   "title": "2026-07-13 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "ソフトバンクと安川電機、GPUクラウドでフィジカルAI実証",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ソフトバンクと安川電機は、NVIDIA協力のもと、ソフトバンクの「AIデータセンター GPUクラウド」をフィジカルAI開発基盤として活用する実証を行った。",
+            "ロボットの動作データ収集、AI学習、シミュレーション評価、実機適用までを一元的に効率化し、ワイヤーハーネスのような柔軟物体のハンドリングで有効性を確認した。",
+            "ソフトバンクは今後、企業が現場データを自社モデル改善や別業務への展開に使える環境づくりを進める。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "ロボットAIの実装基盤がクラウドGPUとシミュレーションに寄ることで、製造・物流現場への導入速度が上がる可能性があるため。",
+          "source": "ソフトバンク",
+          "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260713_01/"
         },
         {
-          "title": "Chrome Releases: Stable Channel Update for Desktop",
+          "title": "日本交通に不正アクセス、電話配車などが一時停止",
           "summaryLines": [
-            "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。",
-            "概要: The Stable channel has been updated to 150.0.7871.114/.115 for Windows and Mac and 150.0.7871.114 fo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本交通は7月13日、社内システムが不正アクセスを受けマルウェアに感染したと発表した。",
+            "被害拡大を防ぐためシステムを遮断し、電話によるタクシー配車、ハイヤーのWeb受注・予約管理、一部社内システムが停止している。",
+            "タクシーアプリ「GO」経由の配車は通常通り利用でき、同社はGOや乗り場、流し車両の利用を案内している。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "chromereleases.googleblog.com",
-          "link": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_01162222768.html"
-        },
-        {
-          "title": "ChatGPT — Release Notes | OpenAI Help Center",
-          "summaryLines": [
-            "ChatGPT — Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: A changelog of the latest updates and release notes for ChatGPT",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-        },
-        {
-          "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
-          "summaryLines": [
-            "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Macに関する最新動向です。",
-            "概要: Go to the 9to5Mac home page Switch site 9to5Toys 9to5Google Logo9to5Google Electrek Drone DJ LogoDro…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "9to5mac.com",
-          "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/"
+          "whyImportant": "交通インフラの業務システム障害は、利用者の移動手段と事業継続計画の両方に直結するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2607/13/news088.html"
         }
       ]
     },
@@ -58,48 +36,26 @@
       "name": "AI",
       "items": [
         {
-          "title": "Every major tech layoff in 2026 that has name-checked AI | TechCrunch",
+          "title": "国内AIベンチャーAIdeaLab、アニメ特化動画生成AI「AnimeGen」を無償公開",
           "summaryLines": [
-            "Every major tech layoff in 2026 that has name-checked AI | TechCrunchに関する最新動向です。",
-            "概要: A running look — in reverse chronological order — at the bigger tech companies that have announced s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "AIdeaLabは7月13日、アニメに特化した動画生成AIモデル「AnimeGen」の正式版を無償公開した。",
+            "テキストから動画を生成するモデルと画像から動画を生成するモデルをHugging Faceで提供し、Apache-2.0ライセンスで商用利用も可能にした。",
+            "経産省のGENIAC支援のもと開発され、中国Alibabaの「Wan 2.2」をベースにアニメ表現へ追加学習したという。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+          "whyImportant": "国内アニメ制作で生成AIを活用する選択肢が増え、人手不足や制作負荷の改善に関わるため。",
+          "source": "ITmedia AI+",
+          "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/"
         },
         {
-          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "title": "ChatGPT、Plus/Business/Pro向けの5時間使用上限を一時撤廃",
           "summaryLines": [
-            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
-            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OpenAIは7月13日、日本時間でChatGPTの5時間使用上限を一時的に撤廃したと開発者が明らかにした。",
+            "対象はPlus、Business、Proプランで、GPT-5.6 Solの効率化によりトークン使用量を抑え、より長く使えるようにする変更も進めている。",
+            "Web版とモバイルアプリでも貯蓄済みリセットが使えるようになり、一部不具合への補填も実施された。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
-        },
-        {
-          "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
-          "summaryLines": [
-            "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。",
-            "概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html"
-        },
-        {
-          "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
-          "summaryLines": [
-            "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。",
-            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "zdnet.com",
-          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+          "whyImportant": "生成AIを業務で連続利用するユーザーにとって、利用上限とモデル効率は実作業の継続性に大きく影響するため。",
+          "source": "PC Watch",
+          "link": "https://pc.watch.impress.co.jp/docs/news/2124537.html"
         }
       ]
     },
@@ -108,48 +64,26 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "BTC price July rise at risk as Coinbase Premium logs 50-day negative streak: Crypto Daily",
+          "title": "ビットコイン、イラン情勢悪化でも6.4万ドル中心にもみ合い",
           "summaryLines": [
-            "BTC price July rise at risk as Coinbase Premium logs 50-day negative streak: Crypto Dailyに関する最新動向です。",
-            "概要: The day ahead in crypto: July 7, 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "楽天ウォレットDaily Reportは、週末のBTC市場について、イラン停戦破棄や攻撃応酬を受けても6.4万ドルを中心に底堅く推移したと分析した。",
+            "週次ETFフローは9週間ぶりにプラスへ転じた一方、ストラテジー社のBTC売買動向やClarity法案審議、米CPIが今週の注目点に挙げられている。",
+            "市場は地政学リスクへの反応が鈍りつつあるが、半導体株安や原油価格、政策イベントが上値を左右する構図だ。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/daybook-us/2026/07/07/bitcoin-s-july-gains-may-be-fleeting-as-u-s-demand-stays-weak"
+          "whyImportant": "ETF資金フロー、企業保有BTC、米政策イベントが重なる局面は、暗号資産市場の短期ボラティリティを左右しやすいため。",
+          "source": "NADA NEWS / 楽天ウォレットDaily Report",
+          "link": "https://www.nadanews.com/359372/"
         },
         {
-          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "title": "7月13日の暗号資産日程、SYRUPバイバックとFRB高官講演に注目",
           "summaryLines": [
-            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
-            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Bloomingbitは7月13日の主要経済・暗号資産日程として、ボウマンFRB副議長とウォラーFRB理事の講演を挙げた。",
+            "暗号資産関連では、メイプル・ファイナンス（SYRUP）がMIP-021バイバックを開始する予定としている。",
+            "マクロ要人発言と個別プロジェクトの需給イベントが同日に重なり、相場材料として意識される。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/latest/crypto"
-        },
-        {
-          "title": "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Now",
-          "summaryLines": [
-            "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Nowに関する最新動向です。",
-            "概要: Eight-week outflow streak ended as BTC and ETH ETFs drew $282M. Cross-asset demand now shapes rotati…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "cryptodaily.co.uk",
-          "link": "https://cryptodaily.co.uk/2026/07/bitcoin-ether-etfs-cross-asset-demand"
-        },
-        {
-          "title": "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republic",
-          "summaryLines": [
-            "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republicに関する最新動向です。",
-            "概要: Bitcoin ETFs posted fresh inflows on July 7 as Ethereum ETFs drew higher demand, while BlackRock off…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "thecoinrepublic.com",
-          "link": "https://thecoinrepublic.com/2026/07/09/bitcoin-etfs-extend-inflows-as-ethereum-etfs-outpace-btc"
+          "whyImportant": "暗号資産はマクロ金利見通しと個別トークンの需給イベントの両方で価格が動きやすいため。",
+          "source": "Bloomingbit",
+          "link": "https://jp.bloomingbit.io/feed/news/116090"
         }
       ]
     },
@@ -158,233 +92,56 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Market on Edge Watching Strait as Chip Firm Debuts",
+          "title": "日経平均、後場に下げ幅拡大　半導体関連が重し",
           "summaryLines": [
-            "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "株式新聞Webは、13日午後零時48分すぎの日経平均株価が前週末比1240円程度安い6万7320円前後で推移したと報じた。",
+            "マイナス寄与上位にはアドバンテス、キオクシア、東エレクが入り、為替は1ドル=162円10銭前後でやや円安方向だった。",
+            "午後零時45分時点のプライム市場の出来高は10億3094万株、売買代金は5兆5370億円だった。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "AI・半導体関連株の調整は日本株指数全体への影響が大きく、投資家心理を左右するため。",
+          "source": "株式新聞Web",
+          "link": "https://kabushiki.jp/news/757545"
         },
         {
-          "title": "Stock market news for July 8, 2026",
+          "title": "ドル円、162円台後半の上値と米CPI・議長証言が焦点に",
           "summaryLines": [
-            "Stock market news for July 8, 2026に関する最新動向です。",
-            "概要: U.S. President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran is &quot;ove…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "外為どっとコムは、7月13日から17日のドル円について、ややドル安・円高寄りながら方向を決めつけにくい地合いと分析した。",
+            "焦点は7月14日の米CPI、15日のPPI、ウォーシュFRB議長の議会証言で、米長期金利とドル円の方向感を左右する可能性がある。",
+            "予想レンジは160.00～162.80円で、161.45円の支持線と162.80円の抵抗線のどちらを先に抜けるかが注目される。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/07/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-          "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
-        },
-        {
-          "title": "World News and International Headlines : NPR",
-          "summaryLines": [
-            "World News and International Headlines : NPRに関する最新動向です。",
-            "概要: NPR world news, international art and culture, world business and financial markets, world economy…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "npr.org",
-          "link": "https://www.npr.org/sections/world/"
+          "whyImportant": "円安と米物価指標は輸入物価、企業収益、家計負担に波及し、日本経済の短期見通しを左右するため。",
+          "source": "外為どっとコム マネ育チャンネル",
+          "link": "https://www.gaitame.com/media/entry/2026/07/13/122415"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行",
       "items": [
         {
-          "title": "South Florida airport renamed for President Donald Trump | AP News",
+          "title": "観光白書、国内総旅行消費額37.6兆円と地方誘客の課題を提示",
           "summaryLines": [
-            "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。",
-            "概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "事業構想オンラインは、政府が7月10日に閣議決定した令和8年版観光白書の内容を報じた。",
+            "2025年の訪日外国人旅行者数と消費額はいずれも過去最高で、日本人の国内旅行と合わせた国内総旅行消費額は37.6兆円に達した。",
+            "一方で外国人延べ宿泊者の約7割が三大都市圏に集中し、地方誘客、混雑対策、宿泊業の人材確保と生産性向上が課題として示された。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "apnews.com",
-          "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5"
+          "whyImportant": "国内旅行市場の成長を地方へ広げるには、観光地の受け入れ環境と宿泊業の持続性が重要になるため。",
+          "source": "事業構想オンライン",
+          "link": "https://www.projectdesign.jp/articles/news/6150eb55-b9cf-4a85-b891-51c6609ce42c"
         },
         {
-          "title": "Reuters Business News | Today's International Headlines | Reuters",
+          "title": "夏休みの国内旅行、宿泊あり予算が10万9305円に上昇",
           "summaryLines": [
-            "Reuters Business News | Today's International Headlines | Reutersに関する最新動向です。",
-            "概要: Find latest business news from every corner of the globe at Reuters.com, your online source for brea…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "食品新聞は、インテージの夏休み予算調査で、2026年の平均予算が5万8902円と3年ぶりに増加する見込みになったと報じた。",
+            "過ごし方は「自宅」が38.6%で最多だが、「国内旅行（宿泊あり）」は18.3%、「国内旅行（日帰り）」は9.7%だった。",
+            "宿泊を伴う国内旅行の予算は10万9305円と前年比6.4%増で、理由として宿泊料金の高騰が多く挙がった。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/business/"
-        },
-        {
-          "title": "Record heat, crowds drive offseason boom in international travel",
-          "summaryLines": [
-            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
-            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
-        },
-        {
-          "title": "Airline and Travel News Updates: July 2026 - ExpatGo",
-          "summaryLines": [
-            "Airline and Travel News Updates: July 2026 - ExpatGoに関する最新動向です。",
-            "概要: Stay up to date with the latest in the travel and hospitality industry, from airline launches and ro…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "expatgo.com",
-          "link": "https://expatgo.com/2026/07/06/airline-and-travel-news-updates-july-2026"
+          "whyImportant": "物価高下でも国内旅行需要は残る一方、宿泊費上昇が行き先選びや滞在日数に影響するため。",
+          "source": "食品新聞",
+          "link": "https://shokuhin.net/153369/2026/07/13/sonota/research/"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：Every major tech layoff in 2026 that has name-checked AI | TechCrunch",
-    "暗号通貨：BTC price July rise at risk as Coinbase Premium logs 50-day negative streak: Crypto Daily"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Chrome Releases: Stable Channel Update for Desktop",
-      "source": "chromereleases.googleblog.com",
-      "link": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_01162222768.html",
-      "snippet": "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。 概要: The Stable channel has been updated to 150.0.7871.114/.115 for Windows and Mac and 150.0.7871.114 fo…"
-    },
-    {
-      "title": "ChatGPT — Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "snippet": "ChatGPT — Release Notes | OpenAI Help Centerに関する最新動向です。 概要: A changelog of the latest updates and release notes for ChatGPT"
-    },
-    {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
-      "source": "9to5mac.com",
-      "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "snippet": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Macに関する最新動向です。 概要: Go to the 9to5Mac home page Switch site 9to5Toys 9to5Google Logo9to5Google Electrek Drone DJ LogoDro…"
-    },
-    {
-      "title": "Every major tech layoff in 2026 that has name-checked AI | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "snippet": "Every major tech layoff in 2026 that has name-checked AI | TechCrunchに関する最新動向です。 概要: A running look — in reverse chronological order — at the bigger tech companies that have announced s…"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
-    },
-    {
-      "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
-      "snippet": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。 概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…"
-    },
-    {
-      "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
-      "source": "zdnet.com",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "snippet": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
-    },
-    {
-      "title": "BTC price July rise at risk as Coinbase Premium logs 50-day negative streak: Crypto Daily",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/07/bitcoin-s-july-gains-may-be-fleeting-as-u-s-demand-stays-weak",
-      "snippet": "BTC price July rise at risk as Coinbase Premium logs 50-day negative streak: Crypto Dailyに関する最新動向です。 概要: The day ahead in crypto: July 7, 2026"
-    },
-    {
-      "title": "Crypto: Trending News, Latest Updates, Analysis",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/latest/crypto",
-      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
-    },
-    {
-      "title": "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Now",
-      "source": "cryptodaily.co.uk",
-      "link": "https://cryptodaily.co.uk/2026/07/bitcoin-ether-etfs-cross-asset-demand",
-      "snippet": "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Nowに関する最新動向です。 概要: Eight-week outflow streak ended as BTC and ETH ETFs drew $282M. Cross-asset demand now shapes rotati…"
-    },
-    {
-      "title": "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republic",
-      "source": "thecoinrepublic.com",
-      "link": "https://thecoinrepublic.com/2026/07/09/bitcoin-etfs-extend-inflows-as-ethereum-etfs-outpace-btc",
-      "snippet": "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republicに関する最新動向です。 概要: Bitcoin ETFs posted fresh inflows on July 7 as Ethereum ETFs drew higher demand, while BlackRock off…"
-    },
-    {
-      "title": "Market on Edge Watching Strait as Chip Firm Debuts",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Stock market news for July 8, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/07/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for July 8, 2026に関する最新動向です。 概要: U.S. President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran is &quot;ove…"
-    },
-    {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "World News and International Headlines : NPR",
-      "source": "npr.org",
-      "link": "https://www.npr.org/sections/world/",
-      "snippet": "World News and International Headlines : NPRに関する最新動向です。 概要: NPR world news, international art and culture, world business and financial markets, world economy…"
-    },
-    {
-      "title": "South Florida airport renamed for President Donald Trump | AP News",
-      "source": "apnews.com",
-      "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5",
-      "snippet": "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。 概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…"
-    },
-    {
-      "title": "Reuters Business News | Today's International Headlines | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/business/",
-      "snippet": "Reuters Business News | Today's International Headlines | Reutersに関する最新動向です。 概要: Find latest business news from every corner of the globe at Reuters.com, your online source for brea…"
-    },
-    {
-      "title": "Record heat, crowds drive offseason boom in international travel",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
-    },
-    {
-      "title": "Airline and Travel News Updates: July 2026 - ExpatGo",
-      "source": "expatgo.com",
-      "link": "https://expatgo.com/2026/07/06/airline-and-travel-news-updates-july-2026",
-      "snippet": "Airline and Travel News Updates: July 2026 - ExpatGoに関する最新動向です。 概要: Stay up to date with the latest in the travel and hospitality industry, from airline launches and ro…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-07-12T15:36:09.462234+00:00"
+  ]
 }
