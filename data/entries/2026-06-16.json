@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-16",
+  "title": "2026-06-16 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "The Best Web Browser in 2026: Chrome vs Brave vs Firefox vs Edge (and More) — TechWhack",
+          "summaryLines": [
+            "The Best Web Browser in 2026: Chrome vs Brave vs Firefox vs Edge (and More) — TechWhackに関する最新動向です。",
+            "概要: We tested the major browsers in 2026 on speed, privacy, efficiency, and extensions. Brave is the bes…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techwhack.com",
+          "link": "https://techwhack.com/apps/best-web-browser/"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        },
+        {
+          "title": "Types of web browsers in 2026: A quick overview | NordVPN",
+          "summaryLines": [
+            "Types of web browsers in 2026: A quick overview | NordVPNに関する最新動向です。",
+            "概要: Learn about different types of web browsers, including Chrome, Safari, Edge, Firefox, Brave, and AI…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "nordvpn.com",
+          "link": "https://nordvpn.com/blog/types-of-browsers"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Insight: Fast-tracked power plants fuel AI boom, with little public scrutiny | Reuters",
+          "summaryLines": [
+            "Insight: Fast-tracked power plants fuel AI boom, with little public scrutiny | Reutersに関する最新動向です。",
+            "概要: From the front window of her house, Breanne Kidd once watched the sun rise over farmland as she sipp…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/business/energy/fast-tracked-power-plants-fuel-ai-boom-with-little-public-scrutiny-2026-06-16"
+        },
+        {
+          "title": "Every major tech layoff in 2026 that has name-checked AI | TechCrunch",
+          "summaryLines": [
+            "Every major tech layoff in 2026 that has name-checked AI | TechCrunchに関する最新動向です。",
+            "概要: A running look — in reverse chronological order — at the bigger tech companies that have announced s…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+        },
+        {
+          "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
+          "summaryLines": [
+            "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。",
+            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "zdnet.com",
+          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+        },
+        {
+          "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
+          "summaryLines": [
+            "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。",
+            "概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "nytimes.com",
+          "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin news today: Over $9 billion flees BTC and ETH ETFs in four months",
+          "summaryLines": [
+            "Bitcoin news today: Over $9 billion flees BTC and ETH ETFs in four monthsに関する最新動向です。",
+            "概要: Record outflows indicate that institutional appetite for digital assets has collapsed.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/03/02/over-usd9-billion-flees-bitcoin-and-ether-etfs-in-four-months"
+        },
+        {
+          "title": "Bitcoin Price Slips as AI Investments Draw Capital Away From Crypto Markets - Bloomberg",
+          "summaryLines": [
+            "Bitcoin Price Slips as AI Investments Draw Capital Away From Crypto Markets - Bloombergに関する最新動向です。",
+            "概要: Bitcoin spent years trying to shed its reputation as a playground for speculative retail traders. It…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility"
+        },
+        {
+          "title": "US SEC poised to allow stock token trading in potential market shakeup | Reuters",
+          "summaryLines": [
+            "US SEC poised to allow stock token trading in potential market shakeup | Reutersに関する最新動向です。",
+            "概要: U.S. equity markets face a potential shakeup as the Securities and Exchange Commission readies a new…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/legal/government/us-sec-poised-allow-stock-token-trading-potential-market-shakeup-2026-06-17"
+        },
+        {
+          "title": "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Now",
+          "summaryLines": [
+            "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Nowに関する最新動向です。",
+            "概要: Eight-week outflow streak ended as BTC and ETH ETFs drew $282M. Cross-asset demand now shapes rotati…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "cryptodaily.co.uk",
+          "link": "https://cryptodaily.co.uk/2026/07/bitcoin-ether-etfs-cross-asset-demand"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Morning Bid: Central banks take the stage | Reuters",
+          "summaryLines": [
+            "Morning Bid: Central banks take the stage | Reutersに関する最新動向です。",
+            "概要: Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., June 3, 2026…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-16"
+        },
+        {
+          "title": "Stock market next week: Outlook for July 13-17, 2026",
+          "summaryLines": [
+            "Stock market next week: Outlook for July 13-17, 2026に関する最新動向です。",
+            "概要: Investors are anticipating the start of earnings season and the release of June inflation data, just…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html"
+        },
+        {
+          "title": "Market on Edge Watching Strait as Chip Firm Debuts",
+          "summaryLines": [
+            "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Global Economic Output Looks Slower for 2026, IMF Says - The New York Times",
+          "summaryLines": [
+            "Global Economic Output Looks Slower for 2026, IMF Says - The New York Timesに関する最新動向です。",
+            "概要: The I.M.F. projected world output growth would fall to 3 percent for the year, a number pushed down…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "nytimes.com",
+          "link": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Airports Are Travel Destinations Now - Bloomberg",
+          "summaryLines": [
+            "Airports Are Travel Destinations Now - Bloombergに関する最新動向です。",
+            "概要: Plus, Basel’s secret art rooms and the rise of peptide-maxxers",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-20/airports-are-travel-destinations-now"
+        },
+        {
+          "title": "South Florida airport renamed for President Donald Trump | AP News",
+          "summaryLines": [
+            "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。",
+            "概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "apnews.com",
+          "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5"
+        },
+        {
+          "title": "Australia relaxes Gulf travel advice in boost for Middle Eastern airlines | Reuters",
+          "summaryLines": [
+            "Australia relaxes Gulf travel advice in boost for Middle Eastern airlines | Reutersに関する最新動向です。",
+            "概要: Australia on Wednesday relaxed its travel advice for several Middle Eastern countries, allowing Aust…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/asia-pacific/australia-lowers-middle-east-travel-warnings-after-us-iran-agreement-2026-06-16/"
+        },
+        {
+          "title": "Record heat, crowds drive offseason boom in international travel",
+          "summaryLines": [
+            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
+            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：Insight: Fast-tracked power plants fuel AI boom, with little public scrutiny | Reuters",
+    "暗号通貨：Bitcoin news today: Over $9 billion flees BTC and ETH ETFs in four months"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "The Best Web Browser in 2026: Chrome vs Brave vs Firefox vs Edge (and More) — TechWhack",
+      "source": "techwhack.com",
+      "link": "https://techwhack.com/apps/best-web-browser/",
+      "snippet": "The Best Web Browser in 2026: Chrome vs Brave vs Firefox vs Edge (and More) — TechWhackに関する最新動向です。 概要: We tested the major browsers in 2026 on speed, privacy, efficiency, and extensions. Brave is the bes…"
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "Types of web browsers in 2026: A quick overview | NordVPN",
+      "source": "nordvpn.com",
+      "link": "https://nordvpn.com/blog/types-of-browsers",
+      "snippet": "Types of web browsers in 2026: A quick overview | NordVPNに関する最新動向です。 概要: Learn about different types of web browsers, including Chrome, Safari, Edge, Firefox, Brave, and AI…"
+    },
+    {
+      "title": "Insight: Fast-tracked power plants fuel AI boom, with little public scrutiny | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/business/energy/fast-tracked-power-plants-fuel-ai-boom-with-little-public-scrutiny-2026-06-16",
+      "snippet": "Insight: Fast-tracked power plants fuel AI boom, with little public scrutiny | Reutersに関する最新動向です。 概要: From the front window of her house, Breanne Kidd once watched the sun rise over farmland as she sipp…"
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "snippet": "Every major tech layoff in 2026 that has name-checked AI | TechCrunchに関する最新動向です。 概要: A running look — in reverse chronological order — at the bigger tech companies that have announced s…"
+    },
+    {
+      "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "snippet": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+      "snippet": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。 概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…"
+    },
+    {
+      "title": "Bitcoin news today: Over $9 billion flees BTC and ETH ETFs in four months",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/03/02/over-usd9-billion-flees-bitcoin-and-ether-etfs-in-four-months",
+      "snippet": "Bitcoin news today: Over $9 billion flees BTC and ETH ETFs in four monthsに関する最新動向です。 概要: Record outflows indicate that institutional appetite for digital assets has collapsed."
+    },
+    {
+      "title": "Bitcoin Price Slips as AI Investments Draw Capital Away From Crypto Markets - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility",
+      "snippet": "Bitcoin Price Slips as AI Investments Draw Capital Away From Crypto Markets - Bloombergに関する最新動向です。 概要: Bitcoin spent years trying to shed its reputation as a playground for speculative retail traders. It…"
+    },
+    {
+      "title": "US SEC poised to allow stock token trading in potential market shakeup | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/legal/government/us-sec-poised-allow-stock-token-trading-potential-market-shakeup-2026-06-17",
+      "snippet": "US SEC poised to allow stock token trading in potential market shakeup | Reutersに関する最新動向です。 概要: U.S. equity markets face a potential shakeup as the Securities and Exchange Commission readies a new…"
+    },
+    {
+      "title": "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Now",
+      "source": "cryptodaily.co.uk",
+      "link": "https://cryptodaily.co.uk/2026/07/bitcoin-ether-etfs-cross-asset-demand",
+      "snippet": "Bitcoin and Ether ETFs Snap the Outflow Streak: Why Cross-Asset Demand Matters Nowに関する最新動向です。 概要: Eight-week outflow streak ended as BTC and ETH ETFs drew $282M. Cross-asset demand now shapes rotati…"
+    },
+    {
+      "title": "Morning Bid: Central banks take the stage | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-16",
+      "snippet": "Morning Bid: Central banks take the stage | Reutersに関する最新動向です。 概要: Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., June 3, 2026…"
+    },
+    {
+      "title": "Stock market next week: Outlook for July 13-17, 2026",
+      "source": "cnbc.com",
+      "link": "https://cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
+      "snippet": "Stock market next week: Outlook for July 13-17, 2026に関する最新動向です。 概要: Investors are anticipating the start of earnings season and the release of June inflation data, just…"
+    },
+    {
+      "title": "Market on Edge Watching Strait as Chip Firm Debuts",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "Global Economic Output Looks Slower for 2026, IMF Says - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html",
+      "snippet": "Global Economic Output Looks Slower for 2026, IMF Says - The New York Timesに関する最新動向です。 概要: The I.M.F. projected world output growth would fall to 3 percent for the year, a number pushed down…"
+    },
+    {
+      "title": "Airports Are Travel Destinations Now - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-20/airports-are-travel-destinations-now",
+      "snippet": "Airports Are Travel Destinations Now - Bloombergに関する最新動向です。 概要: Plus, Basel’s secret art rooms and the rise of peptide-maxxers"
+    },
+    {
+      "title": "South Florida airport renamed for President Donald Trump | AP News",
+      "source": "apnews.com",
+      "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5",
+      "snippet": "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。 概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…"
+    },
+    {
+      "title": "Australia relaxes Gulf travel advice in boost for Middle Eastern airlines | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/asia-pacific/australia-lowers-middle-east-travel-warnings-after-us-iran-agreement-2026-06-16/",
+      "snippet": "Australia relaxes Gulf travel advice in boost for Middle Eastern airlines | Reutersに関する最新動向です。 概要: Australia on Wednesday relaxed its travel advice for several Middle Eastern countries, allowing Aust…"
+    },
+    {
+      "title": "Record heat, crowds drive offseason boom in international travel",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
+      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-07-13T11:14:02.335335+00:00"
+}

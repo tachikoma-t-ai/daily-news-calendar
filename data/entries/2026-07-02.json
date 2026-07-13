@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-02",
+  "title": "2026-07-02 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rollout",
+          "summaryLines": [
+            "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rolloutに関する最新動向です。",
+            "概要: Kagi confirms the WebKit-based Orion browser is coming to Windows in late 2026, alongside a cross-pl…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "piunikaweb.com",
+          "link": "https://piunikaweb.com/2026/06/26/orion-browser-windows-release-date"
+        },
+        {
+          "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
+          "summaryLines": [
+            "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Macに関する最新動向です。",
+            "概要: Go to the 9to5Mac home page Switch site 9to5Toys 9to5Google Logo9to5Google Electrek Drone DJ LogoDro…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "9to5mac.com",
+          "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/"
+        },
+        {
+          "title": "Types of web browsers in 2026: A quick overview | NordVPN",
+          "summaryLines": [
+            "Types of web browsers in 2026: A quick overview | NordVPNに関する最新動向です。",
+            "概要: Learn about different types of web browsers, including Chrome, Safari, Edge, Firefox, Brave, and AI…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "nordvpn.com",
+          "link": "https://nordvpn.com/blog/types-of-browsers/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "summaryLines": [
+            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
+            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+        },
+        {
+          "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
+          "summaryLines": [
+            "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。",
+            "概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "nytimes.com",
+          "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html"
+        },
+        {
+          "title": "OpenAI to release its most powerful model after weekslong hold - POLITICO",
+          "summaryLines": [
+            "OpenAI to release its most powerful model after weekslong hold - POLITICOに関する最新動向です。",
+            "概要: The company announced late Tuesday that its models, called Luna, Sol and Terra, will be available gl…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "politico.com",
+          "link": "https://politico.com/news/2026/07/08/open-ai-models-release-sol-00989959"
+        },
+        {
+          "title": "Model Release Notes | OpenAI Help Center",
+          "summaryLines": [
+            "Model Release Notes | OpenAI Help Centerに関する最新動向です。",
+            "概要: We’re beginning the rollout of GPT-5.6 Sol in ChatGPT, our flagship reasoning model for complex work…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "help.openai.com",
+          "link": "https://help.openai.com/en/articles/9624314-model-release-notes"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show: Crypto Daily",
+          "summaryLines": [
+            "Bitcoin, ether traders aren't fully buying the bounce, options markets show: Crypto Dailyに関する最新動向です。",
+            "概要: This is an excerpt from CoinDesk newsletter 'Daybook.' Sign up here, if you haven't already · With b…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show"
+        },
+        {
+          "title": "Crypto: Trending News, Latest Updates, Analysis",
+          "summaryLines": [
+            "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。",
+            "概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/latest/crypto"
+        },
+        {
+          "title": "Crypto News: Bitcoin ETFs End 10 Day Outflow Streak",
+          "summaryLines": [
+            "Crypto News: Bitcoin ETFs End 10 Day Outflow Streakに関する最新動向です。",
+            "概要: Elsewhere in the crypto landscape, new North Carolina legislation formally recognizes the exclusive…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "investingnews.com",
+          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+        },
+        {
+          "title": "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republic",
+          "summaryLines": [
+            "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republicに関する最新動向です。",
+            "概要: Bitcoin ETFs posted fresh inflows on July 7 as Ethereum ETFs drew higher demand, while BlackRock off…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "thecoinrepublic.com",
+          "link": "https://thecoinrepublic.com/2026/07/09/bitcoin-etfs-extend-inflows-as-ethereum-etfs-outpace-btc"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reuters",
+          "summaryLines": [
+            "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reutersに関する最新動向です。",
+            "概要: Policymakers expect a hike in borrowing costs later this year amid growing concerns about inflation…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/world/us/fed-rate-decision-live-us-central-bank-expected-hold-rates-steady-first-meeting-2026-06-17/"
+        },
+        {
+          "title": "Market on Edge Watching Strait as Chip Firm Debuts",
+          "summaryLines": [
+            "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Stock market news for July 9, 2026",
+          "summaryLines": [
+            "Stock market news for July 9, 2026に関する最新動向です。",
+            "概要: The U.S. launched fresh strikes on Iran, after President Donald Trump said Wednesday he may no longe…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/08/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "summaryLines": [
+            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
+            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "South Florida airport renamed for President Donald Trump | AP News",
+          "summaryLines": [
+            "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。",
+            "概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "apnews.com",
+          "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5"
+        },
+        {
+          "title": "Airports Are Travel Destinations Now - Bloomberg",
+          "summaryLines": [
+            "Airports Are Travel Destinations Now - Bloombergに関する最新動向です。",
+            "概要: Plus, Basel’s secret art rooms and the rise of peptide-maxxers",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-20/airports-are-travel-destinations-now"
+        },
+        {
+          "title": "Record heat, crowds drive offseason boom in international travel",
+          "summaryLines": [
+            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
+            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+        },
+        {
+          "title": "Airline and Travel News Updates: July 2026 - ExpatGo",
+          "summaryLines": [
+            "Airline and Travel News Updates: July 2026 - ExpatGoに関する最新動向です。",
+            "概要: Stay up to date with the latest in the travel and hospitality industry, from airline launches and ro…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "expatgo.com",
+          "link": "https://expatgo.com/2026/07/06/airline-and-travel-news-updates-july-2026"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+    "暗号通貨：Bitcoin, ether traders aren't fully buying the bounce, options markets show: Crypto Daily"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rollout",
+      "source": "piunikaweb.com",
+      "link": "https://piunikaweb.com/2026/06/26/orion-browser-windows-release-date",
+      "snippet": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rolloutに関する最新動向です。 概要: Kagi confirms the WebKit-based Orion browser is coming to Windows in late 2026, alongside a cross-pl…"
+    },
+    {
+      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
+      "source": "9to5mac.com",
+      "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
+      "snippet": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Macに関する最新動向です。 概要: Go to the 9to5Mac home page Switch site 9to5Toys 9to5Google Logo9to5Google Electrek Drone DJ LogoDro…"
+    },
+    {
+      "title": "Types of web browsers in 2026: A quick overview | NordVPN",
+      "source": "nordvpn.com",
+      "link": "https://nordvpn.com/blog/types-of-browsers/",
+      "snippet": "Types of web browsers in 2026: A quick overview | NordVPNに関する最新動向です。 概要: Learn about different types of web browsers, including Chrome, Safari, Edge, Firefox, Brave, and AI…"
+    },
+    {
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+      "snippet": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。 概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…"
+    },
+    {
+      "title": "OpenAI to release its most powerful model after weekslong hold - POLITICO",
+      "source": "politico.com",
+      "link": "https://politico.com/news/2026/07/08/open-ai-models-release-sol-00989959",
+      "snippet": "OpenAI to release its most powerful model after weekslong hold - POLITICOに関する最新動向です。 概要: The company announced late Tuesday that its models, called Luna, Sol and Terra, will be available gl…"
+    },
+    {
+      "title": "Model Release Notes | OpenAI Help Center",
+      "source": "help.openai.com",
+      "link": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "snippet": "Model Release Notes | OpenAI Help Centerに関する最新動向です。 概要: We’re beginning the rollout of GPT-5.6 Sol in ChatGPT, our flagship reasoning model for complex work…"
+    },
+    {
+      "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show: Crypto Daily",
+      "source": "coindesk.com",
+      "link": "https://coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
+      "snippet": "Bitcoin, ether traders aren't fully buying the bounce, options markets show: Crypto Dailyに関する最新動向です。 概要: This is an excerpt from CoinDesk newsletter 'Daybook.' Sign up here, if you haven't already · With b…"
+    },
+    {
+      "title": "Crypto: Trending News, Latest Updates, Analysis",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/latest/crypto",
+      "snippet": "Crypto: Trending News, Latest Updates, Analysisに関する最新動向です。 概要: See the latest on Crypto. From breaking news to in-depth reporting, Bloomberg tracks the full story…"
+    },
+    {
+      "title": "Crypto News: Bitcoin ETFs End 10 Day Outflow Streak",
+      "source": "investingnews.com",
+      "link": "https://investingnews.com/cryptocurrency-market-recap/",
+      "snippet": "Crypto News: Bitcoin ETFs End 10 Day Outflow Streakに関する最新動向です。 概要: Elsewhere in the crypto landscape, new North Carolina legislation formally recognizes the exclusive…"
+    },
+    {
+      "title": "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republic",
+      "source": "thecoinrepublic.com",
+      "link": "https://thecoinrepublic.com/2026/07/09/bitcoin-etfs-extend-inflows-as-ethereum-etfs-outpace-btc",
+      "snippet": "Bitcoin ETFs Extend Inflows As Ethereum ETFs Outpace BTC - The Coin Republicに関する最新動向です。 概要: Bitcoin ETFs posted fresh inflows on July 7 as Ethereum ETFs drew higher demand, while BlackRock off…"
+    },
+    {
+      "title": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/world/us/fed-rate-decision-live-us-central-bank-expected-hold-rates-steady-first-meeting-2026-06-17/",
+      "snippet": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reutersに関する最新動向です。 概要: Policymakers expect a hike in borrowing costs later this year amid growing concerns about inflation…"
+    },
+    {
+      "title": "Market on Edge Watching Strait as Chip Firm Debuts",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "Stock market news for July 9, 2026",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/08/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for July 9, 2026に関する最新動向です。 概要: The U.S. launched fresh strikes on Iran, after President Donald Trump said Wednesday he may no longe…"
+    },
+    {
+      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
+      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
+    },
+    {
+      "title": "South Florida airport renamed for President Donald Trump | AP News",
+      "source": "apnews.com",
+      "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5",
+      "snippet": "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。 概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…"
+    },
+    {
+      "title": "Airports Are Travel Destinations Now - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-20/airports-are-travel-destinations-now",
+      "snippet": "Airports Are Travel Destinations Now - Bloombergに関する最新動向です。 概要: Plus, Basel’s secret art rooms and the rise of peptide-maxxers"
+    },
+    {
+      "title": "Record heat, crowds drive offseason boom in international travel",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
+      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
+    },
+    {
+      "title": "Airline and Travel News Updates: July 2026 - ExpatGo",
+      "source": "expatgo.com",
+      "link": "https://expatgo.com/2026/07/06/airline-and-travel-news-updates-july-2026",
+      "snippet": "Airline and Travel News Updates: July 2026 - ExpatGoに関する最新動向です。 概要: Stay up to date with the latest in the travel and hospitality industry, from airline launches and ro…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-07-13T11:20:27.796391+00:00"
+}
