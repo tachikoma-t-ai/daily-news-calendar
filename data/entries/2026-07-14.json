@@ -1,55 +1,54 @@
 {
   "date": "2026-07-14",
   "title": "2026-07-14 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "日本でGoogle Playの手数料引き下げが9月30日に前倒しへ",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Googleは、日本向けGoogle Playの手数料引き下げを年末予定から9月30日に前倒しすると発表した。",
+            "公正取引委員会との協議や国内開発者からのフィードバックを踏まえ、課金手数料は日本でも5％になる。",
+            "登録済みアプリストア向けプログラムは予定通り12月31日の提供開始予定。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "アプリ事業者の収益構造と代替課金・外部リンク導線の設計に直接影響するため。",
+          "source": "ケータイ Watch",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/2125000.html"
         },
         {
-          "title": "Microsoft is killing 15 products in 2026, including Windows 11 24H2 and Office 2021",
+          "title": "Intel、アイルランド拠点に約9245億円投資しXeon供給力を強化",
           "summaryLines": [
-            "Microsoft is killing 15 products in 2026, including Windows 11 24H2 and Office 2021に関する最新動向です。",
-            "概要: Windows 11 24H2, Office 2021, and SQL Server 2016 headline a long list of Microsoft products losing…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Intelはアイルランドのリークスリップキャンパスに50億ユーロを投じ、生産設備と主要インフラを更新する。",
+            "Xeon 6やIntel 3ベースの次世代Xeonの増産を目指し、欧州の半導体サプライチェーン強化にもつなげる。",
+            "AIやHPC需要の伸びを背景に、データセンター向けCPU供給の重要性が高まっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "windowslatest.com",
-          "link": "https://windowslatest.com/2026/07/12/microsoft-is-killing-15-products-in-2026-including-windows-11-24h2-and-office-2021"
+          "whyImportant": "AIインフラ需要が拡大するなか、CPU供給能力と地域分散はクラウド・企業ITの調達リスクに関わるため。",
+          "source": "PC Watch",
+          "link": "https://pc.watch.impress.co.jp/docs/news/2124911.html"
         },
         {
-          "title": "Today’s Wordle Hints for July 14, 2026 - The New York Times",
+          "title": "耐量子暗号対応のローカル完結型E2EEツール「Angoal PQ」が公開",
           "summaryLines": [
-            "Today’s Wordle Hints for July 14, 2026 - The New York Timesに関する最新動向です。",
-            "概要: Scroll down for hints and conversation about the puzzle for Tuesday, July 14, 2026.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "エルプラスは、ブラウザー内で暗号化・復号を完結させるファイル送受信用ツール「Angoal PQ」を公開した。",
+            "PPAP代替を狙い、ECDHとML-KEMを組み合わせる方式やML-DSA署名、AES-256-GCMなどを採用する。",
+            "会員登録不要で無償利用できる一方、高リスク用途向けの専門検討は有償としている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/07/13/crosswords/wordle-review-1851.html"
+          "whyImportant": "耐量子暗号とE2EEの実装選択肢が増えることで、企業のファイル共有セキュリティ見直しを促すため。",
+          "source": "INTERNET Watch",
+          "link": "https://internet.watch.impress.co.jp/docs/news/2124762.html"
         },
         {
-          "title": "Helium Browser Download (Latest 2026) - FileCR",
+          "title": "Microsoft EdgeにCSS・PWA・focusgroupなど開発者向け新機能",
           "summaryLines": [
-            "Helium Browser Download (Latest 2026) - FileCRに関する最新動向です。",
-            "概要: Free download Helium Browser 0.14.4.1 Latest full version - Secure and fast privacy-focused browsing…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Microsoft Edgeの開発者向け新連載で、CSSやPWA、キー入力のfocusgroupなど複数の新機能が紹介された。",
+            "Webアプリの操作性、アクセシビリティ、ネイティブアプリ風体験に関わる更新が中心となっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filecr.com",
-          "link": "https://filecr.com/windows/imput-helium-browser"
+          "whyImportant": "ブラウザー標準機能の更新は、Webアプリの実装方針やクロスブラウザー対応コストに影響するため。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2124962.html"
         }
       ]
     },
@@ -58,48 +57,48 @@
       "name": "AI",
       "items": [
         {
-          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "title": "商用利用可能なアニメ特化動画生成AI「AnimeGen」が無償公開",
           "summaryLines": [
-            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
-            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "AIdeaLabは、アニメ調の動画生成に特化した基盤モデル「AnimeGen」をHugging Faceで無償公開した。",
+            "T2VとI2Vに対応し、Apache 2.0ライセンスで商用利用可能。GENIAC支援のもとKDDIのGPUクラスタも活用した。",
+            "ムービーコンテやプリビジュアライゼーション、短尺アニメ風映像の試作用途を想定している。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+          "whyImportant": "国産生成AI支援の成果が制作現場で使える形になり、映像制作の試作コスト低下につながるため。",
+          "source": "PC Watch",
+          "link": "https://pc.watch.impress.co.jp/docs/news/2124932.html"
         },
         {
-          "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
+          "title": "フォーティエンス、SAP S/4HANAデータをAIエージェントで使う「CleanCoreNext」提供",
           "summaryLines": [
-            "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。",
-            "概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NTTデータグループのフォーティエンスは、SAP S/4HANAの業務データ活用を高度化するAIソリューションを開始した。",
+            "生成AIとMCPを組み合わせ、TeamsやSalesforceなど既存チャネルから営業・調達・品質・物流・財務の照会を支援する。",
+            "SAP Clean Coreの標準性を保ちながら、診断から実装・定着化まで段階的に提供する。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html"
+          "whyImportant": "基幹システムとAIエージェントの接続は、企業AI導入の実務価値とガバナンスを左右するため。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2124970.html"
         },
         {
-          "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
+          "title": "ソフトバンク、企業向け「AIガバナンス策定支援サービス」を開始",
           "summaryLines": [
-            "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。",
-            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ソフトバンクは、自社のAI利活用で蓄積した規程やガイドラインを基にしたAIガバナンス支援サービスを開始する。",
+            "AI倫理ポリシー、基本規程、チェックシートなどのテンプレートを提供し、運用フロー構築まで支援する。",
+            "インキュデータのコンサルタントによる伴走や、法規制に応じた継続支援も用意する。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "zdnet.com",
-          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+          "whyImportant": "生成AIの業務利用が広がるほど、社内ルールと現場運用を同時に整える必要が高まるため。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2124681.html"
         },
         {
-          "title": "ChatGPT — Release Notes | OpenAI Help Center",
+          "title": "AIエージェントは「回答」から業務実行基盤へ、導入論点が権限・ログ・隔離実行へ拡大",
           "summaryLines": [
-            "ChatGPT — Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: A changelog of the latest updates and release notes for ChatGPT",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "7月14日時点のAI動向として、AIエージェントがブラウザー、デスクトップ、業務アプリへ入り込む流れが整理された。",
+            "企業ではモデル性能だけでなく、コスト、権限管理、ログ、生成物表示、実行環境の隔離が主要論点になっている。",
+            "AIをどこまで任せ、どこで人が承認するかを設計する段階に移っている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          "whyImportant": "AI導入の成否がモデル選定だけでなく、業務プロセスと統制設計に移っているため。",
+          "source": "eguweb",
+          "link": "https://eguweb.jp/ai/81190/"
         }
       ]
     },
@@ -108,48 +107,36 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Tom Lee's BitMine (BMNR) raises ether holdings to $5.77 million, or 4.8% of supply",
+          "title": "米インフレ指標とFRB議長証言を前にBTC・ETH・XRPが下落",
           "summaryLines": [
-            "Tom Lee's BitMine (BMNR) raises ether holdings to $5.77 million, or 4.8% of supplyに関する最新動向です。",
-            "概要: The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid grow…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "主要暗号通貨は、7月のFRB利上げ観測が強まったことを受け、24時間で2％超下落した。",
+            "BTCは6万2380ドル付近、ETHやXRPも同様に軟調。原油高と米・イラン緊張で米2年債利回りも上昇した。",
+            "市場は米6月CPIとウォーシュFRB議長の議会証言に注目している。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply"
+          "whyImportant": "暗号資産価格が金利・原油・地政学リスクに敏感に反応し、短期の資金フローを左右するため。",
+          "source": "CoinDesk Japan",
+          "link": "https://www.coindesk.com/ja/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report"
         },
         {
-          "title": "Wall Street Mounts Pushback on Trillion-Dollar Stablecoin Boom - Bloomberg",
+          "title": "仮想通貨市場は「冬」から底固め局面か、BTCは6万2500ドル前後",
           "summaryLines": [
-            "Wall Street Mounts Pushback on Trillion-Dollar Stablecoin Boom - Bloombergに関する最新動向です。",
-            "概要: For years, banks largely watched stablecoins evolve from a niche cryptocurrency product into a payme…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CoinChoiceは、2026年7月14日16時前後のBTCを6万2500ドル前後、ETHを1625ドル前後と整理した。",
+            "現物ETFの資金流出や長期保有者の損失確定が重荷だが、売り圧力の鈍化やステーブルコイン・RWA活用の進展も指摘した。",
+            "強い上昇相場への転換ではなく、次の方向を探る持ち合いとの見方を示している。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-13/wall-street-mounts-pushback-on-trillion-dollar-stablecoin-boom"
+          "whyImportant": "価格だけでなくETF資金フローと実用化の進展を併せて見ることが、市場判断に重要なため。",
+          "source": "CoinChoice",
+          "link": "https://coinchoice.net/crypto-winter-spring/"
         },
         {
-          "title": "Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning",
+          "title": "中東情勢下でもBTC・ETHは堅調、上値ブレイク待ちとの見方",
           "summaryLines": [
-            "Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morningに関する最新動向です。",
-            "概要: Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "マネックス証券のマネクリは、BTCとETHが中東情勢の不透明感のなかでも相対的に堅調と分析した。",
+            "上値ブレイクを待つ局面として、マクロ環境とチャートの両面を確認する必要があるとしている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "finance.yahoo.com",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html"
-        },
-        {
-          "title": "Bitcoin And Ethereum ETF Inflows Return As Institutions Step Back Into Crypto Funds",
-          "summaryLines": [
-            "Bitcoin And Ethereum ETF Inflows Return As Institutions Step Back Into Crypto Fundsに関する最新動向です。",
-            "概要: ETF flows are back in the green, and that gives crypto traders a cleaner demand signal after weeks o…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "newsbtc.com",
-          "link": "https://newsbtc.com/news/bitcoin-and-ethereum-etf-inflows-return-as-institutions-step-back-into-crypto"
+          "whyImportant": "暗号資産がリスクオフ局面でどの程度耐性を持つかは、ポートフォリオ上の扱いに影響するため。",
+          "source": "マネクリ",
+          "link": "https://media.monex.co.jp/articles/-/29745"
         }
       ]
     },
@@ -158,233 +145,99 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reuters",
+          "title": "日経平均は反発、AI・半導体株の買い戻しで終値6万7743円50銭",
           "summaryLines": [
-            "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reutersに関する最新動向です。",
-            "概要: Policymakers expect a hike in borrowing costs later this year amid growing concerns about inflation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "14日の東京株式市場で日経平均は前営業日比500円77銭高の6万7743円50銭で終了した。",
+            "朝方は米株安や中東情勢への警戒で売りが先行したが、米株先物や韓国KOSPIの持ち直しを受けて切り返した。",
+            "AI・半導体関連株の一角が指数を押し上げ、決算期待も相場を支えた。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/us/fed-rate-decision-live-us-central-bank-expected-hold-rates-steady-first-meeting-2026-06-17/"
+          "whyImportant": "日本株のけん引役がAI・半導体に偏る構図は、企業業績と投資家心理の両方を映すため。",
+          "source": "Newsweek日本版 / Reuters",
+          "link": "https://www.newsweekjapan.jp/articles/-/328374"
         },
         {
-          "title": "Market on Edge Watching Strait as Chip Firm Debuts",
+          "title": "ドル円は162円台半ばを軸にもみ合い、米CPIとFRB議長証言待ち",
           "summaryLines": [
-            "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "14日の東京外国為替市場では、ドル円が162円台半ばを軸にもみ合うとの見通しが示された。",
+            "原油先物高による米物価上昇観測、日米金利差、日本の貿易収支悪化懸念がドル買い・円売りを支えやすい。",
+            "一方で為替介入警戒と米6月CPI、ウォーシュFRB議長の議会証言を前に上値も抑えられやすい。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "円安・原油高・米金利観測は、輸入コストや企業収益、家計負担に波及するため。",
+          "source": "株式新聞Web",
+          "link": "https://kabushiki.jp/news/757663"
         },
         {
-          "title": "Stock market next week: Outlook for July 13-17, 2026",
+          "title": "東京為替、ドル円は一時162円47銭まで上昇後に162円40銭台で推移",
           "summaryLines": [
-            "Stock market next week: Outlook for July 13-17, 2026に関する最新動向です。",
-            "概要: Investors are anticipating the start of earnings season and the release of June inflation data, just…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "14日午前の東京市場でドル円は162円37銭まで下押しした後、162円47銭まで上昇した。",
+            "ユーロ円は184円95銭まで上昇し、ユーロドルも1.1384ドル近辺で底堅く推移した。",
+            "主要通貨は米指標待ちのなか、円に対して強含む場面が目立った。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html"
+          "whyImportant": "為替の高止まりは輸入インフレや金融政策期待を通じて市場全体に影響するため。",
+          "source": "財経新聞",
+          "link": "https://www.zaikei.co.jp/article/20260714/861059.html"
         },
         {
-          "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
+          "title": "片山財務相らがGPIFポートフォリオ修正に前向き、円と債券が上昇",
           "summaryLines": [
-            "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。",
-            "概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "片山財務相と上野厚労相が、GPIFの資産構成割合修正に前向きな姿勢を示したと報じられた。",
+            "発言を受け、円と債券が上昇に転じた。NISAへの国債追加にも前向きな姿勢が伝えられている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
+          "whyImportant": "公的年金の資産配分見直しは、国内債券・株式・為替市場の需給観測を大きく動かし得るため。",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/jp/news/articles/2026-07-14/TI3NB1KJH6V600"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "South Florida airport renamed for President Donald Trump | AP News",
+          "title": "さんふらわあトラベル、人吉温泉「あゆの里」宿泊のプレミアコースを発売",
           "summaryLines": [
-            "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。",
-            "概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "さんふらわあトラベルは、フェリーのスイートルームと熊本・人吉球磨の現地観光を組み合わせた4日間ツアーを発売した。",
+            "大阪発で8月20日、9月17日、10月8日、11月19日の限定出発。阿蘇神社や大和一酒造元にも立ち寄る。",
+            "人吉球磨の文化と災害からの復興を体感する内容としている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "apnews.com",
-          "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5"
+          "whyImportant": "国内の高付加価値旅行と復興観光を組み合わせた商品は、地域誘客の新しい選択肢になるため。",
+          "source": "旅行新聞",
+          "link": "https://www.ryoko-net.co.jp/?p=169425"
         },
         {
-          "title": "Record heat, crowds drive offseason boom in international travel",
+          "title": "JALとMarriott Bonvoyが戦略的提携、航空とホテルのステイタスマッチへ",
           "summaryLines": [
-            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
-            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "マリオット・インターナショナルとJALは、Marriott BonvoyとJALマイレージバンクの双方で特典を提供する提携を発表した。",
+            "ステイタスマッチにより、航空機利用なしにJALのFLY ONポイントを得られる仕組みなどを用意する。",
+            "JALはインバウンド接点拡大、マリオットは日本市場での成長を狙う。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+          "whyImportant": "航空・ホテルの会員基盤連携は、国内旅行と訪日旅行の予約行動やロイヤリティ戦略を変えるため。",
+          "source": "Impress Watch",
+          "link": "https://www.watch.impress.co.jp/docs/news/2125035.html"
         },
         {
-          "title": "United States Faces Massive Air Travel Meltdown with 120 Flights Cancelled and 497 Delayed Across New York, Atlanta, Dallas, Chicago and Toronto, Triggering Missed Connections and Airport Chaos—What It Means for Your Journey - Travel And Tour World",
+          "title": "熊本・南阿蘇の「阿蘇リトリート HONO」、開業前にフォレジング体験を紹介",
           "summaryLines": [
-            "United States Faces Massive Air Travel Meltdown with 120 Flights Cancelled and 497 Delayed Across New York, Atlanta, Dallas, Chicago and Toronto, Triggering Missed Connections and Airport Chaos—What It Means for Your Journey - Travel And Tour Worldに関する最新動向です。",
-            "概要: US flight cancellations today: 120 flights cancelled and 497 delayed across the United States on Jul…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "温故知新は11月に開業予定の「阿蘇リトリート HONO by 温故知新」について、東京で体験会を開いた。",
+            "阿蘇の山野草を採集するフォレジング、ハーブティーづくり、季節の手仕事など自然と向き合う滞在体験を打ち出す。",
+            "料理では薪など自然の火を使い、熊本全土を旅するような構成を目指す。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://travelandtourworld.com/news/article/m6rjd43t4fb7"
+          "whyImportant": "自然体験型リトリートは、地方滞在の単価向上と地域文化の発信に寄与するため。",
+          "source": "旅行新聞",
+          "link": "https://www.ryoko-net.co.jp/?p=169415"
         },
         {
-          "title": "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLP",
+          "title": "兵庫・湯村温泉「魚と屋」が楽天トラベルセール対象に",
           "summaryLines": [
-            "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLPに関する最新動向です。",
-            "概要: The situation Following the United States and Israel launching an airstrike campaign targeting Iran…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "楽天トラベルの7月セールで、兵庫県の湯村温泉「魚と屋」が500円オフ対象施設として紹介された。",
+            "水産会社直営の宿として、白イカ、ズワイガニ、黒毛和牛などの会席料理と源泉かけ流し温泉を訴求している。",
+            "セール情報は7月14日10時時点のもので、料金変更や満室の可能性がある。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "fragomen.com",
-          "link": "https://www.fragomen.com/insights/latest-information-Middle-East-crisis.html"
+          "whyImportant": "夏の国内宿泊需要を取り込むセール施策は、温泉地の集客と旅行単価に影響するため。",
+          "source": "All About ニュース",
+          "link": "https://news.allabout.co.jp/articles/o/123675/"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-    "暗号通貨：Tom Lee's BitMine (BMNR) raises ether holdings to $5.77 million, or 4.8% of supply"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Microsoft is killing 15 products in 2026, including Windows 11 24H2 and Office 2021",
-      "source": "windowslatest.com",
-      "link": "https://windowslatest.com/2026/07/12/microsoft-is-killing-15-products-in-2026-including-windows-11-24h2-and-office-2021",
-      "snippet": "Microsoft is killing 15 products in 2026, including Windows 11 24H2 and Office 2021に関する最新動向です。 概要: Windows 11 24H2, Office 2021, and SQL Server 2016 headline a long list of Microsoft products losing…"
-    },
-    {
-      "title": "Today’s Wordle Hints for July 14, 2026 - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/07/13/crosswords/wordle-review-1851.html",
-      "snippet": "Today’s Wordle Hints for July 14, 2026 - The New York Timesに関する最新動向です。 概要: Scroll down for hints and conversation about the puzzle for Tuesday, July 14, 2026."
-    },
-    {
-      "title": "Helium Browser Download (Latest 2026) - FileCR",
-      "source": "filecr.com",
-      "link": "https://filecr.com/windows/imput-helium-browser",
-      "snippet": "Helium Browser Download (Latest 2026) - FileCRに関する最新動向です。 概要: Free download Helium Browser 0.14.4.1 Latest full version - Secure and fast privacy-focused browsing…"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
-    },
-    {
-      "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
-      "snippet": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet - The New York Timesに関する最新動向です。 概要: The new release was delayed after the U.S. government restricted the latest artificial intelligence…"
-    },
-    {
-      "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
-      "source": "zdnet.com",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "snippet": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
-    },
-    {
-      "title": "ChatGPT — Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "snippet": "ChatGPT — Release Notes | OpenAI Help Centerに関する最新動向です。 概要: A changelog of the latest updates and release notes for ChatGPT"
-    },
-    {
-      "title": "Tom Lee's BitMine (BMNR) raises ether holdings to $5.77 million, or 4.8% of supply",
-      "source": "coindesk.com",
-      "link": "https://coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply",
-      "snippet": "Tom Lee's BitMine (BMNR) raises ether holdings to $5.77 million, or 4.8% of supplyに関する最新動向です。 概要: The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid grow…"
-    },
-    {
-      "title": "Wall Street Mounts Pushback on Trillion-Dollar Stablecoin Boom - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-13/wall-street-mounts-pushback-on-trillion-dollar-stablecoin-boom",
-      "snippet": "Wall Street Mounts Pushback on Trillion-Dollar Stablecoin Boom - Bloombergに関する最新動向です。 概要: For years, banks largely watched stablecoins evolve from a niche cryptocurrency product into a payme…"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morning",
-      "source": "finance.yahoo.com",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html",
-      "snippet": "Bitcoin and ethereum prices today, Monday, July 13, 2026: Strong price openings backtracking this morningに関する最新動向です。 概要: Bitcoin opened at $63,745.37 on Monday, July 13, 2026, 0.2% lower than Sunday"
-    },
-    {
-      "title": "Bitcoin And Ethereum ETF Inflows Return As Institutions Step Back Into Crypto Funds",
-      "source": "newsbtc.com",
-      "link": "https://newsbtc.com/news/bitcoin-and-ethereum-etf-inflows-return-as-institutions-step-back-into-crypto",
-      "snippet": "Bitcoin And Ethereum ETF Inflows Return As Institutions Step Back Into Crypto Fundsに関する最新動向です。 概要: ETF flows are back in the green, and that gives crypto traders a cleaner demand signal after weeks o…"
-    },
-    {
-      "title": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/us/fed-rate-decision-live-us-central-bank-expected-hold-rates-steady-first-meeting-2026-06-17/",
-      "snippet": "Fed rate decision as it happened: US central bank does not cut rates in first meeting chaired by Warsh | Reutersに関する最新動向です。 概要: Policymakers expect a hike in borrowing costs later this year amid growing concerns about inflation…"
-    },
-    {
-      "title": "Market on Edge Watching Strait as Chip Firm Debuts",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Market on Edge Watching Strait as Chip Firm Debutsに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Stock market next week: Outlook for July 13-17, 2026",
-      "source": "cnbc.com",
-      "link": "https://cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
-      "snippet": "Stock market next week: Outlook for July 13-17, 2026に関する最新動向です。 概要: Investors are anticipating the start of earnings season and the release of June inflation data, just…"
-    },
-    {
-      "title": "World Economic Outlook, April 2026: Global Economy in the Shadow of War",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026",
-      "snippet": "World Economic Outlook, April 2026: Global Economy in the Shadow of Warに関する最新動向です。 概要: The latest World Economic Outlook reports slowing global growth and renewed inflationary pressures.…"
-    },
-    {
-      "title": "South Florida airport renamed for President Donald Trump | AP News",
-      "source": "apnews.com",
-      "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5",
-      "snippet": "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。 概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…"
-    },
-    {
-      "title": "Record heat, crowds drive offseason boom in international travel",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
-    },
-    {
-      "title": "United States Faces Massive Air Travel Meltdown with 120 Flights Cancelled and 497 Delayed Across New York, Atlanta, Dallas, Chicago and Toronto, Triggering Missed Connections and Airport Chaos—What It Means for Your Journey - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://travelandtourworld.com/news/article/m6rjd43t4fb7",
-      "snippet": "United States Faces Massive Air Travel Meltdown with 120 Flights Cancelled and 497 Delayed Across New York, Atlanta, Dallas, Chicago and Toronto, Triggering Missed Connections and Airport Chaos—What It Means for Your Journey - Travel And Tour Worldに関する最新動向です。 概要: US flight cancellations today: 120 flights cancelled and 497 delayed across the United States on Jul…"
-    },
-    {
-      "title": "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLP",
-      "source": "fragomen.com",
-      "link": "https://www.fragomen.com/insights/latest-information-Middle-East-crisis.html",
-      "snippet": "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLPに関する最新動向です。 概要: The situation Following the United States and Israel launching an airstrike campaign targeting Iran…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-07-13T15:36:17.240584+00:00"
+  ]
 }
