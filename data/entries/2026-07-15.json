@@ -1,55 +1,32 @@
 {
   "date": "2026-07-15",
   "title": "2026-07-15 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "Microsoftが7月の月例パッチ公開、悪用確認済みを含む多数の脆弱性を修正",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本マイクロソフトが7月の月例セキュリティ更新プログラムを公開した。",
+            "Windows、Office、SharePoint、Exchange、Azure、.NETなどが対象で、CVEベースで571件の修正が含まれる。",
+            "SharePoint ServerとAD FSの2件は公開前に悪用が確認されており、早期適用が呼びかけられている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "企業ITの広範な基盤に影響し、既に悪用された脆弱性への対応が急務だから。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2125251.html"
         },
         {
-          "title": "Firefox Switches to Two-Week Release Cycle Starting September 2026 - gHacks Tech News",
+          "title": "日立、JP1 Cloud Serviceにアプリケーション可視化の新サービスを追加",
           "summaryLines": [
-            "Firefox Switches to Two-Week Release Cycle Starting September 2026 - gHacks Tech Newsに関する最新動向です。",
-            "概要: Mozilla will move Firefox to a two-week release cycle starting September 2026, matching the cadence…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日立が「JP1 Cloud Service」に、業務サービスやアプリケーションの状態把握を強化する新サービスを追加した。",
+            "複雑化するクラウド・システム運用で、障害影響範囲やサービス状況を把握しやすくする狙い。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "ghacks.net",
-          "link": "https://ghacks.net/2026/07/14/firefox-switches-to-two-week-release-cycle-starting-september-2026"
-        },
-        {
-          "title": "Chrome Releases: Stable Channel Update for Desktop",
-          "summaryLines": [
-            "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。",
-            "概要: The Stable channel has been updated to 150.0.7871.114/.115 for Windows and Mac and 150.0.7871.114 fo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "chromereleases.googleblog.com",
-          "link": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_01162222768.html"
-        },
-        {
-          "title": "Today’s Wordle Hints for July 15, 2026 - The New York Times",
-          "summaryLines": [
-            "Today’s Wordle Hints for July 15, 2026 - The New York Timesに関する最新動向です。",
-            "概要: Scroll down for hints and conversation about the puzzle for Wednesday, July 15, 2026.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/07/14/crosswords/wordle-review-1852.html"
+          "whyImportant": "クラウド運用の可観測性は、障害対応時間と運用品質に直結するため。",
+          "source": "クラウド Watch",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/2124899.html"
         }
       ]
     },
@@ -58,48 +35,25 @@
       "name": "AI",
       "items": [
         {
-          "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+          "title": "法務省指針案、生成AIによる「声」の無断利用は違法になり得ると整理",
           "summaryLines": [
-            "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。",
-            "概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "法務省の検討会で、俳優や声優の声を生成AIで無断利用する行為の民事責任に関する指針案が示された。",
+            "声も権利保護の対象とし、収益目的の無断生成はパブリシティー権侵害に当たり得ると整理した。",
+            "特定人物の声や画像に特化したAIサービス提供者も、違法性を問われる可能性が示された。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says"
+          "whyImportant": "生成AIサービスの権利処理、音声合成ビジネス、クリエイター保護の実務に影響するため。",
+          "source": "毎日新聞",
+          "link": "https://mainichi.jp/articles/20260714/k00/00m/040/154000c"
         },
         {
-          "title": "Schneider Electric, Foxconn partner on AI data center infrastructure | Reuters",
+          "title": "政府、第2期「人工知能基本計画」を閣議決定",
           "summaryLines": [
-            "Schneider Electric, Foxconn partner on AI data center infrastructure | Reutersに関する最新動向です。",
-            "概要: Schneider Electric said on Monday ​it had entered ‌a strategic collaboration with Taiwan's Hon ​Hai…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "内閣府は人工知能基本計画のページで、令和8年7月14日に第2期計画が閣議決定されたことを掲載した。",
+            "報道では、国内でAIを研究・運用できる「AI主権」や、サイバー防御・国際連携の強化が焦点とされている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/asia-pacific/schneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15/"
-        },
-        {
-          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-          "summaryLines": [
-            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
-            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
-        },
-        {
-          "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
-          "summaryLines": [
-            "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。",
-            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "zdnet.com",
-          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+          "whyImportant": "政府方針は研究開発投資、規制、公共調達、国内AI基盤整備の方向性を左右するため。",
+          "source": "内閣府",
+          "link": "https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html"
         }
       ]
     },
@@ -108,48 +62,26 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Daily",
+          "title": "暗号資産の金商法移行案、参院財政金融委で可決",
           "summaryLines": [
-            "U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Dailyに関する最新動向です。",
-            "概要: Jul 14, 2026, 11:15 a.m.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "暗号資産取引の規制を資金決済法から金融商品取引法へ移す改正案が、参議院財政金融委員会で可決された。",
+            "インサイダー取引規制や発行時の情報公表義務を導入し、暗号資産を投資商品としても扱う制度設計が進む。",
+            "成立すれば、ETF解禁や申告分離課税20%に向けた制度整備の前提になる見通し。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs"
+          "whyImportant": "国内暗号資産市場の投資家保護、税制、ETF制度に大きく関わる節目だから。",
+          "source": "BITTIMES",
+          "link": "https://bittimes.net/news/225564.html"
         },
         {
-          "title": "US Stock Futures Today: CoStar, Goldman, IBM, JPMorgan, Microsoft - Bloomberg",
+          "title": "ビットコイン、6万5000ドル付近へ急反発　米CPI下振れでリスクオン",
           "summaryLines": [
-            "US Stock Futures Today: CoStar, Goldman, IBM, JPMorgan, Microsoft - Bloombergに関する最新動向です。",
-            "概要: S&P 500 Index futures are little changed as of 7:50 a.m. in New York as traders refrained from takin…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "BTCは7月15日8時時点で6万4997ドル、前日比4.61%高で推移した。",
+            "米6月CPIが市場予想を下回り、利下げ観測が強まったことでリスク資産に買いが戻った。",
+            "一方で中東情勢やETFフローには不透明感が残り、短期の値動きには注意が必要。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-14/us-stock-futures-today-costar-goldman-ibm-jpmorgan-microsoft"
-        },
-        {
-          "title": "Bitcoin and ethereum prices today, Tuesday, July 14, 2026:",
-          "summaryLines": [
-            "Bitcoin and ethereum prices today, Tuesday, July 14, 2026:に関する最新動向です。",
-            "概要: Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "finance.yahoo.com",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html"
-        },
-        {
-          "title": "Crypto Today: Bitcoin, Ethereum, XRP extend sideways trading amid ETF outflows, US-Iran war escalation",
-          "summaryLines": [
-            "Crypto Today: Bitcoin, Ethereum, XRP extend sideways trading amid ETF outflows, US-Iran war escalationに関する最新動向です。",
-            "概要: The cryptocurrency market continues to trade under pressure despite a mild and broad rebound on Tues…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "mitrade.com",
-          "link": "https://mitrade.com/au/insights/news/live-news/article-3-1899825-20260714"
+          "whyImportant": "暗号資産相場がマクロ指標と地政学リスクに強く反応していることを示すため。",
+          "source": "CoinPartner",
+          "link": "https://coinotaku.com/news/articles/250625"
         }
       ]
     },
@@ -158,233 +90,56 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Stock market news for July 13, 2026",
+          "title": "ニチレイに不正アクセス、KFCの調達にも影響",
           "summaryLines": [
-            "Stock market news for July 13, 2026に関する最新動向です。",
-            "概要: Stocks fell on Monday after President Donald Trump announced he was reinstating what he called a blo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ニチレイは不正アクセスによるシステム障害で、冷蔵倉庫の入出庫や冷凍食品の出荷業務に影響が出ていると発表した。",
+            "KFCでは全店舗で納品に支障が出ており、臨時休業、営業時間短縮、一部商品の販売休止が発生する可能性がある。",
+            "ニチレイは個人情報や顧客データの社外流出は確認されていないとしている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html"
+          "whyImportant": "サイバー被害が食品物流と小売店舗運営に波及する実例で、供給網リスクが見えるため。",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500413&g=eco"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "NYダウ小幅反発、米CPI下振れで早期利上げ観測が後退",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "14日の米ダウ平均は前日比9ドル63セント高の5万2508ドル27セントで終えた。",
+            "6月米CPIが市場予想を下回り、早期の利上げ観測が後退したことが株式相場を支えた。",
+            "金融株の上昇が支えとなる一方、IBMの急落などソフトウェア関連には売りも出た。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "Press Briefing Transcript: World Economic Outlook (WEO) Update, July 8, 2026",
-          "summaryLines": [
-            "Press Briefing Transcript: World Economic Outlook (WEO) Update, July 8, 2026に関する最新動向です。",
-            "概要: MR. DE HARO: Good morning, everyone, and welcome. I'm Jose Luis de Haro from the Communications Depa…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026"
-        },
-        {
-          "title": "Oil soars over 10pc on heightened Middle East tensions, ASX edges down — as it happened - ABC News",
-          "summaryLines": [
-            "Oil soars over 10pc on heightened Middle East tensions, ASX edges down — as it happened - ABC Newsに関する最新動向です。",
-            "概要: Oil prices soar more than 10 per cent, with analysts saying they could rise further as global suppli…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "abc.net.au",
-          "link": "https://abc.net.au/news/2026-07-14/asx-markets-business-live-news-july-14-2026/106911966"
+          "whyImportant": "米金利見通しは日本株、為替、リスク資産全体の判断材料になるため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOFL1501W0V10C26A7000000/"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "South Florida airport renamed for President Donald Trump | AP News",
+          "title": "2026年夏から秋の国内旅行補助金・割引サービスが各地で展開",
           "summaryLines": [
-            "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。",
-            "概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "国主導の全国旅行支援は終了したが、自治体独自の宿泊割引や地域クーポンが2026年度も各地で実施されている。",
+            "北海道、東北、関東・甲信越、中部、中国・四国、九州などで、宿泊割引やプレミアム付き旅行券が紹介されている。",
+            "JATAの「平日に泊まろうキャンペーン」など、全国対象の抽選型施策も対象期間中。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "apnews.com",
-          "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5"
+          "whyImportant": "物価高のなかで国内旅行需要を支える施策として、旅行先選びと予約タイミングに影響するため。",
+          "source": "補助金ポータル",
+          "link": "https://hojyokin-portal.jp/columns/ryoko-hojokin-kojin"
         },
         {
-          "title": "Corporate Travel News: July 2026",
+          "title": "夏休みは手ごろな国内旅行が人気、北海道の観光地も期待",
           "summaryLines": [
-            "Corporate Travel News: July 2026に関する最新動向です。",
-            "概要: CTM&#039;s corporate travel news July 2026: new routes, visa changes, hotel openings and key updates…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "STVニュース北海道は、夏休みを前に積丹半島など道内観光地の動きと旅行傾向を伝えた。",
+            "大手旅行会社の調査では、旅行日数は1泊2日が最多で、費用は2万〜3万円未満の手ごろな旅行が選ばれる傾向。",
+            "旅行会社は、出発日を少し前後にずらすことで費用を抑える動きもあると見ている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelctm.com",
-          "link": "https://travelctm.com/global/blog/corporate-travel-news-july-2026"
-        },
-        {
-          "title": "Record heat, crowds drive offseason boom in international travel",
-          "summaryLines": [
-            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
-            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
-        },
-        {
-          "title": "Egypt Roars Ahead as Alamein International Airport Unleashes a Spectacular Passenger Boom, New Global Flights and a Mighty Mediterranean Tourism Revolution in 2026 - Travel And Tour World",
-          "summaryLines": [
-            "Egypt Roars Ahead as Alamein International Airport Unleashes a Spectacular Passenger Boom, New Global Flights and a Mighty Mediterranean Tourism Revolution in 2026 - Travel And Tour Worldに関する最新動向です。",
-            "概要: Alamein International Airport traffic rises 57% in 2026 as new airlines, additional flights and New…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://travelandtourworld.com/news/article/u6k97mpnwxrs"
+          "whyImportant": "節約志向と近場旅行の強まりは、地域観光・宿泊・交通需要の見通しに直結するため。",
+          "source": "STVニュース北海道 / Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/6074e3bc5eab9682dc233037c1ab48327b4c18f5"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
-    "暗号通貨：U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Daily"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Firefox Switches to Two-Week Release Cycle Starting September 2026 - gHacks Tech News",
-      "source": "ghacks.net",
-      "link": "https://ghacks.net/2026/07/14/firefox-switches-to-two-week-release-cycle-starting-september-2026",
-      "snippet": "Firefox Switches to Two-Week Release Cycle Starting September 2026 - gHacks Tech Newsに関する最新動向です。 概要: Mozilla will move Firefox to a two-week release cycle starting September 2026, matching the cadence…"
-    },
-    {
-      "title": "Chrome Releases: Stable Channel Update for Desktop",
-      "source": "chromereleases.googleblog.com",
-      "link": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_01162222768.html",
-      "snippet": "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。 概要: The Stable channel has been updated to 150.0.7871.114/.115 for Windows and Mac and 150.0.7871.114 fo…"
-    },
-    {
-      "title": "Today’s Wordle Hints for July 15, 2026 - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/07/14/crosswords/wordle-review-1852.html",
-      "snippet": "Today’s Wordle Hints for July 15, 2026 - The New York Timesに関する最新動向です。 概要: Scroll down for hints and conversation about the puzzle for Wednesday, July 15, 2026."
-    },
-    {
-      "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
-      "snippet": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。 概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…"
-    },
-    {
-      "title": "Schneider Electric, Foxconn partner on AI data center infrastructure | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/asia-pacific/schneider-electric-foxconn-partner-ai-data-center-infrastructure-2026-06-15/",
-      "snippet": "Schneider Electric, Foxconn partner on AI data center infrastructure | Reutersに関する最新動向です。 概要: Schneider Electric said on Monday ​it had entered ‌a strategic collaboration with Taiwan's Hon ​Hai…"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
-    },
-    {
-      "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNET",
-      "source": "zdnet.com",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "snippet": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence' | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
-    },
-    {
-      "title": "U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Daily",
-      "source": "coindesk.com",
-      "link": "https://coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
-      "snippet": "U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Dailyに関する最新動向です。 概要: Jul 14, 2026, 11:15 a.m."
-    },
-    {
-      "title": "US Stock Futures Today: CoStar, Goldman, IBM, JPMorgan, Microsoft - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-14/us-stock-futures-today-costar-goldman-ibm-jpmorgan-microsoft",
-      "snippet": "US Stock Futures Today: CoStar, Goldman, IBM, JPMorgan, Microsoft - Bloombergに関する最新動向です。 概要: S&P 500 Index futures are little changed as of 7:50 a.m. in New York as traders refrained from takin…"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Tuesday, July 14, 2026:",
-      "source": "finance.yahoo.com",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html",
-      "snippet": "Bitcoin and ethereum prices today, Tuesday, July 14, 2026:に関する最新動向です。 概要: Bitcoin opened at $62,259.16 today, Tuesday, July 14, 2026, down 2.3% from yesterday"
-    },
-    {
-      "title": "Crypto Today: Bitcoin, Ethereum, XRP extend sideways trading amid ETF outflows, US-Iran war escalation",
-      "source": "mitrade.com",
-      "link": "https://mitrade.com/au/insights/news/live-news/article-3-1899825-20260714",
-      "snippet": "Crypto Today: Bitcoin, Ethereum, XRP extend sideways trading amid ETF outflows, US-Iran war escalationに関する最新動向です。 概要: The cryptocurrency market continues to trade under pressure despite a mild and broad rebound on Tues…"
-    },
-    {
-      "title": "Stock market news for July 13, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for July 13, 2026に関する最新動向です。 概要: Stocks fell on Monday after President Donald Trump announced he was reinstating what he called a blo…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Press Briefing Transcript: World Economic Outlook (WEO) Update, July 8, 2026",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026",
-      "snippet": "Press Briefing Transcript: World Economic Outlook (WEO) Update, July 8, 2026に関する最新動向です。 概要: MR. DE HARO: Good morning, everyone, and welcome. I'm Jose Luis de Haro from the Communications Depa…"
-    },
-    {
-      "title": "Oil soars over 10pc on heightened Middle East tensions, ASX edges down — as it happened - ABC News",
-      "source": "abc.net.au",
-      "link": "https://abc.net.au/news/2026-07-14/asx-markets-business-live-news-july-14-2026/106911966",
-      "snippet": "Oil soars over 10pc on heightened Middle East tensions, ASX edges down — as it happened - ABC Newsに関する最新動向です。 概要: Oil prices soar more than 10 per cent, with analysts saying they could rise further as global suppli…"
-    },
-    {
-      "title": "South Florida airport renamed for President Donald Trump | AP News",
-      "source": "apnews.com",
-      "link": "https://apnews.com/article/trump-airport-florida-palm-beach-ab184b710cac13b1555255140ef6b4d5",
-      "snippet": "South Florida airport renamed for President Donald Trump | AP Newsに関する最新動向です。 概要: A South Florida airport has officially changed its name to the President Donald J. Trump Internation…"
-    },
-    {
-      "title": "Corporate Travel News: July 2026",
-      "source": "travelctm.com",
-      "link": "https://travelctm.com/global/blog/corporate-travel-news-july-2026",
-      "snippet": "Corporate Travel News: July 2026に関する最新動向です。 概要: CTM&#039;s corporate travel news July 2026: new routes, visa changes, hotel openings and key updates…"
-    },
-    {
-      "title": "Record heat, crowds drive offseason boom in international travel",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
-    },
-    {
-      "title": "Egypt Roars Ahead as Alamein International Airport Unleashes a Spectacular Passenger Boom, New Global Flights and a Mighty Mediterranean Tourism Revolution in 2026 - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://travelandtourworld.com/news/article/u6k97mpnwxrs",
-      "snippet": "Egypt Roars Ahead as Alamein International Airport Unleashes a Spectacular Passenger Boom, New Global Flights and a Mighty Mediterranean Tourism Revolution in 2026 - Travel And Tour Worldに関する最新動向です。 概要: Alamein International Airport traffic rises 57% in 2026 as new airlines, additional flights and New…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-07-14T15:36:25.262173+00:00"
+  ]
 }
