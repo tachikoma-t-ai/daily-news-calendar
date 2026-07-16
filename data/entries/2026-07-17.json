@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-17",
+  "title": "2026-07-17 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+          "summaryLines": [
+            "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。",
+            "概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "thehackernews.com",
+          "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        },
+        {
+          "title": "ChatGPT Atlas - Release Notes | OpenAI Help Center",
+          "summaryLines": [
+            "ChatGPT Atlas - Release Notes | OpenAI Help Centerに関する最新動向です。",
+            "概要: Users can now sign in with multiple ChatGPT accounts (work, personal, school, etc), each with their…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "help.openai.com",
+          "link": "https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes"
+        },
+        {
+          "title": "WordPress 7.1 Beta 1 / 7.0.1 | Download Free",
+          "summaryLines": [
+            "WordPress 7.1 Beta 1 / 7.0.1 | Download Freeに関する最新動向です。",
+            "概要: WordPress 6 is a free state-of-the-art semantic personal publishing platform with a focus on aesthet…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "softexia.com",
+          "link": "https://softexia.com/web-apps/wordpress"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+          "summaryLines": [
+            "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。",
+            "概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says"
+        },
+        {
+          "title": "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Science",
+          "summaryLines": [
+            "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Scienceに関する最新動向です。",
+            "概要: Welcome to the AI News Briefs Bulletin Board, a timely new channel bringing you the latest industry…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "radicaldatascience.wordpress.com",
+          "link": "https://radicaldatascience.wordpress.com/2026/07/14/ai-news-briefs-bulletin-board-for-july-2026/"
+        },
+        {
+          "title": "Thinking Machines Lab Drops Its First Model | WIRED",
+          "summaryLines": [
+            "Thinking Machines Lab Drops Its First Model | WIREDに関する最新動向です。",
+            "概要: Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It co…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "wired.com",
+          "link": "https://wired.com/story/thinking-machines-lab-releases-its-first-model-inkling"
+        },
+        {
+          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "summaryLines": [
+            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
+            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "summaryLines": [
+            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
+            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+        },
+        {
+          "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+          "summaryLines": [
+            "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。",
+            "概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt"
+        },
+        {
+          "title": "US SEC poised to allow stock token trading in potential market shakeup | Reuters",
+          "summaryLines": [
+            "US SEC poised to allow stock token trading in potential market shakeup | Reutersに関する最新動向です。",
+            "概要: U.S. equity markets face a potential shakeup as the Securities and Exchange Commission readies a new…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "reuters.com",
+          "link": "https://reuters.com/legal/government/us-sec-poised-allow-stock-token-trading-potential-market-shakeup-2026-06-17"
+        },
+        {
+          "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+          "summaryLines": [
+            "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。",
+            "概要: Get the latest Bitcoin (BTC) daily analysis for 16 July 2026. Price movements, market sentiment, tec…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coinstats.app",
+          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
+          "summaryLines": [
+            "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Todayに関する最新動向です。",
+            "概要: BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost"
+        },
+        {
+          "title": "Stock market news for July 15, 2026",
+          "summaryLines": [
+            "Stock market news for July 15, 2026に関する最新動向です。",
+            "概要: The S&amp;P 500 was relatively unchanged on Wednesday, with chipmakers suffering losses, as traders…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreet",
+          "summaryLines": [
+            "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreetに関する最新動向です。",
+            "概要: Wall Street is focused on June retail sales, weekly initial jobless claims, and Netflix earnings.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "thestreet.com",
+          "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Record heat, crowds drive offseason boom in international travel",
+          "summaryLines": [
+            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
+            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+        },
+        {
+          "title": "Corporate Travel News: July 2026",
+          "summaryLines": [
+            "Corporate Travel News: July 2026に関する最新動向です。",
+            "概要: CTM&#039;s corporate travel news July 2026: new routes, visa changes, hotel openings and key updates…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelctm.com",
+          "link": "https://travelctm.com/global/blog/corporate-travel-news-july-2026"
+        },
+        {
+          "title": "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour World",
+          "summaryLines": [
+            "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour Worldに関する最新動向です。",
+            "概要: EASA has issued new guidance on Middle East travel. Learn how US-Iran tensions are causing airspace…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://travelandtourworld.com/news/article/9oeg8iswww96"
+        },
+        {
+          "title": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabi",
+          "summaryLines": [
+            "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabiに関する最新動向です。",
+            "概要: The latest news and updates on Etihad flight status and cancellations to and from Abu Dhabi in July…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "timeoutabudhabi.com",
+          "link": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-july-2026"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "source": "thehackernews.com",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "snippet": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。 概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…"
+    },
+    {
+      "title": "ChatGPT Atlas - Release Notes | OpenAI Help Center",
+      "source": "help.openai.com",
+      "link": "https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes",
+      "snippet": "ChatGPT Atlas - Release Notes | OpenAI Help Centerに関する最新動向です。 概要: Users can now sign in with multiple ChatGPT accounts (work, personal, school, etc), each with their…"
+    },
+    {
+      "title": "WordPress 7.1 Beta 1 / 7.0.1 | Download Free",
+      "source": "softexia.com",
+      "link": "https://softexia.com/web-apps/wordpress",
+      "snippet": "WordPress 7.1 Beta 1 / 7.0.1 | Download Freeに関する最新動向です。 概要: WordPress 6 is a free state-of-the-art semantic personal publishing platform with a focus on aesthet…"
+    },
+    {
+      "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
+      "snippet": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。 概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…"
+    },
+    {
+      "title": "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Science",
+      "source": "radicaldatascience.wordpress.com",
+      "link": "https://radicaldatascience.wordpress.com/2026/07/14/ai-news-briefs-bulletin-board-for-july-2026/",
+      "snippet": "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Scienceに関する最新動向です。 概要: Welcome to the AI News Briefs Bulletin Board, a timely new channel bringing you the latest industry…"
+    },
+    {
+      "title": "Thinking Machines Lab Drops Its First Model | WIRED",
+      "source": "wired.com",
+      "link": "https://wired.com/story/thinking-machines-lab-releases-its-first-model-inkling",
+      "snippet": "Thinking Machines Lab Drops Its First Model | WIREDに関する最新動向です。 概要: Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It co…"
+    },
+    {
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
+    },
+    {
+      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+      "source": "coindesk.com",
+      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
+    },
+    {
+      "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt",
+      "snippet": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。 概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…"
+    },
+    {
+      "title": "US SEC poised to allow stock token trading in potential market shakeup | Reuters",
+      "source": "reuters.com",
+      "link": "https://reuters.com/legal/government/us-sec-poised-allow-stock-token-trading-potential-market-shakeup-2026-06-17",
+      "snippet": "US SEC poised to allow stock token trading in potential market shakeup | Reutersに関する最新動向です。 概要: U.S. equity markets face a potential shakeup as the Securities and Exchange Commission readies a new…"
+    },
+    {
+      "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+      "source": "coinstats.app",
+      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+      "snippet": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 16 July 2026. Price movements, market sentiment, tec…"
+    },
+    {
+      "title": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost",
+      "snippet": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Todayに関する最新動向です。 概要: BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than…"
+    },
+    {
+      "title": "Stock market news for July 15, 2026",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for July 15, 2026に関する最新動向です。 概要: The S&amp;P 500 was relatively unchanged on Wednesday, with chipmakers suffering losses, as traders…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreet",
+      "source": "thestreet.com",
+      "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026",
+      "snippet": "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreetに関する最新動向です。 概要: Wall Street is focused on June retail sales, weekly initial jobless claims, and Netflix earnings."
+    },
+    {
+      "title": "Record heat, crowds drive offseason boom in international travel",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
+      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
+    },
+    {
+      "title": "Corporate Travel News: July 2026",
+      "source": "travelctm.com",
+      "link": "https://travelctm.com/global/blog/corporate-travel-news-july-2026",
+      "snippet": "Corporate Travel News: July 2026に関する最新動向です。 概要: CTM&#039;s corporate travel news July 2026: new routes, visa changes, hotel openings and key updates…"
+    },
+    {
+      "title": "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://travelandtourworld.com/news/article/9oeg8iswww96",
+      "snippet": "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour Worldに関する最新動向です。 概要: EASA has issued new guidance on Middle East travel. Learn how US-Iran tensions are causing airspace…"
+    },
+    {
+      "title": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabi",
+      "source": "timeoutabudhabi.com",
+      "link": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-july-2026",
+      "snippet": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabiに関する最新動向です。 概要: The latest news and updates on Etihad flight status and cancellations to and from Abu Dhabi in July…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-07-16T15:36:47.167152+00:00"
+}
