@@ -1,55 +1,33 @@
 {
   "date": "2026-07-17",
   "title": "2026-07-17 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "APACのEC・予約サービスでAIボット攻撃が急増、Akamaiが警告",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Akamaiは、アジア太平洋地域のECやオンライン予約サービスがAIボットを悪用した攻撃の標的になっていると警告した。",
+            "2025年のAPACコマース企業向けボット活動は63％増加し、AIボットによるトラフィックの38％を小売や予約サービスなどのコマース業界が占めた。",
+            "旅行繁忙期を狙うAPI攻撃やDDoSへの備えとして、API棚卸し、正当な自動化との識別、繁忙期前の容量・対応計画の強化を求めている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "EC、旅行予約、決済など生活インフラ化したサービスの停止や情報窃取に直結するため。",
+          "source": "INTERNET Watch",
+          "link": "https://internet.watch.impress.co.jp/docs/news/2126090.html"
         },
         {
-          "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+          "title": "ニチレイ、サイバー攻撃後の業務を順次再開　全面復旧は来週中めど",
           "summaryLines": [
-            "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。",
-            "概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ニチレイは7月17日、サイバー攻撃の影響を受けた冷蔵倉庫の入出庫業務と冷凍食品出荷業務を順次再開した。",
+            "冷蔵倉庫は全拠点で再開を進め、来週中の通常稼働再開を目指す一方、原因や影響範囲、個人情報漏えいの可能性は調査中としている。",
+            "障害はKFC、イオン系列スーパー、ヨークベニマル、くら寿司など外食・小売の欠品や納品遅れにも波及した。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "thehackernews.com",
-          "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
-        },
-        {
-          "title": "ChatGPT Atlas - Release Notes | OpenAI Help Center",
-          "summaryLines": [
-            "ChatGPT Atlas - Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: Users can now sign in with multiple ChatGPT accounts (work, personal, school, etc), each with their…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes"
-        },
-        {
-          "title": "WordPress 7.1 Beta 1 / 7.0.1 | Download Free",
-          "summaryLines": [
-            "WordPress 7.1 Beta 1 / 7.0.1 | Download Freeに関する最新動向です。",
-            "概要: WordPress 6 is a free state-of-the-art semantic personal publishing platform with a focus on aesthet…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "softexia.com",
-          "link": "https://softexia.com/web-apps/wordpress"
+          "whyImportant": "サイバー攻撃が食品物流や小売の供給網へ連鎖するリスクを具体的に示したため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2607/17/news099.html"
         }
       ]
     },
@@ -58,48 +36,26 @@
       "name": "AI",
       "items": [
         {
-          "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+          "title": "東芝、Noetraの国産AI基盤モデル開発に出資・参画",
           "summaryLines": [
-            "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。",
-            "概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "東芝は、NEDOの「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデル開発事業」でNoetraに出資し、開発へ参画した。",
+            "AI技術者を派遣し、国内で主権的に管理・運用できる国産AI基盤モデルの開発に直接関与する。",
+            "エネルギー、社会インフラ、防衛、製造など高い信頼性が求められる領域で、東芝のデータやドメイン知識との組み合わせを検討する。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says"
+          "whyImportant": "国産基盤モデルを重要インフラや製造現場へ適用する流れが、実装段階に近づいているため。",
+          "source": "AI Watch",
+          "link": "https://ai.watch.impress.co.jp/docs/news/2126012.html"
         },
         {
-          "title": "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Science",
+          "title": "Google、「NotebookLM」を「Gemini Notebook」へ改称し検索連携を強化",
           "summaryLines": [
-            "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Scienceに関する最新動向です。",
-            "概要: Welcome to the AI News Briefs Bulletin Board, a timely new channel bringing you the latest industry…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "GoogleはAIノートブック「NotebookLM」を「Gemini Notebook」に改称し、Geminiエコシステムとの連携を強めると発表した。",
+            "Geminiアプリからの作成・アクセスや双方向同期に加え、Google検索のAIモードにもノートブック機能を統合する予定。",
+            "各ノートブックにセキュアなクラウドコンピューターを割り当て、資料に基づくコード実行や高度なデータ分析にも対応する。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "radicaldatascience.wordpress.com",
-          "link": "https://radicaldatascience.wordpress.com/2026/07/14/ai-news-briefs-bulletin-board-for-july-2026/"
-        },
-        {
-          "title": "Thinking Machines Lab Drops Its First Model | WIRED",
-          "summaryLines": [
-            "Thinking Machines Lab Drops Its First Model | WIREDに関する最新動向です。",
-            "概要: Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "wired.com",
-          "link": "https://wired.com/story/thinking-machines-lab-releases-its-first-model-inkling"
-        },
-        {
-          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-          "summaryLines": [
-            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
-            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+          "whyImportant": "AIによる情報整理が、検索、作業環境、データ分析をまたぐ実務基盤へ広がるため。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2125948.html"
         }
       ]
     },
@@ -108,48 +64,26 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "title": "BTCは上値重い展開、米経済指標と金利上昇が重荷に",
           "summaryLines": [
-            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
-            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "bitbankの7月17日相場分析によると、16日のビットコイン円は1049万6781円で始まり、終値は1036万4804円となった。",
+            "TSMCの好決算後の利益確定売りでハイテク株が下落し、BTCも連れ安となった。",
+            "米小売売上高やフィラデルフィア連銀指数が景気の底堅さを示し、米金利低下が一服したことも上値を抑えた。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+          "whyImportant": "暗号資産相場が株式、米金利、原油・中東情勢と強く連動していることを示すため。",
+          "source": "ビットバンクプラス",
+          "link": "https://bitbank.cc/knowledge/markets/article/bitbank-daily-2026-07-17"
         },
         {
-          "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+          "title": "ブラックロックCEO、暗号資産市場の12カ月見通しに強気姿勢",
           "summaryLines": [
-            "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。",
-            "概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Forbes JAPANによると、ブラックロックのラリー・フィンクCEOは、ビットコインと暗号資産市場の今後12カ月について強気の見方を示した。",
+            "2026年に入って市場全体から約2兆ドルが消失するなか、過剰なレバレッジの解消で現在の水準は安定性が増したとの認識を示した。",
+            "同社のETF事業にはビットコインETF「IBIT」も含まれ、金融市場のトークン化を長期テーマとして位置づけている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt"
-        },
-        {
-          "title": "US SEC poised to allow stock token trading in potential market shakeup | Reuters",
-          "summaryLines": [
-            "US SEC poised to allow stock token trading in potential market shakeup | Reutersに関する最新動向です。",
-            "概要: U.S. equity markets face a potential shakeup as the Securities and Exchange Commission readies a new…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://reuters.com/legal/government/us-sec-poised-allow-stock-token-trading-potential-market-shakeup-2026-06-17"
-        },
-        {
-          "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
-          "summaryLines": [
-            "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。",
-            "概要: Get the latest Bitcoin (BTC) daily analysis for 16 July 2026. Price movements, market sentiment, tec…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coinstats.app",
-          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+          "whyImportant": "最大級の資産運用会社の見方は、ETF資金流入や機関投資家心理に影響しやすいため。",
+          "source": "Forbes JAPAN / Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/d9d9f7181cfae34bd0ab158043600c3701beab39"
         }
       ]
     },
@@ -158,233 +92,56 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
+          "title": "日経平均が2694円安、下げ幅は歴代5位　AI・半導体株に売り",
           "summaryLines": [
-            "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Todayに関する最新動向です。",
-            "概要: BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "17日の東京株式市場で日経平均株価は前日比2694円42銭安の6万4141円12銭で終了し、下げ幅は歴代5位となった。",
+            "米半導体株安を背景に、東京市場でもAI・半導体関連株が軒並み売られ、取引時間中には下げ幅が4100円を超える場面もあった。",
+            "週間の下げ幅は4416円と過去最大で、高値警戒感や中東情勢への懸念もリスク回避を強めた。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost"
+          "whyImportant": "AI・半導体主導の株高が急反転し、日本株全体のリスク評価を揺らしたため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOFL175HO0X10C26A7000000/"
         },
         {
-          "title": "Stock market news for July 15, 2026",
+          "title": "改正皇室典範が成立、旧宮家男系男子の養子縁組など可能に",
           "summaryLines": [
-            "Stock market news for July 15, 2026に関する最新動向です。",
-            "概要: The S&amp;P 500 was relatively unchanged on Wednesday, with chipmakers suffering losses, as traders…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "改正皇室典範は17日の参院本会議で可決・成立し、現行憲法下で1947年に施行されて以来、初めての本格的な典範改正となった。",
+            "女性皇族が結婚後も皇室に残ることや、旧宮家の男系男子を養子として皇室に迎えることを可能にする内容が柱。",
+            "一方で、養子の子の皇位継承資格などをめぐり、複数の野党が「立法府の総意」と言えるか疑問を呈した。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "Schwab Market Update | Charles Schwab",
-          "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreet",
-          "summaryLines": [
-            "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreetに関する最新動向です。",
-            "概要: Wall Street is focused on June retail sales, weekly initial jobless claims, and Netflix earnings.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "thestreet.com",
-          "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026"
+          "whyImportant": "象徴天皇制と皇位継承の将来像に関わる制度変更で、政治的・社会的な議論が続くため。",
+          "source": "毎日新聞",
+          "link": "https://mainichi.jp/articles/20260717/k00/00m/010/002000c"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Record heat, crowds drive offseason boom in international travel",
+          "title": "北海道初のホリデイ・イン エクスプレス、札幌・すすきのに開業",
           "summaryLines": [
-            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
-            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "IHGホテルズ＆リゾーツは7月17日、北海道初進出となる「ホリデイ・イン エクスプレス札幌すすきの」を開業した。",
+            "地下鉄すすきの駅から徒歩約5分、市電の資生館小学校前停留場から徒歩約3分で、観光・ビジネス双方の拠点を想定する。",
+            "客室は223室で、無料朝食、フィットネスセンター、セルフランドリー、Express Cafe、無料高速Wi-Fiを備える。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+          "whyImportant": "札幌中心部の宿泊供給が増え、北海道内旅行やインバウンド滞在の選択肢が広がるため。",
+          "source": "旅行新聞",
+          "link": "https://www.ryoko-net.co.jp/?p=169546"
         },
         {
-          "title": "Corporate Travel News: July 2026",
+          "title": "海の日三連休、九州各地で無料の夏祭り・花火イベントが開催",
           "summaryLines": [
-            "Corporate Travel News: July 2026に関する最新動向です。",
-            "概要: CTM&#039;s corporate travel news July 2026: new routes, visa changes, hotel openings and key updates…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "いこーよニュースは、7月18日から20日の三連休に九州で開催される無料イベント14選を紹介した。",
+            "北九州の小倉祇園太鼓や黒崎祇園山笠、門司港ビアフェスタ、熊本・鹿児島・長崎・大分・宮崎・佐賀の花火大会や夏祭りが含まれる。",
+            "一部イベントは7月17日から始まり、事前予約が推奨・必須のものや内容変更の可能性があるため、公式情報の確認が必要。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelctm.com",
-          "link": "https://travelctm.com/global/blog/corporate-travel-news-july-2026"
-        },
-        {
-          "title": "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour World",
-          "summaryLines": [
-            "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour Worldに関する最新動向です。",
-            "概要: EASA has issued new guidance on Middle East travel. Learn how US-Iran tensions are causing airspace…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://travelandtourworld.com/news/article/9oeg8iswww96"
-        },
-        {
-          "title": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabi",
-          "summaryLines": [
-            "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabiに関する最新動向です。",
-            "概要: The latest news and updates on Etihad flight status and cancellations to and from Abu Dhabi in July…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "timeoutabudhabi.com",
-          "link": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-july-2026"
+          "whyImportant": "夏休み前の三連休に、地域観光と国内近距離旅行を動かすイベント需要が集中するため。",
+          "source": "いこーよニュース",
+          "link": "https://report.iko-yo.net/articles/32207"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
-    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "source": "thehackernews.com",
-      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "snippet": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。 概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…"
-    },
-    {
-      "title": "ChatGPT Atlas - Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes",
-      "snippet": "ChatGPT Atlas - Release Notes | OpenAI Help Centerに関する最新動向です。 概要: Users can now sign in with multiple ChatGPT accounts (work, personal, school, etc), each with their…"
-    },
-    {
-      "title": "WordPress 7.1 Beta 1 / 7.0.1 | Download Free",
-      "source": "softexia.com",
-      "link": "https://softexia.com/web-apps/wordpress",
-      "snippet": "WordPress 7.1 Beta 1 / 7.0.1 | Download Freeに関する最新動向です。 概要: WordPress 6 is a free state-of-the-art semantic personal publishing platform with a focus on aesthet…"
-    },
-    {
-      "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
-      "snippet": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。 概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…"
-    },
-    {
-      "title": "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Science",
-      "source": "radicaldatascience.wordpress.com",
-      "link": "https://radicaldatascience.wordpress.com/2026/07/14/ai-news-briefs-bulletin-board-for-july-2026/",
-      "snippet": "AI News Briefs BULLETIN BOARD for July 2026 | Radical Data Scienceに関する最新動向です。 概要: Welcome to the AI News Briefs Bulletin Board, a timely new channel bringing you the latest industry…"
-    },
-    {
-      "title": "Thinking Machines Lab Drops Its First Model | WIRED",
-      "source": "wired.com",
-      "link": "https://wired.com/story/thinking-machines-lab-releases-its-first-model-inkling",
-      "snippet": "Thinking Machines Lab Drops Its First Model | WIREDに関する最新動向です。 概要: Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It co…"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
-    },
-    {
-      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "source": "coindesk.com",
-      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
-    },
-    {
-      "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt",
-      "snippet": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。 概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…"
-    },
-    {
-      "title": "US SEC poised to allow stock token trading in potential market shakeup | Reuters",
-      "source": "reuters.com",
-      "link": "https://reuters.com/legal/government/us-sec-poised-allow-stock-token-trading-potential-market-shakeup-2026-06-17",
-      "snippet": "US SEC poised to allow stock token trading in potential market shakeup | Reutersに関する最新動向です。 概要: U.S. equity markets face a potential shakeup as the Securities and Exchange Commission readies a new…"
-    },
-    {
-      "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
-      "source": "coinstats.app",
-      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-      "snippet": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 16 July 2026. Price movements, market sentiment, tec…"
-    },
-    {
-      "title": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost",
-      "snippet": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Todayに関する最新動向です。 概要: BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than…"
-    },
-    {
-      "title": "Stock market news for July 15, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for July 15, 2026に関する最新動向です。 概要: The S&amp;P 500 was relatively unchanged on Wednesday, with chipmakers suffering losses, as traders…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreet",
-      "source": "thestreet.com",
-      "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026",
-      "snippet": "Stock Market Today (July 16, 2026): Nasdaq slips as tech stocks lose momentum - TheStreetに関する最新動向です。 概要: Wall Street is focused on June retail sales, weekly initial jobless claims, and Netflix earnings."
-    },
-    {
-      "title": "Record heat, crowds drive offseason boom in international travel",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
-    },
-    {
-      "title": "Corporate Travel News: July 2026",
-      "source": "travelctm.com",
-      "link": "https://travelctm.com/global/blog/corporate-travel-news-july-2026",
-      "snippet": "Corporate Travel News: July 2026に関する最新動向です。 概要: CTM&#039;s corporate travel news July 2026: new routes, visa changes, hotel openings and key updates…"
-    },
-    {
-      "title": "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://travelandtourworld.com/news/article/9oeg8iswww96",
-      "snippet": "New EASA Flight Routes: All You Need To Know How Middle East Airspace Risks Impact UAE, Qatar, Bahrain, Kuwait & Oman - Travel And Tour Worldに関する最新動向です。 概要: EASA has issued new guidance on Middle East travel. Learn how US-Iran tensions are causing airspace…"
-    },
-    {
-      "title": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabi",
-      "source": "timeoutabudhabi.com",
-      "link": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-july-2026",
-      "snippet": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabiに関する最新動向です。 概要: The latest news and updates on Etihad flight status and cancellations to and from Abu Dhabi in July…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-07-16T15:36:47.167152+00:00"
+  ]
 }
