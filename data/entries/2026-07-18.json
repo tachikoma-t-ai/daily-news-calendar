@@ -1,55 +1,44 @@
 {
   "date": "2026-07-18",
   "title": "2026-07-18 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "佐川急便「スマートクラブ」で約7万人分の個人情報漏えい可能性",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "佐川急便は7月18日、会員制Webサービスの配達予定通知メールで別人の氏名やメールアドレスなどが表示されたと発表した。",
+            "影響対象は氏名、メールアドレス、送り状番号で、住所やクレジットカード情報は含まれないとしている。",
+            "原因は復旧作業時のメール設定誤りで、不正アクセスやサイバー攻撃ではないと説明している。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "物流通知は利用者接点が大きく、設定変更時の検証体制と個人情報保護リスクを再確認させる事案です。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html"
         },
         {
-          "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+          "title": "CISA、悪用確認済み SharePoint Server RCE 脆弱性を KEV に追加",
           "summaryLines": [
-            "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。",
-            "概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "米CISAは、Microsoft SharePoint Server の重大なリモートコード実行脆弱性 CVE-2026-58644 を KEV カタログに追加した。",
+            "対象となる米連邦機関には、2026年7月19日までの修正適用が求められている。",
+            "オンプレミスSharePointを運用する組織では、公開サーバや連携システムの緊急点検が必要になる。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "thehackernews.com",
-          "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+          "whyImportant": "企業内ポータルや文書管理基盤に直結するため、未適用環境では侵害リスクが急速に高まります。",
+          "source": "The Hacker News",
+          "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
         },
         {
-          "title": "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Chand Mera Dil OTT Release – FilmiBeat",
+          "title": "nginx に複数の脆弱性、CVE-2026-42533 はクリティカル評価",
           "summaryLines": [
-            "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Chand Mera Dil OTT Release – FilmiBeatに関する最新動向です。",
-            "概要: From action-packed thrillers to heartwarming romances, there is something for everyone. So grab your…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "技術情報ダイジェストは、nginx開発チームが7月15日に複数脆弱性を修正するセキュリティアップデートを公開したと伝えた。",
+            "F5が公表した CVE-2026-42533 はヒープバッファオーバーフローで、細工したHTTPリクエストによりプロセス再起動やコード実行のおそれがある。",
+            "CVSS 4.0 は9.2のクリティカルとされ、公開Web基盤では更新優先度が高い。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-releases-this-week-in-bollywood-2026-2-1084.html"
-        },
-        {
-          "title": "ChatGPT Atlas - Release Notes | OpenAI Help Center",
-          "summaryLines": [
-            "ChatGPT Atlas - Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: Users can now sign in with multiple ChatGPT accounts (work, personal, school, etc), each with their…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes"
+          "whyImportant": "nginx は広く使われる公開サーバ基盤で、脆弱性対応の遅れがサービス停止や侵害につながりやすいためです。",
+          "source": "Engineer's Digest",
+          "link": "https://www.ponkotsu.dev/entry/20260718/1784327178"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
+          "title": "中国 Moonshot AI の「Kimi K3」、米最先端モデルに迫るとの評価",
           "summaryLines": [
-            "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunchに関する最新動向です。",
-            "概要: It&#039;s the company&#039;s first public proof point after a year and a half spent building AI infr…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本経済新聞は、中国AI新興の月之暗面（Moonshot AI）が公開した新型モデル「Kimi K3」について、米専門家の間で性能への驚きが広がったと報じた。",
+            "米Anthropicの最新AIには届かないものの僅差に迫ると受け止められ、米AI企業の優位性への見方を揺らしている。",
+            "同日の米株式市場では、半導体株を中心に警戒売りが出た。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+          "whyImportant": "高性能モデルの低コスト化や地域分散が進むと、AI投資・半導体需要・モデル選定の前提が変わります。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/"
         },
         {
-          "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+          "title": "Bloomberg、Kimi K3公開で半導体株の「DeepSeekショック」再来を警戒",
           "summaryLines": [
-            "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。",
-            "概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Bloombergは、中国スタートアップのAIモデル公開を受け、米半導体銘柄を中心に売りが加速したと報じた。",
+            "ナスダック100は週間ベースで約1カ月ぶりの大幅安となり、AIインフラ投資への過熱感も意識された。",
+            "市場では、AI性能競争がGPU需要の持続性にどう影響するかが焦点になっている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says"
+          "whyImportant": "AIモデル競争は技術ニュースにとどまらず、株式市場と設備投資計画に直接波及します。",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/jp/news/articles/2026-07-18/TICEQIT96OSR00"
         },
         {
-          "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat",
+          "title": "NVIDIA、日本のAI・ロボティクスエコシステム拡大を発信",
           "summaryLines": [
-            "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeatに関する最新動向です。",
-            "概要: Moonshot AI released Kimi K3, a 2.8 trillion-parameter open-source AI model from China that rivals O…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NVIDIAは、日本のメーカー、ロボティクス企業、インフラ企業、ゲーム企業などが同社技術を使ってAIフルスタックを構築していると紹介した。",
+            "Jensen Huang CEO が日本のAIリーダーらと会い、産業別AIやロボティクスの最新動向を示した。",
+            "日本企業のAI活用は、実証から産業実装と専用インフラ整備の段階に移りつつある。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "venturebeat.com",
-          "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
-        },
-        {
-          "title": "Thinking Machines Lab Drops Its First Model | WIRED",
-          "summaryLines": [
-            "Thinking Machines Lab Drops Its First Model | WIREDに関する最新動向です。",
-            "概要: Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "wired.com",
-          "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/"
+          "whyImportant": "国内AI基盤の整備は、製造・金融・ロボティクスの競争力と計算資源の調達戦略に影響します。",
+          "source": "NVIDIA Blog",
+          "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "title": "ビットコイン、米インフレ指標の下振れで6万5000ドル台を回復",
           "summaryLines": [
-            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
-            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "財経新聞は、米CPIとPPIが市場予想を下回ったことを受け、ビットコインが数週間ぶりに6万5000ドルを上回ったと報じた。",
+            "上昇の一部はデリバティブ市場のショートスクイーズに支えられたとされる。",
+            "今後は原油価格、次回インフレ指標、ETF資金フローが持続性を左右する。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+          "whyImportant": "暗号資産相場は金利見通しと流動性に敏感で、マクロ指標への反応が強まっています。",
+          "source": "財経新聞",
+          "link": "https://www.zaikei.co.jp/article/20260718/861836.html"
         },
         {
-          "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+          "title": "ビットコインETFに資金流入、イーサリアム関連ファンドは流出",
           "summaryLines": [
-            "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。",
-            "概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Bitcoin.comは、7月16日にビットコイン関連商品へ7,915万ドルの資金流入があった一方、イーサリアム関連ファンドからは2,804万ドルが流出したと伝えた。",
+            "XRPやソラナ関連ETFにも新規資金が入り、銘柄ごとの選別色が強まっている。",
+            "T. Rowe Price のマルチトークン型ファンド立ち上げも、機関投資家向け商品の多様化を示している。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt"
+          "whyImportant": "ETF資金フローは現物需要と投資家心理を映すため、価格の持続性を見る重要指標です。",
+          "source": "Bitcoin.com News",
+          "link": "https://news.bitcoin.com/ja/isariamu-kanren-fando-ga-2800man-doru-no-shikin-ryushutsu-to-naru-ippou-toushika-wa-bitto-koin-etf-ni-7900man-doru-wo-tounyuushimashita/"
         },
         {
-          "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+          "title": "T. Rowe Price、複数暗号資産に投資するアクティブETFを開始",
           "summaryLines": [
-            "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。",
-            "概要: Get the latest Bitcoin (BTC) daily analysis for 17 July 2026. Price movements, market sentiment, tec…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "24/7 Wall St.は、T. Rowe Price が TKNZ として複数暗号資産に投資するアクティブ運用型ETFを立ち上げたと報じた。",
+            "同ETFはビットコイン、イーサリアム、XRPなど5〜15銘柄を組み入れる設計とされる。",
+            "単一銘柄ETF中心だった暗号資産投資商品の選択肢が広がっている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coinstats.app",
-          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
-        },
-        {
-          "title": "Crypto News, July 15: Bitcoin and Ethereum Price Jump on Softer CPI and Japan Bitcoin ETF",
-          "summaryLines": [
-            "Crypto News, July 15: Bitcoin and Ethereum Price Jump on Softer CPI and Japan Bitcoin ETFに関する最新動向です。",
-            "概要: Japan Bitcoin ETF bill changes crypto as Bitcoin and Ethereum price jump, while world governments sc…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "cryptonews.com",
-          "link": "https://cryptonews.com/news/crypto-news-july-15-bitcoin-ethereum-price-softer-cpi-japan-bitcoin-etf/"
+          "whyImportant": "伝統的資産運用会社の参入は、暗号資産の機関投資家向け商品化が次段階に入ったことを示します。",
+          "source": "24/7 Wall St.",
+          "link": "https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/"
         }
       ]
     },
@@ -158,233 +125,177 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Stock market news for July 14, 2026",
+          "title": "ドル円は162円台で膠着、ドル安基調回帰を探る展開",
           "summaryLines": [
-            "Stock market news for July 14, 2026に関する最新動向です。",
-            "概要: The S&amp;P 500 rose on Tuesday after June inflation data came in weaker than expected.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "みんかぶFXは、ニューヨーク為替市場でドル円が162円台半ばを中心に振幅したと伝えた。",
+            "1カ月物のボラティリティは2022年2月以来の低水準に低下し、夏枯れ相場の様相が強まっている。",
+            "市場では、今後の米インフレ指標や金融政策見通しが次の方向感を決める材料になる。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html"
+          "whyImportant": "円相場は輸入物価、企業収益、個人の海外・国内旅行コストにも広く影響します。",
+          "source": "みんかぶFX",
+          "link": "https://fx.minkabu.jp/news/373577"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "米市場、半導体安・原油高・Netflix決算が重荷に",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Charles Schwabは、米株式市場が半導体株の売り、Middle East情勢を背景にした原油高、Netflixの決算後下落に圧迫されたとまとめた。",
+            "AI関連銘柄への高値警戒が強まり、幅広い指数の上値を抑えた。",
+            "企業決算と地政学リスクが同時に市場心理を冷やす展開になっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
+          "whyImportant": "AI投資期待で上昇した株式市場の調整は、リスク資産全体のセンチメントに波及します。",
+          "source": "Charles Schwab",
           "link": "https://www.schwab.com/learn/story/stock-market-update-open"
         },
         {
-          "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+          "title": "米政権、最高裁判断後の関税収入減を受け新たな関税体制構築を急ぐ",
           "summaryLines": [
-            "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。",
-            "概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "APは、米最高裁が大規模な輸入関税を退けた後、米政権が関税政策の再構築を急いでいると報じた。",
+            "前年に大きかった関税収入が判決後に減少し、貿易赤字や財源を巡る政策対応が焦点になっている。",
+            "新たな関税措置の設計次第で、企業の調達コストや国際貿易に不確実性が残る。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026"
-        },
-        {
-          "title": "Market Talk - July 16, 2026 | Armstrong Economics",
-          "summaryLines": [
-            "Market Talk - July 16, 2026 | Armstrong Economicsに関する最新動向です。",
-            "概要: AMERICAS:",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "armstrongeconomics.com",
-          "link": "https://armstrongeconomics.com/market-talk/market-talk-july-16-2026"
+          "whyImportant": "関税政策は物価、企業利益、サプライチェーン再編に直結するため、世界経済の重要リスクです。",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-tariffs-supreme-court-trade-deficit-ec2bd8d8d928baafc619a161670d7725"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Airports Are Travel Destinations Now - Bloomberg",
+          "title": "青春18きっぷ、2026年夏季利用が7月18日スタート",
           "summaryLines": [
-            "Airports Are Travel Destinations Now - Bloombergに関する最新動向です。",
-            "概要: Plus, Basel’s secret art rooms and the rise of peptide-maxxers",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JRグループの「青春18きっぷ」2026年夏季利用期間が7月18日から始まった。",
+            "販売期間は7月3日から9月8日、利用期間は7月18日から9月8日で、3日間用と5日間用が用意される。",
+            "全国のJR普通・快速列車などを使った夏の国内鉄道旅行需要を後押しする。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-20/airports-are-travel-destinations-now"
+          "whyImportant": "夏休みの国内移動コストと旅行計画に直結する定番商品の利用開始日です。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2125957.html"
         },
         {
-          "title": "Record heat, crowds drive offseason boom in international travel",
+          "title": "復刻「国鉄色」特急いなほ、新潟―酒田間で運行開始",
           "summaryLines": [
-            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
-            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "読売新聞は、3連休初日の7月18日に復刻「国鉄色」の特急いなほが新潟―酒田間で運行を始めたと報じた。",
+            "山形県とJR東日本などによる観光キャンペーンの一環で、E653系1編成を583系をイメージした塗装にした。",
+            "日本海沿いの鉄道旅や山形・新潟方面への誘客施策として注目される。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+          "whyImportant": "観光列車や復刻塗装は地域周遊のきっかけになり、鉄道ファン以外の旅行需要も刺激します。",
+          "source": "読売新聞",
+          "link": "https://www.yomiuri.co.jp/national/20260718-GYT1T00166/"
         },
         {
-          "title": "Houston Bush Fortifies with San Francisco, Denver, Harry Reid and More US Airports as a Colossal Summer Passenger Surge Unleashes the Biggest Travel Rush of 2026 Across America: Full Airport Forecast Inside - Travel And Tour World",
+          "title": "三連休、全国各地で花火大会が集中開催",
           "summaryLines": [
-            "Houston Bush Fortifies with San Francisco, Denver, Harry Reid and More US Airports as a Colossal Summer Passenger Surge Unleashes the Biggest Travel Rush of 2026 Across America: Full Airport Forecast Inside - Travel And Tour Worldに関する最新動向です。",
-            "概要: Houston Bush fortifies with San Francisco, Denver, Harry Reid and more US airports as a colossal Sum…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ウェザーニュースは、7月18日から20日の三連休に開催される全国の花火大会を紹介した。",
+            "北見ぼんちまつり納涼花火大会など、北海道から各地の夏イベントが本格化している。",
+            "天候確認と混雑対策をしながら、近場の国内旅行・日帰り観光を計画しやすい週末になっている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://travelandtourworld.com/news/article/asii74qc2krw"
-        },
-        {
-          "title": "Travel Inflation Report: July 2026 - NerdWallet",
-          "summaryLines": [
-            "Travel Inflation Report: July 2026 - NerdWalletに関する最新動向です。",
-            "概要: Travel prices are up significantly year-over-year, marking the largest percentage increase for trave…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "nerdwallet.com",
-          "link": "https://www.nerdwallet.com/travel/learn/travel-price-tracker"
+          "whyImportant": "夏の大型イベントは宿泊・交通・地域消費を押し上げる一方、天候と混雑リスクの確認が重要です。",
+          "source": "ウェザーニュース",
+          "link": "https://weathernews.jp/news/202607/160091/"
         }
       ]
     }
   ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
-    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
-  ],
-  "headlines": [
+  "rawItems": [
     {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+      "title": "佐川急便「スマートクラブ」で約7万人分の個人情報漏えい可能性",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html",
+      "snippet": "佐川急便は7月18日、会員制Webサービスの配達予定通知メールで別人の氏名やメールアドレスなどが表示されたと発表した。 影響対象は氏名、メールアドレス、送り状番号で、住所やクレジットカード情報は含まれないとしている。"
     },
     {
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "source": "thehackernews.com",
-      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "snippet": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。 概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…"
+      "title": "CISA、悪用確認済み SharePoint Server RCE 脆弱性を KEV に追加",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "snippet": "米CISAは、Microsoft SharePoint Server の重大なリモートコード実行脆弱性 CVE-2026-58644 を KEV カタログに追加した。 対象となる米連邦機関には、2026年7月19日までの修正適用が求められている。"
     },
     {
-      "title": "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Chand Mera Dil OTT Release – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-releases-this-week-in-bollywood-2026-2-1084.html",
-      "snippet": "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Chand Mera Dil OTT Release – FilmiBeatに関する最新動向です。 概要: From action-packed thrillers to heartwarming romances, there is something for everyone. So grab your…"
+      "title": "nginx に複数の脆弱性、CVE-2026-42533 はクリティカル評価",
+      "source": "Engineer's Digest",
+      "link": "https://www.ponkotsu.dev/entry/20260718/1784327178",
+      "snippet": "技術情報ダイジェストは、nginx開発チームが7月15日に複数脆弱性を修正するセキュリティアップデートを公開したと伝えた。 F5が公表した CVE-2026-42533 はヒープバッファオーバーフローで、細工したHTTPリクエストによりプロセス再起動やコード実行のおそれがある。"
     },
     {
-      "title": "ChatGPT Atlas - Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes",
-      "snippet": "ChatGPT Atlas - Release Notes | OpenAI Help Centerに関する最新動向です。 概要: Users can now sign in with multiple ChatGPT accounts (work, personal, school, etc), each with their…"
+      "title": "中国 Moonshot AI の「Kimi K3」、米最先端モデルに迫るとの評価",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
+      "snippet": "日本経済新聞は、中国AI新興の月之暗面（Moonshot AI）が公開した新型モデル「Kimi K3」について、米専門家の間で性能への驚きが広がったと報じた。 米Anthropicの最新AIには届かないものの僅差に迫ると受け止められ、米AI企業の優位性への見方を揺らしている。"
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "snippet": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunchに関する最新動向です。 概要: It&#039;s the company&#039;s first public proof point after a year and a half spent building AI infr…"
+      "title": "Bloomberg、Kimi K3公開で半導体株の「DeepSeekショック」再来を警戒",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-18/TICEQIT96OSR00",
+      "snippet": "Bloombergは、中国スタートアップのAIモデル公開を受け、米半導体銘柄を中心に売りが加速したと報じた。 ナスダック100は週間ベースで約1カ月ぶりの大幅安となり、AIインフラ投資への過熱感も意識された。"
     },
     {
-      "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
-      "snippet": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。 概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…"
+      "title": "NVIDIA、日本のAI・ロボティクスエコシステム拡大を発信",
+      "source": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "snippet": "NVIDIAは、日本のメーカー、ロボティクス企業、インフラ企業、ゲーム企業などが同社技術を使ってAIフルスタックを構築していると紹介した。 Jensen Huang CEO が日本のAIリーダーらと会い、産業別AIやロボティクスの最新動向を示した。"
     },
     {
-      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat",
-      "source": "venturebeat.com",
-      "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
-      "snippet": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeatに関する最新動向です。 概要: Moonshot AI released Kimi K3, a 2.8 trillion-parameter open-source AI model from China that rivals O…"
+      "title": "ビットコイン、米インフレ指標の下振れで6万5000ドル台を回復",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260718/861836.html",
+      "snippet": "財経新聞は、米CPIとPPIが市場予想を下回ったことを受け、ビットコインが数週間ぶりに6万5000ドルを上回ったと報じた。 上昇の一部はデリバティブ市場のショートスクイーズに支えられたとされる。"
     },
     {
-      "title": "Thinking Machines Lab Drops Its First Model | WIRED",
-      "source": "wired.com",
-      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "snippet": "Thinking Machines Lab Drops Its First Model | WIREDに関する最新動向です。 概要: Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It co…"
+      "title": "ビットコインETFに資金流入、イーサリアム関連ファンドは流出",
+      "source": "Bitcoin.com News",
+      "link": "https://news.bitcoin.com/ja/isariamu-kanren-fando-ga-2800man-doru-no-shikin-ryushutsu-to-naru-ippou-toushika-wa-bitto-koin-etf-ni-7900man-doru-wo-tounyuushimashita/",
+      "snippet": "Bitcoin.comは、7月16日にビットコイン関連商品へ7,915万ドルの資金流入があった一方、イーサリアム関連ファンドからは2,804万ドルが流出したと伝えた。 XRPやソラナ関連ETFにも新規資金が入り、銘柄ごとの選別色が強まっている。"
     },
     {
-      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "source": "coindesk.com",
-      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
+      "title": "T. Rowe Price、複数暗号資産に投資するアクティブETFを開始",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/",
+      "snippet": "24/7 Wall St.は、T. Rowe Price が TKNZ として複数暗号資産に投資するアクティブ運用型ETFを立ち上げたと報じた。 同ETFはビットコイン、イーサリアム、XRPなど5〜15銘柄を組み入れる設計とされる。"
     },
     {
-      "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt",
-      "snippet": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。 概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…"
+      "title": "ドル円は162円台で膠着、ドル安基調回帰を探る展開",
+      "source": "みんかぶFX",
+      "link": "https://fx.minkabu.jp/news/373577",
+      "snippet": "みんかぶFXは、ニューヨーク為替市場でドル円が162円台半ばを中心に振幅したと伝えた。 1カ月物のボラティリティは2022年2月以来の低水準に低下し、夏枯れ相場の様相が強まっている。"
     },
     {
-      "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
-      "source": "coinstats.app",
-      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-      "snippet": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 17 July 2026. Price movements, market sentiment, tec…"
-    },
-    {
-      "title": "Crypto News, July 15: Bitcoin and Ethereum Price Jump on Softer CPI and Japan Bitcoin ETF",
-      "source": "cryptonews.com",
-      "link": "https://cryptonews.com/news/crypto-news-july-15-bitcoin-ethereum-price-softer-cpi-japan-bitcoin-etf/",
-      "snippet": "Crypto News, July 15: Bitcoin and Ethereum Price Jump on Softer CPI and Japan Bitcoin ETFに関する最新動向です。 概要: Japan Bitcoin ETF bill changes crypto as Bitcoin and Ethereum price jump, while world governments sc…"
-    },
-    {
-      "title": "Stock market news for July 14, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for July 14, 2026に関する最新動向です。 概要: The S&amp;P 500 rose on Tuesday after June inflation data came in weaker than expected."
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
+      "title": "米市場、半導体安・原油高・Netflix決算が重荷に",
+      "source": "Charles Schwab",
       "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+      "snippet": "Charles Schwabは、米株式市場が半導体株の売り、Middle East情勢を背景にした原油高、Netflixの決算後下落に圧迫されたとまとめた。 AI関連銘柄への高値警戒が強まり、幅広い指数の上値を抑えた。"
     },
     {
-      "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
-      "snippet": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。 概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…"
+      "title": "米政権、最高裁判断後の関税収入減を受け新たな関税体制構築を急ぐ",
+      "source": "AP News",
+      "link": "https://apnews.com/article/trump-tariffs-supreme-court-trade-deficit-ec2bd8d8d928baafc619a161670d7725",
+      "snippet": "APは、米最高裁が大規模な輸入関税を退けた後、米政権が関税政策の再構築を急いでいると報じた。 前年に大きかった関税収入が判決後に減少し、貿易赤字や財源を巡る政策対応が焦点になっている。"
     },
     {
-      "title": "Market Talk - July 16, 2026 | Armstrong Economics",
-      "source": "armstrongeconomics.com",
-      "link": "https://armstrongeconomics.com/market-talk/market-talk-july-16-2026",
-      "snippet": "Market Talk - July 16, 2026 | Armstrong Economicsに関する最新動向です。 概要: AMERICAS:"
+      "title": "青春18きっぷ、2026年夏季利用が7月18日スタート",
+      "source": "トラベル Watch",
+      "link": "https://travel.watch.impress.co.jp/docs/news/2125957.html",
+      "snippet": "JRグループの「青春18きっぷ」2026年夏季利用期間が7月18日から始まった。 販売期間は7月3日から9月8日、利用期間は7月18日から9月8日で、3日間用と5日間用が用意される。"
     },
     {
-      "title": "Airports Are Travel Destinations Now - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-20/airports-are-travel-destinations-now",
-      "snippet": "Airports Are Travel Destinations Now - Bloombergに関する最新動向です。 概要: Plus, Basel’s secret art rooms and the rise of peptide-maxxers"
+      "title": "復刻「国鉄色」特急いなほ、新潟―酒田間で運行開始",
+      "source": "読売新聞",
+      "link": "https://www.yomiuri.co.jp/national/20260718-GYT1T00166/",
+      "snippet": "読売新聞は、3連休初日の7月18日に復刻「国鉄色」の特急いなほが新潟―酒田間で運行を始めたと報じた。 山形県とJR東日本などによる観光キャンペーンの一環で、E653系1編成を583系をイメージした塗装にした。"
     },
     {
-      "title": "Record heat, crowds drive offseason boom in international travel",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
-    },
-    {
-      "title": "Houston Bush Fortifies with San Francisco, Denver, Harry Reid and More US Airports as a Colossal Summer Passenger Surge Unleashes the Biggest Travel Rush of 2026 Across America: Full Airport Forecast Inside - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://travelandtourworld.com/news/article/asii74qc2krw",
-      "snippet": "Houston Bush Fortifies with San Francisco, Denver, Harry Reid and More US Airports as a Colossal Summer Passenger Surge Unleashes the Biggest Travel Rush of 2026 Across America: Full Airport Forecast Inside - Travel And Tour Worldに関する最新動向です。 概要: Houston Bush fortifies with San Francisco, Denver, Harry Reid and more US airports as a colossal Sum…"
-    },
-    {
-      "title": "Travel Inflation Report: July 2026 - NerdWallet",
-      "source": "nerdwallet.com",
-      "link": "https://www.nerdwallet.com/travel/learn/travel-price-tracker",
-      "snippet": "Travel Inflation Report: July 2026 - NerdWalletに関する最新動向です。 概要: Travel prices are up significantly year-over-year, marking the largest percentage increase for trave…"
+      "title": "三連休、全国各地で花火大会が集中開催",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202607/160091/",
+      "snippet": "ウェザーニュースは、7月18日から20日の三連休に開催される全国の花火大会を紹介した。 北見ぼんちまつり納涼花火大会など、北海道から各地の夏イベントが本格化している。"
     }
   ],
   "meta": {
-    "sourceMode": "brave",
+    "sourceMode": "openclaw-web-search-fetch",
     "categoryCount": 5,
-    "itemCount": 20
+    "itemCount": 15,
+    "targetTimezone": "Asia/Tokyo"
   },
-  "generatedAt": "2026-07-17T15:36:25.405481+00:00"
+  "generatedAt": "2026-07-18T11:03:28.780644Z"
 }
