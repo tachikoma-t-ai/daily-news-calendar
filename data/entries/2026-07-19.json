@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-19",
+  "title": "2026-07-19 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+          "summaryLines": [
+            "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。",
+            "概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "thehackernews.com",
+          "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        },
+        {
+          "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+          "summaryLines": [
+            "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。",
+            "概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "commandlinux.com",
+          "link": "https://commandlinux.com/statistics/web-browser-market-share"
+        },
+        {
+          "title": "Chrome Releases: Stable Channel Update for Desktop",
+          "summaryLines": [
+            "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。",
+            "概要: The Stable channel has been updated to 150.0.7871.124/.125 for Windows and Mac and 150.0.7871.124 fo…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "chromereleases.googleblog.com",
+          "link": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_0353146366.html"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
+          "summaryLines": [
+            "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunchに関する最新動向です。",
+            "概要: It&#039;s the company&#039;s first public proof point after a year and a half spent building AI infr…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+        },
+        {
+          "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+          "summaryLines": [
+            "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。",
+            "概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says"
+        },
+        {
+          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "summaryLines": [
+            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
+            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+        },
+        {
+          "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat",
+          "summaryLines": [
+            "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeatに関する最新動向です。",
+            "概要: Moonshot AI released Kimi K3, a 2.8 trillion-parameter open-source AI model from China that rivals O…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "venturebeat.com",
+          "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "summaryLines": [
+            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
+            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+        },
+        {
+          "title": "Senate Crypto Talks Hit Turbulence as Window for Passage Narrows - Bloomberg",
+          "summaryLines": [
+            "Senate Crypto Talks Hit Turbulence as Window for Passage Narrows - Bloombergに関する最新動向です。",
+            "概要: Senate efforts to pass a landmark cryptocurrency bill hit a snag this week as Democratic negotiators…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-07-17/senate-crypto-talks-hit-turbulence-as-window-for-passage-narrows"
+        },
+        {
+          "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+          "summaryLines": [
+            "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。",
+            "概要: Get the latest Bitcoin (BTC) daily analysis for 18 July 2026. Price movements, market sentiment, tec…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coinstats.app",
+          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+        },
+        {
+          "title": "Investorer investerer 79 mio. dollar i Bitcoin-ETF’er, mens Ether-fonde mister 28 mio. dollar - Bitcoin News",
+          "summaryLines": [
+            "Investorer investerer 79 mio. dollar i Bitcoin-ETF’er, mens Ether-fonde mister 28 mio. dollar - Bitcoin Newsに関する最新動向です。",
+            "概要: Efterspørgslen efter krypto-ETF’er udviklede sig meget forskelligt torsdag den 16. juli, idet bitcoi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "news.bitcoin.com",
+          "link": "https://news.bitcoin.com/da/investorer-investerer-79-mio-dollar-i-bitcoin-etfer-mens-ether-fonde-mister-28-mio-dollar"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Stock market news for July 17, 2026",
+          "summaryLines": [
+            "Stock market news for July 17, 2026に関する最新動向です。",
+            "概要: The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://cnbc.com/2026/07/16/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Market Talk - July 17, 2026 | Armstrong Economics",
+          "summaryLines": [
+            "Market Talk - July 17, 2026 | Armstrong Economicsに関する最新動向です。",
+            "概要: ASIA:",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "armstrongeconomics.com",
+          "link": "https://armstrongeconomics.com/market-talk/market-talk-july-17-2026"
+        },
+        {
+          "title": "Stock Market Today (July 16, 2026): Nasdaq, S&P 500 fall as semiconductor slide continues - TheStreet",
+          "summaryLines": [
+            "Stock Market Today (July 16, 2026): Nasdaq, S&P 500 fall as semiconductor slide continues - TheStreetに関する最新動向です。",
+            "概要: Wall Street is focused on June retail sales, weekly initial jobless claims, and Netflix earnings.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "thestreet.com",
+          "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Top Airline Stories",
+          "summaryLines": [
+            "Top Airline Storiesに関する最新動向です。",
+            "概要: This week&#039;s headlines cover airline news: From FAA restrictions at Chicago O&#039;Hare to cabin…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "recommend.com",
+          "link": "https://recommend.com/news-tools/the-airline-brief-this-weeks-top-aviation-stories"
+        },
+        {
+          "title": "Record heat, crowds drive offseason boom in international travel",
+          "summaryLines": [
+            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
+            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+        },
+        {
+          "title": "Credit card transfer bonuses (July): 100% bonus to IHG and more - The Points Guy",
+          "summaryLines": [
+            "Credit card transfer bonuses (July): 100% bonus to IHG and more - The Points Guyに関する最新動向です。",
+            "概要: Here&#x27;s a look at all the current transfer bonuses involving major credit cards and airline and…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "thepointsguy.com",
+          "link": "https://thepointsguy.com/loyalty-programs/current-transfer-bonuses/"
+        },
+        {
+          "title": "Oman Tourism Faces Aviation Challenge After Airport Passenger Numbers Drop In 2026: All You Need To Know - Travel And Tour World",
+          "summaryLines": [
+            "Oman Tourism Faces Aviation Challenge After Airport Passenger Numbers Drop In 2026: All You Need To Know - Travel And Tour Worldに関する最新動向です。",
+            "概要: Oman airports record a 9.3% passenger decline in 2026 as Muscat, Salalah and Sohar experience lower…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://travelandtourworld.com/news/article/5sq70j1s2q8h"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
+    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "source": "thehackernews.com",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "snippet": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flawsに関する最新動向です。 概要: Mozilla has released updates to address two critical flaws in Firefox for which it warned that explo…"
+    },
+    {
+      "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+      "source": "commandlinux.com",
+      "link": "https://commandlinux.com/statistics/web-browser-market-share",
+      "snippet": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。 概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…"
+    },
+    {
+      "title": "Chrome Releases: Stable Channel Update for Desktop",
+      "source": "chromereleases.googleblog.com",
+      "link": "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_0353146366.html",
+      "snippet": "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。 概要: The Stable channel has been updated to 150.0.7871.124/.125 for Windows and Mac and 150.0.7871.124 fo…"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "snippet": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunchに関する最新動向です。 概要: It&#039;s the company&#039;s first public proof point after a year and a half spent building AI infr…"
+    },
+    {
+      "title": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
+      "snippet": "AI Infrastructure Spending May Outpace Past Tech Booms, BIS Study Finds - Bloombergに関する最新動向です。 概要: The race to build infrastructure for artificial intelligence is on track to surpass previous technol…"
+    },
+    {
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
+    },
+    {
+      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeat",
+      "source": "venturebeat.com",
+      "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "snippet": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems | VentureBeatに関する最新動向です。 概要: Moonshot AI released Kimi K3, a 2.8 trillion-parameter open-source AI model from China that rivals O…"
+    },
+    {
+      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+      "source": "coindesk.com",
+      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
+    },
+    {
+      "title": "Senate Crypto Talks Hit Turbulence as Window for Passage Narrows - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-07-17/senate-crypto-talks-hit-turbulence-as-window-for-passage-narrows",
+      "snippet": "Senate Crypto Talks Hit Turbulence as Window for Passage Narrows - Bloombergに関する最新動向です。 概要: Senate efforts to pass a landmark cryptocurrency bill hit a snag this week as Democratic negotiators…"
+    },
+    {
+      "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+      "source": "coinstats.app",
+      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+      "snippet": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 18 July 2026. Price movements, market sentiment, tec…"
+    },
+    {
+      "title": "Investorer investerer 79 mio. dollar i Bitcoin-ETF’er, mens Ether-fonde mister 28 mio. dollar - Bitcoin News",
+      "source": "news.bitcoin.com",
+      "link": "https://news.bitcoin.com/da/investorer-investerer-79-mio-dollar-i-bitcoin-etfer-mens-ether-fonde-mister-28-mio-dollar",
+      "snippet": "Investorer investerer 79 mio. dollar i Bitcoin-ETF’er, mens Ether-fonde mister 28 mio. dollar - Bitcoin Newsに関する最新動向です。 概要: Efterspørgslen efter krypto-ETF’er udviklede sig meget forskelligt torsdag den 16. juli, idet bitcoi…"
+    },
+    {
+      "title": "Stock market news for July 17, 2026",
+      "source": "cnbc.com",
+      "link": "https://cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for July 17, 2026に関する最新動向です。 概要: The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "Market Talk - July 17, 2026 | Armstrong Economics",
+      "source": "armstrongeconomics.com",
+      "link": "https://armstrongeconomics.com/market-talk/market-talk-july-17-2026",
+      "snippet": "Market Talk - July 17, 2026 | Armstrong Economicsに関する最新動向です。 概要: ASIA:"
+    },
+    {
+      "title": "Stock Market Today (July 16, 2026): Nasdaq, S&P 500 fall as semiconductor slide continues - TheStreet",
+      "source": "thestreet.com",
+      "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026",
+      "snippet": "Stock Market Today (July 16, 2026): Nasdaq, S&P 500 fall as semiconductor slide continues - TheStreetに関する最新動向です。 概要: Wall Street is focused on June retail sales, weekly initial jobless claims, and Netflix earnings."
+    },
+    {
+      "title": "Top Airline Stories",
+      "source": "recommend.com",
+      "link": "https://recommend.com/news-tools/the-airline-brief-this-weeks-top-aviation-stories",
+      "snippet": "Top Airline Storiesに関する最新動向です。 概要: This week&#039;s headlines cover airline news: From FAA restrictions at Chicago O&#039;Hare to cabin…"
+    },
+    {
+      "title": "Record heat, crowds drive offseason boom in international travel",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
+      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
+    },
+    {
+      "title": "Credit card transfer bonuses (July): 100% bonus to IHG and more - The Points Guy",
+      "source": "thepointsguy.com",
+      "link": "https://thepointsguy.com/loyalty-programs/current-transfer-bonuses/",
+      "snippet": "Credit card transfer bonuses (July): 100% bonus to IHG and more - The Points Guyに関する最新動向です。 概要: Here&#x27;s a look at all the current transfer bonuses involving major credit cards and airline and…"
+    },
+    {
+      "title": "Oman Tourism Faces Aviation Challenge After Airport Passenger Numbers Drop In 2026: All You Need To Know - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://travelandtourworld.com/news/article/5sq70j1s2q8h",
+      "snippet": "Oman Tourism Faces Aviation Challenge After Airport Passenger Numbers Drop In 2026: All You Need To Know - Travel And Tour Worldに関する最新動向です。 概要: Oman airports record a 9.3% passenger decline in 2026 as Muscat, Salalah and Sohar experience lower…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-07-18T15:36:20.017287+00:00"
+}
