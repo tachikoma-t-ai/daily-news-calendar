@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-21",
+  "title": "2026-07-21 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+          "summaryLines": [
+            "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。",
+            "概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "commandlinux.com",
+          "link": "https://commandlinux.com/statistics/web-browser-market-share"
+        },
+        {
+          "title": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rollout",
+          "summaryLines": [
+            "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rolloutに関する最新動向です。",
+            "概要: Kagi confirms the WebKit-based Orion browser is coming to Windows in late 2026, alongside a cross-pl…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "piunikaweb.com",
+          "link": "https://piunikaweb.com/2026/06/26/orion-browser-windows-release-date"
+        },
+        {
+          "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
+          "summaryLines": [
+            "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。",
+            "概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techradar.com",
+          "link": "https://www.techradar.com/best/browser"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloomberg",
+          "summaryLines": [
+            "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloombergに関する最新動向です。",
+            "概要: Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executiv…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use"
+        },
+        {
+          "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
+          "summaryLines": [
+            "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNETに関する最新動向です。",
+            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "zdnet.com",
+          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+        },
+        {
+          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "summaryLines": [
+            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
+            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+        },
+        {
+          "title": "China's new AI model halts new subscriptions as demand swamps capacity",
+          "summaryLines": [
+            "China's new AI model halts new subscriptions as demand swamps capacityに関する最新動向です。",
+            "概要: The Chinese AI model Kimi K3 has suspended new subscriptions after overwhelming demand pushed its ca…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "clickondetroit.com",
+          "link": "https://clickondetroit.com/tech/2026/07/20/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "summaryLines": [
+            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
+            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+        },
+        {
+          "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+          "summaryLines": [
+            "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。",
+            "概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt"
+        },
+        {
+          "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+          "summaryLines": [
+            "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。",
+            "概要: Get the latest Bitcoin (BTC) daily analysis for 20 July 2026. Price movements, market sentiment, tec…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coinstats.app",
+          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+        },
+        {
+          "title": "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisor",
+          "summaryLines": [
+            "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisorに関する最新動向です。",
+            "概要: Bitcoin, Ethereum, Dogecoin & Tether, there are thousands of different cryptocurrencies available. L…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "forbes.com",
+          "link": "https://www.forbes.com/financial-services/top-10-cryptocurrencies-2/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Stock market news for July 17, 2026",
+          "summaryLines": [
+            "Stock market news for July 17, 2026に関する最新動向です。",
+            "概要: The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Schwab Market Update | Charles Schwab",
+          "summaryLines": [
+            "Schwab Market Update | Charles Schwabに関する最新動向です。",
+            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+          "summaryLines": [
+            "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。",
+            "概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026"
+        },
+        {
+          "title": "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC News",
+          "summaryLines": [
+            "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC Newsに関する最新動向です。",
+            "概要: The ASX edged lower as markets fret about war and inflated AI valuations. Look back on how the sessi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "abc.net.au",
+          "link": "https://abc.net.au/news/2026-07-20/asx-markets-business-live-news-july-20/106932946"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour World",
+          "summaryLines": [
+            "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour Worldに関する最新動向です。",
+            "概要: Tanzania tourism investment surges as record tourist arrivals drive new hotels, safari lodges, airpo…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelandtourworld.com",
+          "link": "https://www.travelandtourworld.com/news/article/2drwl3aguszm/"
+        },
+        {
+          "title": "Record heat, crowds drive offseason boom in international travel",
+          "summaryLines": [
+            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
+            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+        },
+        {
+          "title": "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Online",
+          "summaryLines": [
+            "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Onlineに関する最新動向です。",
+            "概要: Passengers have already missed flights because of Europe",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "dailymail.com",
+          "link": "https://dailymail.com/travel/article-15990147/arrive-airport-four-hours-early-europe-flights.html"
+        },
+        {
+          "title": "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly On",
+          "summaryLines": [
+            "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly Onに関する最新動向です。",
+            "概要: Dubai flights suspended: 13 airlines including British Airways, Air Canada, and Singapore Airlines h…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelerstoday.com",
+          "link": "https://travelerstoday.com/articles/60464/20260719/dubai-flights-13-airlines-suspended-until-october-emirates-etihad-fly.htm"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloomberg",
+    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+      "source": "commandlinux.com",
+      "link": "https://commandlinux.com/statistics/web-browser-market-share",
+      "snippet": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。 概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…"
+    },
+    {
+      "title": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rollout",
+      "source": "piunikaweb.com",
+      "link": "https://piunikaweb.com/2026/06/26/orion-browser-windows-release-date",
+      "snippet": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rolloutに関する最新動向です。 概要: Kagi confirms the WebKit-based Orion browser is coming to Windows in late 2026, alongside a cross-pl…"
+    },
+    {
+      "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
+      "source": "techradar.com",
+      "link": "https://www.techradar.com/best/browser",
+      "snippet": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。 概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…"
+    },
+    {
+      "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
+      "snippet": "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloombergに関する最新動向です。 概要: Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executiv…"
+    },
+    {
+      "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "snippet": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
+    },
+    {
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
+    },
+    {
+      "title": "China's new AI model halts new subscriptions as demand swamps capacity",
+      "source": "clickondetroit.com",
+      "link": "https://clickondetroit.com/tech/2026/07/20/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity",
+      "snippet": "China's new AI model halts new subscriptions as demand swamps capacityに関する最新動向です。 概要: The Chinese AI model Kimi K3 has suspended new subscriptions after overwhelming demand pushed its ca…"
+    },
+    {
+      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+      "source": "coindesk.com",
+      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
+    },
+    {
+      "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt",
+      "snippet": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。 概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…"
+    },
+    {
+      "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+      "source": "coinstats.app",
+      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+      "snippet": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 20 July 2026. Price movements, market sentiment, tec…"
+    },
+    {
+      "title": "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisor",
+      "source": "forbes.com",
+      "link": "https://www.forbes.com/financial-services/top-10-cryptocurrencies-2/",
+      "snippet": "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisorに関する最新動向です。 概要: Bitcoin, Ethereum, Dogecoin & Tether, there are thousands of different cryptocurrencies available. L…"
+    },
+    {
+      "title": "Stock market news for July 17, 2026",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for July 17, 2026に関する最新動向です。 概要: The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued…"
+    },
+    {
+      "title": "Schwab Market Update | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
+    },
+    {
+      "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
+      "snippet": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。 概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…"
+    },
+    {
+      "title": "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC News",
+      "source": "abc.net.au",
+      "link": "https://abc.net.au/news/2026-07-20/asx-markets-business-live-news-july-20/106932946",
+      "snippet": "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC Newsに関する最新動向です。 概要: The ASX edged lower as markets fret about war and inflated AI valuations. Look back on how the sessi…"
+    },
+    {
+      "title": "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour World",
+      "source": "travelandtourworld.com",
+      "link": "https://www.travelandtourworld.com/news/article/2drwl3aguszm/",
+      "snippet": "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour Worldに関する最新動向です。 概要: Tanzania tourism investment surges as record tourist arrivals drive new hotels, safari lodges, airpo…"
+    },
+    {
+      "title": "Record heat, crowds drive offseason boom in international travel",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
+      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
+    },
+    {
+      "title": "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Online",
+      "source": "dailymail.com",
+      "link": "https://dailymail.com/travel/article-15990147/arrive-airport-four-hours-early-europe-flights.html",
+      "snippet": "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Onlineに関する最新動向です。 概要: Passengers have already missed flights because of Europe"
+    },
+    {
+      "title": "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly On",
+      "source": "travelerstoday.com",
+      "link": "https://travelerstoday.com/articles/60464/20260719/dubai-flights-13-airlines-suspended-until-october-emirates-etihad-fly.htm",
+      "snippet": "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly Onに関する最新動向です。 概要: Dubai flights suspended: 13 airlines including British Airways, Air Canada, and Singapore Airlines h…"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-07-20T15:36:16.342752+00:00"
+}
