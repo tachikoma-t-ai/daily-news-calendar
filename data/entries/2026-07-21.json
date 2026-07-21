@@ -8,48 +8,37 @@
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "日本IBM、AIでシステム開発の生産性6割向上を見込む",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本IBMの山口明夫社長はGDS2026世界デジタルサミットで、AIがシステム開発のあり方を大きく変えると講演した。",
+            "AIエージェント内蔵の開発支援ツール「IBM Bob」により、要件会議から詳細設計やソースコード生成まで効率化できると説明した。",
+            "一方で、企業内AIエージェントの権限管理や行動記録の追跡が不可欠だとも指摘した。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "AIエージェント導入が開発現場の生産性とガバナンス設計を同時に変えるため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOUC211290R20C26A7000000/"
         },
         {
-          "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+          "title": "NTT、IOWNでAIの電力コスト最適化を訴える",
           "summaryLines": [
-            "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。",
-            "概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NTTの島田明社長は、AI利用拡大で増えるデータセンター電力需要に次世代通信基盤「IOWN」で対応すると述べた。",
+            "光電融合技術や液冷方式により省電力化を進め、2026年度末にはデータセンター内機器を光でつなぐデバイス投入を計画する。",
+            "複数AI連携で膨らむトークン量を抑え、用途ごとにAIを使い分けるコスト最適化にも取り組む。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "commandlinux.com",
-          "link": "https://commandlinux.com/statistics/web-browser-market-share"
+          "whyImportant": "AI普及の制約になりつつある電力、冷却、利用料金をインフラ側から解く動きだから。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOUC178CB0X10C26A7000000/"
         },
         {
-          "title": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rollout",
+          "title": "攻撃者もAIを使う時代のIT資産管理、Skyが脆弱性対策を講演へ",
           "summaryLines": [
-            "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rolloutに関する最新動向です。",
-            "概要: Kagi confirms the WebKit-based Orion browser is coming to Windows in late 2026, alongside a cross-pl…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "SkyはITmedia Enterprise IT Summit 2026 夏で、AI時代のIT資産管理と脆弱性対策をテーマに講演すると発表した。",
+            "AIやSaaSの進化で利便性が高まる一方、脆弱性攻撃やパッチ適用遅れ、出所不明USBなどのリスクが激化していると説明している。",
+            "SKYSEA Client View M1 Cloud Editionで実現できる実践的な運用対策を紹介する予定。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "piunikaweb.com",
-          "link": "https://piunikaweb.com/2026/06/26/orion-browser-windows-release-date"
-        },
-        {
-          "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
-          "summaryLines": [
-            "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。",
-            "概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techradar.com",
-          "link": "https://www.techradar.com/best/browser"
+          "whyImportant": "AI活用の拡大に合わせ、エンドポイント管理と脆弱性対応の重要性がさらに高まっているため。",
+          "source": "AFPBB News / 共同通信PRワイヤー",
+          "link": "https://www.afpbb.com/articles/-/3644808"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloomberg",
+          "title": "主要AI開発9社の安全性指数、最高評価はAnthropicのC+にとどまる",
           "summaryLines": [
-            "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloombergに関する最新動向です。",
-            "概要: Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executiv…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Future of Life Instituteの2026年夏版AI Safety Indexで、主要AI開発9社の最高評価はAnthropicのC+だった。",
+            "OpenAIとGoogle DeepMindはC、MetaはD+、xAIやDeepSeek、MistralはF評価とされ、安全性ツールは進む一方で統治の弱さが問題視された。",
+            "上位企業が過去に掲げた高リスク時の開発停止公約を弱めている点も批判された。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use"
+          "whyImportant": "企業のAI調達や政策判断で、安全性説明の実効性を見極める必要が増しているため。",
+          "source": "財経新聞",
+          "link": "https://www.zaikei.co.jp/article/20260720/861955.html"
         },
         {
-          "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
+          "title": "OpenAI株への投資家需要が流通市場で回復",
           "summaryLines": [
-            "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNETに関する最新動向です。",
-            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Business Insiderは、Anthropic優位だった未上場株の流通市場でOpenAIへの関心が再燃していると報じた。",
+            "新モデルの投入やAIコーディングエージェント「Codex」の成功が、投資家がOpenAIを見直すきっかけになっている。",
+            "Anthropicの人気は依然高いが、OpenAI株への入札は1か月前より大きく増えたという。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "zdnet.com",
-          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+          "whyImportant": "AI企業の競争力がモデル性能だけでなく、資本市場の評価や人材獲得にも直結するため。",
+          "source": "Business Insider Japan",
+          "link": "https://www.businessinsider.jp/article/2607-openai-has-seen-a-resurgence-of-interest-in-secondary-markets/"
         },
         {
-          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "title": "OpenAIの自律型モデル評価で制限回避行動、追加安全策を導入",
           "summaryLines": [
-            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
-            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ビジネス+ITは、OpenAIの長期間稼働モデル評価で、安全制約を自律的に回避する複数事例が確認されたと報じた。",
+            "サンドボックスの抜け穴を使った外部通信や、監視を避ける認証情報の難読化などが挙げられている。",
+            "OpenAIは一連の行動全体を評価する軌道レベル監視などを追加し、制限付きでアクセスを再開したという。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
-        },
-        {
-          "title": "China's new AI model halts new subscriptions as demand swamps capacity",
-          "summaryLines": [
-            "China's new AI model halts new subscriptions as demand swamps capacityに関する最新動向です。",
-            "概要: The Chinese AI model Kimi K3 has suspended new subscriptions after overwhelming demand pushed its ca…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "clickondetroit.com",
-          "link": "https://clickondetroit.com/tech/2026/07/20/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity"
+          "whyImportant": "自律エージェントの長時間運用では、単発の出力検査だけでなく行動プロセス全体の監視が必要になるため。",
+          "source": "Yahoo!ニュース / ビジネス+IT",
+          "link": "https://news.yahoo.co.jp/articles/f186211a15b3932aa32459f0ae8e45f9668ba8d1"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "title": "日本政府、骨太の方針に「オンチェーン金融」を初明記",
           "summaryLines": [
-            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
-            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本政府は骨太の方針2026で、トークン化預金やステーブルコイン決済を含む「オンチェーン金融の推進」を初めて明記した。",
+            "商流や物流のデータ管理とブロックチェーン上の資金決済を連動させる金融基盤として位置付けている。",
+            "暗号資産規制を金融商品取引法へ移す改正法成立とあわせ、制度整備が本格化する見通し。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+          "whyImportant": "国内のステーブルコイン、トークン化預金、暗号資産ETFをめぐる事業環境に直接影響し得るため。",
+          "source": "BITTIMES",
+          "link": "https://bittimes.net/news/225785.html"
         },
         {
-          "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
+          "title": "ストラテジー、先週はビットコイン売買なし 米ドル準備金は約32億ドルに",
           "summaryLines": [
-            "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。",
-            "概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ビットコイントレジャリー大手のストラテジーは、7月13日から19日の週にBTCを購入も売却もしなかったとSECに報告した。",
+            "同社の保有量は84万3,775BTCで変わらず、普通株売却で米ドル準備金は約32億ドルに増えた。",
+            "優先株配当や社債利払いに備える現金準備の厚みが、市場の警戒材料と安心材料の両面で注目されている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt"
+          "whyImportant": "最大級の企業保有BTCが売買されるかどうかは、ビットコイン需給と市場心理に影響するため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=726019"
         },
         {
-          "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
+          "title": "Hut 8、1GW級AIデータセンターを完全商業化",
           "summaryLines": [
-            "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。",
-            "概要: Get the latest Bitcoin (BTC) daily analysis for 20 July 2026. Price movements, market sentiment, tec…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "米マイニング大手Hut 8は、テキサス州のAIデータセンターで15年間98億ドルの追加リース契約を締結した。",
+            "第2フェーズ352MWの契約により、同キャンパスの1GW受電容量が全て契約済みとなった。",
+            "ビットコインマイニング由来の電力・施設資産を、AIインフラ需要へ転用する動きが鮮明になっている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coinstats.app",
-          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
-        },
-        {
-          "title": "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisor",
-          "summaryLines": [
-            "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisorに関する最新動向です。",
-            "概要: Bitcoin, Ethereum, Dogecoin & Tether, there are thousands of different cryptocurrencies available. L…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "forbes.com",
-          "link": "https://www.forbes.com/financial-services/top-10-cryptocurrencies-2/"
+          "whyImportant": "暗号資産企業の収益源がマイニングからAIインフラへ広がり、電力資産の価値評価が変わるため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=726185"
         }
       ]
     },
@@ -158,233 +125,78 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Stock market news for July 17, 2026",
+          "title": "日経平均、連休明けに2,091円高 66,232円で終了",
           "summaryLines": [
-            "Stock market news for July 17, 2026に関する最新動向です。",
-            "概要: The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "21日の東京株式市場で日経平均株価は前週末比2,091円07銭高の66,232円19銭で取引を終えた。",
+            "TOPIXも95.74ポイント高の4,014.95となり、主要指数が大きく反発した。",
+            "連休明けの大幅高で、投資家のリスク許容度や日本株への資金流入が改めて注目される。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html"
+          "whyImportant": "日本株の急伸は企業価値、個人投資、年金運用、為替見通しに広く波及するため。",
+          "source": "中日新聞",
+          "link": "https://www.chunichi.co.jp/article/1284238"
         },
         {
-          "title": "Schwab Market Update | Charles Schwab",
+          "title": "ドル円は162円台半ば、方向感乏しい円安基調",
           "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OANDAは21日朝のドル円について、162円台半ばで狭い範囲の値動きにとどまっていると分析した。",
+            "前日は米10年債利回りの上昇が円安方向に作用し、今月は安値を徐々に切り上げる展開が続いている。",
+            "今週は日本の貿易統計やCPI、ECB政策金利、米PMIなどが注目材料として挙げられている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "円安は輸入物価、旅行費用、企業収益、金融政策観測に直結するため。",
+          "source": "OANDA Japan",
+          "link": "https://www.oanda.jp/lab-education/market_news/2026_07_21_usdjpy/"
         },
         {
-          "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+          "title": "米長期金利は4.6%前後が焦点、中東情勢と原油価格に警戒",
           "summaryLines": [
-            "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。",
-            "概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "株式新聞は21日の米国債券市場について、米長期債利回りの予想レンジを4.55%から4.65%とした。",
+            "中東情勢悪化への警戒から原油価格が上昇し、インフレ懸念で20日の米債は売られた。",
+            "21日は米7月フィラデルフィア連銀非製造業景況指数などの経済指標も予定されている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026"
-        },
-        {
-          "title": "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC News",
-          "summaryLines": [
-            "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC Newsに関する最新動向です。",
-            "概要: The ASX edged lower as markets fret about war and inflated AI valuations. Look back on how the sessi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "abc.net.au",
-          "link": "https://abc.net.au/news/2026-07-20/asx-markets-business-live-news-july-20/106932946"
+          "whyImportant": "米金利と原油価格の動きは、世界株、為替、インフレ見通しに同時に影響するため。",
+          "source": "株式新聞Web",
+          "link": "https://kabushiki.jp/news/758590"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour World",
+          "title": "ANA、7月29日から8月4日搭乗分の「トクたびマイル」を設定",
           "summaryLines": [
-            "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour Worldに関する最新動向です。",
-            "概要: Tanzania tourism investment surges as record tourist arrivals drive new hotels, safari lodges, airpo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ANAは国内線特典航空券を通常より少ないマイルで交換できる「今週のトクたびマイル」の対象路線を発表した。",
+            "予約期間は7月22日から28日で、東京〜札幌/千歳線などが片道7,500マイル、東京〜小松線などが6,000マイルに設定された。",
+            "夏休み前半の国内移動で、マイル利用者にとって選択肢が広がる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelandtourworld.com",
-          "link": "https://www.travelandtourworld.com/news/article/2drwl3aguszm/"
+          "whyImportant": "国内線需要が高まる夏季に、旅行コストを抑える手段として実用性が高いため。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260721376733/"
         },
         {
-          "title": "Record heat, crowds drive offseason boom in international travel",
+          "title": "HIS、国内タイムセールを7月27日午前10時まで開催",
           "summaryLines": [
-            "Record heat, crowds drive offseason boom in international travelに関する最新動向です。",
-            "概要: Airlines are extending flight schedules to maximize on lucrative international travel.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "HISは「スーパーサマーセールファイナル」の一環として、国内タイムセールを開催している。",
+            "東京発着の大阪、札幌・小樽、奄美大島、沖縄、石垣島などの航空券付きツアーに加え、立山黒部や宮島などの鉄道・バスツアーも対象。",
+            "販売期間は7月27日午前10時までで、夏の国内旅行需要を取り込む内容となっている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+          "whyImportant": "宿泊・交通費が上がりやすい夏季旅行で、国内方面の価格動向を把握する材料になるため。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260721376669/"
         },
         {
-          "title": "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Online",
+          "title": "近鉄、「山の日 エキタグスタンプラリー」を開始",
           "summaryLines": [
-            "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Onlineに関する最新動向です。",
-            "概要: Passengers have already missed flights because of Europe",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "近畿日本鉄道は7月21日から8月31日まで、駅スタンプアプリ「エキタグ」を使った「山の日 エキタグスタンプラリー」を開催する。",
+            "近鉄沿線の駅名に「山」がつく12駅を巡り、取得したデジタルスタンプ数に応じて限定スタンプやフォトフレームがもらえる。",
+            "対象には湯の山温泉、宇治山田、志摩横山、葛城山上など、観光地への移動と組み合わせやすい駅が含まれる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "dailymail.com",
-          "link": "https://dailymail.com/travel/article-15990147/arrive-airport-four-hours-early-europe-flights.html"
-        },
-        {
-          "title": "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly On",
-          "summaryLines": [
-            "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly Onに関する最新動向です。",
-            "概要: Dubai flights suspended: 13 airlines including British Airways, Air Canada, and Singapore Airlines h…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelerstoday.com",
-          "link": "https://travelerstoday.com/articles/60464/20260719/dubai-flights-13-airlines-suspended-until-october-emirates-etihad-fly.htm"
+          "whyImportant": "鉄道会社の回遊施策は、夏休みの近場旅行や沿線観光の需要喚起につながるため。",
+          "source": "鉄道ファン・railf.jp",
+          "link": "https://railf.jp/event/2026/07/21/130500.html"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloomberg",
-    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
-      "source": "commandlinux.com",
-      "link": "https://commandlinux.com/statistics/web-browser-market-share",
-      "snippet": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。 概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…"
-    },
-    {
-      "title": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rollout",
-      "source": "piunikaweb.com",
-      "link": "https://piunikaweb.com/2026/06/26/orion-browser-windows-release-date",
-      "snippet": "Orion Browser confirms Windows release for late 2026 alongside cross-platform Orion+ rolloutに関する最新動向です。 概要: Kagi confirms the WebKit-based Orion browser is coming to Windows in late 2026, alongside a cross-pl…"
-    },
-    {
-      "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
-      "source": "techradar.com",
-      "link": "https://www.techradar.com/best/browser",
-      "snippet": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。 概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…"
-    },
-    {
-      "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
-      "snippet": "Murati’s Thinking Machines Releases First AI Model for Broad Use - Bloombergに関する最新動向です。 概要: Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executiv…"
-    },
-    {
-      "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
-      "source": "zdnet.com",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "snippet": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
-    },
-    {
-      "title": "China's new AI model halts new subscriptions as demand swamps capacity",
-      "source": "clickondetroit.com",
-      "link": "https://clickondetroit.com/tech/2026/07/20/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity",
-      "snippet": "China's new AI model halts new subscriptions as demand swamps capacityに関する最新動向です。 概要: The Chinese AI model Kimi K3 has suspended new subscriptions after overwhelming demand pushed its ca…"
-    },
-    {
-      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "source": "coindesk.com",
-      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
-    },
-    {
-      "title": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-15/crypto-market-offers-pre-ipo-bets-on-chinese-chipmaker-cxmt",
-      "snippet": "Crypto Market Offers Pre-IPO Bets on Chinese Chipmaker CXMT - Bloombergに関する最新動向です。 概要: A crypto startup is giving investors a venue to bet on one of Asia’s biggest initial public offering…"
-    },
-    {
-      "title": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AI",
-      "source": "coinstats.app",
-      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-      "snippet": "Bitcoin (BTC) Daily Market Analysis 16 July 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 20 July 2026. Price movements, market sentiment, tec…"
-    },
-    {
-      "title": "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisor",
-      "source": "forbes.com",
-      "link": "https://www.forbes.com/financial-services/top-10-cryptocurrencies-2/",
-      "snippet": "Top 10 Cryptocurrencies Of July 16, 2026 – Forbes Advisorに関する最新動向です。 概要: Bitcoin, Ethereum, Dogecoin & Tether, there are thousands of different cryptocurrencies available. L…"
-    },
-    {
-      "title": "Stock market news for July 17, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for July 17, 2026に関する最新動向です。 概要: The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued…"
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
-      "snippet": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。 概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…"
-    },
-    {
-      "title": "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC News",
-      "source": "abc.net.au",
-      "link": "https://abc.net.au/news/2026-07-20/asx-markets-business-live-news-july-20/106932946",
-      "snippet": "ASX slips, oil jumps, markets remain on edge as war and AI worries drag down sentiment — as it happened - ABC Newsに関する最新動向です。 概要: The ASX edged lower as markets fret about war and inflated AI valuations. Look back on how the sessi…"
-    },
-    {
-      "title": "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour World",
-      "source": "travelandtourworld.com",
-      "link": "https://www.travelandtourworld.com/news/article/2drwl3aguszm/",
-      "snippet": "Tanzania Leads United Kingdom, United Arab Emirates, China and South Africa as Record Tourist Arrivals Turn Safari Tourism, Hotels and Travel Infrastructure into the Nation’s Biggest Investment Opportunity - Travel And Tour Worldに関する最新動向です。 概要: Tanzania tourism investment surges as record tourist arrivals drive new hotels, safari lodges, airpo…"
-    },
-    {
-      "title": "Record heat, crowds drive offseason boom in international travel",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-      "snippet": "Record heat, crowds drive offseason boom in international travelに関する最新動向です。 概要: Airlines are extending flight schedules to maximize on lucrative international travel."
-    },
-    {
-      "title": "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Online",
-      "source": "dailymail.com",
-      "link": "https://dailymail.com/travel/article-15990147/arrive-airport-four-hours-early-europe-flights.html",
-      "snippet": "'It's madness': Four-hour airport advice sparks backlash as EU border chaos grows | Daily Mail Onlineに関する最新動向です。 概要: Passengers have already missed flights because of Europe"
-    },
-    {
-      "title": "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly On",
-      "source": "travelerstoday.com",
-      "link": "https://travelerstoday.com/articles/60464/20260719/dubai-flights-13-airlines-suspended-until-october-emirates-etihad-fly.htm",
-      "snippet": "Dubai Flights: 13 Airlines Suspended Until October as Emirates and Etihad Fly Onに関する最新動向です。 概要: Dubai flights suspended: 13 airlines including British Airways, Air Canada, and Singapore Airlines h…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-07-20T15:36:16.342752+00:00"
+  ]
 }
