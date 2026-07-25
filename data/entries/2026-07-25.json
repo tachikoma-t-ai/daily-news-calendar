@@ -8,48 +8,37 @@
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "シンガポール、重要インフラのサイバー規制を刷新へ クラウドにも義務的基準",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "シンガポール政府は、電力、医療、金融、通信など11分野の重要インフラを対象にサイバーセキュリティ規範を大幅に見直す方針を示した。",
+            "取締役会にサイバーレジリエンス体制の文書化と年1回以上の見直しを求め、パブリッククラウド上の重要システムにも義務的なセキュリティコードを導入する。",
+            "AIによる攻撃高速化やIT/OT接続の拡大を踏まえ、2026年後半の正式公表、2026年末から2027年末にかけた対応期限が設定される。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "重要インフラ防衛の責任が技術部門から経営層とクラウド運用まで広がる流れを示しているため。",
+          "source": "財経新聞",
+          "link": "https://www.zaikei.co.jp/article/20260725/862778.html"
         },
         {
-          "title": "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Musafir Cafe OTT Release – FilmiBeat",
+          "title": "M365カレンダーをC2通信に悪用するマルウェア「HOLLOWGRAPH」を確認",
           "summaryLines": [
-            "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Musafir Cafe OTT Release – FilmiBeatに関する最新動向です。",
-            "概要: From action-packed thrillers to heartwarming romances, there is something for everyone. So grab your…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Group-IBは、Microsoft 365のカレンダーとMicrosoft Graph APIを悪用してコマンド送受信やデータ窃取を行うWindows向けマルウェアを確認した。",
+            "「HOLLOWGRAPH」は侵害済みメールボックスのカレンダー予定をデッドドロップとして使い、2050年5月13日の予定に指令や窃取ファイルを隠す。",
+            "認証情報更新にはDNSトンネリングも使われ、正規クラウド通信に紛れるため検知が難しい。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filmibeat.com",
-          "link": "https://www.filmibeat.com/top-listing/new-ott-releases-this-week-in-bollywood-2026-2-1084.html"
+          "whyImportant": "SaaSの正規APIが攻撃基盤化するリスクは、ログ監視とID管理の見直しを迫るため。",
+          "source": "ITmedia エンタープライズ",
+          "link": "https://news.yahoo.co.jp/articles/3d6e630ec40b97437baefa981eb504be92129983"
         },
         {
-          "title": "Firefox finally gets highly requested Windows 11 feature Chrome, Edge has had for many years - Neowin",
+          "title": "Google Chrome、4件のHigh脆弱性に対処するセキュリティアップデートを配信",
           "summaryLines": [
-            "Firefox finally gets highly requested Windows 11 feature Chrome, Edge has had for many years - Neowinに関する最新動向です。",
-            "概要: Mozilla has finally added a highly requested feature on Windows 11 and 10 that Chrome and Edge have…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Googleはデスクトップ版ChromeのStableチャネルを更新し、Windows/Mac向けにv150.0.7871.186/.187、Linux向けにv150.0.7871.186を展開している。",
+            "修正対象はInput、Blink、WebMCP、Codecsに関する4件の脆弱性で、いずれも深刻度はHighとされる。",
+            "現時点で悪用は確認されていないが、更新の完全適用にはChromeの再起動が必要になる。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "neowin.net",
-          "link": "https://neowin.net/news/firefox-finally-gets-highly-requested-windows-11-feature-chrome-edge-has-had-for-many-years"
-        },
-        {
-          "title": "New PS5 Console Update Released to End July 2026, Here's What It Does - ComicBook.com",
-          "summaryLines": [
-            "New PS5 Console Update Released to End July 2026, Here's What It Does - ComicBook.comに関する最新動向です。",
-            "概要: PS5 console update version 26.05-13.60.00 is now downloadable around the globe, but don&#039;t expec…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "comicbook.com",
-          "link": "https://comicbook.com/gaming/news/ps5-playstation-5-update-firmware-july-23-2026"
+          "whyImportant": "ブラウザ脆弱性は利用者数が多く攻撃面も広いため、企業端末のパッチ適用速度が被害抑止に直結する。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2127492.html"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
+          "title": "MS、NVIDIA、MetaなどがオープンウェイトAIへの拙速な規制に反対声明",
           "summaryLines": [
-            "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNETに関する最新動向です。",
-            "概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "NVIDIA、Microsoft、Meta、IBM、Hugging Faceなどの企業・団体が、オープンウェイトAIモデルの重要性を訴える共同声明を出した。",
+            "中国発の高性能オープンモデルや蒸留疑惑を背景に米国で規制論が強まるなか、声明は透明性の高いAIエコシステムが競争と安全性に必要だと主張した。",
+            "AnthropicとGoogleは参加せず、OpenAIは後から署名に加わったと報じられている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "zdnet.com",
-          "link": "https://www.zdnet.com/article/ai-model-release-tracker/"
+          "whyImportant": "AI規制の焦点がモデル公開の是非へ移り、企業の導入戦略や主権AI政策に影響するため。",
+          "source": "Impress Watch",
+          "link": "https://news.yahoo.co.jp/articles/c5a859100155e6428bf3490b59c15b7e9c16dbf4"
         },
         {
-          "title": "New Open Weight AI Models from China Renew Calls for Regulation - AIwire",
+          "title": "欧州委、GoogleにDMAに基づく拘束措置 他社AIにもAndroid機能開放を求める",
           "summaryLines": [
-            "New Open Weight AI Models from China Renew Calls for Regulation - AIwireに関する最新動向です。",
-            "概要: We’ve seen the release of two highly capable AI models from China over the past week, including Moon…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Ledge.aiは、欧州委員会がDMAに基づきGoogleへ拘束措置を示し、Geminiと同等に他社AIへAndroid機能を開放する方向だと伝えた。",
+            "検索データの共有も論点になっており、Googleはプライバシーや安全性への懸念から反発している。",
+            "AIアシスタントの競争条件が、モデル性能だけでなくOS・検索・データアクセスの制度設計に左右される局面になっている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "hpcwire.com",
-          "link": "https://hpcwire.com/aiwire/2026/07/22/new-open-weight-ai-models-from-china-renew-calls-for-regulation"
+          "whyImportant": "プラットフォーム規制がAIサービスの標準搭載やデータ利用の競争環境を大きく変える可能性があるため。",
+          "source": "Ledge.ai",
+          "link": "https://ledge.ai/articles/eu_google_android_ai_search_data_dma"
         },
         {
-          "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
+          "title": "メルカリ、AI活用イベントのアーカイブ13本を公開 CAIO体制やガバナンスを紹介",
           "summaryLines": [
-            "Chinese AI has leveled up, and brought renewed focus on the open weight model shiftに関する最新動向です。",
-            "概要: It&#x27;s the latest AI model from China to close the performance gap with leading U.S. AI labs.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "メルカリは「Mercari AI Career Fes 2026」で実施したセッションのアーカイブ動画13本を公式YouTubeチャンネルで公開した。",
+            "基調講演では、木村俊也CTOがCHRO兼CAIOに就任した背景や今後の展望を説明している。",
+            "エンジニア組織でのAI活用や、安心・安全にAIを利用するためのガバナンスの取り組みも取り上げられた。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
-        },
-        {
-          "title": "The latest AI-powered martech news and releases | MarTech",
-          "summaryLines": [
-            "The latest AI-powered martech news and releases | MarTechに関する最新動向です。",
-            "概要: HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "martech.org",
-          "link": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/"
+          "whyImportant": "大手ネット企業がAI活用を人事・開発・ガバナンスの横断テーマとして組織化していることを示すため。",
+          "source": "ITmedia AI+",
+          "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "title": "ドル円39年ぶり高値、BTCは6万5000ドル割れ 暗号資産清算は3億ドル超",
           "summaryLines": [
-            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
-            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "原油価格急騰とFRB利上げ観測の高まりを受け、米ドルが円に対して39年ぶり高値を付けるなか、ビットコインは6万5000ドルを割り込んだ。",
+            "暗号資産市場では3億ドル超のポジションが清算され、ロング清算が2億4000万ドル超を占めた。",
+            "米現物ビットコインETFは2億2510万ドルの純流出となり、7営業日連続の純流入が途切れた。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+          "whyImportant": "暗号資産が地政学、原油、金利、為替の複合リスクに左右される局面で、週末のリスク管理が重要になるため。",
+          "source": "NADA NEWS",
+          "link": "https://news.yahoo.co.jp/articles/3f1c9639c2c1fb12be0af331ee1b19e0c278abe0"
         },
         {
-          "title": "Bitcoin’s Price Plunge Crushes Companies That Stockpiled Tokens - Bloomberg",
+          "title": "グレースケール、BTCは底打ち済みの可能性と分析 FOMCが分岐点に",
           "summaryLines": [
-            "Bitcoin’s Price Plunge Crushes Companies That Stockpiled Tokens - Bloombergに関する最新動向です。",
-            "概要: Crypto treasury firms bet big that the digital currency would rise and rise. Now they're paying the…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Grayscaleのザック・パンドル氏は、ビットコイン弱気相場の終わりを「4年サイクル」説とマクロ資産論の2つの視点で分析した。",
+            "同氏は、FRBが利上げをしなければBTCはすでに底を打った可能性があるとし、7月29日のFOMCを重要材料に挙げた。",
+            "一方で、インフレ高止まりや米景気急減速、CLARITY法案の行方もリスク資産全般の売り圧力になり得るとしている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens"
+          "whyImportant": "BTCの価格判断が半減期サイクルから金融政策・規制を重視する枠組みに移りつつあるため。",
+          "source": "BITTIMES",
+          "link": "https://bittimes.net/news/225957.html"
         },
         {
-          "title": "Crypto ETF News: Bitcoin, Ethereum and XRP Hold 3 Different Stories",
+          "title": "ビットバンク、8月25日からイーサリアムのステーキングサービス提供へ",
           "summaryLines": [
-            "Crypto ETF News: Bitcoin, Ethereum and XRP Hold 3 Different Storiesに関する最新動向です。",
-            "概要: Crypto ETF news today: Bitcoin funds bleed $225M, Ethereum funds gain $26M, and XRP sits idle. See t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "国内暗号資産取引所ビットバンクは、8月25日からイーサリアム（ETH）のステーキングサービスを提供すると発表した。",
+            "同社が実施したステーキング報酬の一部をユーザーに付与する仕組みで、受け取りには設定の有効化が必要になる。",
+            "ステーキング年率は2.83%、ユーザー利回りは1.78%とされ、報酬は毎週月曜日朝8時ごろに付与される。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coingabbar.com",
-          "link": "https://www.coingabbar.com/en/crypto-currency-news/crypto-etf-news-bitcoin-ethereum-xrp-news-today"
-        },
-        {
-          "title": "Crypto News: Senate GOP Unveils New CLARITY Act",
-          "summaryLines": [
-            "Crypto News: Senate GOP Unveils New CLARITY Actに関する最新動向です。",
-            "概要: Discover the latest crypto market insights, including Bitcoin and Ether updates and Senate Republica…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "investingnews.com",
-          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+          "whyImportant": "国内取引所でのステーキング対応拡大は、ETH保有者の運用選択肢と取引所間競争に影響するため。",
+          "source": "あたらしい経済",
+          "link": "https://news.yahoo.co.jp/articles/25fec3c5263ed1bfbbbc18accc0be3fe1af7b0f0"
         }
       ]
     },
@@ -158,233 +125,94 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Trump unveils new tariffs on dozens of countries | AP News",
+          "title": "セブン＆アイ、ポーランドのコンビニ最大手ジャプカへの出資を見送り",
           "summaryLines": [
-            "Trump unveils new tariffs on dozens of countries | AP Newsに関する最新動向です。",
-            "概要: President Donald Trump announced Thursday he is imposing new double-digit tariffs on dozens of U.S.…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "セブン＆アイ・ホールディングスは、検討していたポーランドのコンビニエンスストア最大手ジャプカ・グループへの出資を見送ると発表した。",
+            "同社は投資ファンドなどが持つジャプカ株式の数十％を、数千億円規模で取得する方向で検討していた。",
+            "見送りの理由は出資条件で合意できなかったためとしている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "apnews.com",
-          "link": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026"
+          "whyImportant": "国内小売大手の海外成長戦略と大型M&A判断は、事業ポートフォリオや資本配分の見方に影響するため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/"
         },
         {
-          "title": "Stock Market Today: Dow, S&P Live Updates for July 24 - Bloomberg",
+          "title": "全国市区の7割、ふるさと納税仲介手数料の上限規制を求める",
           "summaryLines": [
-            "Stock Market Today: Dow, S&P Live Updates for July 24 - Bloombergに関する最新動向です。",
-            "概要: Stocks in Asia were poised to fall after a sharp tech-led selloff on Wall Street, while Brent surged…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本経済新聞の調査で、ふるさと納税の仲介サイトに自治体が支払う手数料について、全国市区の7割が国に上限設定などの規制を求めていることが分かった。",
+            "民間仲介サイト経由の寄付が一般化する一方、高水準の手数料は住民サービスに回る財源を減らすとの懸念がある。",
+            "自治体側からは、国に踏み込んだ制度対応を求める声が強まっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates"
+          "whyImportant": "ふるさと納税の制度コストは自治体財政と地域サービスに直結し、制度見直しの重要論点になるため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/"
         },
         {
-          "title": "Stock market news for July 23, 2026",
+          "title": "NYダウ、24日終値は235ドル高の5万1947ドル",
           "summaryLines": [
-            "Stock market news for July 23, 2026に関する最新動向です。",
-            "概要: U.S. equities fell on Thursday, as oil prices surged amid escalating conflict in the Middle East.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "24日のニューヨーク株式市場で、ダウ工業株30種平均の終値は5万1947.25ドルだった。",
+            "前日比は235.60ドル高で、米株市場は前日の大幅なリスク回避から一部持ち直した。",
+            "日本時間25日朝に伝わった市場材料として、週明けの東京市場や為替の手掛かりになる。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://cnbc.com/2026/07/22/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "Schwab Market Update | Charles Schwab",
-          "summaryLines": [
-            "Schwab Market Update | Charles Schwabに関する最新動向です。",
-            "概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "米株の反発は日本株、ドル円、リスク資産全般の短期センチメントに波及しやすいため。",
+          "source": "中日新聞Web",
+          "link": "https://www.chunichi.co.jp/article/1286201"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Travel Advisories Are Back and the Gulf Is Out With Flight Deals and Easier Visas",
+          "title": "隅田川花火大会など都内イベント集中、首都高通行止めと広域混雑に注意",
           "summaryLines": [
-            "Travel Advisories Are Back and the Gulf Is Out With Flight Deals and Easier Visasに関する最新動向です。",
-            "概要: Travel advisories for the Middle East had eased last month, but the warnings are back as fighting co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "7月25日は第49回隅田川花火大会が開催され、浅草エリアを中心に道路交通規制が敷かれる。",
+            "首都高6号向島線は18時30分ごろから20時45分ごろまで通行止めとなり、周辺出入口やPAも前後時間帯に閉鎖される。",
+            "同日は立川の花火大会、神宮球場、東京ドーム、お台場・有明エリアの大型イベントも重なり、広域混雑が懸念されている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "skift.com",
-          "link": "https://skift.com/2026/07/23/travel-advisories-are-back-and-the-gulf-is-out-with-flight-deals-and-easier-visas"
+          "whyImportant": "夏の首都圏観光ではイベント集中時の交通規制を把握することが、移動計画と安全確保に直結するため。",
+          "source": "乗りものニュース",
+          "link": "https://trafficnews.jp/post/691035"
         },
         {
-          "title": "Why Atlanta is home to the world’s No. 1 busiest airport | CNN",
+          "title": "週末花火は隅田川、網走、金沢、桑名、尾道など1万発超の大会が各地で開催",
           "summaryLines": [
-            "Why Atlanta is home to the world’s No. 1 busiest airport | CNNに関する最新動向です。",
-            "概要: In travel this week: how Asia is coping with hyper-hot weather, a terrifying incident on board a bud…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ウェザーニュースは、7月25日から26日に各地で開催される週末花火大会を紹介した。",
+            "隅田川花火大会は2会場合計2万発、網走花火は1万2000発、真岡市夏祭大花火大会は1万5000発を予定している。",
+            "金沢の復興支援大会、桑名水郷花火大会、沼津夏まつり、尾道住吉花火まつりなど、地域色の強い大会も並ぶ。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "cnn.com",
-          "link": "https://www.cnn.com/2026/07/18/travel/travel-news-busiest-airports-2025"
+          "whyImportant": "夏休みの国内旅行需要が本格化するなか、地域イベントは宿泊・交通・周遊消費を押し上げるため。",
+          "source": "ウェザーニュース",
+          "link": "https://weathernews.jp/news/202607/240111/"
         },
         {
-          "title": "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLP",
+          "title": "青森・三内丸山遺跡でブルーインパルス展示飛行 国スポ・障スポ炬火集火式に合わせ実施",
           "summaryLines": [
-            "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLPに関する最新動向です。",
-            "概要: The situation Following the United States and Israel launching an airstrike campaign targeting Iran…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "航空自衛隊は、7月25日に青森市の三内丸山遺跡で開かれる「青の煌めきあおもり国スポ・障スポ炬火集火式」でブルーインパルスの展示飛行を実施する。",
+            "飛行予定は15時15分から15時25分で、会場ではPRコーナー、フード、限定グッズ販売も行われる。",
+            "ステージ客席の事前申し込みは終了しているが、当日10時から先着200枚の立ち見エリア整理券が配布される。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "fragomen.com",
-          "link": "https://www.fragomen.com/insights/latest-information-Middle-East-crisis.html"
+          "whyImportant": "文化遺産と大型スポーツ行事、航空イベントの組み合わせは、地域への日帰り・週末旅行需要を生みやすいため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2126946.html"
         },
         {
-          "title": "Airline and Travel News Updates: July 2026 - ExpatGo",
+          "title": "愛知・西尾「吉良ワイキキビーチ」に東海最大級ウォータースライダーパーク開業",
           "summaryLines": [
-            "Airline and Travel News Updates: July 2026 - ExpatGoに関する最新動向です。",
-            "概要: Stay up to date with the latest in the travel and hospitality industry, from airline launches and ro…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "三河湾リゾートリンクスは、夏季限定の「吉良ワイキキビーチスライダーパーク」を7月24日にオープンした。",
+            "全長80mの巨大スライダー「海王」など6種類のエアー遊具に加え、2026年は新アトラクション2種類を追加した。",
+            "海水浴場とスライダーを自由に行き来でき、温泉、プール、ビュッフェ、サンセットクルーズを組み合わせた宿泊プランも販売している。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "expatgo.com",
-          "link": "https://expatgo.com/2026/07/06/airline-and-travel-news-updates-july-2026"
+          "whyImportant": "海水浴とホテル滞在を一体化した体験型商品は、夏の国内ファミリー旅行の集客力を高めるため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2127633.html"
         }
       ]
     }
   ],
   "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
-    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Musafir Cafe OTT Release – FilmiBeat",
-      "source": "filmibeat.com",
-      "link": "https://www.filmibeat.com/top-listing/new-ott-releases-this-week-in-bollywood-2026-2-1084.html",
-      "snippet": "New Hindi Series And Movies On OTT This Week | New Hindi Movies On OTT This Week 2026 | Bollywood New Ott Releases In july | New Ott Releases This Week In Bollywood 2026 | Ott Releases This Week in Hindi | New OTT releases this week in Bollywood | Musafir Cafe OTT Release – FilmiBeatに関する最新動向です。 概要: From action-packed thrillers to heartwarming romances, there is something for everyone. So grab your…"
-    },
-    {
-      "title": "Firefox finally gets highly requested Windows 11 feature Chrome, Edge has had for many years - Neowin",
-      "source": "neowin.net",
-      "link": "https://neowin.net/news/firefox-finally-gets-highly-requested-windows-11-feature-chrome-edge-has-had-for-many-years",
-      "snippet": "Firefox finally gets highly requested Windows 11 feature Chrome, Edge has had for many years - Neowinに関する最新動向です。 概要: Mozilla has finally added a highly requested feature on Windows 11 and 10 that Chrome and Edge have…"
-    },
-    {
-      "title": "New PS5 Console Update Released to End July 2026, Here's What It Does - ComicBook.com",
-      "source": "comicbook.com",
-      "link": "https://comicbook.com/gaming/news/ps5-playstation-5-update-firmware-july-23-2026",
-      "snippet": "New PS5 Console Update Released to End July 2026, Here's What It Does - ComicBook.comに関する最新動向です。 概要: PS5 console update version 26.05-13.60.00 is now downloadable around the globe, but don&#039;t expec…"
-    },
-    {
-      "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNET",
-      "source": "zdnet.com",
-      "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "snippet": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark | ZDNETに関する最新動向です。 概要: Our AI Model Release Tracker keeps new models in context with their peers, so you know which are wor…"
-    },
-    {
-      "title": "New Open Weight AI Models from China Renew Calls for Regulation - AIwire",
-      "source": "hpcwire.com",
-      "link": "https://hpcwire.com/aiwire/2026/07/22/new-open-weight-ai-models-from-china-renew-calls-for-regulation",
-      "snippet": "New Open Weight AI Models from China Renew Calls for Regulation - AIwireに関する最新動向です。 概要: We’ve seen the release of two highly capable AI models from China over the past week, including Moon…"
-    },
-    {
-      "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-      "snippet": "Chinese AI has leveled up, and brought renewed focus on the open weight model shiftに関する最新動向です。 概要: It&#x27;s the latest AI model from China to close the performance gap with leading U.S. AI labs."
-    },
-    {
-      "title": "The latest AI-powered martech news and releases | MarTech",
-      "source": "martech.org",
-      "link": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-      "snippet": "The latest AI-powered martech news and releases | MarTechに関する最新動向です。 概要: HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting…"
-    },
-    {
-      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "source": "coindesk.com",
-      "link": "https://coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
-    },
-    {
-      "title": "Bitcoin’s Price Plunge Crushes Companies That Stockpiled Tokens - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-22/bitcoin-s-price-plunge-crushes-companies-that-stockpiled-tokens",
-      "snippet": "Bitcoin’s Price Plunge Crushes Companies That Stockpiled Tokens - Bloombergに関する最新動向です。 概要: Crypto treasury firms bet big that the digital currency would rise and rise. Now they're paying the…"
-    },
-    {
-      "title": "Crypto ETF News: Bitcoin, Ethereum and XRP Hold 3 Different Stories",
-      "source": "coingabbar.com",
-      "link": "https://www.coingabbar.com/en/crypto-currency-news/crypto-etf-news-bitcoin-ethereum-xrp-news-today",
-      "snippet": "Crypto ETF News: Bitcoin, Ethereum and XRP Hold 3 Different Storiesに関する最新動向です。 概要: Crypto ETF news today: Bitcoin funds bleed $225M, Ethereum funds gain $26M, and XRP sits idle. See t…"
-    },
-    {
-      "title": "Crypto News: Senate GOP Unveils New CLARITY Act",
-      "source": "investingnews.com",
-      "link": "https://investingnews.com/cryptocurrency-market-recap/",
-      "snippet": "Crypto News: Senate GOP Unveils New CLARITY Actに関する最新動向です。 概要: Discover the latest crypto market insights, including Bitcoin and Ether updates and Senate Republica…"
-    },
-    {
-      "title": "Trump unveils new tariffs on dozens of countries | AP News",
-      "source": "apnews.com",
-      "link": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026",
-      "snippet": "Trump unveils new tariffs on dozens of countries | AP Newsに関する最新動向です。 概要: President Donald Trump announced Thursday he is imposing new double-digit tariffs on dozens of U.S.…"
-    },
-    {
-      "title": "Stock Market Today: Dow, S&P Live Updates for July 24 - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
-      "snippet": "Stock Market Today: Dow, S&P Live Updates for July 24 - Bloombergに関する最新動向です。 概要: Stocks in Asia were poised to fall after a sharp tech-led selloff on Wall Street, while Brent surged…"
-    },
-    {
-      "title": "Stock market news for July 23, 2026",
-      "source": "cnbc.com",
-      "link": "https://cnbc.com/2026/07/22/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for July 23, 2026に関する最新動向です。 概要: U.S. equities fell on Thursday, as oil prices surged amid escalating conflict in the Middle East."
-    },
-    {
-      "title": "Schwab Market Update | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Schwab Market Update | Charles Schwabに関する最新動向です。 概要: Learn what&#x27;s trending before the opening bell with Schwab&#x27;s market open report. Find out a…"
-    },
-    {
-      "title": "Travel Advisories Are Back and the Gulf Is Out With Flight Deals and Easier Visas",
-      "source": "skift.com",
-      "link": "https://skift.com/2026/07/23/travel-advisories-are-back-and-the-gulf-is-out-with-flight-deals-and-easier-visas",
-      "snippet": "Travel Advisories Are Back and the Gulf Is Out With Flight Deals and Easier Visasに関する最新動向です。 概要: Travel advisories for the Middle East had eased last month, but the warnings are back as fighting co…"
-    },
-    {
-      "title": "Why Atlanta is home to the world’s No. 1 busiest airport | CNN",
-      "source": "cnn.com",
-      "link": "https://www.cnn.com/2026/07/18/travel/travel-news-busiest-airports-2025",
-      "snippet": "Why Atlanta is home to the world’s No. 1 busiest airport | CNNに関する最新動向です。 概要: In travel this week: how Asia is coping with hyper-hot weather, a terrifying incident on board a bud…"
-    },
-    {
-      "title": "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLP",
-      "source": "fragomen.com",
-      "link": "https://www.fragomen.com/insights/latest-information-Middle-East-crisis.html",
-      "snippet": "Middle East - The Latest News on Mobility and Travel Considerations | Fragomen, Del Rey, Bernsen & Loewy LLPに関する最新動向です。 概要: The situation Following the United States and Israel launching an airstrike campaign targeting Iran…"
-    },
-    {
-      "title": "Airline and Travel News Updates: July 2026 - ExpatGo",
-      "source": "expatgo.com",
-      "link": "https://expatgo.com/2026/07/06/airline-and-travel-news-updates-july-2026",
-      "snippet": "Airline and Travel News Updates: July 2026 - ExpatGoに関する最新動向です。 概要: Stay up to date with the latest in the travel and hospitality industry, from airline launches and ro…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-07-24T15:36:15.077235+00:00"
+    "IT：シンガポール、重要インフラのサイバー規制を刷新へ クラウドにも義務的基準",
+    "AI：MS、NVIDIA、MetaなどがオープンウェイトAIへの拙速な規制に反対声明",
+    "暗号通貨：ドル円39年ぶり高値、BTCは6万5000ドル割れ 暗号資産清算は3億ドル超"
+  ]
 }
