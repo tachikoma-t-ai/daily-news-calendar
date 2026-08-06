@@ -1,0 +1,390 @@
+{
+  "date": "2026-08-07",
+  "title": "2026-08-07 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+          "summaryLines": [
+            "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。",
+            "概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "commandlinux.com",
+          "link": "https://commandlinux.com/statistics/web-browser-market-share/"
+        },
+        {
+          "title": "OpenAI is shutting down its Atlas web browser | Mashable",
+          "summaryLines": [
+            "OpenAI is shutting down its Atlas web browser | Mashableに関する最新動向です。",
+            "概要: Atlas will be shutting down as OpenAI introduces ChatGPT Work.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "mashable.com",
+          "link": "https://mashable.com/tech/openai-shut-down-atlas-browser"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "The latest AI news we announced in July 2026",
+          "summaryLines": [
+            "The latest AI news we announced in July 2026に関する最新動向です。",
+            "概要: Here are Google’s latest AI updates from July 2026",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "blog.google",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+        },
+        {
+          "title": "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwire",
+          "summaryLines": [
+            "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwireに関する最新動向です。",
+            "概要: Anthropic and OpenAI are two of the leading AI model labs, developing what are widely considered to…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "hpcwire.com",
+          "link": "https://hpcwire.com/aiwire/2026/08/05/its-2-a-m-do-you-know-where-your-ai-models-are"
+        },
+        {
+          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "summaryLines": [
+            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
+            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
+        },
+        {
+          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+          "summaryLines": [
+            "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。",
+            "概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "felloai.com",
+          "link": "https://felloai.com/best-ai-models/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Coldcard hack could lift demand for regulated bitcoin products, analysts say",
+          "summaryLines": [
+            "Coldcard hack could lift demand for regulated bitcoin products, analysts sayに関する最新動向です。",
+            "概要: Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could dri…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say"
+        },
+        {
+          "title": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloomberg",
+          "summaryLines": [
+            "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloombergに関する最新動向です。",
+            "概要: Bitcoin’s prolonged bear market is masking a fundamental shift in the systems churning beneath the s…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-04/wall-street-is-deepening-its-crypto-grip-and-rewiring-the-market"
+        },
+        {
+          "title": "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5M",
+          "summaryLines": [
+            "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5Mに関する最新動向です。",
+            "概要: Ether ETFs attracted $27 million in the week ended July 31, securing a fourth straight week of inflo…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "news.bitcoin.com",
+          "link": "https://news.bitcoin.com/bitcoin-etf/ether-etfs-extend-weekly-run-with-27m-inflow-as-bitcoin-loses-61-5m"
+        },
+        {
+          "title": "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republic",
+          "summaryLines": [
+            "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republicに関する最新動向です。",
+            "概要: Ethereum ETF inflows hit $60.86 million as ETH/BTC tested a nine-year breakout, with analysts watchi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "thecoinrepublic.com",
+          "link": "https://thecoinrepublic.com/2026/08/06/ethereum-etf-inflow-triggers-eth-btc-breakout-after-9-years-what-next"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
+          "summaryLines": [
+            "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。",
+            "概要: Discover five charts for August that explore the macro trends driving markets, including inflation…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi"
+        },
+        {
+          "title": "Stock market news for Aug. 3, 2026",
+          "summaryLines": [
+            "Stock market news for Aug. 3, 2026に関する最新動向です。",
+            "概要: Stocks rose after President Donald Trump called off planned strikes against Iran, sending oil prices…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwab",
+          "summaryLines": [
+            "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwabに関する最新動向です。",
+            "概要: Markets were mixed early, with tech dragged by Sandisk&#x27;s disappointing guidance. Jobs data loom…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+          "summaryLines": [
+            "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。",
+            "概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "imf.org",
+          "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Reuters | Reuters",
+          "summaryLines": [
+            "Reuters | Reutersに関する最新動向です。",
+            "概要: The latest international Reuters news and views from Reuters - one of the world's largest news agenc…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "reuters.com",
+          "link": "https://www.reuters.com/authors/reuters/"
+        },
+        {
+          "title": "Travel Headlines this Week",
+          "summaryLines": [
+            "Travel Headlines this Weekに関する最新動向です。",
+            "概要: Catch up on the latest travel industry news: TSA screening changes, ASTA’s new advisor tool, Club Me…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "recommend.com",
+          "link": "https://recommend.com/news-tools/the-headlines-shaping-travel-this-week"
+        },
+        {
+          "title": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnews",
+          "summaryLines": [
+            "Latest changes on Travelinfo - (03 Aug 2026) | Travelnewsに関する最新動向です。",
+            "概要: fastjet : Fare types &amp; other fare conditions updated Falcon Africa : Madagascar beach holidays C…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelnews.co.za",
+          "link": "https://travelnews.co.za/article/latest-changes-on-travelinfo-03-aug-2026"
+        },
+        {
+          "title": "July points and miles deals: Earn more with these offers - The Points Guy",
+          "summaryLines": [
+            "July points and miles deals: Earn more with these offers - The Points Guyに関する最新動向です。",
+            "概要: Save, maximize and earn points and miles on various travel purchases this July.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "thepointsguy.com",
+          "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：The latest AI news we announced in July 2026",
+    "暗号通貨：Coldcard hack could lift demand for regulated bitcoin products, analysts say"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+      "source": "commandlinux.com",
+      "link": "https://commandlinux.com/statistics/web-browser-market-share/",
+      "snippet": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。 概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…"
+    },
+    {
+      "title": "OpenAI is shutting down its Atlas web browser | Mashable",
+      "source": "mashable.com",
+      "link": "https://mashable.com/tech/openai-shut-down-atlas-browser",
+      "snippet": "OpenAI is shutting down its Atlas web browser | Mashableに関する最新動向です。 概要: Atlas will be shutting down as OpenAI introduces ChatGPT Work."
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "source": "blog.google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "snippet": "The latest AI news we announced in July 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from July 2026"
+    },
+    {
+      "title": "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwire",
+      "source": "hpcwire.com",
+      "link": "https://hpcwire.com/aiwire/2026/08/05/its-2-a-m-do-you-know-where-your-ai-models-are",
+      "snippet": "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwireに関する最新動向です。 概要: Anthropic and OpenAI are two of the leading AI model labs, developing what are widely considered to…"
+    },
+    {
+      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
+    },
+    {
+      "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
+      "source": "felloai.com",
+      "link": "https://felloai.com/best-ai-models/",
+      "snippet": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。 概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…"
+    },
+    {
+      "title": "Coldcard hack could lift demand for regulated bitcoin products, analysts say",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+      "snippet": "Coldcard hack could lift demand for regulated bitcoin products, analysts sayに関する最新動向です。 概要: Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could dri…"
+    },
+    {
+      "title": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-04/wall-street-is-deepening-its-crypto-grip-and-rewiring-the-market",
+      "snippet": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloombergに関する最新動向です。 概要: Bitcoin’s prolonged bear market is masking a fundamental shift in the systems churning beneath the s…"
+    },
+    {
+      "title": "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5M",
+      "source": "news.bitcoin.com",
+      "link": "https://news.bitcoin.com/bitcoin-etf/ether-etfs-extend-weekly-run-with-27m-inflow-as-bitcoin-loses-61-5m",
+      "snippet": "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5Mに関する最新動向です。 概要: Ether ETFs attracted $27 million in the week ended July 31, securing a fourth straight week of inflo…"
+    },
+    {
+      "title": "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republic",
+      "source": "thecoinrepublic.com",
+      "link": "https://thecoinrepublic.com/2026/08/06/ethereum-etf-inflow-triggers-eth-btc-breakout-after-9-years-what-next",
+      "snippet": "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republicに関する最新動向です。 概要: Ethereum ETF inflows hit $60.86 million as ETH/BTC tested a nine-year breakout, with analysts watchi…"
+    },
+    {
+      "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi",
+      "snippet": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。 概要: Discover five charts for August that explore the macro trends driving markets, including inflation…"
+    },
+    {
+      "title": "Stock market news for Aug. 3, 2026",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for Aug. 3, 2026に関する最新動向です。 概要: Stocks rose after President Donald Trump called off planned strikes against Iran, sending oil prices…"
+    },
+    {
+      "title": "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwabに関する最新動向です。 概要: Markets were mixed early, with tech dragged by Sandisk&#x27;s disappointing guidance. Jobs data loom…"
+    },
+    {
+      "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
+      "source": "imf.org",
+      "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
+      "snippet": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。 概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…"
+    },
+    {
+      "title": "Reuters | Reuters",
+      "source": "reuters.com",
+      "link": "https://www.reuters.com/authors/reuters/",
+      "snippet": "Reuters | Reutersに関する最新動向です。 概要: The latest international Reuters news and views from Reuters - one of the world's largest news agenc…"
+    },
+    {
+      "title": "Travel Headlines this Week",
+      "source": "recommend.com",
+      "link": "https://recommend.com/news-tools/the-headlines-shaping-travel-this-week",
+      "snippet": "Travel Headlines this Weekに関する最新動向です。 概要: Catch up on the latest travel industry news: TSA screening changes, ASTA’s new advisor tool, Club Me…"
+    },
+    {
+      "title": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnews",
+      "source": "travelnews.co.za",
+      "link": "https://travelnews.co.za/article/latest-changes-on-travelinfo-03-aug-2026",
+      "snippet": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnewsに関する最新動向です。 概要: fastjet : Fare types &amp; other fare conditions updated Falcon Africa : Madagascar beach holidays C…"
+    },
+    {
+      "title": "July points and miles deals: Earn more with these offers - The Points Guy",
+      "source": "thepointsguy.com",
+      "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
+      "snippet": "July points and miles deals: Earn more with these offers - The Points Guyに関する最新動向です。 概要: Save, maximize and earn points and miles on various travel purchases this July."
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-08-06T15:36:27.411226+00:00"
+}
