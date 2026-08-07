@@ -1,55 +1,44 @@
 {
   "date": "2026-08-07",
   "title": "2026-08-07 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "ドコモ・バイクシェア、障害長期化で8月1日以降の料金を全額返金へ",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ドコモ・バイクシェアは8月7日、7月末から続くシステム不具合について、8月1日以降の利用料金を全額返金すると発表した。",
+            "正常に利用できたユーザーや法人会員も対象で、手続き不要で返金する方針。7日時点で再開済みは奈良のみで、全国再開時期は未定としている。",
+            "不具合の原因は新システム切り替えに伴う通信トラブルと説明しているが、技術的な詳細は明らかにしていない。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "都市交通アプリの基幹システム移行で、可用性・返金対応・ブランド刷新リスクが一気に表面化したため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000445/"
         },
         {
-          "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
+          "title": "キオクシア、オンデバイスAI向けUFS 5.0メモリのサンプル出荷を開始",
           "summaryLines": [
-            "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。",
-            "概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "キオクシアは、UFS 5.0対応の組み込み式フラッシュメモリについて、1TB品と512GB品のサンプル出荷を始めた。",
+            "第8世代BiCS FLASHと独自UFS 5.0コントローラーを組み合わせ、2レーン構成で約10.8GB/秒の実効読み書き性能をうたう。",
+            "スマートフォン、AIタブレット、AR/VR、ゲーム、ロボット、産業用エッジ機器などオンデバイスAI用途を見込む。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "commandlinux.com",
-          "link": "https://commandlinux.com/statistics/web-browser-market-share/"
+          "whyImportant": "端末側AIの実用性はモデルだけでなく、低遅延・高帯域なストレージ性能にも左右されるため。",
+          "source": "EDN Japan",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/07/news036.html"
         },
         {
-          "title": "OpenAI is shutting down its Atlas web browser | Mashable",
+          "title": "SMBC日興証券向け仮想化基盤、OpenShift Virtualizationとデル製品へ刷新",
           "summaryLines": [
-            "OpenAI is shutting down its Atlas web browser | Mashableに関する最新動向です。",
-            "概要: Atlas will be shutting down as OpenAI introduces ChatGPT Work.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本総研は、SMBC日興証券向けの仮想化基盤をDell PowerEdge、Dell PowerStore、Red Hat OpenShift Virtualizationの構成へ移行した。",
+            "営業店のフロントシステムなど多数の業務システムを対象に、既存Red Hat環境との親和性や移行ツール、ストレージ効率を評価した。",
+            "デル・テクノロジーズによると、今回の刷新で5年間のインフラコストを約20％削減する見込み。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "mashable.com",
-          "link": "https://mashable.com/tech/openai-shut-down-atlas-browser"
-        },
-        {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-          "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+          "whyImportant": "金融機関の基幹ITでも、ライセンスコスト増を契機に仮想化基盤の見直しとモダナイゼーションが進んでいるため。",
+          "source": "ZDNET Japan",
+          "link": "https://japan.zdnet.com/article/35251393/"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "The latest AI news we announced in July 2026",
+          "title": "ChatGPTのデフォルトモデル、有料版はGPT-5.6 Sol、無料版はGPT-5.6 Lunaへ",
           "summaryLines": [
-            "The latest AI news we announced in July 2026に関する最新動向です。",
-            "概要: Here are Google’s latest AI updates from July 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OpenAIは8月6日、ChatGPTのデフォルトモデルを有料版と無料版で変更すると発表した。PlusとProでは改良版GPT-5.6 Solを提供する。",
+            "無料版とChatGPT GoではGPT-5.6 Lunaをデフォルトにし、来週からテキストチャットを無制限にする予定。難しい質問向けのThinkボタンも追加される。",
+            "Solは日常チャット向けの更新で、ChatGPT WorkやCodexで動くGPT-5.6 Solは今回の対象外と説明されている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "blog.google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+          "whyImportant": "主要AIサービスの無料・有料体験が再設計され、推論時間の選択や利用上限がユーザー行動に直結するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/"
         },
         {
-          "title": "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwire",
+          "title": "フロンティアAIでサイバー攻撃が高速化、アクセンチュアが企業防御の転換を提言",
           "summaryLines": [
-            "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwireに関する最新動向です。",
-            "概要: Anthropic and OpenAI are two of the leading AI model labs, developing what are widely considered to…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "アクセンチュアは8月7日、フロンティアAIにより脆弱性発見から悪用までの速度が上がり、攻撃の量も増えていると説明した。",
+            "同社は、従来の月次・手作業中心のパッチ運用では追いつきにくく、リスクベース管理と自動化、資産把握の強化が必要だと指摘した。",
+            "経営、IT、セキュリティ、法務、事業部門を横断する推進体を置き、クラウド移行やサイバーレジリエンスと連動させるべきとしている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "hpcwire.com",
-          "link": "https://hpcwire.com/aiwire/2026/08/05/its-2-a-m-do-you-know-where-your-ai-models-are"
+          "whyImportant": "AI時代のセキュリティは「検知して直す」だけでなく、事業継続を含む経営課題として扱う必要があるため。",
+          "source": "TECH+（マイナビニュース）",
+          "link": "https://news.mynavi.jp/techplus/article/20260807-4789254/"
         },
         {
-          "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
+          "title": "AI生成の脆弱性パッチ、適切に修正できた割合は26％にとどまるとの研究",
           "summaryLines": [
-            "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。",
-            "概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "1PasswordのOff-By-1-Labsは、LLMが生成するセキュリティパッチの品質を調べた研究結果を公開した。",
+            "最近開示された6件の脆弱性を対象に6080回のパッチ生成を試したところ、適切なパッチは26％、挙動変更を伴う修正は21％だった。",
+            "失敗や新たなバグの追加を含むケースは53.9％で、AIパッチの人間レビューが不可欠だと示している。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
-        },
-        {
-          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-          "summaryLines": [
-            "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。",
-            "概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "felloai.com",
-          "link": "https://felloai.com/best-ai-models/"
+          "whyImportant": "AIコーディング支援をセキュリティ修正に使う現場ほど、自動生成結果を過信しない検証体制が必要になるため。",
+          "source": "ZDNET Japan",
+          "link": "https://japan.zdnet.com/article/35251389/"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Coldcard hack could lift demand for regulated bitcoin products, analysts say",
+          "title": "金融庁、暗号資産・ステーブルコイン課を新設",
           "summaryLines": [
-            "Coldcard hack could lift demand for regulated bitcoin products, analysts sayに関する最新動向です。",
-            "概要: Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could dri…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "金融庁は8月7日付の組織再編で、「暗号資産・ステーブルコイン課」や「資金決済課」など5課を新設した。",
+            "2018年の検査局廃止以来の大規模改編で、総合政策局と監督局も「銀行・証券監督局」「資産運用・保険監督局」に再編する。",
+            "金融デジタル化、資産運用立国、金融機関モニタリングの高度化に対応する体制整備と位置付けられている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say"
+          "whyImportant": "暗号資産とステーブルコインの監督が専任課に格上げされ、国内Web3事業者の規制対応に影響するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000409/"
         },
         {
-          "title": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloomberg",
+          "title": "金融庁と警察庁、暗号資産交換業者に出庫制限強化など11項目を要請",
           "summaryLines": [
-            "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloombergに関する最新動向です。",
-            "概要: Bitcoin’s prolonged bear market is masking a fundamental shift in the systems churning beneath the s…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "金融庁と警察庁は、暗号資産を使った詐欺被害を防ぐため、JVCEAを通じて交換業者に対策強化を要請した。",
+            "法定通貨入金後や暗号資産購入後の一定期間の出庫制限、出庫先の事前登録制、顧客リスクに応じた出庫限度額設定などを求めている。",
+            "SNS型投資詐欺やロマンス詐欺の拡大を背景に、取引モニタリング、口座凍結、警察との情報連携も強化対象となった。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-04/wall-street-is-deepening-its-crypto-grip-and-rewiring-the-market"
+          "whyImportant": "利用者保護を優先する規制強化により、国内取引所の送金UXやオンチェーン利用の即時性が変わる可能性があるため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=730250"
         },
         {
-          "title": "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5M",
+          "title": "JPYC、シリーズB累計約60億円を調達　物流大手も出資参画",
           "summaryLines": [
-            "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5Mに関する最新動向です。",
-            "概要: Ether ETFs attracted $27 million in the week ended July 31, securing a fourth straight week of inflo…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "日本円連動ステーブルコインJPYCを発行・運営するJPYC株式会社は、シリーズBエクステンションで累計約60億円の資金調達を完了した。",
+            "今回のラウンドにはAZ-COM丸和ホールディングスも参画。JPYCはKaia、Polygon、Ethereum、Avalanche上で発行・流通している。",
+            "都内ローソンでの決済実証や、協力会社約2300社への委託費支払いへの活用など、決済・企業間支払いの実需開拓が進む。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "news.bitcoin.com",
-          "link": "https://news.bitcoin.com/bitcoin-etf/ether-etfs-extend-weekly-run-with-27m-inflow-as-bitcoin-loses-61-5m"
-        },
-        {
-          "title": "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republic",
-          "summaryLines": [
-            "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republicに関する最新動向です。",
-            "概要: Ethereum ETF inflows hit $60.86 million as ETH/BTC tested a nine-year breakout, with analysts watchi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "thecoinrepublic.com",
-          "link": "https://thecoinrepublic.com/2026/08/06/ethereum-etf-inflow-triggers-eth-btc-breakout-after-9-years-what-next"
+          "whyImportant": "円建てステーブルコインが投機対象だけでなく、物流・小売・企業間決済の実装段階へ進みつつあるため。",
+          "source": "CRYPTO TIMES",
+          "link": "https://crypto-times.jp/news-jpyc-funding-60/"
         }
       ]
     },
@@ -158,233 +125,78 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
+          "title": "日経平均は続落、7日終値は6万5606円71銭",
           "summaryLines": [
-            "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。",
-            "概要: Discover five charts for August that explore the macro trends driving markets, including inflation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "8月7日の東京株式市場で、日経平均株価は前日比76円55銭安の6万5606円71銭で取引を終えた。",
+            "TOPIXは前日比19.08ポイント高の4074.93となり、日経平均とは方向感が分かれた。",
+            "午前には日経平均が大きく下げる場面もあり、指数主導の調整と広い銘柄の底堅さが同時に見られた。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi"
+          "whyImportant": "高値圏の日本株では、指数の下落と市場内部の強弱差を分けて見ることが投資判断に重要なため。",
+          "source": "中日新聞Web",
+          "link": "https://www.chunichi.co.jp/article/1293183"
         },
         {
-          "title": "Stock market news for Aug. 3, 2026",
+          "title": "コメ販売価格、5キロ3458円に下落　民間在庫は過去最大水準",
           "summaryLines": [
-            "Stock market news for Aug. 3, 2026に関する最新動向です。",
-            "概要: Stocks rose after President Donald Trump called off planned strikes against Iran, sending oil prices…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "農林水産省のまとめで、6月29日から7月5日の週のコメ販売価格は5キロ3458円となり、前週から96円下がった。",
+            "2025年産米の相対取引価格も60キロ3万1305円と前月比6％安で、調査開始以来最大の下落幅となった。",
+            "5月末の民間在庫量は223万トンで前年同月を74万トン上回り、2014年と並ぶ過去最大水準となっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html"
+          "whyImportant": "主食価格の下落は家計には追い風だが、生産者の採算や備蓄米政策の判断に直結するため。",
+          "source": "TECH+（マイナビニュース）",
+          "link": "https://news.mynavi.jp/techplus/article/20260807-4788647/"
         },
         {
-          "title": "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwab",
+          "title": "大光銀行、クレカ決済代行「全東信」破産で貸出金15億円に回収不能の恐れ",
           "summaryLines": [
-            "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwabに関する最新動向です。",
-            "概要: Markets were mixed early, with tech dragged by Sandisk&#x27;s disappointing guidance. Jobs data loom…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "47NEWSの配信記事によると、大光銀行はクレジットカード決済代行会社「全東信」の破産に伴い、貸出金15億円が回収不能となる恐れがある。",
+            "検索結果では、金融庁が調査を開始したことも伝えられており、地域金融機関の与信管理や決済代行業への監督が焦点になる。",
+            "詳細本文の取得は限定的だったため、確認できた範囲で金融・企業信用リスクの動きとして扱う。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
-          "summaryLines": [
-            "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。",
-            "概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "imf.org",
-          "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026"
+          "whyImportant": "決済代行業者の破綻が地域銀行の信用コストに波及し、金融庁調査の行方にも注目が集まるため。",
+          "source": "47NEWS",
+          "link": "https://www.47news.jp/14751748.html"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "Reuters | Reuters",
+          "title": "JR東日本、えきねっとの一部ウェブ限定割引商品の発売を終了へ",
           "summaryLines": [
-            "Reuters | Reutersに関する最新動向です。",
-            "概要: The latest international Reuters news and views from Reuters - one of the world's largest news agenc…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR東日本は、「えきねっと」で発売している一部ウェブ限定割引商品の発売終了を発表した。",
+            "「新幹線eチケット（トクだ値14）」は9月16日、「新幹線eチケット（トクだ値1）」は9月29日で発売を終了する。",
+            "特急トクだ値や在来線チケットレス特急券の一部も9月末から10月末にかけて終了し、つがる・スーパーつがる向け商品は割引率を引き下げる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/authors/reuters/"
+          "whyImportant": "秋以降の東日本・北海道方面の国内旅行では、早期割引の選択肢と予約タイミングが変わるため。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260807378339/"
         },
         {
-          "title": "Travel Headlines this Week",
+          "title": "JR東日本とJR北海道、新幹線・特急の平日50％割引商品を10月と12月に設定",
           "summaryLines": [
-            "Travel Headlines this Weekに関する最新動向です。",
-            "概要: Catch up on the latest travel industry news: TSA screening changes, ASTA’s new advisor tool, Club Me…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR東日本とJR北海道は、東北・北海道、上越、北陸、秋田、山形新幹線などを対象に、平日限定で50％割引の商品を設定する。",
+            "東京から新函館北斗は1万1990円、秋田は9120円、新潟は5390円などで、乗車日・列車・区間・席数限定となる。",
+            "乗車期間は10月14日から27日までと12月7日から17日までの平日で、発売は乗車1か月前から28日前まで。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "recommend.com",
-          "link": "https://recommend.com/news-tools/the-headlines-shaping-travel-this-week"
+          "whyImportant": "秋冬の国内鉄道旅行で、平日移動なら大幅な交通費圧縮が狙える実用性の高い施策のため。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260807378331/"
         },
         {
-          "title": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnews",
+          "title": "横浜市観光協会、「花の港」を刷新　8月7日からフラワーエアキャビン運行",
           "summaryLines": [
-            "Latest changes on Travelinfo - (03 Aug 2026) | Travelnewsに関する最新動向です。",
-            "概要: fastjet : Fare types &amp; other fare conditions updated Falcon Africa : Madagascar beach holidays C…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "横浜市観光協会は、GREEN×EXPO 2027に向けた観光ブランド「花の港」の新ロゴとキービジュアルを公開した。",
+            "YOKOHAMA AIR CABINと連携し、花で彩った「フラワーエアキャビン」2台を8月7日から30日まで運行する。",
+            "運河パーク駅舎のフォトスポットや、みなとみらいでの観光案内・ワークショップも展開する。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelnews.co.za",
-          "link": "https://travelnews.co.za/article/latest-changes-on-travelinfo-03-aug-2026"
-        },
-        {
-          "title": "July points and miles deals: Earn more with these offers - The Points Guy",
-          "summaryLines": [
-            "July points and miles deals: Earn more with these offers - The Points Guyに関する最新動向です。",
-            "概要: Save, maximize and earn points and miles on various travel purchases this July.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "thepointsguy.com",
-          "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/"
+          "whyImportant": "横浜の夏休み観光導線を作りつつ、2027年国際園芸博への誘客準備にもつながるため。",
+          "source": "トラベルボイス",
+          "link": "https://www.travelvoice.jp/20260806-160281"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：The latest AI news we announced in July 2026",
-    "暗号通貨：Coldcard hack could lift demand for regulated bitcoin products, analysts say"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
-      "source": "commandlinux.com",
-      "link": "https://commandlinux.com/statistics/web-browser-market-share/",
-      "snippet": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。 概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…"
-    },
-    {
-      "title": "OpenAI is shutting down its Atlas web browser | Mashable",
-      "source": "mashable.com",
-      "link": "https://mashable.com/tech/openai-shut-down-atlas-browser",
-      "snippet": "OpenAI is shutting down its Atlas web browser | Mashableに関する最新動向です。 概要: Atlas will be shutting down as OpenAI introduces ChatGPT Work."
-    },
-    {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "source": "blog.google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "snippet": "The latest AI news we announced in July 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from July 2026"
-    },
-    {
-      "title": "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwire",
-      "source": "hpcwire.com",
-      "link": "https://hpcwire.com/aiwire/2026/08/05/its-2-a-m-do-you-know-where-your-ai-models-are",
-      "snippet": "It’s 2 a.m. Do You Know Where Your AI Models Are? - AIwireに関する最新動向です。 概要: Anthropic and OpenAI are two of the leading AI model labs, developing what are widely considered to…"
-    },
-    {
-      "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
-      "snippet": "OpenAI to publicly release GPT-5.6, rolls out conversational AI modelsに関する最新動向です。 概要: OpenAI&#x27;s chief rival, Anthropic, recently restored access to its latest models following a week…"
-    },
-    {
-      "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-      "source": "felloai.com",
-      "link": "https://felloai.com/best-ai-models/",
-      "snippet": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。 概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…"
-    },
-    {
-      "title": "Coldcard hack could lift demand for regulated bitcoin products, analysts say",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
-      "snippet": "Coldcard hack could lift demand for regulated bitcoin products, analysts sayに関する最新動向です。 概要: Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could dri…"
-    },
-    {
-      "title": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-04/wall-street-is-deepening-its-crypto-grip-and-rewiring-the-market",
-      "snippet": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market - Bloombergに関する最新動向です。 概要: Bitcoin’s prolonged bear market is masking a fundamental shift in the systems churning beneath the s…"
-    },
-    {
-      "title": "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5M",
-      "source": "news.bitcoin.com",
-      "link": "https://news.bitcoin.com/bitcoin-etf/ether-etfs-extend-weekly-run-with-27m-inflow-as-bitcoin-loses-61-5m",
-      "snippet": "Ether ETFs Extend Weekly Run With $27M Inflow as Bitcoin Loses $61.5Mに関する最新動向です。 概要: Ether ETFs attracted $27 million in the week ended July 31, securing a fourth straight week of inflo…"
-    },
-    {
-      "title": "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republic",
-      "source": "thecoinrepublic.com",
-      "link": "https://thecoinrepublic.com/2026/08/06/ethereum-etf-inflow-triggers-eth-btc-breakout-after-9-years-what-next",
-      "snippet": "Ethereum ETF Inflow Triggers ETH/BTC Breakout After 9 Years: What Next? - The Coin Republicに関する最新動向です。 概要: Ethereum ETF inflows hit $60.86 million as ETH/BTC tested a nine-year breakout, with analysts watchi…"
-    },
-    {
-      "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi",
-      "snippet": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。 概要: Discover five charts for August that explore the macro trends driving markets, including inflation…"
-    },
-    {
-      "title": "Stock market news for Aug. 3, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for Aug. 3, 2026に関する最新動向です。 概要: Stocks rose after President Donald Trump called off planned strikes against Iran, sending oil prices…"
-    },
-    {
-      "title": "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "New Highs Hit Early Despite SpaceX, AMD Weakness | Charles Schwabに関する最新動向です。 概要: Markets were mixed early, with tech dragged by Sandisk&#x27;s disappointing guidance. Jobs data loom…"
-    },
-    {
-      "title": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technology",
-      "source": "imf.org",
-      "link": "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
-      "snippet": "World Economic Outlook Update, July 2026: Global Economy in Crosscurrents of War and Technologyに関する最新動向です。 概要: Global growth is steady but uneven across countries amid headwinds from the war and tailwinds from t…"
-    },
-    {
-      "title": "Reuters | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/authors/reuters/",
-      "snippet": "Reuters | Reutersに関する最新動向です。 概要: The latest international Reuters news and views from Reuters - one of the world's largest news agenc…"
-    },
-    {
-      "title": "Travel Headlines this Week",
-      "source": "recommend.com",
-      "link": "https://recommend.com/news-tools/the-headlines-shaping-travel-this-week",
-      "snippet": "Travel Headlines this Weekに関する最新動向です。 概要: Catch up on the latest travel industry news: TSA screening changes, ASTA’s new advisor tool, Club Me…"
-    },
-    {
-      "title": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnews",
-      "source": "travelnews.co.za",
-      "link": "https://travelnews.co.za/article/latest-changes-on-travelinfo-03-aug-2026",
-      "snippet": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnewsに関する最新動向です。 概要: fastjet : Fare types &amp; other fare conditions updated Falcon Africa : Madagascar beach holidays C…"
-    },
-    {
-      "title": "July points and miles deals: Earn more with these offers - The Points Guy",
-      "source": "thepointsguy.com",
-      "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
-      "snippet": "July points and miles deals: Earn more with these offers - The Points Guyに関する最新動向です。 概要: Save, maximize and earn points and miles on various travel purchases this July."
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-08-06T15:36:27.411226+00:00"
+  ]
 }
