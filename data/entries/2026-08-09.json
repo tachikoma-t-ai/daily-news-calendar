@@ -1,55 +1,41 @@
 {
   "date": "2026-08-09",
   "title": "2026-08-09 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "VMwareの認証回避など重大脆弱性が週次セキュリティ動向の中心に",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "BroadcomがvCenter、ESX、Workstation、Fusionなど複数製品に関する高リスク脆弱性を修正し、最重要のVMware Directory Service欠陥はvCenter認証の迂回につながると報じられた。",
+            "同じ週のまとめでは、Cisco Firewall Management Centerのゼロデイ悪用やWordPress関連の脆弱性も取り上げられ、企業インフラのパッチ優先度が高まっている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
+          "whyImportant": "仮想化基盤やネットワーク管理面の侵害は、社内システム全体の停止・漏えいリスクに直結するため。",
+          "source": "Cybersecurity News",
+          "link": "https://cybersecuritynews.com/cyber-security-newsletter-august/"
+        },
+        {
+          "title": "RovoBlast攻撃手法、Confluence・Jira・SharePointデータ窃取の恐れ",
+          "summaryLines": [
+            "SecurityWeekは、Varonis研究者が特定したRovoBlast攻撃手法について、Confluence、Jira、SharePointのデータ窃取に悪用され得ると伝えた。",
+            "業務ナレッジやチケット管理、文書共有にまたがる情報資産が標的となるため、SaaS連携や権限設計の見直しが重要になる。"
+          ],
+          "whyImportant": "コラボレーションSaaSは機密情報の集積地であり、侵害時の影響範囲が大きいため。",
+          "source": "SecurityWeek",
+          "link": "https://www.securityweek.com/"
+        },
+        {
+          "title": "主要ブラウザ以外の選択肢に再注目、ブラウザ競争はAI・プライバシー軸へ",
+          "summaryLines": [
+            "TechCrunchは、ChromeやSafari以外の代替ブラウザを整理し、検索エンジンだけでなくAI機能、プライバシー、ワークフロー統合が差別化要因になっていると報じた。",
+            "ブラウザが業務の入口になるなか、開発者・企業ユーザー双方にとって拡張機能、データ保護、AIエージェント連携の比較が重要になっている。"
+          ],
+          "whyImportant": "ブラウザ選定は生産性、セキュリティ、AI利用ポリシーに直接影響するため。",
+          "source": "TechCrunch",
           "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-        },
-        {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-          "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
-        },
-        {
-          "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
-          "summaryLines": [
-            "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。",
-            "概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techradar.com",
-          "link": "https://www.techradar.com/best/browser"
-        },
-        {
-          "title": "Helium Browser Download (Latest 2026) - FileCR",
-          "summaryLines": [
-            "Helium Browser Download (Latest 2026) - FileCRに関する最新動向です。",
-            "概要: Free download Helium Browser 0.15.2.1 Latest full version - Secure and fast privacy-focused browsing…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "filecr.com",
-          "link": "https://filecr.com/windows/imput-helium-browser"
         }
       ]
     },
@@ -58,48 +44,34 @@
       "name": "AI",
       "items": [
         {
-          "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+          "title": "米ホワイトハウス、OpenAIやAnthropicなど主要AI企業と規制協議へ",
           "summaryLines": [
-            "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。",
-            "概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CNNは、米ホワイトハウスがOpenAI、Anthropicなど主要AI企業と会合を開き、AI規制に向けた大きな動きを始めると報じた。",
+            "背景には、AIエージェントがサイバーセキュリティ評価中に実在組織へ影響を及ぼした事例への懸念があり、安全性検証と企業責任が焦点になっている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "digitalapplied.com",
-          "link": "https://digitalapplied.com/blog/ai-model-releases-august-2026-tracker"
+          "whyImportant": "米国のAI規制枠組みは、モデル提供企業だけでなく導入企業のリスク管理にも波及するため。",
+          "source": "CNN Business",
+          "link": "https://edition.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push"
         },
         {
-          "title": "The latest AI news we announced in July 2026",
+          "title": "米AIサイバーリスク審査案、低コストのオープンモデルは対象外となる可能性",
           "summaryLines": [
-            "The latest AI news we announced in July 2026に関する最新動向です。",
-            "概要: Here are Google’s latest AI updates from July 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Politicoは、米ホワイトハウスの高度AIモデル向けサイバーリスク審査案が、OpenAIやAnthropicなど上位モデルを中心に扱う一方、低コストのオープン系モデルを免除する方向だと報じた。",
+            "モデルの規模や提供形態によって規制負担が分かれる可能性があり、商用AIの競争条件や公開モデルの扱いに影響しそうだ。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "blog.google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+          "whyImportant": "規制対象の線引きは、AIモデルの公開戦略、調達判断、コンプライアンス費用を左右するため。",
+          "source": "Politico",
+          "link": "https://www.politico.com/news/2026/08/04/white-house-ai-vetting-plan-to-exempt-nonproprietary-models-01024816"
         },
         {
-          "title": "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecap",
+          "title": "Reuters、低コスト中国AIモデルが米大手に迫るとの分析を掲載",
           "summaryLines": [
-            "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecapに関する最新動向です。",
-            "概要: AI model release tracker 2026 — updated August 6. Released: DeepSeek V4 Flash 0731 ($0.14/M, MIT), K…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ReutersのAIニュース欄では、低価格な中国発AIモデルがAnthropicやOpenAIの本拠市場で競争力を高めているとの分析が取り上げられた。",
+            "性能だけでなく価格、提供地域、導入制約が企業のモデル選択を左右し、AIインフラ市場の競争がさらに激しくなる可能性がある。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "aitoolsrecap.com",
-          "link": "https://aitoolsrecap.com/Blog/upcoming-ai-models-2026-release-tracker"
-        },
-        {
-          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-          "summaryLines": [
-            "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。",
-            "概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "felloai.com",
-          "link": "https://felloai.com/best-ai-models/"
+          "whyImportant": "モデル価格の低下はAI導入の裾野を広げる一方、既存プロバイダーの収益性と差別化に圧力をかけるため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/artificial-intelligence/"
         }
       ]
     },
@@ -108,48 +80,34 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "title": "ビットコインは65,000ドル近辺、ETF資金流入とFOMC警戒が綱引き",
           "summaryLines": [
-            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
-            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Economic Timesは、8月9日の暗号資産市況でビットコインが65,000ドル近辺にとどまり、65,000-65,600ドル付近の上値抵抗が意識されていると報じた。",
+            "一方で、暗号資産ETFへの資金流入は続いており、リスク選好が弱いなかでも機関投資家需要が下支えしている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+          "whyImportant": "ETFフローと金融政策イベントは、短期の暗号資産価格変動を大きく左右するため。",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency"
         },
         {
-          "title": "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloomberg",
+          "title": "イーサリアム、1,900ドル台で相対的に堅調との市況",
           "summaryLines": [
-            "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloombergに関する最新動向です。",
-            "概要: A year after agreeing to form a digital treasury company to buy billions of dollars of the Crypto.co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Economic Timesの市況ページでは、イーサリアムが1,900ドルを上回って強めのモメンタムを示していると伝えられた。",
+            "ビットコインが節目価格で足踏みするなか、ETF流入やテクニカル面の改善がETHの相対的な強さとして注目されている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com"
+          "whyImportant": "ETHの資金流入はDeFiやL2関連銘柄へのリスク選好にも波及しやすいため。",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency"
         },
         {
-          "title": "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quiet",
+          "title": "T. Rowe Priceの暗号資産ETF、ミームコイン採用が議論に",
           "summaryLines": [
-            "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quietに関する最新動向です。",
-            "概要: Crypto ETF News: Bitcoin and Ethereum ETFs post fresh inflows on August 7 2026, while XRP ETF logs z…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CoinDeskは、1.9兆ドル規模の資産運用会社T. Rowe Priceが暗号資産ETFで一部ミームコインを組み入れる理由を取り上げた。",
+            "同社は、一定の市場規模を持つ銘柄を原則的に排除するとアクティブ運用の考え方を損なうとの立場を示している。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coingabbar.com",
-          "link": "https://www.coingabbar.com/en/crypto-currency-news/crypto-etf-news-bitcoin-ethereum-xrp-8-august-2026"
-        },
-        {
-          "title": "Ethereum (ETH) Price Prediction 2026 2027 2028 - 2040",
-          "summaryLines": [
-            "Ethereum (ETH) Price Prediction 2026 2027 2028 - 2040に関する最新動向です。",
-            "概要: Ethereum (ETH) price prediction for 2026 2027 2028 - 2040 and beyond. Ethereum price forecast from t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "changelly.com",
-          "link": "https://changelly.com/blog/ethereum-eth-price-predictions/"
+          "whyImportant": "伝統的運用会社による銘柄選定は、暗号資産市場の制度化とリスク許容度を映す指標になるため。",
+          "source": "CoinDesk",
+          "link": "https://www.coindesk.com/"
         }
       ]
     },
@@ -158,233 +116,72 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
+          "title": "日本政府、2026年度実質成長率見通しを0.9%に下方修正",
           "summaryLines": [
-            "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。",
-            "概要: Discover five charts for August that explore the macro trends driving markets, including inflation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "The Japan Timesは、日本政府が2026年度の実質成長率見通しを1月時点の1.3%から0.9%へ引き下げたと伝えた。",
+            "円安による輸入価格上昇やインフレ圧力が続くなか、利上げや家計負担への見方が市場の焦点になっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi"
+          "whyImportant": "成長率見通しの下方修正は、財政運営、企業収益、日銀の政策判断に影響するため。",
+          "source": "The Japan Times",
+          "link": "https://www.japantimes.co.jp/business/economy/"
         },
         {
-          "title": "Chip See-Saw Ride Hits Tech Heading into Jobs Data | Charles Schwab",
+          "title": "日本企業の景況感が8年ぶり高水準、インフレ期待も上昇",
           "summaryLines": [
-            "Chip See-Saw Ride Hits Tech Heading into Jobs Data | Charles Schwabに関する最新動向です。",
-            "概要: July jobs growth declined by 23,000, missing expectations for a rise of 86,000, while the unemployme…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Reutersは、日本企業の景況感が四半期調査で8年ぶりの高水準に上昇し、企業のインフレ期待も記録的な水準になったと報じた。",
+            "中東情勢など外部リスクがある一方で、国内経済の底堅さが追加利上げ観測を支える材料になっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+          "whyImportant": "企業心理とインフレ期待は、賃金・価格設定・金融政策の連鎖を判断する重要な先行材料になるため。",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/japan/"
         },
         {
-          "title": "Stock market news for Aug. 3, 2026",
+          "title": "日本株は週間で上昇、円相場介入後の市場評価が続く",
           "summaryLines": [
-            "Stock market news for Aug. 3, 2026に関する最新動向です。",
-            "概要: Stocks rose after President Donald Trump called off planned strikes against Iran, sending oil prices…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "T. Rowe Priceの週次市場アップデートでは、日本のNikkei 225が週間で1.93%、TOPIXが1.79%上昇したとされた。",
+            "投資家は前週の円安対応を受けた為替介入の影響を見極めつつ、日銀政策をめぐる思惑も市場の材料になっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "World News and International Headlines : NPR",
-          "summaryLines": [
-            "World News and International Headlines : NPRに関する最新動向です。",
-            "概要: NPR world news, international art and culture, world business and financial markets, world economy…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "npr.org",
-          "link": "https://www.npr.org/sections/world/"
+          "whyImportant": "株価と為替の同時変化は、輸出企業、インバウンド、個人投資家心理に幅広く影響するため。",
+          "source": "T. Rowe Price",
+          "link": "https://www.troweprice.com/personal-investing/resources/insights/global-markets-weekly-update.html"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行",
       "items": [
         {
-          "title": "Reuters Business News | Today's International Headlines | Reuters",
+          "title": "8月8日・9日の週末、全国で大規模花火大会が集中開催",
           "summaryLines": [
-            "Reuters Business News | Today's International Headlines | Reutersに関する最新動向です。",
-            "概要: Find latest business news from every corner of the globe at Reuters.com, your online source for brea…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ウェザーニュースは、2026年8月8日・9日に開催される全国の花火大会を紹介し、神宮外苑花火大会、前橋花火大会、新潟まつり花火大会などを取り上げた。",
+            "1万発規模の大会が各地で予定され、夏休み・お盆前の国内旅行や日帰り需要を押し上げるイベントになっている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/business/"
+          "whyImportant": "花火大会は宿泊・交通・飲食需要を集中させるため、旅行計画では混雑と天候確認が重要になるため。",
+          "source": "ウェザーニュース",
+          "link": "https://weathernews.jp/news/202608/060141/"
         },
         {
-          "title": "Travel News Roundup",
+          "title": "東京周辺のお盆イベント、茨城のひまわり畑やナイトマーケットも紹介",
           "summaryLines": [
-            "Travel News Roundupに関する最新動向です。",
-            "概要: This week’s travel news roundup covers key updates for advisors, from destination advisories and air…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "ことりっぷは、8月8日から16日までの東京周辺おでかけ情報をまとめ、いばらきフラワーパークの夏休み企画などを紹介した。",
+            "夜の里山で花・灯り・グルメ・音楽を楽しむ「フラワーナイトマーケット」など、近距離旅行向けの季節イベントが目立つ。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "recommend.com",
-          "link": "https://recommend.com/news-tools/this-weeks-must-know-travel-news"
+          "whyImportant": "近場のイベント情報は、宿泊を伴わない短期旅行や家族向けレジャーの需要に直結するため。",
+          "source": "ことりっぷ",
+          "link": "https://co-trip.jp/article/729815"
         },
         {
-          "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+          "title": "2026年8月以降に使える国内旅行補助金・割引情報が更新",
           "summaryLines": [
-            "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。",
-            "概要: A round-up of all the travel news you need to know today.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "補助金ポータルは、個人が予約時に使いやすく、2026年8月以降に実施予定の旅行支援キャンペーンをエリア別に整理した。",
+            "自治体や旅行業界のキャンペーンは予算上限で早期終了することが多く、夏休み後半から秋の国内旅行計画で早めの確認が必要になる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "johnnyjet.com",
-          "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/"
-        },
-        {
-          "title": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnews",
-          "summaryLines": [
-            "Latest changes on Travelinfo - (03 Aug 2026) | Travelnewsに関する最新動向です。",
-            "概要: fastjet : Fare types &amp; other fare conditions updated Falcon Africa : Madagascar beach holidays C…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelnews.co.za",
-          "link": "https://travelnews.co.za/article/latest-changes-on-travelinfo-03-aug-2026"
+          "whyImportant": "割引施策は旅行時期・目的地選びに影響し、地域観光の需要分散にもつながるため。",
+          "source": "補助金ポータル",
+          "link": "https://hojyokin-portal.jp/columns/ryoko-hojokin-kojin"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：AI Model Releases: August 2026 Tracker and Dated Ledger",
-    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
-    },
-    {
-      "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
-      "source": "techradar.com",
-      "link": "https://www.techradar.com/best/browser",
-      "snippet": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。 概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…"
-    },
-    {
-      "title": "Helium Browser Download (Latest 2026) - FileCR",
-      "source": "filecr.com",
-      "link": "https://filecr.com/windows/imput-helium-browser",
-      "snippet": "Helium Browser Download (Latest 2026) - FileCRに関する最新動向です。 概要: Free download Helium Browser 0.15.2.1 Latest full version - Secure and fast privacy-focused browsing…"
-    },
-    {
-      "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
-      "source": "digitalapplied.com",
-      "link": "https://digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
-      "snippet": "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。 概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "source": "blog.google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "snippet": "The latest AI news we announced in July 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from July 2026"
-    },
-    {
-      "title": "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecap",
-      "source": "aitoolsrecap.com",
-      "link": "https://aitoolsrecap.com/Blog/upcoming-ai-models-2026-release-tracker",
-      "snippet": "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecapに関する最新動向です。 概要: AI model release tracker 2026 — updated August 6. Released: DeepSeek V4 Flash 0731 ($0.14/M, MIT), K…"
-    },
-    {
-      "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-      "source": "felloai.com",
-      "link": "https://felloai.com/best-ai-models/",
-      "snippet": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。 概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…"
-    },
-    {
-      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
-    },
-    {
-      "title": "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com",
-      "snippet": "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloombergに関する最新動向です。 概要: A year after agreeing to form a digital treasury company to buy billions of dollars of the Crypto.co…"
-    },
-    {
-      "title": "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quiet",
-      "source": "coingabbar.com",
-      "link": "https://www.coingabbar.com/en/crypto-currency-news/crypto-etf-news-bitcoin-ethereum-xrp-8-august-2026",
-      "snippet": "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quietに関する最新動向です。 概要: Crypto ETF News: Bitcoin and Ethereum ETFs post fresh inflows on August 7 2026, while XRP ETF logs z…"
-    },
-    {
-      "title": "Ethereum (ETH) Price Prediction 2026 2027 2028 - 2040",
-      "source": "changelly.com",
-      "link": "https://changelly.com/blog/ethereum-eth-price-predictions/",
-      "snippet": "Ethereum (ETH) Price Prediction 2026 2027 2028 - 2040に関する最新動向です。 概要: Ethereum (ETH) price prediction for 2026 2027 2028 - 2040 and beyond. Ethereum price forecast from t…"
-    },
-    {
-      "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi",
-      "snippet": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。 概要: Discover five charts for August that explore the macro trends driving markets, including inflation…"
-    },
-    {
-      "title": "Chip See-Saw Ride Hits Tech Heading into Jobs Data | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Chip See-Saw Ride Hits Tech Heading into Jobs Data | Charles Schwabに関する最新動向です。 概要: July jobs growth declined by 23,000, missing expectations for a rise of 86,000, while the unemployme…"
-    },
-    {
-      "title": "Stock market news for Aug. 3, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for Aug. 3, 2026に関する最新動向です。 概要: Stocks rose after President Donald Trump called off planned strikes against Iran, sending oil prices…"
-    },
-    {
-      "title": "World News and International Headlines : NPR",
-      "source": "npr.org",
-      "link": "https://www.npr.org/sections/world/",
-      "snippet": "World News and International Headlines : NPRに関する最新動向です。 概要: NPR world news, international art and culture, world business and financial markets, world economy…"
-    },
-    {
-      "title": "Reuters Business News | Today's International Headlines | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/business/",
-      "snippet": "Reuters Business News | Today's International Headlines | Reutersに関する最新動向です。 概要: Find latest business news from every corner of the globe at Reuters.com, your online source for brea…"
-    },
-    {
-      "title": "Travel News Roundup",
-      "source": "recommend.com",
-      "link": "https://recommend.com/news-tools/this-weeks-must-know-travel-news",
-      "snippet": "Travel News Roundupに関する最新動向です。 概要: This week’s travel news roundup covers key updates for advisors, from destination advisories and air…"
-    },
-    {
-      "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
-      "source": "johnnyjet.com",
-      "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/",
-      "snippet": "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。 概要: A round-up of all the travel news you need to know today."
-    },
-    {
-      "title": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnews",
-      "source": "travelnews.co.za",
-      "link": "https://travelnews.co.za/article/latest-changes-on-travelinfo-03-aug-2026",
-      "snippet": "Latest changes on Travelinfo - (03 Aug 2026) | Travelnewsに関する最新動向です。 概要: fastjet : Fare types &amp; other fare conditions updated Falcon Africa : Madagascar beach holidays C…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-08-08T15:36:33.717992+00:00"
+  ]
 }
