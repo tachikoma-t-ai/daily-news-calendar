@@ -1,55 +1,44 @@
 {
   "date": "2026-08-10",
   "title": "2026-08-10 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "デジタル庁、国家資格システム運用で150人分の個人情報漏えい",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デジタル庁は、国家資格等情報連携・活用システムの運用で、資格管理団体職員150人分の氏名、ユーザーID、所属コードなどが漏えいしたと発表した。",
+            "他省庁へ送ったログイン履歴ファイルに、本来含めるべきでない情報が入っていたことが原因。手順書のあいまいな記載が背景にあった。",
+            "問題ファイルは削除済みで二次被害は確認されていないが、同庁はチェック体制と作業手順書の点検を進める。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "行政DXの基盤システムでは、機能だけでなく運用手順と確認体制の品質が信頼を左右するため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000467/"
         },
         {
-          "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPost",
+          "title": "JST、メール情報約1.6万件が漏えいした可能性",
           "summaryLines": [
-            "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPostに関する最新動向です。",
-            "概要: Cloudflare launches Kitesurf, an agent-first stateless browser on Workers using 3–7× less CPU and me…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "科学技術振興機構（JST）は、第三者の不正アクセスにより役職員12人のメールボックス内の一部情報、約1万6000件が外部に漏えいした可能性があると発表した。",
+            "外部メールアドレス約1300件、JST役職員のメールアドレス約1000件が含まれ、不正アクセス経路は遮断済みだという。",
+            "現時点で不特定多数への公開や不正利用は確認されていないが、関係省庁や警察と連携して調査を続ける。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "marktechpost.com",
-          "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/"
+          "whyImportant": "研究機関のメール漏えいは、個人情報だけでなく共同研究や調達に関する信頼リスクにも広がり得るため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/"
         },
         {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "title": "国産タスク管理ツール「Jooto」、2027年7月で一般提供終了へ",
           "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "クラウド型タスク・プロジェクト管理ツール「Jooto」が、2027年7月31日で一般提供を終了し、事業を廃止することが明らかになった。",
+            "2014年に登場し、2026年4月にはユーザー数50万人以上、有料利用企業2500社超に達していたが、競争優位を確立できず営業損失が続いていた。",
+            "新規利用登録はすでに終了し、既存ユーザーは契約条件に従って終了日まで利用できる。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
-        },
-        {
-          "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
-          "summaryLines": [
-            "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。",
-            "概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "commandlinux.com",
-          "link": "https://commandlinux.com/statistics/web-browser-market-share/"
+          "whyImportant": "SaaS選定では機能や価格だけでなく、事業継続性と移行余地の確認が欠かせないことを示すため。",
+          "source": "INTERNET Watch",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2131859.html"
         }
       ]
     },
@@ -58,48 +47,37 @@
       "name": "AI",
       "items": [
         {
-          "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+          "title": "OpenAI、次期モデル「Astra」の一部作業を安全評価で停止",
           "summaryLines": [
-            "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。",
-            "概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "OpenAIは、次期AIモデル「Astra」について、予備評価で自律的なゼロデイ脆弱性発見・エクスプロイト開発能力の可能性を排除できないとして、一部の社内作業を停止した。",
+            "同社のPreparedness Frameworkで最上位の「Critical」に該当する可能性があり、隔離テスト環境、ツールアクセス制限、監視強化などが求められる。",
+            "評価は継続中で、Astraが正式にCriticalと認定されたわけではない。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "digitalapplied.com",
-          "link": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker"
+          "whyImportant": "高性能AIの開発では、リリース後の悪用対策だけでなく、開発中の封じ込めと評価手順そのものが焦点になるため。",
+          "source": "財経新聞",
+          "link": "https://www.zaikei.co.jp/article/20260810/865158.html"
         },
         {
-          "title": "The latest AI news we announced in July 2026",
+          "title": "Agent Plugins 1.0.0にGoogleが参加、AIエージェント標準化が前進",
           "summaryLines": [
-            "The latest AI news we announced in July 2026に関する最新動向です。",
-            "概要: Here are Google’s latest AI updates from July 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Agent Plugins 1.0.0は、AIエージェント向けのスキル、MCP接続、設定ファイルをまとめて配布するための標準化規格として紹介された。",
+            "Googleは8月6日に参加を表明し、Agents CLIやData Agent KitがAgent Plugins形式に対応済みとされる。",
+            "Claude Codeのセッション間メッセージ機能など、複数エージェントの連携・会話を前提にした実装も進んでいる。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "blog.google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+          "whyImportant": "企業がAIエージェントを導入する際、ベンダーロックインを避けて再利用可能な拡張を設計しやすくなるため。",
+          "source": "どもどもAI（DM2）",
+          "link": "https://www.dm2.co.jp/blog/40678"
         },
         {
-          "title": "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecap",
+          "title": "ランサムウェア被害、34％がメール詐欺で侵入",
           "summaryLines": [
-            "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecapに関する最新動向です。",
-            "概要: AI model release tracker 2026 — updated August 6. Released: DeepSeek V4 Flash 0731 ($0.14/M, MIT), K…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Proofpointの調査によると、ランサムウェア感染の初期侵入手口はソーシャルエンジニアリング詐欺が34％で、脆弱性悪用や流出認証情報の利用を上回った。",
+            "被害企業の65％は、AIによって攻撃メールの説得力が高まり、攻撃の実効性が増したと回答している。",
+            "日本では不正添付ファイルを原因とする回答が71％と突出し、不正コンテンツとの接触も49％で高かった。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "aitoolsrecap.com",
-          "link": "https://aitoolsrecap.com/Blog/upcoming-ai-models-2026-release-tracker"
-        },
-        {
-          "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-          "summaryLines": [
-            "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。",
-            "概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "felloai.com",
-          "link": "https://felloai.com/best-ai-models/"
+          "whyImportant": "生成AI時代のセキュリティ対策は、脆弱性管理だけでなく人・ID・信頼されたコミュニケーションを守る設計が中心になるため。",
+          "source": "ITmedia NEWS",
+          "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000432/"
         }
       ]
     },
@@ -108,48 +86,37 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+          "title": "ビットコイン新規ウォレット数、過去1年で最高水準に",
           "summaryLines": [
-            "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。",
-            "概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Santimentは、ビットコインの新規ウォレット作成数が直近1週間で227万個に達し、過去1年で最多になったと報告した。",
+            "Coldcardウォレットを巡るハッキング騒動を背景に、ユーザーが資金移動や保管体制の見直しを進めたことが活動急増の要因とされる。",
+            "今回はFTX破綻時とは逆に、自己管理ウォレットから取引所への資金移動が目立った。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund"
+          "whyImportant": "自己管理ウォレットの安全性問題は、ビットコイン利用者の保管行動とオンチェーン活動を大きく動かすため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=730662"
         },
         {
-          "title": "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloomberg",
+          "title": "ビットコインBIP-110分岐、ハッシュパワーの大半はメインチェーンに残留",
           "summaryLines": [
-            "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloombergに関する最新動向です。",
-            "概要: A year after agreeing to form a digital treasury company to buy billions of dollars of the Crypto.co…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "BIP-110を支持する少数ノードはブロック高961,632で非対応ブロックを拒否し、ビットコインのチェーンが分岐した。",
+            "ただし支持チェーンの採掘力は極めて小さく、約8時間で2ブロックのみを生成。マイケル・セイラー氏はハッシュパワーの約99.85％が本流に残ったと述べた。",
+            "BIP-110はOrdinalsやRunesなど、金融取引以外の任意データ記録を期間限定で制限する提案だった。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com"
+          "whyImportant": "ビットコインの仕様変更は技術提案だけでなく、マイナー、市場、ユーザーの合意形成がなければ実効性を持たないため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=730650"
         },
         {
-          "title": "US securities regulator issues long-awaited crypto guidance | Reuters",
+          "title": "RWA無期限先物DEX取引高、7月に過去最高",
           "summaryLines": [
-            "US securities regulator issues long-awaited crypto guidance | Reutersに関する最新動向です。",
-            "概要: The U.S. Securities and Exchange Commission on Tuesday issued an interpretation clarifying which typ…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "CryptoRankによると、無期限先物DEXにおけるRWA（現実資産）の月間取引高は7月に約1410億ドルとなり、過去最高を記録した。",
+            "前月比19.5％増、年初から7カ月で6倍超に拡大し、株式の比率は6月の36.4％から7月に51.1％へ上昇した。",
+            "トークン化された個別株や指数、商品などがDeFi上の主要取引カテゴリーとして定着しつつある。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "reuters.com",
-          "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/"
-        },
-        {
-          "title": "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quiet",
-          "summaryLines": [
-            "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quietに関する最新動向です。",
-            "概要: Crypto ETF News: Bitcoin and Ethereum ETFs post fresh inflows on August 7 2026, while XRP ETF logs z…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coingabbar.com",
-          "link": "https://www.coingabbar.com/en/crypto-currency-news/crypto-etf-news-bitcoin-ethereum-xrp-8-august-2026"
+          "whyImportant": "暗号資産市場の成長軸がネイティブトークンだけでなく、株式など伝統資産のオンチェーン取引へ広がっているため。",
+          "source": "CoinPost",
+          "link": "https://coinpost.jp/?p=730643"
         }
       ]
     },
@@ -158,233 +125,67 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
+          "title": "日経平均、3日ぶり反発で6万6970円",
           "summaryLines": [
-            "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。",
-            "概要: Discover five charts for August that explore the macro trends driving markets, including inflation…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "10日の東京市場は日経平均が3日ぶりに反発し、終値は前週末比1363円高の6万6970円だった。",
+            "前週末の米株高と半導体株買いを受けて買いが先行し、一時は6万7000円台に乗せたが、その後は上げ一服となった。",
+            "山の日を挟むお盆休み前で参加者が少なく、後場は動意に乏しい展開だった。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi"
+          "whyImportant": "半導体・米株動向に連動する日本株の強さと、夏季の薄商いによる相場の持続性を見極める材料になるため。",
+          "source": "Yahoo!ファイナンス（株探ニュース）",
+          "link": "https://finance.yahoo.co.jp/news/detail/89d5e41b372bd48a711df6cc5634cebdabe49392"
         },
         {
-          "title": "Stock market news for Aug. 7, 2026",
+          "title": "ドル円、19時時点で158円84〜85銭",
           "summaryLines": [
-            "Stock market news for Aug. 7, 2026に関する最新動向です。",
-            "概要: The three major averages posted their best weekly performances since April.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "中日新聞の為替相場によると、10日19時時点のドル円は1ドル158円84銭〜158円85銭だった。",
+            "前日比では44銭の円高・ドル安。ユーロ円は1ユーロ183円59銭〜183円61銭で、前日比1円07銭の円高・ユーロ安となった。",
+            "日中の株高と並行して、為替では円が主要通貨に対してやや戻す動きが確認された。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html"
-        },
-        {
-          "title": "Surprise Jobs Drop Lifts Stocks as Hike Odds Fall | Charles Schwab",
-          "summaryLines": [
-            "Surprise Jobs Drop Lifts Stocks as Hike Odds Fall | Charles Schwabに関する最新動向です。",
-            "概要: July jobs growth declined by 23,000, missing expectations for a rise of 86,000, while the unemployme…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
-          "summaryLines": [
-            "US Market Pulse August 2026 - Goldman Sachs Asset Managementに関する最新動向です。",
-            "概要: The Market Pulse highlights the latest market developments and trends, coupled with insights on port…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "am.gs.com",
-          "link": "https://am.gs.com/en-us/advisors/insights/article/market-pulse"
+          "whyImportant": "円相場は輸入物価、企業収益、旅行コストに直結し、株式市場のリスク判断にも影響するため。",
+          "source": "中日新聞Web",
+          "link": "https://www.chunichi.co.jp/article/1294487"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行（国内旅行）",
       "items": [
         {
-          "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+          "title": "JR東日本、推し旅ブランド「すき旅」を開始",
           "summaryLines": [
-            "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。",
-            "概要: A round-up of all the travel news you need to know today.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JR東日本は、アイドル、アーティスト、アニメ、ゲームなどのコンテンツと連携する旅ブランド「すき旅」を開始した。",
+            "第1回企画は「櫻坂46と、鉄道で旅しよう。」で、7月20日から11月30日まで新潟、長野、庄内エリアで展開する。",
+            "スタンプラリー、フォトスポット、オリジナルグッズ、限定音声コンテンツなどで地域との接点を作る。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "johnnyjet.com",
-          "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/"
+          "whyImportant": "鉄道会社がコンテンツ起点の移動需要を地域周遊へつなげる取り組みとして、国内旅行の誘客手法を広げるため。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260810377077/"
         },
         {
-          "title": "Travel News Roundup",
+          "title": "JAL、福岡〜鹿児島線で臨時便を計80便追加",
           "summaryLines": [
-            "Travel News Roundupに関する最新動向です。",
-            "概要: This week’s travel news roundup covers key updates for advisors, from destination advisories and air…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "JALグループは、熊本地震の影響や九州新幹線の運転見合わせに伴い、福岡〜鹿児島線で臨時便を追加設定した。",
+            "8月9日から19日にかけて計80便を運航し、1日最大4往復。機材はボーイング737、エンブラエルE170、ATR42-600を使用する。",
+            "お盆期間の九州内移動で、航空便が鉄道代替の重要な選択肢になる。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "recommend.com",
-          "link": "https://recommend.com/news-tools/this-weeks-must-know-travel-news"
+          "whyImportant": "災害・運休時の臨時航空便は、帰省や旅行の旅程確保に直結するため。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260809378423/"
         },
         {
-          "title": "Airline News in Brief 09 August 2026 | Asian Aviation",
+          "title": "東京ディズニーリゾート、ハロウィーン新作グッズを9月15日発売",
           "summaryLines": [
-            "Airline News in Brief 09 August 2026 | Asian Aviationに関する最新動向です。",
-            "概要: Emirates and South African Airways expand codeshare: Emirates and South African Airways (SAA) announ…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "東京ディズニーリゾートは、「ディズニー・ハロウィーン」（9月16日〜10月31日）開催に先駆け、新作グッズを9月15日に発売する。",
+            "東京ディズニーランドでは“こわがりおばけちゃん”をテーマに、ぬいぐるみチャーム、カチューシャ、ショルダーバッグ、蓄光Tシャツなどを展開する。",
+            "イベント前日のグッズ発売により、秋のパーク来訪計画や関連消費が早めに動き出す。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "asianaviation.com",
-          "link": "https://asianaviation.com/posts/airline-news-in-brief-09-august-2026"
-        },
-        {
-          "title": "7 Best Travel & Tourism Stocks for 2026 and How to Invest | The Motley Fool",
-          "summaryLines": [
-            "7 Best Travel & Tourism Stocks for 2026 and How to Invest | The Motley Foolに関する最新動向です。",
-            "概要: Here are the top travel stocks for investors to consider putting some cash into.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "fool.com",
-          "link": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/travel-stocks/"
+          "whyImportant": "大型テーマパークの季節イベントは、首都圏の宿泊・交通・物販需要を押し上げる国内旅行トピックになるため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2131913.html"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：AI Model Releases: August 2026 Tracker and Dated Ledger",
-    "暗号通貨：ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPost",
-      "source": "marktechpost.com",
-      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
-      "snippet": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPostに関する最新動向です。 概要: Cloudflare launches Kitesurf, an agent-first stateless browser on Workers using 3–7× less CPU and me…"
-    },
-    {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
-    },
-    {
-      "title": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statistics",
-      "source": "commandlinux.com",
-      "link": "https://commandlinux.com/statistics/web-browser-market-share/",
-      "snippet": "Web Browser Market Share 2026: Latest Global, Desktop and Mobile Statisticsに関する最新動向です。 概要: Chrome accounted for 65.23% of global browser sessions in May 2026, its lowest share since 2020, whi…"
-    },
-    {
-      "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
-      "source": "digitalapplied.com",
-      "link": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
-      "snippet": "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。 概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "source": "blog.google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "snippet": "The latest AI news we announced in July 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from July 2026"
-    },
-    {
-      "title": "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecap",
-      "source": "aitoolsrecap.com",
-      "link": "https://aitoolsrecap.com/Blog/upcoming-ai-models-2026-release-tracker",
-      "snippet": "Upcoming AI Models 2026: Release Tracker — What's Coming From OpenAI, Anthropic, Google, Meta, xAI | AIToolsRecapに関する最新動向です。 概要: AI model release tracker 2026 — updated August 6. Released: DeepSeek V4 Flash 0731 ($0.14/M, MIT), K…"
-    },
-    {
-      "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-      "source": "felloai.com",
-      "link": "https://felloai.com/best-ai-models/",
-      "snippet": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grokに関する最新動向です。 概要: The best AI models of August 2026 ranked. Find out which AI wins for writing, coding, images, video…"
-    },
-    {
-      "title": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "snippet": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fundに関する最新動向です。 概要: This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliqui…"
-    },
-    {
-      "title": "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-media-ends-token-prediction-market-deals-with-crypto-com",
-      "snippet": "Trump Media Ends Token, Prediction Market Deals With Crypto.com - Bloombergに関する最新動向です。 概要: A year after agreeing to form a digital treasury company to buy billions of dollars of the Crypto.co…"
-    },
-    {
-      "title": "US securities regulator issues long-awaited crypto guidance | Reuters",
-      "source": "reuters.com",
-      "link": "https://www.reuters.com/world/us-securities-regulator-issues-long-awaited-crypto-guidance-2026-03-17/",
-      "snippet": "US securities regulator issues long-awaited crypto guidance | Reutersに関する最新動向です。 概要: The U.S. Securities and Exchange Commission on Tuesday issued an interpretation clarifying which typ…"
-    },
-    {
-      "title": "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quiet",
-      "source": "coingabbar.com",
-      "link": "https://www.coingabbar.com/en/crypto-currency-news/crypto-etf-news-bitcoin-ethereum-xrp-8-august-2026",
-      "snippet": "Crypto ETF News: Bitcoin and Ethereum See Inflows, XRP Stays Quietに関する最新動向です。 概要: Crypto ETF News: Bitcoin and Ethereum ETFs post fresh inflows on August 7 2026, while XRP ETF logs z…"
-    },
-    {
-      "title": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Services",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/professional/insights/markets/five-charts-for-the-month-ahead-tariffs-inflation-and-cpi",
-      "snippet": "Five charts for the month ahead: Tariffs, inflation and CPI | Insights | Bloomberg Professional Servicesに関する最新動向です。 概要: Discover five charts for August that explore the macro trends driving markets, including inflation…"
-    },
-    {
-      "title": "Stock market news for Aug. 7, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for Aug. 7, 2026に関する最新動向です。 概要: The three major averages posted their best weekly performances since April."
-    },
-    {
-      "title": "Surprise Jobs Drop Lifts Stocks as Hike Odds Fall | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Surprise Jobs Drop Lifts Stocks as Hike Odds Fall | Charles Schwabに関する最新動向です。 概要: July jobs growth declined by 23,000, missing expectations for a rise of 86,000, while the unemployme…"
-    },
-    {
-      "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
-      "source": "am.gs.com",
-      "link": "https://am.gs.com/en-us/advisors/insights/article/market-pulse",
-      "snippet": "US Market Pulse August 2026 - Goldman Sachs Asset Managementに関する最新動向です。 概要: The Market Pulse highlights the latest market developments and trends, coupled with insights on port…"
-    },
-    {
-      "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
-      "source": "johnnyjet.com",
-      "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/",
-      "snippet": "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。 概要: A round-up of all the travel news you need to know today."
-    },
-    {
-      "title": "Travel News Roundup",
-      "source": "recommend.com",
-      "link": "https://recommend.com/news-tools/this-weeks-must-know-travel-news",
-      "snippet": "Travel News Roundupに関する最新動向です。 概要: This week’s travel news roundup covers key updates for advisors, from destination advisories and air…"
-    },
-    {
-      "title": "Airline News in Brief 09 August 2026 | Asian Aviation",
-      "source": "asianaviation.com",
-      "link": "https://asianaviation.com/posts/airline-news-in-brief-09-august-2026",
-      "snippet": "Airline News in Brief 09 August 2026 | Asian Aviationに関する最新動向です。 概要: Emirates and South African Airways expand codeshare: Emirates and South African Airways (SAA) announ…"
-    },
-    {
-      "title": "7 Best Travel & Tourism Stocks for 2026 and How to Invest | The Motley Fool",
-      "source": "fool.com",
-      "link": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/travel-stocks/",
-      "snippet": "7 Best Travel & Tourism Stocks for 2026 and How to Invest | The Motley Foolに関する最新動向です。 概要: Here are the top travel stocks for investors to consider putting some cash into."
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-08-09T15:36:35.471925+00:00"
+  ]
 }
