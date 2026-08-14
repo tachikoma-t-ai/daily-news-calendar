@@ -1,0 +1,390 @@
+{
+  "date": "2026-08-15",
+  "title": "2026-08-15 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        },
+        {
+          "title": "Chrome Releases: Stable Channel Update for Desktop",
+          "summaryLines": [
+            "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。",
+            "概要: Interested in switching release channels? Find out how here. If you find a new issue, please let us…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "chromereleases.googleblog.com",
+          "link": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_01815628406.html"
+        },
+        {
+          "title": "GeeLark Upgrades Browser Infrastructure with Version 150 and Team Password Management | The Manila Times",
+          "summaryLines": [
+            "GeeLark Upgrades Browser Infrastructure with Version 150 and Team Password Management | The Manila Timesに関する最新動向です。",
+            "概要: SINGAPORE, Aug. 14, 2026 /PRNewswire/ -- GeeLark, a provider of cloud phone infrastructure and undet…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "manilatimes.net",
+          "link": "https://manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/geelark-upgrades-browser-infrastructure-with-version-150-and-team-password-management/2405607"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
+          "summaryLines": [
+            "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Timesに関する最新動向です。",
+            "概要: The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intens…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "nytimes.com",
+          "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html"
+        },
+        {
+          "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+          "summaryLines": [
+            "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。",
+            "概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "digitalapplied.com",
+          "link": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker"
+        },
+        {
+          "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+          "summaryLines": [
+            "Google’s new AI boss inherits a race to catch OpenAI and Anthropicに関する最新動向です。",
+            "概要: Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with Op…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "cnbc.com",
+          "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
+        },
+        {
+          "title": "New AI Model Releases News | August, 2026 (STARTUP EDITION)",
+          "summaryLines": [
+            "New AI Model Releases News | August, 2026 (STARTUP EDITION)に関する最新動向です。",
+            "概要: New AI Model Releases news, August, 2026 reveals which models cut costs, speed workflows, and help f…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "blog.mean.ceo",
+          "link": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms",
+          "summaryLines": [
+            "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation loomsに関する最新動向です。",
+            "概要: Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move"
+        },
+        {
+          "title": "SEC Set to Unveil Crypto Trading Rules as Clarity Act Stalls in Congress - Bloomberg",
+          "summaryLines": [
+            "SEC Set to Unveil Crypto Trading Rules as Clarity Act Stalls in Congress - Bloombergに関する最新動向です。",
+            "概要: The Securities and Exchange Commission is poised to roll out a pair of major initiatives in the comi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-08-11/sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls"
+        },
+        {
+          "title": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deck",
+          "summaryLines": [
+            "Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deckに関する最新動向です。",
+            "概要: Bitcoin opened at $63,547.05 on Wednesday, August 12, 2026, 0.6% lower than Tuesday",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "finance.yahoo.com",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html"
+        },
+        {
+          "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+          "summaryLines": [
+            "Today's Crypto News: Bitcoin, Ether and Altcoin Insightsに関する最新動向です。",
+            "概要: Discover the latest crypto market insights, including Bitcoin and Ether updates.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "investingnews.com",
+          "link": "https://investingnews.com/cryptocurrency-market-recap/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "Stock Market Today: Dow, S&P Live Updates for August 13 - Bloomberg",
+          "summaryLines": [
+            "Stock Market Today: Dow, S&P Live Updates for August 13 - Bloombergに関する最新動向です。",
+            "概要: Wall Street traders drove stocks higher and bond yields fell as more evidence of moderating inflatio…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "Stock market news for Aug. 13, 2026",
+          "summaryLines": [
+            "Stock market news for Aug. 13, 2026に関する最新動向です。",
+            "概要: The S&amp;P 500 rose to a fresh all-time intraday high on Thursday as oil prices declined and trader…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://cnbc.com/2026/08/12/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Stock Market Today (Aug. 14, 2026): Nasdaq edges higher following market's record close - TheStreet",
+          "summaryLines": [
+            "Stock Market Today (Aug. 14, 2026): Nasdaq edges higher following market's record close - TheStreetに関する最新動向です。",
+            "概要: Stock futures are mixed after the S&P 500 closed at a record high, clearing 7,800 for the first time…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "thestreet.com",
+          "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026"
+        },
+        {
+          "title": "World News and International Headlines : NPR",
+          "summaryLines": [
+            "World News and International Headlines : NPRに関する最新動向です。",
+            "概要: NPR world news, international art and culture, world business and financial markets, world economy…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "npr.org",
+          "link": "https://www.npr.org/sections/world/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "Corporate Travel News: August 2026",
+          "summaryLines": [
+            "Corporate Travel News: August 2026に関する最新動向です。",
+            "概要: CTM&#039;s corporate travel news August 2026: lounge fee hikes and border upgrades define this month…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "travelctm.com",
+          "link": "https://travelctm.com/global/blog/corporate-travel-news-august-2026"
+        },
+        {
+          "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+          "summaryLines": [
+            "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。",
+            "概要: A round-up of all the travel news you need to know today.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "johnnyjet.com",
+          "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/"
+        },
+        {
+          "title": "South Korean airport becomes busiest in world for global traffic amid Iran war | Air transport | The Guardian",
+          "summaryLines": [
+            "South Korean airport becomes busiest in world for global traffic amid Iran war | Air transport | The Guardianに関する最新動向です。",
+            "概要: Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "theguardian.com",
+          "link": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east"
+        },
+        {
+          "title": "Mount Etna eruption disrupts air travel at Catania airport in Sicily",
+          "summaryLines": [
+            "Mount Etna eruption disrupts air travel at Catania airport in Sicilyに関する最新動向です。",
+            "概要: Sicily",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "wantedinrome.com",
+          "link": "https://www.wantedinrome.com/news/italy-mount-etna-eruption-disrupts-air-travel-catania-airport-sicily.html"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
+    "暗号通貨：Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "Chrome Releases: Stable Channel Update for Desktop",
+      "source": "chromereleases.googleblog.com",
+      "link": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_01815628406.html",
+      "snippet": "Chrome Releases: Stable Channel Update for Desktopに関する最新動向です。 概要: Interested in switching release channels? Find out how here. If you find a new issue, please let us…"
+    },
+    {
+      "title": "GeeLark Upgrades Browser Infrastructure with Version 150 and Team Password Management | The Manila Times",
+      "source": "manilatimes.net",
+      "link": "https://manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/geelark-upgrades-browser-infrastructure-with-version-150-and-team-password-management/2405607",
+      "snippet": "GeeLark Upgrades Browser Infrastructure with Version 150 and Team Password Management | The Manila Timesに関する最新動向です。 概要: SINGAPORE, Aug. 14, 2026 /PRNewswire/ -- GeeLark, a provider of cloud phone infrastructure and undet…"
+    },
+    {
+      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "snippet": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Timesに関する最新動向です。 概要: The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intens…"
+    },
+    {
+      "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+      "source": "digitalapplied.com",
+      "link": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
+      "snippet": "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。 概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…"
+    },
+    {
+      "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+      "source": "cnbc.com",
+      "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "snippet": "Google’s new AI boss inherits a race to catch OpenAI and Anthropicに関する最新動向です。 概要: Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with Op…"
+    },
+    {
+      "title": "New AI Model Releases News | August, 2026 (STARTUP EDITION)",
+      "source": "blog.mean.ceo",
+      "link": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/",
+      "snippet": "New AI Model Releases News | August, 2026 (STARTUP EDITION)に関する最新動向です。 概要: New AI Model Releases news, August, 2026 reveals which models cut costs, speed workflows, and help f…"
+    },
+    {
+      "title": "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms",
+      "source": "coindesk.com",
+      "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
+      "snippet": "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation loomsに関する最新動向です。 概要: Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next…"
+    },
+    {
+      "title": "SEC Set to Unveil Crypto Trading Rules as Clarity Act Stalls in Congress - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-08-11/sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls",
+      "snippet": "SEC Set to Unveil Crypto Trading Rules as Clarity Act Stalls in Congress - Bloombergに関する最新動向です。 概要: The Securities and Exchange Commission is poised to roll out a pair of major initiatives in the comi…"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deck",
+      "source": "finance.yahoo.com",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html",
+      "snippet": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deckに関する最新動向です。 概要: Bitcoin opened at $63,547.05 on Wednesday, August 12, 2026, 0.6% lower than Tuesday"
+    },
+    {
+      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
+      "source": "investingnews.com",
+      "link": "https://investingnews.com/cryptocurrency-market-recap/",
+      "snippet": "Today's Crypto News: Bitcoin, Ether and Altcoin Insightsに関する最新動向です。 概要: Discover the latest crypto market insights, including Bitcoin and Ether updates."
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P Live Updates for August 13 - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
+      "snippet": "Stock Market Today: Dow, S&P Live Updates for August 13 - Bloombergに関する最新動向です。 概要: Wall Street traders drove stocks higher and bond yields fell as more evidence of moderating inflatio…"
+    },
+    {
+      "title": "Stock market news for Aug. 13, 2026",
+      "source": "cnbc.com",
+      "link": "https://cnbc.com/2026/08/12/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for Aug. 13, 2026に関する最新動向です。 概要: The S&amp;P 500 rose to a fresh all-time intraday high on Thursday as oil prices declined and trader…"
+    },
+    {
+      "title": "Stock Market Today (Aug. 14, 2026): Nasdaq edges higher following market's record close - TheStreet",
+      "source": "thestreet.com",
+      "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026",
+      "snippet": "Stock Market Today (Aug. 14, 2026): Nasdaq edges higher following market's record close - TheStreetに関する最新動向です。 概要: Stock futures are mixed after the S&P 500 closed at a record high, clearing 7,800 for the first time…"
+    },
+    {
+      "title": "World News and International Headlines : NPR",
+      "source": "npr.org",
+      "link": "https://www.npr.org/sections/world/",
+      "snippet": "World News and International Headlines : NPRに関する最新動向です。 概要: NPR world news, international art and culture, world business and financial markets, world economy…"
+    },
+    {
+      "title": "Corporate Travel News: August 2026",
+      "source": "travelctm.com",
+      "link": "https://travelctm.com/global/blog/corporate-travel-news-august-2026",
+      "snippet": "Corporate Travel News: August 2026に関する最新動向です。 概要: CTM&#039;s corporate travel news August 2026: lounge fee hikes and border upgrades define this month…"
+    },
+    {
+      "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+      "source": "johnnyjet.com",
+      "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/",
+      "snippet": "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。 概要: A round-up of all the travel news you need to know today."
+    },
+    {
+      "title": "South Korean airport becomes busiest in world for global traffic amid Iran war | Air transport | The Guardian",
+      "source": "theguardian.com",
+      "link": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+      "snippet": "South Korean airport becomes busiest in world for global traffic amid Iran war | Air transport | The Guardianに関する最新動向です。 概要: Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from…"
+    },
+    {
+      "title": "Mount Etna eruption disrupts air travel at Catania airport in Sicily",
+      "source": "wantedinrome.com",
+      "link": "https://www.wantedinrome.com/news/italy-mount-etna-eruption-disrupts-air-travel-catania-airport-sicily.html",
+      "snippet": "Mount Etna eruption disrupts air travel at Catania airport in Sicilyに関する最新動向です。 概要: Sicily"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-08-14T15:36:13.053108+00:00"
+}
