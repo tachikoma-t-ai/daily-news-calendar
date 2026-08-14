@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-14",
+  "title": "2026-08-14 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "Chromeウェブストアで偽VPN拡張機能737個、7.5万件超がインストール",
+          "summaryLines": [
+            "Socketの脅威調査チームは、Chromeウェブストアに737個の無料VPN・プロキシ拡張機能が公開されていたと明らかにした。",
+            "Proton VPN、NordVPN、Cloudflare 1.1.1.1など66ブランドを装ったものもあり、累計インストール数は7万5,486件に上る。",
+            "解析対象の多くはブラウザ通信を固定SOCKS5プロキシへ転送する設定で、利用者の通信経路を第三者が握る構図になっていた。"
+          ],
+          "whyImportant": "ブラウザ拡張機能は日常的に使われるため、公式ブランドを装う供給網リスクが個人・企業の通信安全に直結する。",
+          "source": "セキュリティ対策Lab",
+          "link": "https://rocket-boys.co.jp/security-measures-lab/chrome-webstore-fake-vpn-extensions/"
+        },
+        {
+          "title": "SalesforceとServiceNowを狙う攻撃キャンペーン「City-Forum」確認",
+          "summaryLines": [
+            "Recoは、SalesforceのAura/LWRとServiceNowを同じ専用ツールセットで狙う攻撃キャンペーン「City-Forum」を追跡していると発表した。",
+            "攻撃は認証不要のゲストユーザーアクセスを悪用し、通信、金融、公共機関ポータルなどに公開されたデータを列挙・持ち出す手口とされる。",
+            "単一のGoバイナリと同じIPアドレスが長期間使われ、ServiceNow側では文書化の少ないService Portal検索エンドポイントも悪用された。"
+          ],
+          "whyImportant": "SaaS本体の侵害ではなく公開設定の不備を突く攻撃で、管理者の権限棚卸しとログ監視が急務になる。",
+          "source": "セキュリティ対策Lab",
+          "link": "https://rocket-boys.co.jp/security-measures-lab/city-forum-salesforce-servicenow-data-theft/"
+        },
+        {
+          "title": "Microsoft、8月更新で421件のCVEを修正　悪用確認済みも1件",
+          "summaryLines": [
+            "Microsoftは8月11日、サポート中のWindowsなどに月例セキュリティ更新を公開し、421件のCVEを修正した。",
+            "深刻度Criticalは62件で、Windows、Office、Azure、GitHub Copilot、Defender、Exchange、SharePointなど広い製品が対象になった。",
+            "WinSock用Windows Ancillary Function Driverの権限昇格脆弱性CVE-2026-68820は、すでに悪用が確認されている。"
+          ],
+          "whyImportant": "悪用済み脆弱性を含む大規模更新で、企業端末・サーバーのパッチ適用優先度が高い。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2132160.html"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "OpenAI、GPT-5.6の本番エージェント実装ガイドを公開",
+          "summaryLines": [
+            "OpenAIは、GPT-5.6を本番エージェントに組み込むためのビルダー向けガイドを公開した。",
+            "GPT-5.6ファミリーは価格性能比を重視し、タスクごとのモデル選択、推論継続、コンパクション、複数エージェント、プログラム的なツール呼び出しを前面に出している。",
+            "同社は、最上位モデルを常時使う設計から、抽出・分類・判断・検証など工程ごとに品質とコストを割り当てる設計への移行を促している。"
+          ],
+          "whyImportant": "AIエージェントの競争軸がモデル単体の性能から、運用コストと権限設計を含むシステム設計へ移っている。",
+          "source": "OpenAI",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6/"
+        },
+        {
+          "title": "AWSとHugging Face、ロボット学習のストリーミングデータループを解説",
+          "summaryLines": [
+            "AWSとHugging Faceの技術チームは、Strands Robots、LeRobot、Hugging Face Storage Bucketsを使うロボット学習ループを紹介した。",
+            "実演データを記録し、Hubへ同期し、GPU環境で直接ストリーミングして学習し、ポリシーを実機へ戻す流れを扱う。",
+            "日々増える録画・センサーデータを毎回全量コピーするのではなく、差分同期とストリーミングで転送時間やGPU待機時間を抑える狙いだ。"
+          ],
+          "whyImportant": "物理AIではモデル性能だけでなく、大容量データの移動コストと学習サイクルの設計が実用性を左右する。",
+          "source": "Hugging Face Blog",
+          "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+        },
+        {
+          "title": "Ramp AI Index、企業AI支出でAnthropicとOpenAIの違いを分析",
+          "summaryLines": [
+            "Business Insider Japanは、Ramp AI Indexのデータを基に、企業導入ではAnthropicが存在感を保つ一方、最上位モデル支出ではOpenAIが強いと報じた。",
+            "記事によると、AnthropicのFable 5モデルが2026年7月に生んだ企業支出は、OpenAIのGPT-5.6 Solの75%にとどまった。",
+            "AIエージェントが支出成長を牽引するなか、コーディングエージェントの利用拡大がタスク量とコストを連鎖的に増やす可能性も指摘された。"
+          ],
+          "whyImportant": "生成AIの企業導入は、利用社数だけでなく高価格モデルへの実支出とエージェント利用の費用管理が焦点になる。",
+          "source": "Business Insider Japan",
+          "link": "https://www.businessinsider.jp/article/202608-anthropic-openai-ramp-aiindex/"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Charles Schwab、米48州でBTC・ETHの現物取引を開始",
+          "summaryLines": [
+            "米金融大手Charles Schwabは、米48州で暗号資産の現物取引サービス「Schwab Crypto」を開始した。",
+            "対象は約4000万の証券口座で、既存の株式・債券取引プラットフォームからビットコインとイーサリアムを直接売買できる。",
+            "ニューヨーク州とルイジアナ州は対象外で、取引手数料は0.75%、運営にはSchwab Premier BankとPaxosが関わる。"
+          ],
+          "whyImportant": "大手証券プラットフォームによる現物暗号資産取引は、個人投資家のアクセスと金融機関の競争を広げる。",
+          "source": "Digital Today",
+          "link": "https://www.digitaltoday.co.kr/jp/view/93472/charles-schwab-opens-direct-cryptocurrency-trading-in-48-us-states-supporting-bitcoin-and-ether"
+        },
+        {
+          "title": "イーサリアム現物ETF、8月13日に671.69万ドルの純流入",
+          "summaryLines": [
+            "PANewsはSoSoValueデータとして、米東部時間8月13日のイーサリアム現物ETF全体の純流入が671.69万ドルだったと報じた。",
+            "単日純流入はグレースケールのイーサリアム・ミニ・トラストETFが647.48万ドルで首位となった。",
+            "記事執筆時点のイーサリアム現物ETF純資産総額は105.72億ドル、累計純流入額は114.53億ドルとされる。"
+          ],
+          "whyImportant": "ETF資金フローは機関投資家需要とETH価格の下支えを測る主要な指標になっている。",
+          "source": "PANews",
+          "link": "https://www.panewslab.com/ja/articles/019ffe6d-4750-776e-8f9e-c3a830ad4fac"
+        },
+        {
+          "title": "メタプラネット、社債プログラム「BitBonds」初回分を発行",
+          "summaryLines": [
+            "国内最大のビットコイン保有企業メタプラネットは、新設した社債発行プログラム「BitBonds」の初回分となる私募社債を発行した。",
+            "第21〜24回無担保普通社債の4シリーズで、発行総額は約2億円、償還期間は3年程度、利率は4.0〜4.3%。",
+            "同社は旧Siiibo証券を子会社化しており、発行体と販売チャネルを連携させた初の案件と位置付けている。"
+          ],
+          "whyImportant": "BTC保有企業の資金調達手段が株式や担保借入から円建て社債へ広がり、信用リスクの見方も問われる。",
+          "source": "JinaCoin",
+          "link": "https://jinacoin.ne.jp/metaplanet-bitbonds-20260814/"
+        }
+      ]
+    },
+    {
+      "id": "current",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "千葉の記録的大雨、気象庁が「令和8年8月千葉豪雨」と命名",
+          "summaryLines": [
+            "千葉県で線状降水帯が発生し、気象庁は13日夜から14日未明にかけて千葉市などに大雨と土砂災害のレベル5特別警報を出した。",
+            "産経新聞によると、各地で道路が冠水し、県などは計6人の死亡を確認した。",
+            "気象庁は13日から14日にかけての大雨を「令和8年8月千葉豪雨」と命名し、千葉県と千葉市は計25市町に災害救助法の適用を決めた。"
+          ],
+          "whyImportant": "新しい防災気象情報の運用後初のレベル5特別警報で、避難・交通・復旧対応の検証が重要になる。",
+          "source": "産経ニュース",
+          "link": "https://www.sankei.com/article/20260814-LAABO5FPYJK25IRXWHJOAIC5IY/"
+        },
+        {
+          "title": "日経平均、一時1000円超高で6万9000円台　AI・半導体株がけん引",
+          "summaryLines": [
+            "外為どっとコムは、8月14日の日経平均が一時1000円超上昇し、6万9000円台まで上値を伸ばしたと伝えた。",
+            "米CPIに続きPPIでもインフレ鈍化が確認され、米金利低下と米ハイテク株高が東京市場にも波及した。",
+            "アドバンテスト、ソフトバンクグループ、キオクシアホールディングスなどAI・半導体関連が上昇をけん引した。"
+          ],
+          "whyImportant": "日本株の上昇が米金利とAI・半導体テーマに強く連動しており、来週の7万円台試しが市場心理を左右する。",
+          "source": "外為どっとコム マネ育チャンネル",
+          "link": "https://www.gaitame.com/media/entry/2026/08/14/103739"
+        },
+        {
+          "title": "ドル円は159円台半ば、米PPI下振れ後も円安方向へ戻す",
+          "summaryLines": [
+            "OANDAは、8月13日のドル円が米PPIの市場予想下振れ後に円高へ振れたものの、その後は円安方向に戻して取引を終えたと整理した。",
+            "14日朝時点のオーダーブックでは、158円付近や159円台半ばに厚い買い注文、160円付近に厚い売り注文が確認された。",
+            "14日はEUの4〜6月期GDP、米7月小売売上高、米ミシガン大学消費者態度指数が予定されている。"
+          ],
+          "whyImportant": "為替は輸入物価、企業収益、旅行費用に波及し、米物価・消費指標への反応が引き続き重要になる。",
+          "source": "OANDA Lab",
+          "link": "https://www.oanda.jp/lab-education/market_news/2026_08_14_usdjpy/"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "日本の旅行（国内旅行）",
+      "items": [
+        {
+          "title": "JR東日本、千葉県内の大雨で成田エクスプレスなど終日運休",
+          "summaryLines": [
+            "JR東日本は、千葉県内の大雨の影響で8月14日の特急「成田エクスプレス」を全列車運休すると発表した。",
+            "特急「さざなみ」「わかしお」「しおさい」も終日運休となり、久留里線の木更津〜上総亀山駅間など複数区間で終日運転見合わせが続いた。",
+            "成田線の千葉〜成田空港駅間など一部区間は夕方ごろの再開見込みとされたが、代行輸送は実施されない。"
+          ],
+          "whyImportant": "空港アクセスと房総方面の移動に大きく影響し、旅行者は航空便・宿泊予定を含めた代替手段の確認が必要になる。",
+          "source": "TRAICY",
+          "link": "https://www.traicy.com/posts/20260814379085/"
+        },
+        {
+          "title": "JR東海ツアーズ、新幹線＋ホテルの「2WEEK SALE」先行発売を開始",
+          "summaryLines": [
+            "ジェイアール東海ツアーズは、EX旅パック対象の「2WEEK SALE」でLINE連携者向け先行発売を8月14日13時から始めた。",
+            "対象出発日は2026年10月1日から2027年1月4日で、東京、舞浜・新浦安、静岡、愛知、京都、大阪、ユニバーサルシティなどが対象になる。",
+            "新幹線の時間変更が改札入場前まで無料で可能で、秋の紅葉や年末年始の国内旅行需要を見込む。"
+          ],
+          "whyImportant": "秋冬の人気旅行シーズンに向け、交通と宿泊をまとめた早期予約需要を押し上げる材料になる。",
+          "source": "旅とおでかけ 鉄道チャンネル",
+          "link": "https://tetsudo-ch.com/13035214.html"
+        },
+        {
+          "title": "旅行予約サイト各社、夏から秋の国内旅行セールを継続",
+          "summaryLines": [
+            "トラベラーズナビは、楽天トラベル、じゃらん、JTB、日本旅行など主要旅行予約サイトの8月セール・クーポン情報を更新した。",
+            "楽天トラベルは宿泊最大30%オフやツアー割引、じゃらんは宿の日クーポンやクーポンフェス、JTBは夏旅関連キャンペーンなどを掲載している。",
+            "国内宿泊、鉄道、飛行機、レンタカー、遊び体験など、旅行用途別に使える割引情報をまとめている。"
+          ],
+          "whyImportant": "物価高の中で旅行費用を抑える選択肢が増え、夏休み後半から秋旅の需要喚起につながる。",
+          "source": "トラベラーズナビ",
+          "link": "https://travelersnavi.com/coupon/goto-yoyaku"
+        }
+      ]
+    }
+  ]
+}
