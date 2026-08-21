@@ -1,55 +1,32 @@
 {
   "date": "2026-08-21",
   "title": "2026-08-21 の日次ニュースダイジェスト",
-  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 日本の旅行）で当日ニュースを要約。",
   "sections": [
     {
       "id": "it",
       "name": "IT",
       "items": [
         {
-          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "title": "デル調査、中堅中小企業のIT投資が回復基調に　AI・インフラ投資を拡大",
           "summaryLines": [
-            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
-            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "デル・テクノロジーズは8月21日、「中堅中小企業向けIT投資動向調査2026」の結果を発表した。",
+            "IT予算増額企業は35.6%でコロナ以降最大級に回復し、サーバ、ストレージ、バックアップなどのインフラ投資が2桁増加した。",
+            "生成AI開発や情報戦略策定にかける時間も増え、情シス業務が運用中心から戦略・AI活用へ移りつつある。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techcrunch.com",
-          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+          "whyImportant": "中堅中小企業でもAI活用とセキュリティ対策が本格投資テーマになり、国内IT需要の底堅さを示すため。",
+          "source": "マイナビ TECH+",
+          "link": "https://news.mynavi.jp/techplus/article/20260821-4848242/"
         },
         {
-          "title": "Zen Browser 1.21.15b Shipped: Firefox 154 Engine, macOS Backups, and 60+ Security Fixes",
+          "title": "Windows 11の8月セキュリティ更新後、一部ゲームに不具合報告",
           "summaryLines": [
-            "Zen Browser 1.21.15b Shipped: Firefox 154 Engine, macOS Backups, and 60+ Security Fixesに関する最新動向です。",
-            "概要: Zen Browser 1.21.15b shipped today on the stable channel, upgrading its engine from Firefox 153.0.4…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Microsoftは8月19日、Windows 11 バージョン24H2/25H2で、8月11日公開のセキュリティ更新プログラム以降に一部ゲームが動作しない問題を確認した。",
+            "RGB照明機能を備えた周辺機器や内部コンポーネントに関連するとみられ、アプリ停止、予期しない終了、再起動などの症状が報告されている。"
           ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "linuxcompatible.org",
-          "link": "https://linuxcompatible.org/story/zen-browser-12115b-shipped-firefox-154-engine-macos-backups-and-security-fixes"
-        },
-        {
-          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-          "summaryLines": [
-            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
-            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "pcmag.com",
-          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
-        },
-        {
-          "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
-          "summaryLines": [
-            "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。",
-            "概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
-          "source": "techradar.com",
-          "link": "https://www.techradar.com/best/browser"
+          "whyImportant": "セキュリティ更新の副作用は一般利用者と管理者の双方に影響し、パッチ適用後の監視と情報共有が重要になるため。",
+          "source": "窓の杜",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2134532.html"
         }
       ]
     },
@@ -58,48 +35,25 @@
       "name": "AI",
       "items": [
         {
-          "title": "Stripe Finalizes Deal to Acquire AI Startup OpenRouter for Over $7 Billion - Bloomberg",
+          "title": "メルカリ、商品検索・推薦向け生成AIモデルを自前開発へ",
           "summaryLines": [
-            "Stripe Finalizes Deal to Acquire AI Startup OpenRouter for Over $7 Billion - Bloombergに関する最新動向です。",
-            "概要: Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies sw…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "メルカリは商品の検索や推薦に使う生成AIモデルの開発に乗り出し、2027年6月期の実用化を目指す。",
+            "山田進太郎社長は、AI利用コストの抑制や特定モデルへの依存リスクを下げる狙いを説明した。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "bloomberg.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+          "whyImportant": "大規模消費者サービスが自社AI基盤を持つ動きは、生成AIのコスト管理と差別化競争を象徴するため。",
+          "source": "日本経済新聞",
+          "link": "https://www.nikkei.com/article/DGXZQOCD145BU0U6A810C2000000/"
         },
         {
-          "title": "Model Release Notes | OpenAI Help Center",
+          "title": "Unsloth、新量子化技術Dynamic v3.0でQwen3.8-27Bを小型化",
           "summaryLines": [
-            "Model Release Notes | OpenAI Help Centerに関する最新動向です。",
-            "概要: Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "Unslothは8月19日、AIモデル小型化の新しい量子化技術「Dynamic v3.0」を発表し、Qwen3.8-27Bの量子化版を提供開始した。",
+            "Dynamic v3.0版は上位1%精度が前世代比で10%以上向上し、1bit量子化では約6.2GBまで縮小したモデルも用意された。",
+            "一方で、低ビット量子化はエージェント用途やツール呼び出しでは精度低下・ループ発生の注意点が示されている。"
           ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "help.openai.com",
-          "link": "https://help.openai.com/en/articles/9624314-model-release-notes"
-        },
-        {
-          "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
-          "summaryLines": [
-            "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Timesに関する最新動向です。",
-            "概要: The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intens…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "nytimes.com",
-          "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html"
-        },
-        {
-          "title": "The latest AI news we announced in July 2026",
-          "summaryLines": [
-            "The latest AI news we announced in July 2026に関する最新動向です。",
-            "概要: Here are Google’s latest AI updates from July 2026",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
-          "source": "blog.google",
-          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+          "whyImportant": "ローカル推論や低コスト運用の選択肢が広がる一方、用途別に精度とサイズの見極めが必要になるため。",
+          "source": "PC Watch",
+          "link": "https://pc.watch.impress.co.jp/docs/news/2134411.html"
         }
       ]
     },
@@ -108,48 +62,24 @@
       "name": "暗号通貨",
       "items": [
         {
-          "title": "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms",
+          "title": "BTCは1181万円前後、メタプラネット株が急伸",
           "summaryLines": [
-            "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation loomsに関する最新動向です。",
-            "概要: Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "8月21日、ビットコインは1181万円前後、イーサリアムは約37.2万円、ソラナは約1.41万円で推移した。",
+            "ビットコインを財務資産として保有するメタプラネット株は午前時点で前日比18.97%高となり、原資産を上回る上昇率を示した。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coindesk.com",
-          "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move"
+          "whyImportant": "暗号資産価格の上昇が関連上場企業へ波及し、株式市場側のリスク選好も測る材料になるため。",
+          "source": "CRYPTO TIMES",
+          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-august-21/"
         },
         {
-          "title": "Bitcoin Short Squeeze Ripples Across a Battered Crypto Complex - Bloomberg",
+          "title": "米国のBTC大量保有検討発言、実行権限と財源に不透明感",
           "summaryLines": [
-            "Bitcoin Short Squeeze Ripples Across a Battered Crypto Complex - Bloombergに関する最新動向です。",
-            "概要: Bitcoin’s bruised market suddenly sprang back to life, surging nearly 8% and unleashing the biggest…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "トランプ米大統領が8月20日、米国がビットコインやその他の暗号資産を相当量保有することを検討していると述べた。",
+            "一方で、現行法の下で財務省が数十億ドル規模の市場買い付けを行う予算措置や権限は公になっていないと報じられている。"
           ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "bloomberg.com",
-          "link": "https://bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting"
-        },
-        {
-          "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation",
-          "summaryLines": [
-            "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulationに関する最新動向です。",
-            "概要: Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "finance.yahoo.com",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html"
-        },
-        {
-          "title": "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AI",
-          "summaryLines": [
-            "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AIに関する最新動向です。",
-            "概要: Get the latest Bitcoin (BTC) daily analysis for 20 August 2026. Price movements, market sentiment, t…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
-          "source": "coinstats.app",
-          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+          "whyImportant": "国家による暗号資産保有の思惑は市場価格を動かしやすいが、制度面の制約が実現可能性を左右するため。",
+          "source": "CRYPTO TIMES",
+          "link": "https://crypto-times.jp/news-us-bitcoin-reserve-legal-limits/"
         }
       ]
     },
@@ -158,233 +88,54 @@
       "name": "時事・経済ニュース",
       "items": [
         {
-          "title": "Stock market news for Aug. 18, 2026",
+          "title": "日経平均、200円安の66,016円36銭で反落",
           "summaryLines": [
-            "Stock market news for Aug. 18, 2026に関する最新動向です。",
-            "概要: The S&amp;P 500 fell on Tuesday, pressured by a run in sovereign bond yields to multidecade highs am…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "8月21日の東京株式市場で、日経平均株価は前日比200円43銭安の66,016円36銭で取引を終えた。",
+            "前日に反発した後、週末要因や米株安を背景に売りが優勢となり、消費関連株などが重しになった。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnbc.com",
-          "link": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html"
+          "whyImportant": "急伸後の調整局面でどの業種が売られるかは、国内株式市場のリスク許容度を読む手掛かりになるため。",
+          "source": "株式新聞Web",
+          "link": "https://kabushiki.jp/news/765236"
         },
         {
-          "title": "Stocks Waver Before Fed Minutes as Yields Retreat | Charles Schwab",
+          "title": "ドル円は159円付近、日本CPIと貿易赤字を受け円売り優勢",
           "summaryLines": [
-            "Stocks Waver Before Fed Minutes as Yields Retreat | Charles Schwabに関する最新動向です。",
-            "概要: Stocks fell in early trading as Treasury yields rebounded, wiping out most of the previous day&#x27…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "8月21日の為替市場でドル円は159円付近でもみ合い、日本の経済統計を受けて円売りが優勢となった。",
+            "7月消費者物価指数は前年比1.9%と伸びが加速したが日銀目標の2%を下回り、7月貿易収支は6345億円の赤字となった。",
+            "市場では9月の日銀利上げをほぼ織り込む一方、追加利上げペースやターミナルレートへの関心が高まっている。"
           ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "schwab.com",
-          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
-        },
-        {
-          "title": "Stock Market Today (Aug. 18, 2026): Nasdaq, S&P 500 slip as 30-year Treasury yield hits highest point in nearly two decades - TheStreet",
-          "summaryLines": [
-            "Stock Market Today (Aug. 18, 2026): Nasdaq, S&P 500 slip as 30-year Treasury yield hits highest point in nearly two decades - TheStreetに関する最新動向です。",
-            "概要: Investors are concerned after President Trump said he would not try to revive a stalled truce with I…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "thestreet.com",
-          "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-18-2026"
-        },
-        {
-          "title": "August 18, 2026 - Trump says no talks underway with Iran, UAE detects ‘missile threat’ | CNN",
-          "summaryLines": [
-            "August 18, 2026 - Trump says no talks underway with Iran, UAE detects ‘missile threat’ | CNNに関する最新動向です。",
-            "概要: US President Donald Trump said no talks are underway or scheduled with Iran, after saying earlier th…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
-          "source": "cnn.com",
-          "link": "https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump"
+          "whyImportant": "物価、貿易赤字、日銀政策期待が重なり、円相場と輸入物価の先行きを左右するため。",
+          "source": "みんかぶ FX/為替",
+          "link": "https://fx.minkabu.jp/news/376740"
         }
       ]
     },
     {
       "id": "travel",
-      "name": "旅行",
+      "name": "日本の旅行",
       "items": [
         {
-          "title": "Top Airline News Stories for August 14, 2026 | World Airline News",
+          "title": "京王ライナー、10月から平日ラッシュに「立席」導入　料金も曜日別へ",
           "summaryLines": [
-            "Top Airline News Stories for August 14, 2026 | World Airline Newsに関する最新動向です。",
-            "概要: Airline News Daily Top airline news stories for August 14, 2026 (click the link for the full details…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "京王電鉄は10月1日から、座席指定列車「京王ライナー」に平日ラッシュ時間帯向けの立席サービスを導入する。",
+            "立席は京王チケットレスサービスのみで販売し、利用料金は400円。座席指定料金は現行の一律410円から、平日・土休日別の体系へ移行する。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "worldairlinenews.com",
-          "link": "https://worldairlinenews.com/2026/08/14/top-airline-news-stories-for-august-14-2026/"
+          "whyImportant": "首都圏の通勤・観光移動で有料着席列車の需要が高く、混雑対応と料金設計の変化が利用計画に影響するため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2134566.html"
         },
         {
-          "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+          "title": "ホテルサービス付き車中泊「まるごとRVステイ」、全国7施設に拡大",
           "summaryLines": [
-            "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。",
-            "概要: A round-up of all the travel news you need to know today.",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+            "エムアンドエムサービスは、ホテル敷地内で車中泊しながら食事、温泉、ラウンジサービスを利用できる「まるごとRVステイ」を全国7施設に拡大した。",
+            "対象は京都・亀岡、八ヶ岳、熊野、伊勢志摩、石川・千里浜、福井・若狭、愛媛・上島町などで、電源付き専用RVサイトを設ける。",
+            "RVパークが全国670施設超に広がるなか、車中泊とホテル滞在を組み合わせた国内旅行の選択肢が増えている。"
           ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "johnnyjet.com",
-          "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/"
-        },
-        {
-          "title": "Corporate Travel News: August 2026",
-          "summaryLines": [
-            "Corporate Travel News: August 2026に関する最新動向です。",
-            "概要: CTM&#039;s corporate travel news August 2026: lounge fee hikes and border upgrades define this month…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "travelctm.com",
-          "link": "https://travelctm.com/global/blog/corporate-travel-news-august-2026"
-        },
-        {
-          "title": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabi",
-          "summaryLines": [
-            "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabiに関する最新動向です。",
-            "概要: The latest news and updates on Etihad flight status and cancellations to and from Abu Dhabi in July…",
-            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
-          ],
-          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
-          "source": "timeoutabudhabi.com",
-          "link": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-august-2026"
+          "whyImportant": "自家用車・キャンピングカー旅行の需要に合わせ、地方周遊と宿泊施設活用を両立する新しい滞在形態が広がるため。",
+          "source": "トラベル Watch",
+          "link": "https://travel.watch.impress.co.jp/docs/news/2134357.html"
         }
       ]
     }
-  ],
-  "top3": [
-    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-    "AI：Stripe Finalizes Deal to Acquire AI Startup OpenRouter for Over $7 Billion - Bloomberg",
-    "暗号通貨：Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms"
-  ],
-  "headlines": [
-    {
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
-      "source": "techcrunch.com",
-      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
-    },
-    {
-      "title": "Zen Browser 1.21.15b Shipped: Firefox 154 Engine, macOS Backups, and 60+ Security Fixes",
-      "source": "linuxcompatible.org",
-      "link": "https://linuxcompatible.org/story/zen-browser-12115b-shipped-firefox-154-engine-macos-backups-and-security-fixes",
-      "snippet": "Zen Browser 1.21.15b Shipped: Firefox 154 Engine, macOS Backups, and 60+ Security Fixesに関する最新動向です。 概要: Zen Browser 1.21.15b shipped today on the stable channel, upgrading its engine from Firefox 153.0.4…"
-    },
-    {
-      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
-      "source": "pcmag.com",
-      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
-      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
-    },
-    {
-      "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
-      "source": "techradar.com",
-      "link": "https://www.techradar.com/best/browser",
-      "snippet": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。 概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…"
-    },
-    {
-      "title": "Stripe Finalizes Deal to Acquire AI Startup OpenRouter for Over $7 Billion - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "snippet": "Stripe Finalizes Deal to Acquire AI Startup OpenRouter for Over $7 Billion - Bloombergに関する最新動向です。 概要: Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies sw…"
-    },
-    {
-      "title": "Model Release Notes | OpenAI Help Center",
-      "source": "help.openai.com",
-      "link": "https://help.openai.com/en/articles/9624314-model-release-notes",
-      "snippet": "Model Release Notes | OpenAI Help Centerに関する最新動向です。 概要: Today, we’re continuing to retire older models with limited usage in ChatGPT so we can better serve…"
-    },
-    {
-      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
-      "source": "nytimes.com",
-      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-      "snippet": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Timesに関する最新動向です。 概要: The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intens…"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "source": "blog.google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "snippet": "The latest AI news we announced in July 2026に関する最新動向です。 概要: Here are Google’s latest AI updates from July 2026"
-    },
-    {
-      "title": "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms",
-      "source": "coindesk.com",
-      "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-      "snippet": "Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation loomsに関する最新動向です。 概要: Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next…"
-    },
-    {
-      "title": "Bitcoin Short Squeeze Ripples Across a Battered Crypto Complex - Bloomberg",
-      "source": "bloomberg.com",
-      "link": "https://bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting",
-      "snippet": "Bitcoin Short Squeeze Ripples Across a Battered Crypto Complex - Bloombergに関する最新動向です。 概要: Bitcoin’s bruised market suddenly sprang back to life, surging nearly 8% and unleashing the biggest…"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation",
-      "source": "finance.yahoo.com",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
-      "snippet": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulationに関する最新動向です。 概要: Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday"
-    },
-    {
-      "title": "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AI",
-      "source": "coinstats.app",
-      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-      "snippet": "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 20 August 2026. Price movements, market sentiment, t…"
-    },
-    {
-      "title": "Stock market news for Aug. 18, 2026",
-      "source": "cnbc.com",
-      "link": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-      "snippet": "Stock market news for Aug. 18, 2026に関する最新動向です。 概要: The S&amp;P 500 fell on Tuesday, pressured by a run in sovereign bond yields to multidecade highs am…"
-    },
-    {
-      "title": "Stocks Waver Before Fed Minutes as Yields Retreat | Charles Schwab",
-      "source": "schwab.com",
-      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-      "snippet": "Stocks Waver Before Fed Minutes as Yields Retreat | Charles Schwabに関する最新動向です。 概要: Stocks fell in early trading as Treasury yields rebounded, wiping out most of the previous day&#x27…"
-    },
-    {
-      "title": "Stock Market Today (Aug. 18, 2026): Nasdaq, S&P 500 slip as 30-year Treasury yield hits highest point in nearly two decades - TheStreet",
-      "source": "thestreet.com",
-      "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-18-2026",
-      "snippet": "Stock Market Today (Aug. 18, 2026): Nasdaq, S&P 500 slip as 30-year Treasury yield hits highest point in nearly two decades - TheStreetに関する最新動向です。 概要: Investors are concerned after President Trump said he would not try to revive a stalled truce with I…"
-    },
-    {
-      "title": "August 18, 2026 - Trump says no talks underway with Iran, UAE detects ‘missile threat’ | CNN",
-      "source": "cnn.com",
-      "link": "https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump",
-      "snippet": "August 18, 2026 - Trump says no talks underway with Iran, UAE detects ‘missile threat’ | CNNに関する最新動向です。 概要: US President Donald Trump said no talks are underway or scheduled with Iran, after saying earlier th…"
-    },
-    {
-      "title": "Top Airline News Stories for August 14, 2026 | World Airline News",
-      "source": "worldairlinenews.com",
-      "link": "https://worldairlinenews.com/2026/08/14/top-airline-news-stories-for-august-14-2026/",
-      "snippet": "Top Airline News Stories for August 14, 2026 | World Airline Newsに関する最新動向です。 概要: Airline News Daily Top airline news stories for August 14, 2026 (click the link for the full details…"
-    },
-    {
-      "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
-      "source": "johnnyjet.com",
-      "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/",
-      "snippet": "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。 概要: A round-up of all the travel news you need to know today."
-    },
-    {
-      "title": "Corporate Travel News: August 2026",
-      "source": "travelctm.com",
-      "link": "https://travelctm.com/global/blog/corporate-travel-news-august-2026",
-      "snippet": "Corporate Travel News: August 2026に関する最新動向です。 概要: CTM&#039;s corporate travel news August 2026: lounge fee hikes and border upgrades define this month…"
-    },
-    {
-      "title": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabi",
-      "source": "timeoutabudhabi.com",
-      "link": "https://www.timeoutabudhabi.com/news/abu-dhabi-flight-travel-guidance-august-2026",
-      "snippet": "The latest flight advice for Abu Dhabi airport travellers | Time Out Abu Dhabiに関する最新動向です。 概要: The latest news and updates on Etihad flight status and cancellations to and from Abu Dhabi in July…"
-    }
-  ],
-  "meta": {
-    "sourceMode": "brave",
-    "categoryCount": 5,
-    "itemCount": 20
-  },
-  "generatedAt": "2026-08-20T15:36:51.666460+00:00"
+  ]
 }
