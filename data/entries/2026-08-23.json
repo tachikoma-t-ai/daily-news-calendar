@@ -1,0 +1,390 @@
+{
+  "date": "2026-08-23",
+  "title": "2026-08-23 の日次ニュースダイジェスト",
+  "summary": "5カテゴリ（IT / AI / 暗号通貨 / 時事・経済ニュース / 旅行）で当日ニュースを要約。",
+  "sections": [
+    {
+      "id": "it",
+      "name": "IT",
+      "items": [
+        {
+          "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+          "summaryLines": [
+            "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。",
+            "概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techcrunch.com",
+          "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
+        {
+          "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
+          "summaryLines": [
+            "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。",
+            "概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "techradar.com",
+          "link": "https://www.techradar.com/best/browser"
+        },
+        {
+          "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+          "summaryLines": [
+            "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。",
+            "概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "pcmag.com",
+          "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser"
+        },
+        {
+          "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPost",
+          "summaryLines": [
+            "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPostに関する最新動向です。",
+            "概要: Cloudflare launches Kitesurf, an agent-first stateless browser on Workers using 3–7× less CPU and me…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "開発生産性・運用コスト・セキュリティ要件に直結し、実装判断へ影響するため。",
+          "source": "marktechpost.com",
+          "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        {
+          "title": "Model Release Notes | OpenAI Help Center",
+          "summaryLines": [
+            "Model Release Notes | OpenAI Help Centerに関する最新動向です。",
+            "概要: We’ve updated the Model Spec, our living document outlining intended model behavior · This update ad…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "help.openai.com",
+          "link": "https://help.openai.com/en/articles/9624314-model-release-notes"
+        },
+        {
+          "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
+          "summaryLines": [
+            "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Timesに関する最新動向です。",
+            "概要: The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intens…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "nytimes.com",
+          "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html"
+        },
+        {
+          "title": "Latest AI Developments: August 2026 Update - Local AI Zone",
+          "summaryLines": [
+            "Latest AI Developments: August 2026 Update - Local AI Zoneに関する最新動向です。",
+            "概要: Latest AI developments in August 2026: OX Alpha mystery model, Gemini 3.7 Flash, Muse Code + Spark 1…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "local-ai-zone.github.io",
+          "link": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html"
+        },
+        {
+          "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+          "summaryLines": [
+            "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。",
+            "概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "モデル性能だけでなく、供給網・規制・導入ROIの観点で事業インパクトが大きいため。",
+          "source": "digitalapplied.com",
+          "link": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker"
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "暗号通貨",
+      "items": [
+        {
+          "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+          "summaryLines": [
+            "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 storiesに関する最新動向です。",
+            "概要: Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coindesk.com",
+          "link": "https://coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories"
+        },
+        {
+          "title": "Crypto Surge Triggers Record $2.7 Billion of Short Liquidations - Bloomberg",
+          "summaryLines": [
+            "Crypto Surge Triggers Record $2.7 Billion of Short Liquidations - Bloombergに関する最新動向です。",
+            "概要: The crypto market suddenly sprang back to life, sending Bitcoin up nearly 8% and unleashing the bigg…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "bloomberg.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting"
+        },
+        {
+          "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation",
+          "summaryLines": [
+            "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulationに関する最新動向です。",
+            "概要: Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "finance.yahoo.com",
+          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html"
+        },
+        {
+          "title": "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AI",
+          "summaryLines": [
+            "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AIに関する最新動向です。",
+            "概要: Get the latest Bitcoin (BTC) daily analysis for 22 August 2026. Price movements, market sentiment, t…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "マクロ要因と資金フローの影響を受けやすく、短期ボラティリティ管理が重要なため。",
+          "source": "coinstats.app",
+          "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "時事・経済ニュース",
+      "items": [
+        {
+          "title": "How major US stock indexes fared Thursday 8/20/2026 | AP News",
+          "summaryLines": [
+            "How major US stock indexes fared Thursday 8/20/2026 | AP Newsに関する最新動向です。",
+            "概要: The relief that swept the bond market just a day earlier disappeared as oil prices, worries about hi…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "apnews.com",
+          "link": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-b595de56eb56950bf87e77e1f812cfba"
+        },
+        {
+          "title": "Stock Market Today: Dow, S&P Live Updates for August 20 - Bloomberg",
+          "summaryLines": [
+            "Stock Market Today: Dow, S&P Live Updates for August 20 - Bloombergに関する最新動向です。",
+            "概要: A rally in bonds fizzled out and stocks fell on bets the Treasury’s plan to curb borrowing costs is…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "bloomberg.com",
+          "link": "https://bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "Stock market news for Aug. 21, 2026",
+          "summaryLines": [
+            "Stock market news for Aug. 21, 2026に関する最新動向です。",
+            "概要: Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "cnbc.com",
+          "link": "https://cnbc.com/2026/08/20/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Stocks Rise Early as Treasury Yields Stabilize | Charles Schwab",
+          "summaryLines": [
+            "Stocks Rise Early as Treasury Yields Stabilize | Charles Schwabに関する最新動向です。",
+            "概要: Stocks rose in early trading as Treasury yields stabilized near long-term highs. But the major avera…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "金利・為替・関税などの変化が、企業業績と投資判断に広範囲で波及するため。",
+          "source": "schwab.com",
+          "link": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "items": [
+        {
+          "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+          "summaryLines": [
+            "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。",
+            "概要: A round-up of all the travel news you need to know today.",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "johnnyjet.com",
+          "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/"
+        },
+        {
+          "title": "Top Airline News Stories for August 14, 2026 | World Airline News",
+          "summaryLines": [
+            "Top Airline News Stories for August 14, 2026 | World Airline Newsに関する最新動向です。",
+            "概要: Airline News Daily Top airline news stories for August 14, 2026 (click the link for the full details…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "worldairlinenews.com",
+          "link": "https://worldairlinenews.com/2026/08/14/top-airline-news-stories-for-august-14-2026/"
+        },
+        {
+          "title": "Travel Price Index (2026-08-12)| U.S. Travel Association",
+          "summaryLines": [
+            "Travel Price Index (2026-08-12)| U.S. Travel Associationに関する最新動向です。",
+            "概要: Developed by the U.S. Travel Association, the Travel Price Index (TPI) measures the one-month change…",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "ustravel.org",
+          "link": "https://www.ustravel.org/research/travel-price-index"
+        },
+        {
+          "title": "August points and miles deals: Earn more with these offers - The Points Guy",
+          "summaryLines": [
+            "August points and miles deals: Earn more with these offers - The Points Guyに関する最新動向です。",
+            "概要: Save, maximize and earn points and miles on various travel purchases this August",
+            "背景や今後の影響を把握するため、継続ウォッチが有効です。"
+          ],
+          "whyImportant": "需要回復・為替・政策変更が、消費行動や移動コストに直接影響するため。",
+          "source": "thepointsguy.com",
+          "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/"
+        }
+      ]
+    }
+  ],
+  "top3": [
+    "IT：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+    "AI：Model Release Notes | OpenAI Help Center",
+    "暗号通貨：Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories"
+  ],
+  "headlines": [
+    {
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunch",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snippet": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari | TechCrunchに関する最新動向です。 概要: We’ve compiled an overview of some of the top alternative browsers available today aiming to challen…"
+    },
+    {
+      "title": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadar",
+      "source": "techradar.com",
+      "link": "https://www.techradar.com/best/browser",
+      "snippet": "The Best Web Browsers for 2026: Expert Recommendations for a Superior Internet Experience | TechRadarに関する最新動向です。 概要: We list the best web browsers, to make it simple and easy to not just use the internet but also bett…"
+    },
+    {
+      "title": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMag",
+      "source": "pcmag.com",
+      "link": "https://www.pcmag.com/picks/brave-chrome-edge-firefox-or-safari-we-pick-the-best-browser",
+      "snippet": "Brave, Chrome, Edge, Firefox, or Safari? We Pick the Best Browser for 2026 | PCMagに関する最新動向です。 概要: Your browser is more than just another app—it's your gateway to the web. We break down the strengths…"
+    },
+    {
+      "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPost",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "snippet": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers - MarkTechPostに関する最新動向です。 概要: Cloudflare launches Kitesurf, an agent-first stateless browser on Workers using 3–7× less CPU and me…"
+    },
+    {
+      "title": "Model Release Notes | OpenAI Help Center",
+      "source": "help.openai.com",
+      "link": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "snippet": "Model Release Notes | OpenAI Help Centerに関する最新動向です。 概要: We’ve updated the Model Spec, our living document outlining intended model behavior · This update ad…"
+    },
+    {
+      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Times",
+      "source": "nytimes.com",
+      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "snippet": "Meta Unveils an Open Version of Its Most Powerful A.I. Model - The New York Timesに関する最新動向です。 概要: The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intens…"
+    },
+    {
+      "title": "Latest AI Developments: August 2026 Update - Local AI Zone",
+      "source": "local-ai-zone.github.io",
+      "link": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+      "snippet": "Latest AI Developments: August 2026 Update - Local AI Zoneに関する最新動向です。 概要: Latest AI developments in August 2026: OX Alpha mystery model, Gemini 3.7 Flash, Muse Code + Spark 1…"
+    },
+    {
+      "title": "AI Model Releases: August 2026 Tracker and Dated Ledger",
+      "source": "digitalapplied.com",
+      "link": "https://www.digitalapplied.com/blog/ai-model-releases-august-2026-tracker",
+      "snippet": "AI Model Releases: August 2026 Tracker and Dated Ledgerに関する最新動向です。 概要: A dated ledger of what shipped in early August 2026, what was only announced, and which deadlines la…"
+    },
+    {
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+      "source": "coindesk.com",
+      "link": "https://coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "snippet": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 storiesに関する最新動向です。 概要: Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves…"
+    },
+    {
+      "title": "Crypto Surge Triggers Record $2.7 Billion of Short Liquidations - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/bitcoin-surges-most-since-march-ahead-of-white-house-meeting",
+      "snippet": "Crypto Surge Triggers Record $2.7 Billion of Short Liquidations - Bloombergに関する最新動向です。 概要: The crypto market suddenly sprang back to life, sending Bitcoin up nearly 8% and unleashing the bigg…"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation",
+      "source": "finance.yahoo.com",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
+      "snippet": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulationに関する最新動向です。 概要: Bitcoin (BTC-USD) opened at $64,681.22 on Wednesday, August 19, 2026, 0.3% higher than Tuesday"
+    },
+    {
+      "title": "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AI",
+      "source": "coinstats.app",
+      "link": "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+      "snippet": "Bitcoin (BTC) Daily Market Analysis 19 August 2026 | CoinStats AIに関する最新動向です。 概要: Get the latest Bitcoin (BTC) daily analysis for 22 August 2026. Price movements, market sentiment, t…"
+    },
+    {
+      "title": "How major US stock indexes fared Thursday 8/20/2026 | AP News",
+      "source": "apnews.com",
+      "link": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-b595de56eb56950bf87e77e1f812cfba",
+      "snippet": "How major US stock indexes fared Thursday 8/20/2026 | AP Newsに関する最新動向です。 概要: The relief that swept the bond market just a day earlier disappeared as oil prices, worries about hi…"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P Live Updates for August 20 - Bloomberg",
+      "source": "bloomberg.com",
+      "link": "https://bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+      "snippet": "Stock Market Today: Dow, S&P Live Updates for August 20 - Bloombergに関する最新動向です。 概要: A rally in bonds fizzled out and stocks fell on bets the Treasury’s plan to curb borrowing costs is…"
+    },
+    {
+      "title": "Stock market news for Aug. 21, 2026",
+      "source": "cnbc.com",
+      "link": "https://cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "snippet": "Stock market news for Aug. 21, 2026に関する最新動向です。 概要: Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by…"
+    },
+    {
+      "title": "Stocks Rise Early as Treasury Yields Stabilize | Charles Schwab",
+      "source": "schwab.com",
+      "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "snippet": "Stocks Rise Early as Treasury Yields Stabilize | Charles Schwabに関する最新動向です。 概要: Stocks rose in early trading as Treasury yields stabilized near long-term highs. But the major avera…"
+    },
+    {
+      "title": "12 Things in Travel You Need to Know Today - JohnnyJet.com",
+      "source": "johnnyjet.com",
+      "link": "https://www.johnnyjet.com/travel-news-today-everything-you-need-to-know/",
+      "snippet": "12 Things in Travel You Need to Know Today - JohnnyJet.comに関する最新動向です。 概要: A round-up of all the travel news you need to know today."
+    },
+    {
+      "title": "Top Airline News Stories for August 14, 2026 | World Airline News",
+      "source": "worldairlinenews.com",
+      "link": "https://worldairlinenews.com/2026/08/14/top-airline-news-stories-for-august-14-2026/",
+      "snippet": "Top Airline News Stories for August 14, 2026 | World Airline Newsに関する最新動向です。 概要: Airline News Daily Top airline news stories for August 14, 2026 (click the link for the full details…"
+    },
+    {
+      "title": "Travel Price Index (2026-08-12)| U.S. Travel Association",
+      "source": "ustravel.org",
+      "link": "https://www.ustravel.org/research/travel-price-index",
+      "snippet": "Travel Price Index (2026-08-12)| U.S. Travel Associationに関する最新動向です。 概要: Developed by the U.S. Travel Association, the Travel Price Index (TPI) measures the one-month change…"
+    },
+    {
+      "title": "August points and miles deals: Earn more with these offers - The Points Guy",
+      "source": "thepointsguy.com",
+      "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
+      "snippet": "August points and miles deals: Earn more with these offers - The Points Guyに関する最新動向です。 概要: Save, maximize and earn points and miles on various travel purchases this August"
+    }
+  ],
+  "meta": {
+    "sourceMode": "brave",
+    "categoryCount": 5,
+    "itemCount": 20
+  },
+  "generatedAt": "2026-08-22T15:36:34.632655+00:00"
+}
